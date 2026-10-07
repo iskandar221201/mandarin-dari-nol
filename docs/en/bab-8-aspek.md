@@ -33,7 +33,7 @@ Trap: 过 is for experiences *not* tied to a specific time. With a specific time
 <div class="contoh"><div class="hz">她笑着说。</div><div class="py">Tā xiào zhe shuō.</div><div class="id">She spoke smiling.</div></div>
 
 Contrast with 正在:
-- 正在 + V = action *in progress*: 他正在吃饭 (he is eating).
+- 正在 + V = action *in progress*: 他正在吃饭 (he is eating; 饭 = rice/meal, short for 米饭).
 - V + 着 = *state* that sticks: 门开着 (the door in open state).
 
 ## 8.3 正在 (zhèngzài) & 已经 (yǐjīng)
@@ -47,6 +47,8 @@ Contrast with 正在:
 
 <div class="contoh"><div class="hz">我已经准备好了。</div><div class="py">Wǒ yǐjīng zhǔnbèi hǎo le.</div><div class="id">I'm already ready.</div></div>
 
+> 💡 好 here doesn't mean "good" but is a result complement = "done/complete". 准备好 = preparations complete.
+
 ## 8.4 再 (zài), 就 (jiù), 一下 (yíxià)
 
 | Word | Meaning | Example |
@@ -55,7 +57,11 @@ Contrast with 正在:
 | 就 | then/right away | 他说明天就走。He said he'll leave tomorrow right away. |
 | 一下 | a bit | 等一下！Wait a moment! |
 
+> 💡 **Bonus word**: 先 (xiān) = first / go ahead. Its opposite is 后 (hòu) = after.
+
 <div class="contoh"><div class="hz">你先走，我就回家。</div><div class="py">Nǐ xiān zǒu, wǒ jiù huí jiā.</div><div class="id">You go first, I'll head home right away.</div></div>
+
+> 💡 **Bonus word**: 又 (yòu) = again (for things that already happened).
 
 Contrast 再 vs 又 (both "again"):
 - 再 = again for the *future*: 明天再来 (come again tomorrow).
@@ -101,7 +107,7 @@ Rule for 两 vs 二: count objects with 两 (两个人, 两本书), count pure n
 | 可以 | kěyǐ | may/can |
 | 可能 | kěnéng | maybe |
 
-<div class="contoh"><div class="hz">我觉得这个很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">I think this is delicious.</div></div>
+<div class="contoh"><div class="hz">我觉得这个菜很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">I think this is delicious.</div></div>
 
 <div class="contoh"><div class="hz">明天可能下雨。</div><div class="py">Míngtiān kěnéng xià yǔ.</div><div class="id">It might rain tomorrow.</div></div>
 
@@ -166,7 +172,7 @@ Rule for 两 vs 二: count objects with 两 (两个人, 两本书), count pure n
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="我觉得这个很好吃。 <span class='quiz-py'>(wǒ juéde zhège hěn hǎochī.)</span>">
+<div class="quiz-q" data-type="reveal" data-explain="我觉得这个菜很好吃。 <span class='quiz-py'>(wǒ juéde zhège hěn hǎochī.)</span>">
 <p class="quiz-t"><strong>7.</strong> Translate to Mandarin: "I think this is delicious."</p>
 <button type="button" class="quiz-show">Show answer</button>
 <p class="quiz-fb" hidden></p>

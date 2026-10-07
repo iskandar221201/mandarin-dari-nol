@@ -1,6 +1,6 @@
 # Bab 8: Tata Bahasa HSK 2
 
-HSK 1 memberimu fondasi kalimat (是, 有, 在, 把? belum). HSK 2 menambah **mesin waktu dan perbandingan** Mandarin: cara bicara tentang pengalaman lampau, kejadian yang sedang berlangsung, perbandingan, dan kalimat majemuk.
+HSK 1 memberimu fondasi kalimat (是, 有, 在). HSK 2 menambah **mesin waktu dan perbandingan** Mandarin: cara bicara tentang pengalaman lampau, kejadian yang sedang berlangsung, perbandingan, dan kalimat majemuk.
 
 Bab ini dibagi tiga halaman:
 

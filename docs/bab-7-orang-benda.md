@@ -17,11 +17,13 @@ Di HSK 1 kamu kenal 爸爸, 妈妈. HSK 2 melengkapi silsilahnya:
 | 女人 | nǚrén | wanita |
 | 姓 | xìng | nama keluarga; bermarga |
 
-<div class="contoh"><div class="hz">我有两个哥哥。</div><div class="py">Wǒ yǒu liǎng ge gēge.</div><div class="id">Saya punya dua kakak laki-laki.</div></div>
+<div class="contoh"><div class="hz">我有两个哥哥。</div><div class="py">Wǒ yǒu liǎng gè gēge.</div><div class="id">Saya punya dua kakak laki-laki.</div></div>
 
 <div class="contoh"><div class="hz">她是我的妻子。</div><div class="py">Tā shì wǒ de qīzi.</div><div class="id">Dia adalah istri saya.</div></div>
 
 <div class="contoh"><div class="hz">你贵姓？</div><div class="py">Nǐ guì xìng?</div><div class="id">Siapa nama keluarga Anda? (sopan)</div></div>
+
+> 💡 贵 (guì, "mahal/mulia") di sini bentuk sopan dari 姓. Detailnya dibahas di §7.7.
 
 <div class="bedah"><strong>姓</strong> (xìng, nama keluarga) = 女 (perempuan) + 生 (lahir). Jejak budaya: marga diwariskan lewat garis ibu di Tiongkok kuno.</div>
 
@@ -61,7 +63,7 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 
 <div class="contoh"><div class="hz">我的房间很大。</div><div class="py">Wǒ de fángjiān hěn dà.</div><div class="id">Kamarku besar.</div></div>
 
-<div class="contoh"><div class="hz">这部手机很贵。</div><div class="py">Zhè bù shǒujī hěn guì.</div><div class="id">Ponsel ini mahal.</div></div>
+<div class="contoh"><div class="hz">这个手机很贵。</div><div class="py">Zhè ge shǒujī hěn guì.</div><div class="id">Ponsel ini mahal.</div></div>
 
 <div class="bedah"><strong>手机</strong> (shǒujī, ponsel) = 手 (tangan) + 机 (mesin) → "mesin tangan". <strong>手表</strong> (shǒubiǎo) = 手 + 表 (tampilan) → "tampilan tangan" = jam tangan.</div>
 
@@ -84,6 +86,8 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 
 <div class="contoh"><div class="hz">机场在左边。</div><div class="py">Jīchǎng zài zuǒbian.</div><div class="id">Bandara di sebelah kiri.</div></div>
 
+> 💡 **Kata bonus** (di luar HSK 2, tapi wajib tahu di restoran): 买单 (mǎidān) = minta bon/bayar.
+
 <div class="contoh"><div class="hz">服务员，买单！</div><div class="py">Fúwùyuán, mǎidān!</div><div class="id">Pelayan, minta bon!</div></div>
 
 <div class="bedah"><strong>机场</strong> (jīchǎng, bandara) = 机 (mesin/pesawat) + 场 (lapangan) → "lapangan pesawat". <strong>火车站</strong> = 火车 (kereta api) + 站 (stasiun).</div>
@@ -97,7 +101,7 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 
 <div class="contoh"><div class="hz">我的眼睛很累。</div><div class="py">Wǒ de yǎnjing hěn lèi.</div><div class="id">Mataku lelah.</div></div>
 
-<div class="contoh"><div class="hz">身体健康很重要。</div><div class="py">Shēntǐ jiànkāng hěn zhòngyào.</div><div class="id">Kesehatan badan sangat penting.</div></div>
+<div class="contoh"><div class="hz">我的身体很好。</div><div class="py">Wǒ de shēntǐ hěn hǎo.</div><div class="id">Badanku sehat-sehat saja.</div></div>
 
 ## Latihan
 
@@ -119,7 +123,7 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 每天</button>
 <button type="button" data-opt="B">B. 大家</button>
-<button type="button" data-opt="C">C. 每人</button>
+<button type="button" data-opt="C">C. 每年</button>
 </div>
 <p class="quiz-fb" hidden></p>
 </div>
@@ -160,7 +164,7 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="我有两个哥哥。 <span class='quiz-py'>(wǒ yǒu liǎng ge gēge.)</span>">
+<div class="quiz-q" data-type="reveal" data-explain="我有两个哥哥。 <span class='quiz-py'>(wǒ yǒu liǎng gè gēge.)</span>">
 <p class="quiz-t"><strong>7.</strong> Terjemahkan ke Mandarin: "Saya punya dua kakak laki-laki."</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>

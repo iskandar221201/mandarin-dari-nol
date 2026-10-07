@@ -13,7 +13,7 @@
 
 <div class="contoh"><div class="hz">我每天六点起床。</div><div class="py">Wǒ měi tiān liù diǎn qǐchuáng.</div><div class="id">I get up at 6 every day.</div></div>
 
-<div class="contoh"><div class="hz">他生病了，今天不上班。</div><div class="py">Tā shēngbìng le, jīntiān bú shàngbān.</div><div class="id">He's sick; he's not going to work today.</div></div>
+<div class="contoh"><div class="hz">他生病了，今天不上班。</div><div class="py">Tā shēngbìng le, jīntiān bù shàngbān.</div><div class="id">He's sick; he's not going to work today.</div></div>
 
 <div class="bedah"><strong>起床</strong> (qǐchuáng) = 起 (to rise) + 床 (bed) → "rise from bed". <strong>上班</strong> (shàngbān) = 上 (to start) + 班 (work shift).</div>
 

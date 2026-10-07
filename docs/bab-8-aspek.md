@@ -33,10 +33,12 @@ Jebakan: 过 untuk pengalaman yang *tidak* terikat waktu spesifik. Kalau ada wak
 <div class="contoh"><div class="hz">她笑着说。</div><div class="py">Tā xiào zhe shuō.</div><div class="id">Dia berkata sambil tersenyum.</div></div>
 
 Bedakan dengan 正在:
-- 正在 + V = aksi *sedang dikerjakan* (progresif): 他正在吃饭 (dia sedang makan).
+- 正在 + V = aksi *sedang dikerjakan* (progresif): 他正在吃饭 (dia sedang makan; 饭 = nasi, bentuk pendek dari 米饭).
 - V + 着 = *keadaan* yang menempel: 门开着 (pintu dalam keadaan terbuka).
 
 ## 8.3 正在 (zhèngzài) & 已经 (yǐjīng)
+
+> 💡 **Kata bonus**: 开会 (kāihuì) = rapat. 会 sendiri = pertemuan/rapat.
 
 | Kata | Arti | Pola | Contoh |
 |---|---|---|---|
@@ -47,6 +49,8 @@ Bedakan dengan 正在:
 
 <div class="contoh"><div class="hz">我已经准备好了。</div><div class="py">Wǒ yǐjīng zhǔnbèi hǎo le.</div><div class="id">Saya sudah siap.</div></div>
 
+> 💡 好 di sini bukan "bagus", tapi komplemen hasil = "tuntas/selesai". 准备好 = persiapan yang tuntas.
+
 ## 8.4 再 (zài), 就 (jiù), 一下 (yíxià)
 
 | Kata | Arti | Contoh |
@@ -55,7 +59,11 @@ Bedakan dengan 正在:
 | 就 | langsung/lalu | 他说明天就走。Dia bilang besok langsung pergi. |
 | 一下 | sebentar | 等一下！Tunggu sebentar! |
 
+> 💡 **Kata bonus**: 先 (xiān) = dulu/pertama. Lawannya 后 (hòu) = kemudian.
+
 <div class="contoh"><div class="hz">你先走，我就回家。</div><div class="py">Nǐ xiān zǒu, wǒ jiù huí jiā.</div><div class="id">Kamu pergi dulu, saya langsung pulang.</div></div>
+
+> 💡 **Kata bonus**: 又 (yòu) = lagi (untuk hal yang sudah terjadi).
 
 Bedakan 再 vs 又 (keduanya "lagi"):
 - 再 = lagi untuk *masa depan*: 明天再来 (besok datang lagi).
@@ -101,7 +109,7 @@ Aturan 两 vs 二: hitung benda pakai 两 (两个人, 两本书), hitung angka m
 | 可以 | kěyǐ | boleh/bisa |
 | 可能 | kěnéng | mungkin |
 
-<div class="contoh"><div class="hz">我觉得这个很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">Menurutku ini enak.</div></div>
+<div class="contoh"><div class="hz">我觉得这个菜很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">Menurutku ini enak.</div></div>
 
 <div class="contoh"><div class="hz">明天可能下雨。</div><div class="py">Míngtiān kěnéng xià yǔ.</div><div class="id">Besok mungkin hujan.</div></div>
 
@@ -166,7 +174,7 @@ Aturan 两 vs 二: hitung benda pakai 两 (两个人, 两本书), hitung angka m
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="我觉得这个很好吃。 <span class='quiz-py'>(wǒ juéde zhège hěn hǎochī.)</span>">
+<div class="quiz-q" data-type="reveal" data-explain="我觉得这个菜很好吃。 <span class='quiz-py'>(wǒ juéde zhège hěn hǎochī.)</span>">
 <p class="quiz-t"><strong>7.</strong> Terjemahkan ke Mandarin: "Menurutku ini enak."</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>

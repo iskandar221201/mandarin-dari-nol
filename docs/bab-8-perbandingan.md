@@ -9,6 +9,8 @@
 | A 比 B + Adj | 他比我高。 | Dia lebih tinggi dariku. |
 | A 比 B + Adj + 得多 | 这个比那个贵得多。 | Ini jauh lebih mahal dari itu. |
 
+> 💡 **Nama kota bonus**: 上海 (Shànghǎi) = Shanghai. 北京 (Běijīng) = Beijing, sudah dikenal dari HSK 1.
+
 <div class="contoh"><div class="hz">北京比上海大。</div><div class="py">Běijīng bǐ Shànghǎi dà.</div><div class="id">Beijing lebih besar dari Shanghai.</div></div>
 
 <div class="contoh"><div class="hz">我比他忙得多。</div><div class="py">Wǒ bǐ tā máng de duō.</div><div class="id">Saya jauh lebih sibuk darinya.</div></div>
@@ -16,6 +18,8 @@
 Jebakan umum: jangan taruh 很 di kalimat 比. ✗ 他比我很高 (salah). 比 sudah mengandung makna "lebih", jadi sifatnya polos.
 
 Variasi: **A + 没有 + B + 这么/那么 + sifat** = A tidak se-[sifat] B.
+> 💡 **Kata bonus**: 那么 (nàme) = begitu (jauh), 这么 (zhème) = begini (dekat). Pasangan untuk perbandingan setara.
+
 <div class="contoh"><div class="hz">我没有他那么高。</div><div class="py">Wǒ méiyǒu tā nàme gāo.</div><div class="id">Saya tidak setinggi dia.</div></div>
 
 ## 8.6 最 (zuì), 非常 (fēicháng), 真 (zhēn)

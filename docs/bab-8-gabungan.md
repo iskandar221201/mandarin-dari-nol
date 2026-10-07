@@ -23,10 +23,10 @@ Kata tanya pasangannya: **为什么** (wèishénme, kenapa).
 | Kata | Arti | Pola | Contoh |
 |---|---|---|---|
 | 从 | dari | 从 A 到 B | 从家到公司很远。Dari rumah ke kantor jauh. |
-| 往 | ke arah | 往 + arah + V | 往左走。Jalan ke kiri. |
+| 往 | ke arah | 往 + arah + V | 往左走。Jalan ke kiri. (左 = kiri, bentuk pendek dari 左边) |
 | 离 | berjarak | A 离 B + jarak | 机场离这里很远。Bandara jauh dari sini. |
 
-<div class="contoh"><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yí ge xiǎoshí.</div><div class="id">Dari bandara ke hotel butuh satu jam.</div></div>
+<div class="contoh"><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yī gè xiǎoshí.</div><div class="id">Dari bandara ke hotel butuh satu jam.</div></div>
 
 <div class="contoh"><div class="hz">往前走，医院在右边。</div><div class="py">Wǎng qián zǒu, yīyuàn zài yòubian.</div><div class="id">Jalan lurus, rumah sakit di kanan.</div></div>
 
@@ -38,6 +38,8 @@ Kata tanya pasangannya: **为什么** (wèishénme, kenapa).
 | 别 | jangan (larangan) | 别说话！Jangan bicara! |
 
 <div class="contoh"><div class="hz">进来坐吧！</div><div class="py">Jìnlái zuò ba!</div><div class="id">Masuk dan duduklah!</div></div>
+
+> 💡 **Kata bonus**: 担心 (dānxīn) = khawatir, 没事 (méi shì) = tidak apa-apa/baik-baik saja.
 
 <div class="contoh"><div class="hz">别担心，我没事。</div><div class="py">Bié dānxīn, wǒ méi shì.</div><div class="id">Jangan khawatir, aku baik-baik saja.</div></div>
 
@@ -52,7 +54,11 @@ Pola paling khas Mandarin. HSK 2 cukup kenal idenya; versi penuh di HSK 3.
 
 **把 + objek + verb + komplemen** = "ambil objek, lalu lakukan sesuatu padanya" (fokus ke hasil).
 
+> 💡 **Kata bonus**: 关 (guān) = tutup (lawan kata 开 = buka). 上 di sini komplemen arah = "tertutup rapat".
+
 <div class="contoh"><div class="hz">把门关上。</div><div class="py">Bǎ mén guān shang.</div><div class="id">Tutup pintunya.</div></div>
+
+> 💡 **Kata bonus**: 作业 (zuòyè) = PR/tugas sekolah.
 
 <div class="contoh"><div class="hz">把作业写完。</div><div class="py">Bǎ zuòyè xiě wán.</div><div class="id">Selesaikan PR-nya.</div></div>
 

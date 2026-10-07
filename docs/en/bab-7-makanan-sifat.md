@@ -15,11 +15,11 @@
 
 <div class="contoh"><div class="hz">我喜欢吃面条。</div><div class="py">Wǒ xǐhuan chī miàntiáo.</div><div class="id">I like eating noodles.</div></div>
 
-<div class="contoh"><div class="hz">这家咖啡很好吃。</div><div class="py">Zhè jiā kāfēi hěn hǎochī.</div><div class="id">This place's coffee is delicious.</div></div>
+<div class="contoh"><div class="hz">这个咖啡很好喝。</div><div class="py">Zhè ge kāfēi hěn hǎohē.</div><div class="id">This coffee tastes good (to drink).</div></div>
 
 <div class="bedah"><strong>鸡蛋</strong> (jīdàn, egg) = 鸡 (chicken) + 蛋 (egg) → "chicken egg". <strong>牛奶</strong> (niúnǎi) = 牛 (cow) + 奶 (milk) → "cow milk". Pattern: animal + its product.</div>
 
-Note: 好吃 (hǎochī) is specifically for delicious food. For non-food "good", just use 好.
+Note: 好吃 (hǎochī) is for food that tastes good *to eat*, 好喝 (hǎohē) for drinks that taste good *to drink*. Don't mix them up: coffee is drunk, so use 好喝.
 
 ## 7.7 HSK 2 adjectives
 
@@ -80,7 +80,7 @@ A dozen new adjectives. Group them for easy memorizing:
 
 <div class="contoh"><div class="hz">这件衣服很便宜。</div><div class="py">Zhè jiàn yīfu hěn piányi.</div><div class="id">This shirt is cheap.</div></div>
 
-<div class="contoh"><div class="hz">你对了！</div><div class="py">Nǐ duì le!</div><div class="id">You're right!</div></div>
+<div class="contoh"><div class="hz">你答对了！</div><div class="py">Nǐ dá duì le!</div><div class="id">You're right!</div></div>
 
 <div class="bedah"><strong>晴</strong> (qíng, clear) = 日 (sun) + 青 (qīng, sound hint). The 青 sound family again: 请/清/情/晴, all "qing".</div>
 
