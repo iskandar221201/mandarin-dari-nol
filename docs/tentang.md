@@ -20,7 +20,7 @@ Tidak perlu bisa baca huruf Mandarin dulu. Bab 0 mengajarimu pinyin dan nada dar
 
 ## Tentang penulis
 
-Ditulis oleh **Aska** (25, Indonesia) — yang **mulai belajar Mandarin dari nol pada Oktober 2026 dan menulis buku ini sambil belajar**.
+Ditulis oleh **Asep Iskandar** — yang **mulai belajar Mandarin dari nol pada Oktober 2026 dan menulis buku ini sambil belajar**.
 
 Itu bukan *disclaimer* basa-basi: artinya penjelasan di buku ini ditulis dari sudut pandang orang yang baru saja melewati kebingungan yang sama denganmu. Kalau ada penjelasan yang salah atau membingungkan, kemungkinan besar itu bagian yang penulisnya sendiri juga masih meraba-raba — dan justru karena itu tiap halaman punya tombol koreksi.
 

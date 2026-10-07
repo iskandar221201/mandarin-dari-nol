@@ -83,7 +83,7 @@ export default defineConfig({
 
     footer: {
       message: 'Ditulis sambil belajar — dari nol, untuk yang mulai dari nol.',
-      copyright: '© 2026 Aska · Lisensi CC BY-SA 4.0',
+      copyright: '© 2026 Asep Iskandar · Lisensi CC BY-SA 4.0',
     },
   },
 })
