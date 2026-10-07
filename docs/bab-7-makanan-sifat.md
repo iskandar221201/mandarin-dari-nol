@@ -15,11 +15,11 @@
 
 <div class="contoh"><div class="hz">我喜欢吃面条。</div><div class="py">Wǒ xǐhuan chī miàntiáo.</div><div class="id">Saya suka makan mi.</div></div>
 
-<div class="contoh"><div class="hz">这家咖啡很好吃。</div><div class="py">Zhè jiā kāfēi hěn hǎochī.</div><div class="id">Kopi tempat ini enak.</div></div>
+<div class="contoh"><div class="hz">这个咖啡很好喝。</div><div class="py">Zhè ge kāfēi hěn hǎohē.</div><div class="id">Kopi ini enak (diminum).</div></div>
 
 <div class="bedah"><strong>鸡蛋</strong> (jīdàn, telur) = 鸡 (ayam) + 蛋 (telur) → "telur ayam". <strong>牛奶</strong> (niúnǎi) = 牛 (sapi) + 奶 (susu) → "susu sapi". Pola: hewan + produknya.</div>
 
-Catatan: 好吃 (hǎochī) khusus untuk makanan enak. Untuk "kabar baik" atau hal enak non-makanan, pakai 好 saja.
+Catatan: 好吃 (hǎochī) untuk makanan yang enak *dimakan*, 好喝 (hǎohē) untuk minuman yang enak *diminum*. Jangan tertukar: kopi itu diminum, jadi pakai 好喝.
 
 ## 7.7 Kata sifat HSK 2
 
@@ -80,7 +80,7 @@ Belasan kata sifat baru. Kelompokkan biar gampang ingat:
 
 <div class="contoh"><div class="hz">这件衣服很便宜。</div><div class="py">Zhè jiàn yīfu hěn piányi.</div><div class="id">Baju ini murah.</div></div>
 
-<div class="contoh"><div class="hz">你对了！</div><div class="py">Nǐ duì le!</div><div class="id">Kamu benar!</div></div>
+<div class="contoh"><div class="hz">你答对了！</div><div class="py">Nǐ dá duì le!</div><div class="id">Kamu benar!</div></div>
 
 <div class="bedah"><strong>晴</strong> (qíng, cerah) = 日 (matahari) + 青 (qīng, petunjuk bunyi). Keluarga bunyi 青 lagi: 请/清/情/晴, semuanya "qing".</div>
 
