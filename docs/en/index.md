@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Mandarin from Zero"
-  text: "An HSK 1 curriculum for English speakers"
-  tagline: Learning notes for Mandarin Chinese from zero — hanzi, pinyin, meanings, example sentences, and exercises in every chapter. Written while learning, for those starting from zero too.
+  text: "An HSK 1–2 curriculum for English speakers"
+  tagline: Learning notes for Mandarin Chinese from zero, hanzi, pinyin, meanings, example sentences, and exercises in every chapter. Written while learning, for those starting from zero too.
   actions:
     - theme: brand
       text: Start from Chapter 0
@@ -14,20 +14,20 @@ hero:
       link: /en/roadmap
 
 features:
-  - title: 📖 Hanzi + Pinyin + Meaning
-    details: Every vocabulary item and example sentence is always presented complete — nothing half-baked.
-  - title: 🔍 Component Breakdown
+  - title: Hanzi + Pinyin + Meaning
+    details: Every vocabulary item and example sentence is always presented complete, nothing half-baked.
+  - title: Component Breakdown
     details: Each hanzi is broken down by component/radical, so meanings can be guessed, not blindly memorized.
-  - title: ✏️ Exercises Every Chapter
+  - title: Exercises Every Chapter
     details: Each chapter ends with exercises and an answer key, plus a separate question bank.
-  - title: 🗺️ Structured by Chapter
-    details: Material is sequenced step by step — from preparation, greetings, numbers, radicals, to dialogues.
+  - title: Structured by Chapter
+    details: Material is sequenced step by step, from preparation, greetings, numbers, radicals, to dialogues.
 ---
 
 ## How to use this book
 
-This book is structured like a curriculum: read in order starting from **Chapter 0**, do the exercises, and don't skip ahead before the previous chapter is done. The end goal: **pass HSK 1** — 150 core vocabulary words and basic grammar for simple everyday conversation.
+This book is structured like a curriculum: read in order starting from **Chapter 0**, do the exercises, and don't skip ahead before the previous chapter is done. The end goal: **pass HSK 2**, 300 core vocabulary words and grammar for richer everyday conversation.
 
 ::: info
-This book is alive and keeps growing. Current scope: **zero → HSK 1**. **HSK 2 and beyond** are coming — see the [Roadmap](/en/roadmap).
+This book is alive and keeps growing. Current scope: **zero → HSK 2**. **HSK 3 and beyond** are coming, see the [Roadmap](/en/roadmap).
 :::

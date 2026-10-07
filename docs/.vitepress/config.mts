@@ -69,7 +69,43 @@ const idSidebar = [
   },
   { text: 'Bank Latihan', link: '/latihan' },
   { text: 'Daftar Kosakata HSK 1', link: '/kosakata-hsk1' },
-  { text: 'Roadmap: Setelah HSK 1', link: '/roadmap' },
+  {
+    text: 'HSK 2: Naik Level',
+    collapsed: true,
+    items: [
+      {
+        text: 'Bab 7: Kosakata HSK 2',
+        collapsed: true,
+        items: [
+          { text: 'Ikhtisar', link: '/bab-7-kosakata-hsk2' },
+          { text: 'Orang & Benda', link: '/bab-7-orang-benda' },
+          { text: 'Makanan & Sifat', link: '/bab-7-makanan-sifat' },
+          { text: 'Kegiatan', link: '/bab-7-kegiatan' },
+        ],
+      },
+      {
+        text: 'Bab 8: Tata Bahasa HSK 2',
+        collapsed: true,
+        items: [
+          { text: 'Ikhtisar', link: '/bab-8-tata-bahasa-hsk2' },
+          { text: 'Aspek & Waktu', link: '/bab-8-aspek' },
+          { text: 'Perbandingan & Derajat', link: '/bab-8-perbandingan' },
+          { text: 'Kalimat Gabungan', link: '/bab-8-gabungan' },
+        ],
+      },
+      {
+        text: 'Bab 9: Dialog HSK 2',
+        collapsed: true,
+        items: [
+          { text: 'Ikhtisar', link: '/bab-9-dialog-hsk2' },
+          { text: 'Dialog 1–3', link: '/bab-9-dialog-1-3' },
+          { text: 'Dialog 4–6', link: '/bab-9-dialog-4-6' },
+        ],
+      },
+    ],
+  },
+  { text: 'Daftar Kosakata HSK 2', link: '/kosakata-hsk2' },
+  { text: 'Roadmap: Setelah HSK 2', link: '/roadmap' },
 ]
 
 const enNav = [
@@ -141,7 +177,43 @@ const enSidebar = [
   },
   { text: 'Exercise Bank', link: '/en/latihan' },
   { text: 'HSK 1 Vocabulary List', link: '/en/kosakata-hsk1' },
-  { text: 'Roadmap: After HSK 1', link: '/en/roadmap' },
+  {
+    text: 'HSK 2: Level Up',
+    collapsed: true,
+    items: [
+      {
+        text: 'Chapter 7: HSK 2 Vocabulary',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/en/bab-7-kosakata-hsk2' },
+          { text: 'People & Things', link: '/en/bab-7-orang-benda' },
+          { text: 'Food & Adjectives', link: '/en/bab-7-makanan-sifat' },
+          { text: 'Activities', link: '/en/bab-7-kegiatan' },
+        ],
+      },
+      {
+        text: 'Chapter 8: HSK 2 Grammar',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/en/bab-8-tata-bahasa-hsk2' },
+          { text: 'Aspect & Time', link: '/en/bab-8-aspek' },
+          { text: 'Comparison & Degree', link: '/en/bab-8-perbandingan' },
+          { text: 'Combined Sentences', link: '/en/bab-8-gabungan' },
+        ],
+      },
+      {
+        text: 'Chapter 9: HSK 2 Dialogues',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/en/bab-9-dialog-hsk2' },
+          { text: 'Dialogues 1–3', link: '/en/bab-9-dialog-1-3' },
+          { text: 'Dialogues 4–6', link: '/en/bab-9-dialog-4-6' },
+        ],
+      },
+    ],
+  },
+  { text: 'HSK 2 Vocabulary List', link: '/en/kosakata-hsk2' },
+  { text: 'Roadmap: After HSK 2', link: '/en/roadmap' },
 ]
 
 export default defineConfig({

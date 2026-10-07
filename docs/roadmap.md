@@ -2,23 +2,14 @@
 
 Buku ini tidak berhenti di HSK 1. Halaman ini peta jalan resminya, apa yang sudah selesai, apa yang sedang dikerjakan, dan fitur apa yang direncanakan untuk situs ini.
 
-## Status saat ini: nol → HSK 1 ✅
+## Status saat ini: nol → HSK 2 ✅
 
-Cakupan HSK 1 selesai dan bisa dipakai belajar sekarang:
+Cakupan HSK 1 dan HSK 2 selesai dan bisa dipakai belajar sekarang:
 
-- **7 bab**: Bab 0 Persiapan (pinyin & nada) · Bab 1 Salam & Perkenalan · Bab 2 Angka & Waktu · Bab 3 Radikal & Bedah Hanzi · Bab 4 Kosakata Sehari-hari · Bab 5 Tata Bahasa Dasar · Bab 6 Dialog & Percakapan
-- **±150 kosakata** inti + **18 pola tata bahasa** + bank latihan 60 soal
-- Semua contoh memakai kosakata dari daftar HSK 1, tidak ada kata "siluman" yang belum dikenalkan
-
-## Rencana HSK 2 🚧
-
-Target cakupan berikutnya:
-
-- **±150 kata tambahan** (total ±300 kosakata)
-- **Pola kalimat lampau & masa depan**: 了 untuk kejadian selesai, 过 untuk pengalaman ("pernah"), 会 untuk "akan"
-- **Pengenalan 把 & 被**: dua pola kalimat paling khas Mandarin
-- Kata sambung dan kata keterangan yang lebih kaya (karena, jadi, kalau, sudah/belum)
-- Dialog situasi baru: di kantor, perjalanan, telepon yang lebih formal
+- **HSK 1 (7 bab)**: Bab 0 Persiapan (pinyin & nada) · Bab 1 Salam & Perkenalan · Bab 2 Angka & Waktu · Bab 3 Radikal & Bedah Hanzi · Bab 4 Kosakata Sehari-hari · Bab 5 Tata Bahasa Dasar · Bab 6 Dialog & Percakapan
+- **HSK 2 (3 bab)**: Bab 7 Kosakata HSK 2 (orang, benda, makanan, sifat, kegiatan) · Bab 8 Tata Bahasa HSK 2 (aspek, perbandingan, kalimat gabungan) · Bab 9 Dialog HSK 2 (telepon, kantor, restoran, perjalanan, belanja, dokter)
+- **±300 kosakata** inti + **±30 pola tata bahasa** + kuis interaktif di setiap bab
+- Semua contoh memakai kosakata dari daftar HSK 1–2, tidak ada kata "siluman" yang belum dikenalkan
 
 ## Rencana HSK 3 📋
 

@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Mandarin dari Nol"
-  text: "Kurikulum HSK 1 untuk orang Indonesia"
+  text: "Kurikulum HSK 1–2 untuk orang Indonesia"
   tagline: Dokumentasi belajar Bahasa Mandarin dari nol, hanzi, pinyin, arti, contoh kalimat, dan latihan di tiap bab. Ditulis sambil belajar, untuk yang mulai dari nol juga.
   actions:
     - theme: brand
@@ -26,8 +26,8 @@ features:
 
 ## Cara memakai buku ini
 
-Buku ini disusun seperti kurikulum: baca berurutan dari **Bab 0**, kerjakan latihannya, dan jangan melompat bab sebelum bab sebelumnya beres. Target akhirnya: **lulus HSK 1**, 150 kosakata inti dan tata bahasa dasar untuk percakapan sehari-hari sederhana.
+Buku ini disusun seperti kurikulum: baca berurutan dari **Bab 0**, kerjakan latihannya, dan jangan melompat bab sebelum bab sebelumnya beres. Target akhirnya: **lulus HSK 2**, 300 kosakata inti dan tata bahasa untuk percakapan sehari-hari yang lebih kaya.
 
 ::: info
-Buku ini hidup dan terus dikembangkan. Cakupan saat ini: **nol → HSK 1**. Persiapan **HSK 2 dan seterusnya** menyusul, lihat [Roadmap](/roadmap).
+Buku ini hidup dan terus dikembangkan. Cakupan saat ini: **nol → HSK 2**. **HSK 3 dan seterusnya** menyusul, lihat [Roadmap](/roadmap).
 :::
