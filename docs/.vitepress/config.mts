@@ -10,6 +10,15 @@ const idNav = [
 const idSidebar = [
   { text: 'Tentang Buku Ini', link: '/tentang' },
   {
+    text: 'Metode Bedah Hanzi',
+    collapsed: false,
+    items: [
+      { text: 'Teknik Bedah', link: '/metode-bedah-hanzi' },
+      { text: 'Galeri Pola', link: '/galeri-pola-hanzi' },
+      { text: 'Jebakan & Batasan', link: '/jebakan-bedah-hanzi' },
+    ],
+  },
+  {
     text: 'Bab 0: Persiapan',
     collapsed: true,
     items: [
@@ -72,6 +81,15 @@ const enNav = [
 
 const enSidebar = [
   { text: 'About This Book', link: '/en/tentang' },
+  {
+    text: 'Hanzi Dissection Method',
+    collapsed: false,
+    items: [
+      { text: 'Dissection Technique', link: '/en/metode-bedah-hanzi' },
+      { text: 'Pattern Gallery', link: '/en/galeri-pola-hanzi' },
+      { text: 'Traps & Limits', link: '/en/jebakan-bedah-hanzi' },
+    ],
+  },
   {
     text: 'Chapter 0: Preparation',
     collapsed: true,
