@@ -188,40 +188,120 @@ How to use position words in sentences is covered in depth in [Chapter 5, point 
 
 ## Exercises
 
-1. Translate into Mandarin: "I like drinking tea."
-2. Translate into Mandarin: "My father is a doctor."
-3. Arrange these words into a correct sentence: 在 / 我 / 学校 / 学习 / 汉语
-4. Translate into Mandarin: "The cat is under the table."
-5. What does this sentence mean: 杯子里有水。
-6. Pick the right adjective: 今天很___。(冷 / 吃)
-7. Translate into Mandarin: "That young lady is very pretty."
-8. Make your own sentence using one verb and one place name from this chapter's list.
-9. Translate into Mandarin: "I'm going to Beijing tomorrow."
-10. Translate into Mandarin: "There are many things inside the store."
-11. What does this sentence mean: 今天天气很好。
-12. Make one sentence using the word 天气 and an adjective from this chapter.
-13. Translate into Mandarin: "I like the color blue."
-14. What does 东北 mean?
-15. Translate into Mandarin: "There's a store next to the school."
-16. Pick the right one for "the inside": A. 外面 B. 里面
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/4</span></div>
 
-<details><summary>Answer key</summary>
+<div class="quiz-q" data-type="reveal" data-explain="我喜欢喝茶。 <span class='quiz-py'>(wǒ xǐhuan hē chá.)</span>">
+<p class="quiz-t"><strong>1.</strong> Translate into Mandarin: "I like drinking tea."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 我喜欢喝茶。(wǒ xǐhuan hē chá.)
-2. 我爸爸是医生。(wǒ bàba shì yīshēng.)
-3. 我在学校学习汉语。(wǒ zài xuéxiào xuéxí Hànyǔ.) — "I study Mandarin at school."
-4. 猫在桌子下。(māo zài zhuōzi xià.)
-5. "There's water in the glass."
-6. 冷 — 今天很冷。(jīntiān hěn lěng.) "It's very cold today." (吃 is a verb, doesn't fit.)
-7. 那个小姐很漂亮。(nà ge xiǎojiě hěn piàoliang.)
-8. Free choice, as long as you use words from the list. Example: 我去商店买东西。(wǒ qù shāngdiàn mǎi dōngxi.) — "I go to the store to buy things."
-9. 我明天去北京。(wǒ míngtiān qù Běijīng.)
-10. 商店里有很多东西。(shāngdiàn lǐ yǒu hěn duō dōngxi.) — "There are many things inside the store."
-11. "The weather is nice today."
-12. Free choice, as long as you use 天气 + an adjective. Example: 今天天气很热。(jīntiān tiānqì hěn rè.) — "It's hot today."
-13. 我喜欢蓝色。(wǒ xǐhuān lánsè.)
-14. "Northeast" (dōngběi).
-15. 学校旁边有商店。(xuéxiào pángbiān yǒu shāngdiàn.) — "There's a store next to the school."
-16. **B.** 里面 (lǐmiàn) = the inside; 外面 (wàimiàn) = the outside.
+<div class="quiz-q" data-type="reveal" data-explain="我爸爸是医生。 <span class='quiz-py'>(wǒ bàba shì yīshēng.)</span>">
+<p class="quiz-t"><strong>2.</strong> Translate into Mandarin: "My father is a doctor."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我在学校学习汉语" data-explain="我在学校学习汉语。 <span class='quiz-py'>(wǒ zài xuéxiào xuéxí Hànyǔ.)</span> — I study Mandarin at school.">
+<p class="quiz-t"><strong>3.</strong> Arrange these words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="学校">学校</button>
+<button type="button" draggable="true" data-w="在">在</button>
+<button type="button" draggable="true" data-w="汉语">汉语</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="学习">学习</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="猫在桌子下。 <span class='quiz-py'>(māo zài zhuōzi xià.)</span>">
+<p class="quiz-t"><strong>4.</strong> Translate into Mandarin: "The cat is under the table."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="There's water in the glass. <span class='quiz-py'>(bēizi lǐ yǒu shuǐ.)</span>">
+<p class="quiz-t"><strong>5.</strong> What does this sentence mean: 杯子里有水。</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span> — means cold. 吃 (chī, to eat) is a verb, doesn't fit.">
+<p class="quiz-t"><strong>6.</strong> Fill in the blank with the right adjective: 今天很___.</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="吃">吃</button><button type="button" data-chip="冷">冷</button><button type="button" data-chip="热">热</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="那个小姐很漂亮。 <span class='quiz-py'>(nà ge xiǎojiě hěn piàoliang.)</span>">
+<p class="quiz-t"><strong>7.</strong> Translate into Mandarin: "That young lady is very pretty."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Free choice, as long as you use words from the list. Example: 我去商店买东西。 <span class='quiz-py'>(wǒ qù shāngdiàn mǎi dōngxi.)</span> — I go to the store to buy things.">
+<p class="quiz-t"><strong>8.</strong> Make your own sentence using one verb and one place name from this chapter's list.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我明天去北京。 <span class='quiz-py'>(wǒ míngtiān qù Běijīng.)</span>">
+<p class="quiz-t"><strong>9.</strong> Translate into Mandarin: "I'm going to Beijing tomorrow."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="商店里有很多东西。 <span class='quiz-py'>(shāngdiàn lǐ yǒu hěn duō dōngxi.)</span>">
+<p class="quiz-t"><strong>10.</strong> Translate into Mandarin: "There are many things inside the store."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="The weather is nice today. <span class='quiz-py'>(jīntiān tiānqì hěn hǎo.)</span>">
+<p class="quiz-t"><strong>11.</strong> What does this sentence mean: 今天天气很好。</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Free choice, as long as you use 天气 + an adjective. Example: 今天天气很热。 <span class='quiz-py'>(jīntiān tiānqì hěn rè.)</span> — It's hot today.">
+<p class="quiz-t"><strong>12.</strong> Make one sentence using the word 天气 and an adjective from this chapter.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我喜欢蓝色。 <span class='quiz-py'>(wǒ xǐhuān lánsè.)</span>">
+<p class="quiz-t"><strong>13.</strong> Translate into Mandarin: "I like the color blue."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Northeast <span class='quiz-py'>(dōngběi)</span> — 东 (east) + 北 (north).">
+<p class="quiz-t"><strong>14.</strong> What does 东北 mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Southeast</button>
+<button type="button" data-opt="B">B. Northeast</button>
+<button type="button" data-opt="C">C. Southwest</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="学校旁边有商店。 <span class='quiz-py'>(xuéxiào pángbiān yǒu shāngdiàn.)</span>">
+<p class="quiz-t"><strong>15.</strong> Translate into Mandarin: "There's a store next to the school."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="里面 <span class='quiz-py'>(lǐmiàn)</span> = the inside; 外面 (wàimiàn) = the outside.">
+<p class="quiz-t"><strong>16.</strong> Pick the right one for "the inside":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 外面</button>
+<button type="button" data-opt="B">B. 里面</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

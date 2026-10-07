@@ -183,32 +183,90 @@ Memorization technique: every time you meet a new word, ask "which family does i
 
 ## Exercises
 
-1. What does the radical 氵 mean? Name two HSK 1 words that use it.
-2. Break down the character 明: what are its components, what does it mean, and which word uses it?
-3. In 妈妈, which component gives the meaning hint and which gives the sound hint?
-4. Writing 你: is the left component (亻) or the right component (尔) written first? Which rule number?
-5. Explain why the meaning of 东西 ("thing") can't be guessed from its components.
-6. In 桌子, what is the function of 子?
-7. Break down 好, then explain why it's an example of the guessing technique's limits.
-8. In 打电话, what hint does the radical 扌 give? What is the literal meaning of 打电话?
-9. Break down 饭 (fàn): name its radical, its partner component, and three HSK 1 words that use it.
-10. Break down 读 (dú): what are its components? What hint does its radical give?
-11. In 电话, which component hints that this is "something spoken"? Explain the literal meaning of 电话.
-12. Break down 期 (qī, in 星期): name its components, then explain why 星期 means "week".
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/3</span></div>
 
-<details><summary>Answer key</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 氵 = water. HSK 1 examples: 水 <span class='quiz-py'>(shuǐ, water)</span>, 汉语 <span class='quiz-py'>(Hànyǔ, Mandarin — via 汉)</span>.">
+<p class="quiz-t"><strong>1.</strong> What does the radical 氵 mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Fire</button>
+<button type="button" data-opt="B">B. Water</button>
+<button type="button" data-opt="C">C. Earth</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 氵 = water. Examples: 水 (shuǐ, water), 汉语 (Hànyǔ, Mandarin — via 汉).
-2. 明 = 日 (sun) + 月 (moon) → "bright". Used in 明天 (míngtiān, tomorrow).
-3. Meaning hint: 女 (woman). Sound hint: 马 (mǎ, sounds like mā).
-4. Left component (亻) first — left → right rule, rule number 2.
-5. 东 = east, 西 = west; "east + west = thing" can't be derived logically — the meaning drifted into the idiomatic.
-6. 子 is a suffix marking small/concrete things (productive pattern: 桌子, 椅子, 杯子).
-7. 好 = 女 (woman) + 子 (child) → "good". The limit: its logic is ancient Chinese cultural logic, not universal logic — it can't be guessed purely by reasoning.
-8. 扌 = hand → hand-based activity. Literal meaning of 打电话 = "to hit the telephone" (a leftover from rotary-phone days) → to make a phone call.
-9. 饭 = 饣 (food) + 反 → rice/staple food. Three HSK 1 words: 米饭 (mǐfàn, rice), 饭店 (fàndiàn, restaurant), 饭馆 (fànguǎn, eatery).
-10. 读 = 讠 (speech) + 卖. The 讠 radical hints "related to speech/language" — in olden days reading meant reading aloud.
-11. The 讠 (speech) component in 话. Literal meaning of 电话 = 电 (electricity) + 话 (speech) → "speech via electricity" = telephone.
-12. 期 = 其 + 月 → "period of time". 星期 = "period of (counting) stars" = week — a seven-day system counted per cycle.
+<div class="quiz-q" data-type="reveal" data-explain="明 = 日 (sun) + 月 (moon) → 'bright'. Used in 明天 <span class='quiz-py'>(míngtiān, tomorrow)</span>.">
+<p class="quiz-t"><strong>2.</strong> Break down the character 明: what are its components, what does it mean, and which word uses it?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="reveal" data-explain="Meaning hint: 女 (woman). Sound hint: 马 <span class='quiz-py'>(mǎ, sounds like mā)</span>.">
+<p class="quiz-t"><strong>3.</strong> In 妈妈, which component gives the meaning hint and which gives the sound hint?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B — left component (亻) first, left → right rule, rule number 2.">
+<p class="quiz-t"><strong>4.</strong> Writing 你: which component is written first?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Right (尔)</button>
+<button type="button" data-opt="B">B. Left (亻)</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="东 = east, 西 = west; 'east + west = thing' can't be derived logically — the meaning drifted into the idiomatic.">
+<p class="quiz-t"><strong>5.</strong> Explain why the meaning of 东西 ("thing") can't be guessed from its components.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B — 子 is a suffix marking small/concrete things (productive pattern: 桌子, 椅子, 杯子).">
+<p class="quiz-t"><strong>6.</strong> In 桌子, what is the function of 子?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Plural marker</button>
+<button type="button" data-opt="B">B. Suffix marking small/concrete things</button>
+<button type="button" data-opt="C">C. Measure word</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="好 = 女 (woman) + 子 (child) → 'good'. The limit: its logic is ancient Chinese cultural logic, not universal logic — it can't be guessed purely by reasoning.">
+<p class="quiz-t"><strong>7.</strong> Break down 好, then explain why it's an example of the guessing technique's limits.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="扌 = hand → hand-based activity. Literal meaning of 打电话 = 'to hit the telephone' (a leftover from rotary-phone days) → to make a phone call.">
+<p class="quiz-t"><strong>8.</strong> In 打电话, what hint does the radical 扌 give? What is the literal meaning of 打电话?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="饭 = 饣 (food) + 反 → rice/staple food. Three HSK 1 words: 米饭 <span class='quiz-py'>(mǐfàn, rice)</span>, 饭店 <span class='quiz-py'>(fàndiàn, restaurant)</span>, 饭馆 <span class='quiz-py'>(fànguǎn, eatery)</span>.">
+<p class="quiz-t"><strong>9.</strong> Break down 饭 (fàn): name its radical, its partner component, and three HSK 1 words that use it.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="读 = 讠 (speech) + 卖. The 讠 radical hints 'related to speech/language' — in olden days reading meant reading aloud.">
+<p class="quiz-t"><strong>10.</strong> Break down 读 (dú): what are its components? What hint does its radical give?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="The 讠 (speech) component in 话. Literal meaning of 电话 = 电 (electricity) + 话 (speech) → 'speech via electricity' = telephone.">
+<p class="quiz-t"><strong>11.</strong> In 电话, which component hints that this is "something spoken"? Explain the literal meaning of 电话.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="期 = 其 + 月 → 'period of time'. 星期 = 'period of (counting) stars' = week — a seven-day system counted per cycle.">
+<p class="quiz-t"><strong>12.</strong> Break down 期 (qī, in 星期): name its components, then explain why 星期 means "week".</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

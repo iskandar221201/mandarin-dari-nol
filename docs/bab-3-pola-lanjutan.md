@@ -183,32 +183,90 @@ Teknik menghafal: setiap ketemu kata baru, tanyakan "ia anggota keluarga apa?" �
 
 ## Latihan
 
-1. Radikal 氵 artinya apa? Sebutkan dua kata HSK 1 yang memakainya.
-2. Bedah hanzi 明: apa komponennya, apa artinya, dan di kata apa ia dipakai?
-3. Di 妈妈, komponen mana yang memberi petunjuk makna dan mana yang memberi petunjuk bunyi?
-4. Menulis 你: komponen kiri (亻) ditulis dulu atau komponen kanan (尔) dulu? Aturan nomor berapa?
-5. Jelaskan kenapa arti 东西 ("barang") tidak bisa ditebak dari komponennya.
-6. Di 桌子, 子 berfungsi sebagai apa?
-7. Bedah 好, lalu jelaskan kenapa ia contoh batasan teknik tebak arti.
-8. Di 打电话, petunjuk apa yang diberikan radikal 扌? Apa arti harfiah 打电话?
-9. Bedah 饭 (fàn): sebutkan radikalnya, komponen pasangannya, dan tiga kata HSK 1 yang memakainya.
-10. Bedah 读 (dú): komponen apa saja penyusunnya? Petunjuk apa yang diberikan radikalnya?
-11. Di 电话, komponen mana yang memberi petunjuk bahwa ini "sesuatu yang diucapkan"? Jelaskan arti harfiah 电话.
-12. Bedah 期 (qī, di 星期): sebutkan komponennya, lalu jelaskan kenapa 星期 artinya "minggu".
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/3</span></div>
 
-<details><summary>Kunci jawaban</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 氵 = air. Contoh kata HSK 1: 水 <span class='quiz-py'>(shuǐ, air)</span>, 汉语 <span class='quiz-py'>(Hànyǔ, bahasa Mandarin — lewat 汉)</span>.">
+<p class="quiz-t"><strong>1.</strong> Radikal 氵 artinya apa?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Api</button>
+<button type="button" data-opt="B">B. Air</button>
+<button type="button" data-opt="C">C. Tanah</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 氵 = air. Contoh: 水 (shuǐ, air), 汉语 (Hànyǔ, bahasa Mandarin — lewat 汉).
-2. 明 = 日 (matahari) + 月 (bulan) → "terang". Dipakai di 明天 (míngtiān, besok).
-3. Petunjuk makna: 女 (perempuan). Petunjuk bunyi: 马 (mǎ, bunyinya mirip mā).
-4. Komponen kiri (亻) dulu — aturan kiri → kanan, aturan nomor 2.
-5. 东 = timur, 西 = barat; "timur + barat = barang" tidak bisa diturunkan secara logis — maknanya meluas menjadi idiomatis.
-6. 子 adalah akhiran penanda benda kecil/konkret (pola produktif: 桌子, 椅子, 杯子).
-7. 好 = 女 (perempuan) + 子 (anak) → "baik". Batasannya: logikanya logika budaya Tiongkok kuno, bukan logika universal — tidak bisa ditebak murni dari nalar.
-8. 扌 = tangan → aktivitas memakai tangan. Arti harfiah 打电话 = "memukul telepon" (sisa zaman telepon putar) → menelepon.
-9. 饭 = 饣 (makanan) + 反 → nasi/makanan pokok. Tiga kata HSK 1: 米饭 (mǐfàn, nasi), 饭店 (fàndiàn, restoran), 饭馆 (fànguǎn, rumah makan).
-10. 读 = 讠 (ucapan) + 卖. Radikal 讠 memberi petunjuk "berkaitan dengan ucapan/bahasa" — zaman dulu membaca = membaca nyaring.
-11. Komponen 讠 (ucapan) di 话. Arti harfiah 电话 = 电 (listrik) + 话 (perkataan) → "perkataan lewat listrik" = telepon.
-12. 期 = 其 + 月 → "periode waktu". 星期 = "periode (hitungan) bintang" = minggu — sistem tujuh hari yang dihitung per putaran.
+<div class="quiz-q" data-type="reveal" data-explain="明 = 日 (matahari) + 月 (bulan) → terang. Dipakai di 明天 <span class='quiz-py'>(míngtiān, besok)</span>.">
+<p class="quiz-t"><strong>2.</strong> Bedah hanzi 明: apa komponennya, apa artinya, dan di kata apa ia dipakai?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="reveal" data-explain="Petunjuk makna: 女 (perempuan). Petunjuk bunyi: 马 <span class='quiz-py'>(mǎ, bunyinya mirip mā)</span>.">
+<p class="quiz-t"><strong>3.</strong> Di 妈妈, komponen mana yang memberi petunjuk makna dan mana yang memberi petunjuk bunyi?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B — komponen kiri (亻) ditulis dulu, aturan kiri → kanan, aturan nomor 2.">
+<p class="quiz-t"><strong>4.</strong> Menulis 你: komponen mana yang ditulis dulu?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Kanan (尔)</button>
+<button type="button" data-opt="B">B. Kiri (亻)</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="东 = timur, 西 = barat; 'timur + barat = barang' tidak bisa diturunkan secara logis — maknanya meluas menjadi idiomatis.">
+<p class="quiz-t"><strong>5.</strong> Jelaskan kenapa arti 东西 ("barang") tidak bisa ditebak dari komponennya.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B — 子 adalah akhiran penanda benda kecil/konkret (pola produktif: 桌子, 椅子, 杯子).">
+<p class="quiz-t"><strong>6.</strong> Di 桌子, 子 berfungsi sebagai apa?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Penanda jamak</button>
+<button type="button" data-opt="B">B. Akhiran penanda benda kecil/konkret</button>
+<button type="button" data-opt="C">C. Kata satuan</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="好 = 女 (perempuan) + 子 (anak) → baik. Batasannya: logikanya logika budaya Tiongkok kuno, bukan logika universal — tidak bisa ditebak murni dari nalar.">
+<p class="quiz-t"><strong>7.</strong> Bedah 好, lalu jelaskan kenapa ia contoh batasan teknik tebak arti.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="扌 = tangan → aktivitas memakai tangan. Arti harfiah 打电话 = 'memukul telepon' (sisa zaman telepon putar) → menelepon.">
+<p class="quiz-t"><strong>8.</strong> Di 打电话, petunjuk apa yang diberikan radikal 扌? Apa arti harfiah 打电话?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="饭 = 饣 (makanan) + 反 → nasi/makanan pokok. Tiga kata HSK 1: 米饭 <span class='quiz-py'>(mǐfàn, nasi)</span>, 饭店 <span class='quiz-py'>(fàndiàn, restoran)</span>, 饭馆 <span class='quiz-py'>(fànguǎn, rumah makan)</span>.">
+<p class="quiz-t"><strong>9.</strong> Bedah 饭 (fàn): sebutkan radikalnya, komponen pasangannya, dan tiga kata HSK 1 yang memakainya.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="读 = 讠 (ucapan) + 卖. Radikal 讠 memberi petunjuk 'berkaitan dengan ucapan/bahasa' — zaman dulu membaca = membaca nyaring.">
+<p class="quiz-t"><strong>10.</strong> Bedah 读 (dú): komponen apa saja penyusunnya? Petunjuk apa yang diberikan radikalnya?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Komponen 讠 (ucapan) di 话. Arti harfiah 电话 = 电 (listrik) + 话 (perkataan) → 'perkataan lewat listrik' = telepon.">
+<p class="quiz-t"><strong>11.</strong> Di 电话, komponen mana yang memberi petunjuk bahwa ini "sesuatu yang diucapkan"? Jelaskan arti harfiah 电话.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="期 = 其 + 月 → 'periode waktu'. 星期 = 'periode (hitungan) bintang' = minggu — sistem tujuh hari yang dihitung per putaran.">
+<p class="quiz-t"><strong>12.</strong> Bedah 期 (qī, di 星期): sebutkan komponennya, lalu jelaskan kenapa 星期 artinya "minggu".</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

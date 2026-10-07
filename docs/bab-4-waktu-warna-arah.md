@@ -188,40 +188,120 @@ Cara memakai kata posisi dalam kalimat dibahas tuntas di [Bab 5 poin 19](/bab-5-
 
 ## Latihan
 
-1. Terjemahkan ke Mandarin: "Saya suka minum teh."
-2. Terjemahkan ke Mandarin: "Ayah saya seorang dokter."
-3. Susun kata-kata ini menjadi kalimat yang benar: 在 / 我 / 学校 / 学习 / 汉语
-4. Terjemahkan ke Mandarin: "Kucing di bawah meja."
-5. Apa arti kalimat ini: 杯子里有水。
-6. Pilih kata sifat yang tepat: 今天很___。(冷 / 吃)
-7. Terjemahkan ke Mandarin: "Nona itu sangat cantik."
-8. Buat satu kalimat sendiri yang memakai satu kata kerja dan satu nama tempat dari daftar di bab ini.
-9. Terjemahkan ke Mandarin: "Besok saya pergi ke Beijing."
-10. Terjemahkan ke Mandarin: "Di dalam toko ada banyak barang."
-11. Apa arti kalimat ini: 今天天气很好。
-12. Buat satu kalimat memakai kata 天气 dan kata sifat dari bab ini.
-13. Terjemahkan ke Mandarin: "Saya suka warna biru."
-14. Apa arti 东北?
-15. Terjemahkan ke Mandarin: "Di samping sekolah ada toko."
-16. Pilih yang benar untuk "bagian dalam": A. 外面 B. 里面
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/4</span></div>
 
-<details><summary>Kunci jawaban</summary>
+<div class="quiz-q" data-type="reveal" data-explain="我喜欢喝茶。 <span class='quiz-py'>(wǒ xǐhuan hē chá.)</span>">
+<p class="quiz-t"><strong>1.</strong> Terjemahkan ke Mandarin: "Saya suka minum teh."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 我喜欢喝茶。(wǒ xǐhuan hē chá.)
-2. 我爸爸是医生。(wǒ bàba shì yīshēng.)
-3. 我在学校学习汉语。(wǒ zài xuéxiào xuéxí Hànyǔ.) — "Saya belajar bahasa Mandarin di sekolah."
-4. 猫在桌子下。(māo zài zhuōzi xià.)
-5. "Di dalam gelas ada air."
-6. 冷 — 今天很冷。(jīntiān hěn lěng.) "Hari ini sangat dingin." (吃 adalah kata kerja, tidak cocok.)
-7. 那个小姐很漂亮。(nà ge xiǎojiě hěn piàoliang.)
-8. Bebas, selama memakai kata dari daftar. Contoh: 我去商店买东西。(wǒ qù shāngdiàn mǎi dōngxi.) — "Saya pergi ke toko membeli barang."
-9. 我明天去北京。(wǒ míngtiān qù Běijīng.)
-10. 商店里有很多东西。(shāngdiàn lǐ yǒu hěn duō dōngxi.) — "Di dalam toko ada banyak barang."
-11. "Cuaca hari ini bagus."
-12. Bebas, selama memakai 天气 + kata sifat. Contoh: 今天天气很热。(jīntiān tiānqì hěn rè.) — "Cuaca hari ini panas."
-13. 我喜欢蓝色。(wǒ xǐhuān lánsè.)
-14. "Timur laut" (dōngběi).
-15. 学校旁边有商店。(xuéxiào pángbiān yǒu shāngdiàn.) — "Di samping sekolah ada toko."
-16. **B.** 里面 (lǐmiàn) = bagian dalam; 外面 (wàimiàn) = bagian luar.
+<div class="quiz-q" data-type="reveal" data-explain="我爸爸是医生。 <span class='quiz-py'>(wǒ bàba shì yīshēng.)</span>">
+<p class="quiz-t"><strong>2.</strong> Terjemahkan ke Mandarin: "Ayah saya seorang dokter."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我在学校学习汉语" data-explain="我在学校学习汉语。 <span class='quiz-py'>(wǒ zài xuéxiào xuéxí Hànyǔ.)</span> — Saya belajar bahasa Mandarin di sekolah.">
+<p class="quiz-t"><strong>3.</strong> Susun kata-kata ini menjadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="学校">学校</button>
+<button type="button" draggable="true" data-w="在">在</button>
+<button type="button" draggable="true" data-w="汉语">汉语</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="学习">学习</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="猫在桌子下。 <span class='quiz-py'>(māo zài zhuōzi xià.)</span>">
+<p class="quiz-t"><strong>4.</strong> Terjemahkan ke Mandarin: "Kucing di bawah meja."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Di dalam gelas ada air. <span class='quiz-py'>(bēizi lǐ yǒu shuǐ.)</span>">
+<p class="quiz-t"><strong>5.</strong> Apa arti kalimat ini: 杯子里有水。</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span> — artinya dingin. 吃 (chī, makan) adalah kata kerja, tidak cocok.">
+<p class="quiz-t"><strong>6.</strong> Isi titik-titik dengan kata sifat yang tepat: 今天很___。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="吃">吃</button><button type="button" data-chip="冷">冷</button><button type="button" data-chip="热">热</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="那个小姐很漂亮。 <span class='quiz-py'>(nà ge xiǎojiě hěn piàoliang.)</span>">
+<p class="quiz-t"><strong>7.</strong> Terjemahkan ke Mandarin: "Nona itu sangat cantik."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Bebas, selama memakai kata dari daftar. Contoh: 我去商店买东西。 <span class='quiz-py'>(wǒ qù shāngdiàn mǎi dōngxi.)</span> — Saya pergi ke toko membeli barang.">
+<p class="quiz-t"><strong>8.</strong> Buat satu kalimat sendiri yang memakai satu kata kerja dan satu nama tempat dari daftar di bab ini.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我明天去北京。 <span class='quiz-py'>(wǒ míngtiān qù Běijīng.)</span>">
+<p class="quiz-t"><strong>9.</strong> Terjemahkan ke Mandarin: "Besok saya pergi ke Beijing."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="商店里有很多东西。 <span class='quiz-py'>(shāngdiàn lǐ yǒu hěn duō dōngxi.)</span>">
+<p class="quiz-t"><strong>10.</strong> Terjemahkan ke Mandarin: "Di dalam toko ada banyak barang."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Cuaca hari ini bagus. <span class='quiz-py'>(jīntiān tiānqì hěn hǎo.)</span>">
+<p class="quiz-t"><strong>11.</strong> Apa arti kalimat ini: 今天天气很好。</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Bebas, selama memakai 天气 + kata sifat. Contoh: 今天天气很热。 <span class='quiz-py'>(jīntiān tiānqì hěn rè.)</span> — Cuaca hari ini panas.">
+<p class="quiz-t"><strong>12.</strong> Buat satu kalimat memakai kata 天气 dan kata sifat dari bab ini.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我喜欢蓝色。 <span class='quiz-py'>(wǒ xǐhuān lánsè.)</span>">
+<p class="quiz-t"><strong>13.</strong> Terjemahkan ke Mandarin: "Saya suka warna biru."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Timur laut <span class='quiz-py'>(dōngběi)</span> — 东 (timur) + 北 (utara).">
+<p class="quiz-t"><strong>14.</strong> Apa arti 东北?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Tenggara</button>
+<button type="button" data-opt="B">B. Timur laut</button>
+<button type="button" data-opt="C">C. Barat daya</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="学校旁边有商店。 <span class='quiz-py'>(xuéxiào pángbiān yǒu shāngdiàn.)</span>">
+<p class="quiz-t"><strong>15.</strong> Terjemahkan ke Mandarin: "Di samping sekolah ada toko."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="里面 <span class='quiz-py'>(lǐmiàn)</span> = bagian dalam; 外面 (wàimiàn) = bagian luar.">
+<p class="quiz-t"><strong>16.</strong> Pilih yang benar untuk "bagian dalam":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 外面</button>
+<button type="button" data-opt="B">B. 里面</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

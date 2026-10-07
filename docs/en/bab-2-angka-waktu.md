@@ -441,32 +441,96 @@ Watch the difference between **十四 (shísì, 14)** vs **四十 (sìshí, 40)*
 
 ## Exercises
 
-1. Write the hanzi + pinyin for the numbers: 25, 48, 76.
-2. Translate to Mandarin: "It's 8 o'clock now."
-3. Fill in the blank: 今天___十月七号。("Today is October 7.")
-4. Arrange the words into a correct sentence: 岁 / 二十 / 我 / 。
-5. Translate to Mandarin: "Yesterday was Monday."
-6. Choose the correct one: 二个人 or 两个人 ("two people")? Why?
-7. Write the pinyin (with tone marks): 三块钱
-8. Translate to Mandarin: "How much is this?"
-9. Write the hanzi + pinyin for the numbers: 13, 40, 66.
-10. Translate to Mandarin: "My dad is 40 years old."
-11. Fill in the blank: 你___去学校？("What time do you go to school?")
-12. Translate to Mandarin: "I go to school at 8 in the morning."
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/4</span></div>
 
-<details><summary>Answer key</summary>
+<div class="quiz-q" data-type="reveal" data-explain="二十五 <span class='quiz-py'>(èrshíwǔ)</span>, 四十八 <span class='quiz-py'>(sìshíbā)</span>, 七十六 <span class='quiz-py'>(qīshíliù)</span>.">
+<p class="quiz-t"><strong>1.</strong> Write the hanzi + pinyin for the numbers: 25, 48, 76.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 二十五 (èrshíwǔ), 四十八 (sìshíbā), 七十六 (qīshíliù).
-2. 现在八点。(xiànzài bā diǎn.)
-3. 今天**是**十月七号。(jīntiān shì shíyuè qī hào.)
-4. 我二十岁。(wǒ èrshí suì.)
-5. 昨天是星期一。(zuótiān shì xīngqīyī.)
-6. **两个人** (liǎng gè rén) — because before a measure word (个) to state the amount of things, use 两, not 二.
-7. sān kuài qián.
-8. 这是多少钱？(zhè shì duōshao qián?)
-9. 十三 (shísān), 四十 (sìshí), 六十六 (liùshíliù).
-10. 我爸爸四十岁。(wǒ bàba sìshí suì.)
-11. 你**几点**去学校？(nǐ jǐ diǎn qù xuéxiào?)
-12. 我上午八点去学校。(wǒ shàngwǔ bā diǎn qù xuéxiào.)
+<div class="quiz-q" data-type="reveal" data-explain="现在八点。 <span class='quiz-py'>(xiànzài bā diǎn.)</span>">
+<p class="quiz-t"><strong>2.</strong> Translate to Mandarin: "It's 8 o'clock now."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="今天<strong>是</strong>十月七号。 <span class='quiz-py'>(jīntiān shì shíyuè qī hào.)</span>">
+<p class="quiz-t"><strong>3.</strong> Fill in the blank: 今天___十月七号。 ("Today is October 7.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="的">的</button>
+<button type="button" data-chip="是">是</button>
+<button type="button" data-chip="在">在</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我二十岁" data-explain="我二十岁。 <span class='quiz-py'>(wǒ èrshí suì.)</span>">
+<p class="quiz-t"><strong>4.</strong> Arrange the words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="二十">二十</button>
+<button type="button" draggable="true" data-w="岁">岁</button>
+<button type="button" draggable="true" data-w="。">。</button>
+<button type="button" draggable="true" data-w="我">我</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="昨天是星期一。 <span class='quiz-py'>(zuótiān shì xīngqīyī.)</span>">
+<p class="quiz-t"><strong>5.</strong> Translate to Mandarin: "Yesterday was Monday."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 两个人 <span class='quiz-py'>(liǎng gè rén)</span> — because before a measure word (个) to state the amount of things, use 两, not 二.">
+<p class="quiz-t"><strong>6.</strong> Choose the correct one ("two people")? Why?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 二个人</button>
+<button type="button" data-opt="B">B. 两个人</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="<span class='quiz-py'>sān kuài qián.</span>">
+<p class="quiz-t"><strong>7.</strong> Write the pinyin (with tone marks): 三块钱</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="这是多少钱？ <span class='quiz-py'>(zhè shì duōshao qián?)</span>">
+<p class="quiz-t"><strong>8.</strong> Translate to Mandarin: "How much is this?"</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="十三 <span class='quiz-py'>(shísān)</span>, 四十 <span class='quiz-py'>(sìshí)</span>, 六十六 <span class='quiz-py'>(liùshíliù)</span>.">
+<p class="quiz-t"><strong>9.</strong> Write the hanzi + pinyin for the numbers: 13, 40, 66.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我爸爸四十岁。 <span class='quiz-py'>(wǒ bàba sìshí suì.)</span>">
+<p class="quiz-t"><strong>10.</strong> Translate to Mandarin: "My dad is 40 years old."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="几点" data-explain="你<strong>几点</strong>去学校？ <span class='quiz-py'>(nǐ jǐ diǎn qù xuéxiào?)</span>">
+<p class="quiz-t"><strong>11.</strong> Fill in the blank: 你___去学校？ ("What time do you go to school?")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="多少">多少</button>
+<button type="button" data-chip="几点">几点</button>
+<button type="button" data-chip="什么">什么</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我上午八点去学校。 <span class='quiz-py'>(wǒ shàngwǔ bā diǎn qù xuéxiào.)</span>">
+<p class="quiz-t"><strong>12.</strong> Translate to Mandarin: "I go to school at 8 in the morning."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
