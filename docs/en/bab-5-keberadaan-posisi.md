@@ -246,7 +246,7 @@ Compare with 有 (point 15): 他在教室里 = "he is in the classroom" (the sub
 <p><strong>Watch out:</strong> don't put the position in front like in English, ✗在里教室 (wrong!). The order is always: 在 → place → position.</p>
 </div>
 
-## Exercises
+## Written exercises
 
 1. Arrange these scrambled words into a correct question: 学生 / 是 / 他 / 吗
 2. Pick the correct one: A. 我是高兴 B. 我很高兴
@@ -283,3 +283,175 @@ Compare with 有 (point 15): 他在教室里 = "he is in the classroom" (the sub
 15. 他昨天看电影。(*tā zuótiān kàn diànyǐng.*), "He watched a movie yesterday." Time expressions go before the verb.
 
 </details>
+
+## Exercises
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/18</span></div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他是学生吗？" data-explain="他是学生吗？ <span class='quiz-py'>(tā shì xuéshēng ma?), Is he a student?</span>">
+<p class="quiz-t"><strong>1.</strong> Arrange these scrambled words into the correct question:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="学生">学生</button>
+<button type="button" draggable="true" data-w="是">是</button>
+<button type="button" draggable="true" data-w="他">他</button>
+<button type="button" draggable="true" data-w="吗">吗</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我很高兴 <span class='quiz-py'>(wǒ hěn gāoxìng)</span>, adjectives need the 很 bridge, not 是.">
+<p class="quiz-t"><strong>2.</strong> Choose the correct one:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我是高兴</button>
+<button type="button" data-opt="B">B. 我很高兴</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="她也喜欢茶。 <span class='quiz-py'>(tā yě xǐhuan chá.)</span>">
+<p class="quiz-t"><strong>3.</strong> Translate to Mandarin: "She also likes tea."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="本" data-explain="Books are counted with 本: 这本书 <span class='quiz-py'>(zhè běn shū)</span>.">
+<p class="quiz-t"><strong>4.</strong> Fill in the blank with the correct measure word: 这___书是我的。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick hanzi:</span><button type="button" data-chip="本">本</button><button type="button" data-chip="个">个</button><button type="button" data-chip="只">只</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我今天去学校" data-explain="我今天去学校。 <span class='quiz-py'>(wǒ jīntiān qù xuéxiào.)</span>, time expressions go before the verb.">
+<p class="quiz-t"><strong>5.</strong> Fix the word order:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="去">去</button>
+<button type="button" draggable="true" data-w="学校">学校</button>
+<button type="button" draggable="true" data-w="今天">今天</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我昨天没去商店, the event is in the past (yesterday), so use 没.">
+<p class="quiz-t"><strong>6.</strong> Choose the correct one for "I didn't go to the shop yesterday":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我昨天不去商店</button>
+<button type="button" data-opt="B">B. 我昨天没去商店</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="医院里有很多医生。 <span class='quiz-py'>(yīyuàn lǐ yǒu hěn duō yīshēng.)</span>">
+<p class="quiz-t"><strong>7.</strong> Translate to Mandarin: "There are many doctors in the hospital."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="今天太热了" data-explain="今天太热了。 <span class='quiz-py'>(jīntiān tài rè le.)</span>">
+<p class="quiz-t"><strong>8.</strong> Arrange these scrambled words into the correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="太">太</button>
+<button type="button" draggable="true" data-w="热">热</button>
+<button type="button" draggable="true" data-w="了">了</button>
+<button type="button" draggable="true" data-w="今天">今天</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我也喜欢狗" data-explain="我也喜欢狗。 <span class='quiz-py'>(wǒ yě xǐhuan gǒu.)</span>, I also like dogs.">
+<p class="quiz-t"><strong>9.</strong> Arrange these scrambled words into the correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="也">也</button>
+<button type="button" draggable="true" data-w="喜欢">喜欢</button>
+<button type="button" draggable="true" data-w="狗">狗</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 他在家学习, locations use 在, no 是.">
+<p class="quiz-t"><strong>10.</strong> Choose the correct one for "He studies at home":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 他在家学习</button>
+<button type="button" data-opt="B">B. 他是在家学习</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我有一本书。 <span class='quiz-py'>(wǒ yǒu yī běn shū.)</span>">
+<p class="quiz-t"><strong>11.</strong> Translate to Mandarin: "I have one book."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="也" data-explain="她也喜欢茶。 <span class='quiz-py'>(tā yě xǐhuan chá.)</span>">
+<p class="quiz-t"><strong>12.</strong> Fill in the blank with the correct word (also): 她___喜欢茶。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick hanzi:</span><button type="button" data-chip="也">也</button><button type="button" data-chip="都">都</button><button type="button" data-chip="很">很</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B is wrong, question words don't move position: 什么 stays in object position.">
+<p class="quiz-t"><strong>13.</strong> Choose the WRONG one:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 你吃什么？</button>
+<button type="button" data-opt="B">B. 什么你吃？</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="这个苹果太大了。 <span class='quiz-py'>(zhège píngguǒ tài dà le.)</span>">
+<p class="quiz-t"><strong>14.</strong> Translate to Mandarin: "This apple is too big."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他昨天看电影" data-explain="他昨天看电影。 <span class='quiz-py'>(tā zuótiān kàn diànyǐng.)</span>, He watched a movie yesterday. Time expressions go before the verb.">
+<p class="quiz-t"><strong>15.</strong> Arrange these scrambled words into the correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="看">看</button>
+<button type="button" draggable="true" data-w="电影">电影</button>
+<button type="button" draggable="true" data-w="他">他</button>
+<button type="button" draggable="true" data-w="昨天">昨天</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="书在桌子上。 <span class='quiz-py'>(shū zài zhuōzi shàng.)</span>">
+<p class="quiz-t"><strong>16.</strong> Translate to Mandarin: "The book is on the table."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B, the order is 在 → place → position: 在教室里.">
+<p class="quiz-t"><strong>17.</strong> Choose the correct one for "inside the classroom":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 在里教室</button>
+<button type="button" data-opt="B">B. 在教室里</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="狗在桌子下。 <span class='quiz-py'>(gǒu zài zhuōzi xià.)</span>">
+<p class="quiz-t"><strong>18.</strong> Translate to Mandarin: "The dog is under the table."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

@@ -52,16 +52,16 @@
 
 **Dialogue breakdown:**
 
-- **喂** *wèi*: a phone-only greeting — never used for face-to-face hellos.
+- **喂** *wèi*: a phone-only greeting, never used for face-to-face hellos.
 - **打电话** *dǎ diànhuà* ("to make a phone call", literally "to hit the telephone"): 打 = 扌 + 丁 (using the hand); 话 = 讠 + 舌 (words + tongue).
-- **回** *huí* ("to return"): 回 = 囗 + 口 — a mouth (口) going back inside the box (囗).
-- **什么时候** *shénme shíhou* ("when", literally "what time"): 时 = 日 + 寸 — sun (日) + measure (寸) = time.
+- **回** *huí* ("to return"): 回 = 囗 + 口, a mouth (口) going back inside the box (囗).
+- **什么时候** *shénme shíhou* ("when", literally "what time"): 时 = 日 + 寸, sun (日) + measure (寸) = time.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is the pattern like this?</div>
-<p>喂 <em>(wèi)</em> isn't a greeting — it's a <strong>&quot;signal check&quot;</strong>: making sure the other person can hear you before the conversation starts, like &quot;hello-hello, testing&quot; in English. That's why the order is always 喂 first (confirm the connection), then 你好 (start the proper chat). Because its job is technical, 喂 is never used to greet someone face to face.</p>
+<p>喂 <em>(wèi)</em> isn't a greeting, it's a <strong>&quot;signal check&quot;</strong>: making sure the other person can hear you before the conversation starts, like &quot;hello-hello, testing&quot; in English. That's why the order is always 喂 first (confirm the connection), then 你好 (start the proper chat). Because its job is technical, 喂 is never used to greet someone face to face.</p>
 <p><strong>Same pattern:</strong> in every phone dialogue, the pattern is consistent: 喂 → 你好 → the actual conversation.</p>
-<p><strong>Watch out:</strong> using 喂 to greet someone you meet in person — it sounds strange.</p>
+<p><strong>Watch out:</strong> using 喂 to greet someone you meet in person, it sounds strange.</p>
 </div>
 
 ## Dialogue 7: At school
@@ -116,10 +116,10 @@
 
 **Dialogue breakdown:**
 
-- **同学** *tóngxué* ("classmate"): 同学 = 同 + 学 — "studying (学) together (同)" → classmate.
-- **老师** *lǎoshī* ("teacher"): 老师 = 老 + 师 — 老 (experienced) + 师 (master) → teacher, a respectful address for educators.
-- **学习** *xuéxí* ("to study"): 学 = ⺍ + 子 — a child (子) under a roof (⺍) = studying; 习 = 羽 + 白 — repeated practice like a bird's wings (羽).
-- **几** *jǐ* ("how many", for small amounts): 几 vs 多少 — 几 is used when the answer is small/countable (hours, age), 多少 for large or unknown amounts.
+- **同学** *tóngxué* ("classmate"): 同学 = 同 + 学, "studying (学) together (同)" → classmate.
+- **老师** *lǎoshī* ("teacher"): 老师 = 老 + 师, 老 (experienced) + 师 (master) → teacher, a respectful address for educators.
+- **学习** *xuéxí* ("to study"): 学 = ⺍ + 子, a child (子) under a roof (⺍) = studying; 习 = 羽 + 白, repeated practice like a bird's wings (羽).
+- **几** *jǐ* ("how many", for small amounts): 几 vs 多少, 几 is used when the answer is small/countable (hours, age), 多少 for large or unknown amounts.
 
 ## Dialogue 8: Asking about the weather
 
@@ -156,7 +156,7 @@
 <div class="contoh"><button class="audio-btn" data-audio="../audio/037bbf22f835.mp3" aria-label="Listen to pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 不冷，很热。</div>
 <div class="py">bù lěng, hěn rè.</div>
-<div>Not cold — hot.</div>
+<div>Not cold, hot.</div>
 </div>
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/1f6ad0aff721.mp3" aria-label="Listen to pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -173,16 +173,16 @@
 
 **Dialogue breakdown:**
 
-- **天气** *tiānqì* ("weather"): 天 = 大 + 一 — a big person (大) under the sky (一); 气 = vapor/air.
-- **下雨** *xià yǔ* ("to rain"): 下 (down) + 雨 (rain) — "rain falling down".
-- **了** *le* in 下雨了: a change-of-state marker — "starting/about to rain", not past tense. The Chapter 5 pattern.
-- **怎么样** *zěnmeyàng* ("how"): a question word for asking opinions/states — 怎么 + 样.
+- **天气** *tiānqì* ("weather"): 天 = 大 + 一, a big person (大) under the sky (一); 气 = vapor/air.
+- **下雨** *xià yǔ* ("to rain"): 下 (down) + 雨 (rain), "rain falling down".
+- **了** *le* in 下雨了: a change-of-state marker, "starting/about to rain", not past tense. The Chapter 5 pattern.
+- **怎么样** *zěnmeyàng* ("how"): a question word for asking opinions/states, 怎么 + 样.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is the pattern like this?</div>
-<p>怎么 asks about <strong>how</strong> (&quot;by what means&quot;: 你怎么去学校？ <em>(nǐ zěnme qù xuéxiào?)</em>), while 怎么样 asks about <strong>state/condition</strong> (&quot;how is it&quot;). Weather is a state, not a method — that's why 今天天气怎么样？ <em>(jīntiān tiānqì zěnmeyàng?)</em>, not 怎么. Tell them apart: 怎么 = &quot;how (by what means)&quot;, 怎么样 = &quot;how about / how is it&quot;.</p>
-<p><strong>Same pattern:</strong> 你的汉语怎么样？ <em>(nǐ de Hànyǔ zěnmeyàng?)</em> (Chapter 5) — asking about the state of someone's Mandarin.</p>
-<p><strong>Watch out:</strong> 今天天气怎么？ — wrong; for states it must be 怎么样.</p>
+<p>怎么 asks about <strong>how</strong> (&quot;by what means&quot;: 你怎么去学校？ <em>(nǐ zěnme qù xuéxiào?)</em>), while 怎么样 asks about <strong>state/condition</strong> (&quot;how is it&quot;). Weather is a state, not a method, that's why 今天天气怎么样？ <em>(jīntiān tiānqì zěnmeyàng?)</em>, not 怎么. Tell them apart: 怎么 = &quot;how (by what means)&quot;, 怎么样 = &quot;how about / how is it&quot;.</p>
+<p><strong>Same pattern:</strong> 你的汉语怎么样？ <em>(nǐ de Hànyǔ zěnmeyàng?)</em> (Chapter 5), asking about the state of someone's Mandarin.</p>
+<p><strong>Watch out:</strong> 今天天气怎么？, wrong; for states it must be 怎么样.</p>
 </div>
 
 ## Dialogue 9: Inviting someone to eat
@@ -231,10 +231,10 @@
 
 **Dialogue breakdown:**
 
-- **饭馆** *fànguǎn* ("eatery"): 饭 = 饣 + 反 — food/rice; 馆 = 饣 + 官 — a building for eating. Different from 饭店 (restaurant/hotel) from the previous chapter.
-- **好吗** *hǎo ma* ("shall we?/how about it?"): 好 + 吗 — a polite invitation, literally "good or not?".
-- **我们去** *wǒmen qù*: 我们 + verb = the invitation "let's…" — no extra words needed.
-- **想** *xiǎng* + verb ("want to…"): 想吃 = want to eat — the Chapter 5 pattern (想/喜欢/会/能 + verb).
+- **饭馆** *fànguǎn* ("eatery"): 饭 = 饣 + 反, food/rice; 馆 = 饣 + 官, a building for eating. Different from 饭店 (restaurant/hotel) from the previous chapter.
+- **好吗** *hǎo ma* ("shall we?/how about it?"): 好 + 吗, a polite invitation, literally "good or not?".
+- **我们去** *wǒmen qù*: 我们 + verb = the invitation "let's…", no extra words needed.
+- **想** *xiǎng* + verb ("want to…"): 想吃 = want to eat, the Chapter 5 pattern (想/喜欢/会/能 + verb).
 
 ## Dialogue 10: Saying goodbye / taking leave
 
@@ -276,12 +276,87 @@
 
 **Dialogue breakdown:**
 
-- **家** *jiā* ("home; family"): 家 = 宀 + 豕 — livestock (豕) under a roof (宀) = home.
-- **回家** *huí jiā* ("to go home"): 回 (return) + 家 (home) — the opposite of 去 (go).
-- **谢谢 ↔ 不客气**: the mandatory pair — thanks is always answered with you're welcome.
-- **老师** as an address: in Mandarin, 老师 can be used directly to address a teacher without a name — a sign of respect.
+- **家** *jiā* ("home; family"): 家 = 宀 + 豕, livestock (豕) under a roof (宀) = home.
+- **回家** *huí jiā* ("to go home"): 回 (return) + 家 (home), the opposite of 去 (go).
+- **谢谢 ↔ 不客气**: the mandatory pair, thanks is always answered with you're welcome.
+- **老师** as an address: in Mandarin, 老师 can be used directly to address a teacher without a name, a sign of respect.
 
 ## Exercises
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/5</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. A says 他去商店了 <span class='quiz-py'>(tā qù shāngdiàn le)</span>, 'He went to the store.'">
+<p class="quiz-t"><strong>1.</strong> In dialogue 6, where did "he" (他) go?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. To school</button>
+<button type="button" data-opt="B">B. To the store</button>
+<button type="button" data-opt="C">C. Home</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. A answers 明天上午 <span class='quiz-py'>(míngtiān shàngwǔ)</span>, 'Tomorrow morning.'">
+<p class="quiz-t"><strong>2.</strong> In dialogue 6, when will he be back (回来)?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. This afternoon</button>
+<button type="button" data-opt="B">B. Right now</button>
+<button type="button" data-opt="C">C. Tomorrow morning</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="喂 <span class='quiz-py'>(wèi)</span> is a phone-only greeting ('hello' on the phone). Never used face to face (dialogue 6).">
+<p class="quiz-t"><strong>3.</strong> What does 喂 mean and when is it used?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. B says 我们的老师是好老师 <span class='quiz-py'>(wǒmen de lǎoshī shì hǎo lǎoshī)</span>, 'Our teacher is a good teacher.' The name is not mentioned.">
+<p class="quiz-t"><strong>4.</strong> In dialogue 7, who is their teacher?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Aska</button>
+<button type="button" data-opt="B">B. A good teacher (name not mentioned)</button>
+<button type="button" data-opt="C">C. Miu</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. B says 明天天气不好。下雨了 <span class='quiz-py'>(míngtiān tiānqì bù hǎo. xià yǔ le)</span>, 'Tomorrow's weather isn't good. It'll rain.'">
+<p class="quiz-t"><strong>5.</strong> In dialogue 8, how is the weather tomorrow?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Bad, rainy</button>
+<button type="button" data-opt="B">B. Nice, not cold</button>
+<button type="button" data-opt="C">C. Hot</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="不冷，很热 <span class='quiz-py'>(bù lěng, hěn rè)</span> means 'Not cold, hot' (dialogue 8).">
+<p class="quiz-t"><strong>6.</strong> What does "不冷，很热" mean?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. A says 我想吃米饭和菜 <span class='quiz-py'>(wǒ xiǎng chī mǐfàn hé cài)</span>, 'I want rice and side dishes.'">
+<p class="quiz-t"><strong>7.</strong> In dialogue 9, what do they want to eat?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Apples</button>
+<button type="button" data-opt="B">B. Tea</button>
+<button type="button" data-opt="C">C. Rice and side dishes</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="A says goodbye to the teacher: 老师，再见！ <span class='quiz-py'>(lǎoshī, zàijiàn!)</span> A is heading home: 我现在回家 <span class='quiz-py'>(wǒ xiànzài huí jiā)</span>, 'I'm heading home now' (dialogue 10).">
+<p class="quiz-t"><strong>8.</strong> In dialogue 10, who is A saying goodbye to, and where is A going?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
+
+## Creative Task
 
 Your task: **write 1 dialogue of your own** (6–8 lines) using the patterns from the 10 dialogues above. Pick one situation:
 
@@ -291,9 +366,9 @@ Your task: **write 1 dialogue of your own** (6–8 lines) using the patterns fro
 - (d) asking about the weather, then inviting someone to eat;
 - (e) saying goodbye to your teacher after school.
 
-The rules: write each line complete with hanzi + pinyin + English meaning (the `.contoh` format above). You may copy sentence structures from the sample dialogues — just swap the nouns. There's no rigid answer key; what matters is getting the patterns right.
+The rules: write each line complete with hanzi + pinyin + English meaning (the `.contoh` format above). You may copy sentence structures from the sample dialogues, just swap the nouns. There's no rigid answer key; what matters is getting the patterns right.
 
-Sample answer (situation a — meeting a new friend at school):
+Sample answer (situation a, meeting a new friend at school):
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/c690b7d50008.mp3" aria-label="Listen to pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 你好！我是学生，你呢？</div>
@@ -337,7 +412,7 @@ Sample answer (situation a — meeting a new friend at school):
 <div>It's three o'clock. Let's go!</div>
 </div>
 
-Sample answer (situation b — buying fruit at a store):
+Sample answer (situation b, buying fruit at a store):
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/6e8ac93dfa43.mp3" aria-label="Listen to pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 你好！</div>
