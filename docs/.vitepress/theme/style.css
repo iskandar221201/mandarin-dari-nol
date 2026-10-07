@@ -87,6 +87,20 @@
   flex: none;
 }
 
+/* Varian inline: tombol play kecil di dalam sel tabel / teks */
+.audio-btn-inline {
+  position: static;
+  width: 1.45rem;
+  height: 1.45rem;
+  margin-left: 0.35rem;
+  vertical-align: -0.32rem;
+}
+
+.audio-btn-inline svg {
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
 @keyframes audio-pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.45; }
