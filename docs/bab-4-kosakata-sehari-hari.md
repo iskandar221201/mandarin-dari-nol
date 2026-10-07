@@ -45,6 +45,14 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/dcdedf4368a8.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">你叫什么名字？</div>
+
+<!-- KENAPA:mingzi -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 名字 (nama) = 名 + 字?</div>
+<p><strong>名</strong> (míng) = 夕 (senja/malam) + 口 (mulut) — konon, nama adalah sesuatu yang "disebut dengan mulut" (diidentifikasi lewat ucapan). <strong>字</strong> (zì) = 宀 (atap) + 子 (anak) — karakter yang "dilahirkan"/diajarkan di rumah. Jadi 名字 = "sebutan" + "tulisan".</p>
+<p><strong>Pola yang sama:</strong> Pola gabungan dua hanzi untuk satu konsep abstrak — mirip <strong>学校</strong> (学 + 校) dan <strong>电话</strong> (电 + 话, di 打电话).</p>
+<p><strong>Awas jebakan:</strong> Bedah 夕 + 口 untuk 名 adalah teori umum; yang penting diingat adalah polanya, bukan kepastian sejarahnya.</p>
+</div>
 <div class="py">nǐ jiào shénme míngzi?</div>
 <div>Siapa namamu?</div>
 </div>
@@ -63,6 +71,14 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/02864d63a414.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">你家有几个人？</div>
+
+<!-- KENAPA:doubling -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa Kenapa 爸爸/妈妈 digandakan, bukan 爸/妈 saja?</div>
+<p>Dalam Mandarin modern, <strong>panggilan kekerabatan lazim digandakan</strong>: 爸爸 (bàba), 妈妈 (māma). Konon ini soal bunyi — suku kata tunggal terasa terlalu pendek dan kaku untuk panggilan akrab, jadi digandakan supaya hangat dan jelas saat dipanggil.</p>
+<p><strong>Pola yang sama:</strong> Pola pengulangan yang sama (dengan alasan berbeda): <strong>谢谢</strong> (xièxie, terima kasih) — pengulangan untuk penekanan kesopanan.</p>
+<p><strong>Awas jebakan:</strong> Tidak semua kata boleh digandakan: 老师, 朋友, 医生 tidak pernah digandakan. Penggandaan hanya untuk panggilan akrab dan beberapa kata seru.</p>
+</div>
 <div class="py">nǐ jiā yǒu jǐ ge rén?</div>
 <div>Keluargamu ada berapa orang?</div>
 </div>
@@ -126,6 +142,14 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/c86377a80bab.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">苹果很好吃。</div>
+
+<!-- KENAPA:shuiguo -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 水果 (buah) = 水 (air) + 果 (buah)?</div>
+<p>Bukankah 果 sendiri sudah berarti buah? Konon, <strong>水</strong> di sini menekankan sifat buah: <em>berair dan segar</em> — bedakan dari buah kering atau biji-bijian. Jadi 水果 = "buah yang berair", istilah umum untuk buah-buahan segar.</p>
+<p><strong>Pola yang sama:</strong> Pola "果 = buah" berulang: <strong>苹果</strong> (píngguǒ, apel) = 苹 + 果. Hafal 果, dua kata buah HSK 1 langsung berpasangan.</p>
+<p><strong>Awas jebakan:</strong> Di luar konteks makanan, 果 lebih sering berarti "hasil/akibat" — tapi di HSK 1, ketemu 果 langsung pikirkan buah dulu.</p>
+</div>
 <div class="py">píngguǒ hěn hǎochī.</div>
 <div>Apel enak.</div>
 </div>
@@ -289,12 +313,28 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 | 书 | shū | buku |
 | 字 | zì | karakter; huruf |
 | 电脑 | diànnǎo | komputer |
+
+<!-- KENAPA:dian4 -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 电脑 (komputer) = 电 (listrik) + 脑 (otak)?</div>
+<p>Ya, harfiahnya "<em>otak listrik</em>" — komputer dipahami sebagai otak yang ditenagai listrik. Logika penamaan yang sama: <strong>电视</strong> (diànshì, televisi) = 电 + 视 (penglihatan) → "penglihatan listrik"; <strong>电影</strong> (diànyǐng, film) = 电 + 影 (bayangan) → "bayangan (bergerak dengan) listrik".</p>
+<p><strong>Pola yang sama:</strong> Pola "电 + fungsi" untuk teknologi modern: hafal 电 = listrik, lalu tebak separuh arti dari komponen keduanya (脑/视/影).</p>
+<p><strong>Awas jebakan:</strong> Jangan diartikan terlalu harfiah — 电影 bukan "listrik bayangan" dalam arti teknis, ini cara orang menamai teknologi baru dengan kosakata lama.</p>
+</div>
 | 电视 | diànshì | televisi |
 | 电影 | diànyǐng | film |
 | 衣服 | yīfu | pakaian |
 | 桌子 | zhuōzi | meja |
 | 椅子 | yǐzi | kursi |
 | 东西 | dōngxi | barang |
+
+<!-- KENAPA:dongxi -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 东西 (barang) = 东 (timur) + 西 (barat)?</div>
+<p>Konon, di ibu kota kuno Chang'an ada pasar timur (<strong>东市</strong>) dan pasar barat (<strong>西市</strong>). "Pergi ke timur-barat" (买东西) lama-lama berarti "pergi belanja", dan <strong>东西</strong> pun berarti "barang" — apa pun yang dibeli dari pasar.</p>
+<p><strong>Pola yang sama:</strong> Pola gabungan dua arah/kata sederhana jadi makna baru — mirip <strong>多少</strong> (duōshao, berapa) = 多 (banyak) + 少 (sedikit).</p>
+<p><strong>Awas jebakan:</strong> Ini teori rakyat yang populer, bukan fakta sejarah yang pasti. Yang penting: 东/西 sendiri tetap berarti timur/barat — hanya gabungannya yang berarti barang.</p>
+</div>
 | 钱 | qián | uang |
 | 出租车 | chūzūchē | taksi |
 | 飞机 | fēijī | pesawat terbang |
@@ -398,6 +438,22 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 | 读 | dú | membaca |
 | 写 | xiě | menulis |
 | 学习 | xuéxí | belajar |
+
+<!-- KENAPA:vo -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa Kenapa banyak kata kerja Mandarin terdiri dari dua hanzi: 说话, 睡觉, 学习?</div>
+<p>Banyak kata kerja Mandarin berpola <strong>kata kerja + objek</strong>: <strong>说话</strong> (shuōhuà) = 说 (bicara) + 话 (perkataan); <strong>睡觉</strong> (shuìjiào) = 睡 (tidur) + 觉 (rasa lelap); <strong>学习</strong> (xuéxí) = 学 (belajar) + 习 (berlatih); <strong>打电话</strong> (dǎ diànhuà) = 打 (memukul) + 电话 (telepon). Objeknya "melengkapi" maknanya jadi utuh sebagai kata kerja.</p>
+<p><strong>Pola yang sama:</strong> Pola yang sama: <strong>看见</strong> (kànjiàn) = 看 (melihat) + 见 (tertangkap lihat) → "kelihatan".</p>
+<p><strong>Awas jebakan:</strong> Tidak semua kata kerja begitu — 吃, 喝, 看, 去, 来 satu hanzi dan tetap sah. Pola ini kebiasaan, bukan aturan wajib.</p>
+</div>
+
+<!-- KENAPA:xue4 -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 学校/学生/学习 — kenapa ketiganya "berbau" 学?</div>
+<p>Karena ketiganya memang <strong>satu keluarga</strong> yang lahir dari <strong>学</strong> (xué, belajar) = ⺍ + 冖 (atap) + 子 (anak), konon "anak di bawah atap (tempat belajar)". <strong>学校</strong> = tempatnya, <strong>学生</strong> = orangnya (生 = muncul/lahir), <strong>学习</strong> = kegiatannya (习 = berlatih). Tiga peran, satu akar.</p>
+<p><strong>Pola yang sama:</strong> Pola "satu akar, tiga peran" — strategi hafalannya: hafal 学 sekali, dapat tiga kata. Pola keluarga serupa: <strong>电</strong> → 电话/电脑/电视/电影.</p>
+<p><strong>Awas jebakan:</strong> Jangan kira semua kata ber-学 otomatis soal sekolah — di HSK 1 kebetulan iya, tapi polanya adalah "satu komponen, satu keluarga makna", bukan aturan mutlak.</p>
+</div>
 | 工作 | gōngzuò | bekerja |
 | 买 | mǎi | membeli |
 | 住 | zhù | tinggal |
@@ -493,6 +549,14 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 
 ## 4.6 Kata Sifat Inti
 
+<!-- KENAPA:piaoliang -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 漂亮 (cantik) = 漂 + 亮, 高兴 (senang) = 高 + 兴?</div>
+<p>Banyak kata sifat Mandarin dibentuk dari <strong>dua morfem bermakna positif</strong> yang digabung: <strong>漂亮</strong> (piàoliang) = 漂 + 亮 (terang/berkilau), <strong>高兴</strong> (gāoxìng) = 高 (tinggi) + 兴 (gembira) → perasaan "tinggi" = senang. Gabungannya menguatkan, bukan menjumlahkan arti harfiah.</p>
+<p><strong>Pola yang sama:</strong> Pola "dua positif = satu sifat": begitu hafal polanya, kata sifat dua hanzi terasa seperti satu paket rasa, bukan dua teka-teki.</p>
+<p><strong>Awas jebakan:</strong> Jangan bedah harfiah: 漂亮 bukan "mengapung yang terang". Di sinilah teknik tebak-komponen menemui batasnya — dan itu normal.</p>
+</div>
+
 
 | Hanzi | Pinyin | Arti |
 |---|---|---|
@@ -582,6 +646,14 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 </div>
 
 ## 4.7 Mini Tema: Waktu & Cuaca
+
+<!-- KENAPA:tian -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 明天/今天/昨天 semuanya diakhiri 天?</div>
+<p><strong>天</strong> (tiān) berarti langit, tapi juga "hari" — konon karena hari ditandai oleh perputaran langit (matahari). Tiga kata waktu HSK 1 memakai pola <strong>X + 天</strong>: <strong>明天</strong> (míngtiān, besok) = 明 (terang, dari 日 + 月) + 天 → "hari yang terang"; <strong>今天</strong> (jīntiān, hari ini) = 今 (kini) + 天; <strong>昨天</strong> (zuótiān, kemarin) = 昨 + 天.</p>
+<p><strong>Pola yang sama:</strong> "X + 天 = nama hari" — hafal 天 sekali, tiga kata waktu langsung segaris.</p>
+<p><strong>Awas jebakan:</strong> 天 sendiri punya banyak arti (langit, hari, cuaca, Tuhan dalam konteks klasik) — arti yang dipakai tergantung pasangannya.</p>
+</div>
 
 Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca — kombinasi yang paling sering dipakai dalam obrolan sehari-hari, mis. basa-basi soal cuaca atau janjian.
 

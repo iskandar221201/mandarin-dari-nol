@@ -88,6 +88,14 @@ Berkaitan dengan mulut, suara, dan ucapan.
 <div class="bedah"><strong>喝</strong> (hē, minum) = 口 (mulut) + 曷 → sesuatu yang masuk lewat mulut.</div>
 <div class="bedah"><strong>吗</strong> (ma, partikel tanya) = 口 (mulut/ucapan) + 马 (mǎ, petunjuk bunyi) → partikel yang diucapkan di akhir kalimat tanya.</div>
 <div class="bedah"><strong>哪</strong> (nǎ, yang mana) = 口 + 那 → kata tanya.</div>
+
+<!-- KENAPA:ma-pattern -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 妈 dan 吗 berbagi komponen kanan yang sama (马)?</div>
+<p>Keduanya memakai <strong>马</strong> (mǎ, kuda) sebagai <em>petunjuk bunyi</em>: 妈 dibaca mā, 吗 dibaca ma — mirip dengan bunyi 马. Yang menentukan <em>makna dan fungsi</em> adalah radikal kirinya: <strong>女</strong> (perempuan) → 妈 = ibu; <strong>口</strong> (mulut/ucapan) → 吗 = partikel tanya yang diucapkan.</p>
+<p><strong>Pola yang sama:</strong> Ini pola umum hanzi 形声 (bentuk + bunyi): komponen kanan/bawah memberi petunjuk bunyi, radikal memberi petunjuk makna. Contoh lain di HSK 1: <strong>她</strong> (tā) = 女 + 也 — 也 adalah petunjuk bunyi yang sama dipakai <strong>他</strong> (tā).</p>
+<p><strong>Awas jebakan:</strong> Petunjuk bunyi sering meleset nadanya (mǎ → mā/ma) dan kadang meleset jauh — ia cuma "kira-kira", bukan jaminan.</p>
+</div>
 <div class="bedah"><strong>呢</strong> (ne, partikel tanya susulan) = 口 (mulut/ucapan) + 尼 (petunjuk bunyi) → partikel yang diucapkan di akhir kalimat, mis. 你呢？ (kamu bagaimana?).</div>
 <div class="bedah"><strong>听</strong> (tīng, mendengar) = 口 + 斤. Hati-hati: ini contoh jebakan penyederhanaan — versi tradisionalnya <strong>聽</strong> memakai 耳 (telinga), jauh lebih masuk akal. Versi sederhananya meminjam 口 + 斤 sebagai bentuk ringkas, jadi bedah "mulut"-nya jangan ditelan mentah-mentah.</div>
 
@@ -107,6 +115,14 @@ Berkaitan dengan perempuan, keluarga, dan sifat.
 <div class="bedah"><strong>女</strong> di <strong>女儿</strong> (nǚ'ér, anak perempuan) = 女 (perempuan) + 儿 (anak) → anak perempuan.</div>
 <div class="bedah"><strong>她</strong> (tā, dia perempuan) = 女 (perempuan) + 也 (petunjuk bunyi — sama seperti 他) → pasangan perempuan dari 他. Bedakan: 他 dia (laki-laki), 她 dia (perempuan), dibaca sama persis.</div>
 
+<!-- KENAPA:hao -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 好 (baik) = 女 + 子?</div>
+<p>Konon, di masyarakat agraris Tiongkok kuno, pemandangan "perempuan bersama anak" dianggap sebagai gambaran kebaikan dan keberuntungan — keluarga yang utuh dan subur. Jadi 好 bukan gabungan acak: ia menyimpan cara pandang budaya zamannya tentang apa itu "baik".</p>
+<p><strong>Pola yang sama:</strong> Keluarga 女 yang lain di HSK 1: <strong>妈</strong> (mā, ibu) = 女 + 马, <strong>她</strong> (tā, dia perempuan) = 女 + 也. Semuanya "berbau" perempuan/keluarga.</p>
+<p><strong>Awas jebakan:</strong> Logika ini budaya, bukan universal — persis seperti yang dibahas di seksi 3.3. Jangan paksa logika "perempuan = baik" ke hanzi modern lain di luar daftar ini.</p>
+</div>
+
 ### 4. 忄 / 心 — xīn, "hati"
 
 Berkaitan dengan perasaan, pikiran, dan keinginan. Bentuk 忄 dipakai di kiri, 心 dipakai di bawah.
@@ -116,6 +132,14 @@ Berkaitan dengan perasaan, pikiran, dan keinginan. Bentuk 忄 dipakai di kiri, �
 
 <div class="bedah"><strong>想</strong> (xiǎng, ingin/berpikir) = 相 + 心 (hati) → sesuatu yang "ada di hati" = memikirkan / menginginkan.</div>
 <div class="bedah"><strong>怎</strong> (zěn, di <strong>怎么</strong> zěnme, bagaimana) = 乍 + 心 → kata tanya tentang cara.</div>
+
+<!-- KENAPA:xiang -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 想 (ingin/berpikir) = 相 + 心?</div>
+<p><strong>相</strong> (xiāng) sendiri berarti "saling/tampak", dan <strong>心</strong> adalah hati. Sesuatu yang "tampak di hati" = yang dipikirkan dan diinginkan. Orang Tiongkok kuno menaruh pikiran dan perasaan di satu tempat: hati — bukan otak.</p>
+<p><strong>Pola yang sama:</strong> Pola "hati = perasaan/pikiran" berulang di hanzi lain (di luar HSK 1): <strong>念</strong> (niàn, merindukan) = 今 + 心, <strong>思</strong> (sī, berpikir) = 田 + 心. Di HSK 1, <strong>怎么</strong> (zěnme, bagaimana) juga memakai 心 — bertanya "bagaimana" pun melibatkan hati.</p>
+<p><strong>Awas jebakan:</strong> <strong>相</strong> di sini bukan "saling" secara harfiah — ia lebih berperan sebagai petunjuk bunyi (xiāng → xiǎng, nadanya beda). Jangan baca 想 sebagai "saling hati".</p>
+</div>
 
 Di HSK 1 radikal ini memang jarang, tapi penting: hampir semua hanzi tentang perasaan memakainya.
 
@@ -248,6 +272,14 @@ Berkaitan dengan rumah, bangunan, dan tempat tinggal.
 <div class="bedah"><strong>家</strong> (jiā, rumah/keluarga) = 宀 (atap) + 豕 (babi) → "babi di bawah atap" = rumah. Masuk akal di masyarakat agraris kuno: rumah adalah tempat manusia dan ternak berlindung.</div>
 <div class="bedah"><strong>字</strong> (zì, karakter) = 宀 (atap) + 子 (anak) → karakter yang "dilahirkan" (diajarkan) di rumah.</div>
 
+<!-- KENAPA:jia -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 家 (rumah/keluarga) = 宀 (atap) + 豕 (babi)?</div>
+<p>Konon, di Tiongkok agraris kuno, rumah (家) adalah tempat manusia <em>dan</em> ternaknya berlindung di bawah satu atap — babi adalah ternak paling berharga. Jadi "babi di bawah atap" = rumah tangga yang makmur dan utuh.</p>
+<p><strong>Pola yang sama:</strong> Pola 宀 (atap) = bangunan/tempat tinggal: <strong>字</strong> (zì, karakter) = 宀 + 子 — konon karakter "dilahirkan" (diajarkan) di rumah.</p>
+<p><strong>Awas jebakan:</strong> Jangan baca harfiah sebagai "rumah harus ada babinya" — ini gambaran masyarakat 3000 tahun lalu, bukan definisi kamus.</p>
+</div>
+
 ### 14. 土 — tǔ, "tanah"
 
 Berkaitan dengan tanah, tempat, dan posisi.
@@ -279,11 +311,35 @@ Bukan radikal klasik, tapi komponen yang berulang di HSK 1 dan langsung berguna:
 **电 (diàn, listrik)** — semua yang pakai listrik:
 <div class="bedah"><strong>电</strong> (diàn) = 日 + 乚 → "kilat" → listrik. Dipakai di <strong>电话</strong> (diànhuà, telepon), <strong>电脑</strong> (diànnǎo, komputer), <strong>电视</strong> (diànshì, televisi), <strong>电影</strong> (diànyǐng, film).</div>
 
+<!-- KENAPA:dian -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 电话/电脑/电视/电影 semuanya diawali 电?</div>
+<p><strong>电</strong> (diàn) = 日 + 乚 — konon gambaran <em>kilat</em> menyambar, lalu maknanya meluas jadi "listrik". Semua teknologi modern yang ditenagai listrik pun memakai 电 sebagai "nama keluarga": <strong>电话</strong> (diànhuà, telepon), <strong>电脑</strong> (diànnǎo, komputer), <strong>电视</strong> (diànshì, televisi), <strong>电影</strong> (diànyǐng, film).</p>
+<p><strong>Pola yang sama:</strong> Pola "satu komponen = satu keluarga teknologi" — mirip keluarga 子 untuk benda. Begitu hafal 电 = listrik, empat kata itu langsung nempel bergerombol.</p>
+<p><strong>Awas jebakan:</strong> 电影 (film) memang pakai 电, tapi maknanya "bayangan bergerak", bukan "listrik" secara harfiah — keluarga kata memberi petunjuk, bukan definisi.</p>
+</div>
+
 **艹 (cǎo, rumput/tumbuhan)** — semua yang tumbuh:
 <div class="bedah"><strong>菜</strong> (cài, sayur) = 艹 (tumbuhan) + 采; <strong>苹</strong> (píng, di <strong>苹果</strong> píngguǒ, apel) = 艹 + 平; <strong>茶</strong> (chá, teh) juga memakainya.</div>
 
+<!-- KENAPA:ge -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 我 (saya) dan 钱 (uang) kok mirip?</div>
+<p>Keduanya membawa komponen <strong>戈</strong> (gē, tombak/kapak perang kuno). <strong>我</strong> (wǒ) = 手 (tangan) + 戈 — konon gambaran "tangan memegang tombak", lalu maknanya meluas dari "senjata (milikku)" menjadi "aku/saya". <strong>钱</strong> versi sederhana = 钅 (logam) + 戋, dan 戋 konon adalah <em>dua 戈 yang ditumpuk</em> — uang logam zaman dulu memang dicetak menyerupai alat/perkakas.</p>
+<p><strong>Pola yang sama:</strong> Pola "komponen yang sama muncul di kata yang tak terduga": begitu kenal 戈, ia jadi jangkar visual untuk mengenali 我 dan 钱 sekaligus.</p>
+<p><strong>Awas jebakan:</strong> Ini teori etimologi umum, bukan kepastian mutlak — dan kemiripan bentuknya tidak berarti maknanya berhubungan ("saya" vs "uang" jelas tidak ada hubungannya).</p>
+</div>
+
 **贝 (bèi, kerang)** — kerang adalah alat tukar kuno, jadi berkaitan dengan uang:
 <div class="bedah"><strong>买</strong> (mǎi, membeli) memakai 贝 di bagian bawah → aktivitas yang melibatkan "uang".</div>
+
+<!-- KENAPA:bei -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 买 dan 钱 sama-sama memakai 贝 (kerang)?</div>
+<p>Sebelum ada koin, masyarakat Tiongkok kuno memakai <strong>kerang sebagai alat tukar</strong>. Bekasnya nempel di hanzi: apa pun yang "berbau uang" cenderung membawa 贝. <strong>买</strong> (mǎi, membeli) menaruh 贝 di bawahnya; <strong>钱</strong> (qián, uang) = 钅 (logam) + 戋 — dan 戋 sendiri konon adalah dua <strong>戈</strong> (tombak) yang ditumpuk, tapi versi sederhananya tetap satu keluarga makna "harta".</p>
+<p><strong>Pola yang sama:</strong> Pola "贝 = uang" sangat produktif (di luar HSK 1): <strong>贵</strong> (guì, mahal), <strong>费</strong> (fèi, biaya), <strong>货</strong> (huò, barang dagangan). Ketemu 贝, pikirkan uang dulu.</p>
+<p><strong>Awas jebakan:</strong> Tidak semua yang ada 贝-nya soal uang — tapi di HSK 1, 买 dan 钱 dua-duanya iya.</p>
+</div>
 
 ## 3.6 Urutan goresan dasar
 
@@ -336,6 +392,14 @@ Kata benda konkret yang diakhiri 子:
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/2cad2b973e68.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">桌子上有杯子。</div>
+
+<!-- KENAPA:zi-suffix -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 桌子/椅子/杯子 semuanya diakhiri 子?</div>
+<p>Di Mandarin modern, banyak kata benda satu hanzi yang "dipanjangkan" dengan <strong>子</strong> supaya terdengar seperti kata benda yang utuh dan konkret: 桌 + 子, 椅 + 子, 杯 + 子. Konon ini warisan bunyi — suku kata tunggal terasa "kurang" sebagai kata mandiri, jadi ditempeli 子.</p>
+<p><strong>Pola yang sama:</strong> Pola yang sama di HSK 1: <strong>儿子</strong> (érzi, anak laki-laki) = 儿 + 子, <strong>名字</strong> (míngzi, nama). Semuanya benda/orang yang konkret.</p>
+<p><strong>Awas jebakan:</strong> Tapi <strong>女儿</strong> (nǚ'ér, anak perempuan) memakai <strong>儿</strong>, bukan 子 — dan kata abstrak tidak pakai pola ini. Jangan tempel 子 ke sembarang kata.</p>
+</div>
 <div class="py">zhuōzi shàng yǒu bēizi.</div>
 <div>Di atas meja ada gelas.</div>
 </div>
@@ -367,6 +431,14 @@ Kata benda konkret yang diakhiri 子:
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/20965936c597.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">学生在学校学习汉语。</div>
+
+<!-- KENAPA:xue -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 学校/学生/学习 berbagi 学 — dan 学 sendiri = anak di bawah atap?</div>
+<p><strong>学</strong> (xué) = ⺍ + 冖 (atap) + 子 (anak) — konon gambaran "anak di bawah atap" (tempat belajar). Dari satu akar ini lahir tiga peran: <strong>学校</strong> (xuéxiào) = tempat belajar, <strong>学生</strong> (xuéshēng) = orang yang belajar (生 = lahir/muncul → "yang dilahirkan oleh belajar"), <strong>学习</strong> (xuéxí) = kegiatan belajar (习 = berlatih).</p>
+<p><strong>Pola yang sama:</strong> Pola "satu akar, tiga peran (tempat–orang–kegiatan)" — begitu hafal 学, tiga kata HSK 1 ini jadi satu paket, bukan tiga hafalan terpisah.</p>
+<p><strong>Awas jebakan:</strong> Jangan dibalik: tidak semua kata ber-学 berarti harfiah "belajar" — di sini kebetulan ketiganya memang satu keluarga makna.</p>
+</div>
 <div class="py">xuéshēng zài xuéxiào xuéxí Hànyǔ.</div>
 <div>Siswa belajar bahasa Mandarin di sekolah.</div>
 </div>
