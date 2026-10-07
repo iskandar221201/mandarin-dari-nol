@@ -441,32 +441,96 @@ Perhatikan bedanya **十四 (shísì, 14)** vs **四十 (sìshí, 40)** — cuma
 
 ## Latihan
 
-1. Tulis hanzi + pinyin untuk angka: 25, 48, 76.
-2. Terjemahkan ke Mandarin: "Sekarang jam 8."
-3. Isi titik-titik: 今天___十月七号。("Hari ini adalah 7 Oktober.")
-4. Susun kata jadi kalimat yang benar: 岁 / 二十 / 我 / 。
-5. Terjemahkan ke Mandarin: "Kemarin hari Senin."
-6. Pilih yang benar: 二个人 atau 两个人 ("dua orang")? Kenapa?
-7. Tulis pinyin (dengan tanda nada): 三块钱
-8. Terjemahkan ke Mandarin: "Ini harganya berapa?"
-9. Tulis hanzi + pinyin untuk angka: 13, 40, 66.
-10. Terjemahkan ke Mandarin: "Ayah saya 40 tahun."
-11. Isi titik-titik: 你___去学校？("Kamu jam berapa pergi ke sekolah?")
-12. Terjemahkan ke Mandarin: "Aku pergi ke sekolah jam 8 pagi."
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/4</span></div>
 
-<details><summary>Kunci jawaban</summary>
+<div class="quiz-q" data-type="reveal" data-explain="二十五 <span class='quiz-py'>(èrshíwǔ)</span>, 四十八 <span class='quiz-py'>(sìshíbā)</span>, 七十六 <span class='quiz-py'>(qīshíliù)</span>.">
+<p class="quiz-t"><strong>1.</strong> Tulis hanzi + pinyin untuk angka: 25, 48, 76.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 二十五 (èrshíwǔ), 四十八 (sìshíbā), 七十六 (qīshíliù).
-2. 现在八点。(xiànzài bā diǎn.)
-3. 今天**是**十月七号。(jīntiān shì shíyuè qī hào.)
-4. 我二十岁。(wǒ èrshí suì.)
-5. 昨天是星期一。(zuótiān shì xīngqīyī.)
-6. **两个人** (liǎng gè rén) — karena sebelum kata satuan (个) untuk menyatakan jumlah benda pakai 两, bukan 二.
-7. sān kuài qián.
-8. 这是多少钱？(zhè shì duōshao qián?)
-9. 十三 (shísān), 四十 (sìshí), 六十六 (liùshíliù).
-10. 我爸爸四十岁。(wǒ bàba sìshí suì.)
-11. 你**几点**去学校？(nǐ jǐ diǎn qù xuéxiào?)
-12. 我上午八点去学校。(wǒ shàngwǔ bā diǎn qù xuéxiào.)
+<div class="quiz-q" data-type="reveal" data-explain="现在八点。 <span class='quiz-py'>(xiànzài bā diǎn.)</span>">
+<p class="quiz-t"><strong>2.</strong> Terjemahkan ke Mandarin: "Sekarang jam 8."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="今天<strong>是</strong>十月七号。 <span class='quiz-py'>(jīntiān shì shíyuè qī hào.)</span>">
+<p class="quiz-t"><strong>3.</strong> Isi titik-titik: 今天___十月七号。 ("Hari ini adalah 7 Oktober.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="的">的</button>
+<button type="button" data-chip="是">是</button>
+<button type="button" data-chip="在">在</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我二十岁" data-explain="我二十岁。 <span class='quiz-py'>(wǒ èrshí suì.)</span>">
+<p class="quiz-t"><strong>4.</strong> Susun kata jadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="二十">二十</button>
+<button type="button" draggable="true" data-w="岁">岁</button>
+<button type="button" draggable="true" data-w="。">。</button>
+<button type="button" draggable="true" data-w="我">我</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="昨天是星期一。 <span class='quiz-py'>(zuótiān shì xīngqīyī.)</span>">
+<p class="quiz-t"><strong>5.</strong> Terjemahkan ke Mandarin: "Kemarin hari Senin."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 两个人 <span class='quiz-py'>(liǎng gè rén)</span> — karena sebelum kata satuan (个) untuk menyatakan jumlah benda pakai 两, bukan 二.">
+<p class="quiz-t"><strong>6.</strong> Pilih yang benar: "dua orang"? Kenapa?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 二个人</button>
+<button type="button" data-opt="B">B. 两个人</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="<span class='quiz-py'>sān kuài qián.</span>">
+<p class="quiz-t"><strong>7.</strong> Tulis pinyin (dengan tanda nada): 三块钱</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="这是多少钱？ <span class='quiz-py'>(zhè shì duōshao qián?)</span>">
+<p class="quiz-t"><strong>8.</strong> Terjemahkan ke Mandarin: "Ini harganya berapa?"</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="十三 <span class='quiz-py'>(shísān)</span>, 四十 <span class='quiz-py'>(sìshí)</span>, 六十六 <span class='quiz-py'>(liùshíliù)</span>.">
+<p class="quiz-t"><strong>9.</strong> Tulis hanzi + pinyin untuk angka: 13, 40, 66.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我爸爸四十岁。 <span class='quiz-py'>(wǒ bàba sìshí suì.)</span>">
+<p class="quiz-t"><strong>10.</strong> Terjemahkan ke Mandarin: "Ayah saya 40 tahun."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="几点" data-explain="你<strong>几点</strong>去学校？ <span class='quiz-py'>(nǐ jǐ diǎn qù xuéxiào?)</span>">
+<p class="quiz-t"><strong>11.</strong> Isi titik-titik: 你___去学校？ ("Kamu jam berapa pergi ke sekolah?")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="多少">多少</button>
+<button type="button" data-chip="几点">几点</button>
+<button type="button" data-chip="什么">什么</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我上午八点去学校。 <span class='quiz-py'>(wǒ shàngwǔ bā diǎn qù xuéxiào.)</span>">
+<p class="quiz-t"><strong>12.</strong> Terjemahkan ke Mandarin: "Aku pergi ke sekolah jam 8 pagi."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

@@ -427,34 +427,96 @@ Okay, goodbye!
 *zàijiàn!*
 Goodbye!
 
-## Exercises
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive quiz <span class="quiz-score">Score: 0/4</span></div>
+<div class="quiz-q" data-type="reveal" data-explain="我叫 Aska。 <span class='quiz-py'>(wǒ jiào Aska.)</span>">
+<p class="quiz-t"><strong>1.</strong> Translate to Mandarin: "My name is Aska."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. Translate to Mandarin: "My name is Aska."
-2. Translate to Mandarin: "Is he a teacher?"
-3. Fill in the blank: 你___吗？("How are you?")
-4. Arrange the words into a correct sentence: 名字 / 什么 / 你 / 叫 / ？
-5. Translate to Mandarin: "You're welcome."
-6. Answer negatively: 他是学生吗？(He is not a student.)
-7. Fill in the blank: 我___学生。("I am a student.")
-8. Translate to Mandarin: "And you?"
-9. Translate to Mandarin: "Good morning!"
-10. Translate to Mandarin: "Where do you live?"
-11. Fill in the blank: ___很漂亮。("She is beautiful.")
-12. Make one 吗 question using the word 喜欢.
+<div class="quiz-q" data-type="reveal" data-explain="他是老师吗？ <span class='quiz-py'>(tā shì lǎoshī ma?)</span>">
+<p class="quiz-t"><strong>2.</strong> Translate to Mandarin: "Is he a teacher?"</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-<details><summary>Answer key</summary>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="好" data-explain="你<strong>好</strong>吗？ <span class='quiz-py'>(nǐ hǎo ma?)</span>">
+<p class="quiz-t"><strong>3.</strong> Fill in the blank: 你___吗？("How are you?")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="呢">呢</button>
+<button type="button" data-chip="好">好</button>
+<button type="button" data-chip="很">很</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 我叫 Aska。(wǒ jiào Aska.)
-2. 他是老师吗？(tā shì lǎoshī ma?)
-3. 你**好**吗？(nǐ hǎo ma?)
-4. 你叫什么名字？(nǐ jiào shénme míngzi?)
-5. 不客气。(bù kèqi.)
-6. 不是，他不是学生。(bù shì, tā bù shì xuéshēng.)
-7. 我**是**学生。(wǒ shì xuéshēng.)
-8. 你呢？(nǐ ne?)
-9. 上午好！(shàngwǔ hǎo!)
-10. 你住哪儿？(nǐ zhù nǎr?)
-11. **她**很漂亮。(tā hěn piàoliang.)
-12. Example: 你喜欢喝茶吗？(nǐ xǐhuan hē chá ma?) — other correct answers accepted.
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="你叫什么名字？" data-explain="你叫什么名字？ <span class='quiz-py'>(nǐ jiào shénme míngzi?)</span>">
+<p class="quiz-t"><strong>4.</strong> Arrange the words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="叫">叫</button>
+<button type="button" draggable="true" data-w="名字">名字</button>
+<button type="button" draggable="true" data-w="？">？</button>
+<button type="button" draggable="true" data-w="你">你</button>
+<button type="button" draggable="true" data-w="什么">什么</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="reveal" data-explain="不客气。 <span class='quiz-py'>(bù kèqi.)</span>">
+<p class="quiz-t"><strong>5.</strong> Translate to Mandarin: "You're welcome."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="不是，他不是学生。 <span class='quiz-py'>(bú shì, tā bù shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>6.</strong> Answer negatively: 他是学生吗？(He is not a student.)</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="我<strong>是</strong>学生。 <span class='quiz-py'>(wǒ shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>7.</strong> Fill in the blank: 我___学生。("I am a student.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="在">在</button>
+<button type="button" data-chip="是">是</button>
+<button type="button" data-chip="很">很</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你呢？ <span class='quiz-py'>(nǐ ne?)</span>">
+<p class="quiz-t"><strong>8.</strong> Translate to Mandarin: "And you?"</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="上午好！ <span class='quiz-py'>(shàngwǔ hǎo!)</span>">
+<p class="quiz-t"><strong>9.</strong> Translate to Mandarin: "Good morning!"</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你住哪儿？ <span class='quiz-py'>(nǐ zhù nǎr?)</span>">
+<p class="quiz-t"><strong>10.</strong> Translate to Mandarin: "Where do you live?"</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="她" data-explain="<strong>她</strong>很漂亮。 <span class='quiz-py'>(tā hěn piàoliang.)</span>">
+<p class="quiz-t"><strong>11.</strong> Fill in the blank: ___很漂亮。("She is beautiful.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="你">你</button>
+<button type="button" data-chip="她">她</button>
+<button type="button" data-chip="他">他</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Example: 你喜欢喝茶吗？ <span class='quiz-py'>(nǐ xǐhuan hē chá ma?)</span> — other correct answers accepted.">
+<p class="quiz-t"><strong>12.</strong> Make one 吗 question using the word 喜欢.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

@@ -29,34 +29,81 @@ Tones are a mouth-muscle + ear skill. The best practice is short but daily:
 
 Five minutes a day for a week, and your ears will start noticing on their own when someone else's tones are off.
 
-## Exercises
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive quiz <span class="quiz-score">Score: 0/1</span></div>
+<div class="quiz-q" data-type="reveal" data-explain="mā, má, mǎ, mà.">
+<p class="quiz-t"><strong>1.</strong> Rewrite with the correct tone marks: <code>ma1</code>, <code>ma2</code>, <code>ma3</code>, <code>ma4</code>.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. Rewrite with the correct tone marks: `ma1`, `ma2`, `ma3`, `ma4`.
-2. Which tone is 妈 read in? What does it mean?
-3. How is 不 read before a tone-4 word? Give one example.
-4. How is 一本书 read? Why not "yī běn shū"?
-5. Which one is simplified: 国 or 國?
-6. In the syllable `xué`, why is the tone mark on `e` and not on `u`?
-7. What is pinyin for when learning Mandarin?
-8. The pair 好 (hǎo) vs 号 (hào): which tone is each, and what do they mean?
-9. Write the tone-marked pinyin for "ten" and "to be".
-10. How is 不去 read? Explain why.
-11. Why is 去 written "qù" instead of "qǜ"?
-12. State the sandhi rule for 一: how is it read before a tone-4 word (give an example), and before tone 1/2/3 (give an example)?
+<div class="quiz-q" data-type="reveal" data-explain="Tone 1 (flat-high), meaning &quot;mother&quot;. <span class='quiz-py'>(mā)</span>">
+<p class="quiz-t"><strong>2.</strong> Which tone is 妈 read in? What does it mean?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-<details><summary>Answer key</summary>
+<div class="quiz-q" data-type="reveal" data-explain="Read <strong>bú</strong> (tone 2). Example: 不是 <span class='quiz-py'>(bú shì)</span> or 不客气 <span class='quiz-py'>(bú kèqi)</span>.">
+<p class="quiz-t"><strong>3.</strong> How is 不 read before a tone-4 word? Give one example.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. mā, má, mǎ, mà.
-2. Tone 1 (flat-high), meaning "mother".
-3. Read **bú** (tone 2). Example: 不是 (bú shì) or 不客气 (bú kèqi).
-4. **yì** běn shū — because 一 changes to tone 4 (yì) before tone 1/2/3 words (běn is tone 3).
-5. 国.
-6. Because of the tone-mark rule: if there's an a/o/e, the mark goes there (a first, then o, then e). In "xue" only e and u exist, so it goes on e.
-7. Writing Mandarin sounds with Latin letters, so you can read before memorizing hanzi.
-8. 好 = tone 3 ("good"), 号 = tone 4 ("date/number").
-9. 十 **shí** ("ten"), 是 **shì** ("to be").
-10. **bú qù** — because 不 changes to tone 2 (bú) before a tone-4 word (qù).
-11. Because ü meeting j/q/x/y is written without the two dots — but still read as "ü" (so "qü", not "qu").
-12. Before tone 4 → **yí** (example: 一个 yí gè); before tone 1/2/3 → **yì** (example: 一本书 yì běn shū).
+<div class="quiz-q" data-type="reveal" data-explain="Because 一 changes to tone 4 (yì) before tone 1/2/3 words (běn is tone 3): <strong>yì</strong> běn shū.">
+<p class="quiz-t"><strong>4.</strong> How is 一本书 read? Why not &quot;yī běn shū&quot;?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 国 — the simplified version; 國 is traditional.">
+<p class="quiz-t"><strong>5.</strong> Which one is simplified: 国 or 國?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 国</button>
+<button type="button" data-opt="B">B. 國</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Because of the tone-mark rule: if there's an a/o/e, the mark goes there (a first, then o, then e). In &quot;xue&quot; only e and u exist, so it goes on e.">
+<p class="quiz-t"><strong>6.</strong> In the syllable <code>xué</code>, why is the tone mark on <code>e</code> and not on <code>u</code>?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Writing Mandarin sounds with Latin letters, so you can read before memorizing hanzi.">
+<p class="quiz-t"><strong>7.</strong> What is pinyin for when learning Mandarin?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="好 = tone 3 (&quot;good&quot;), 号 = tone 4 (&quot;date/number&quot;).">
+<p class="quiz-t"><strong>8.</strong> The pair 好 (hǎo) vs 号 (hào): which tone is each, and what do they mean?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="十 <strong>shí</strong> (&quot;ten&quot;), 是 <strong>shì</strong> (&quot;to be&quot;).">
+<p class="quiz-t"><strong>9.</strong> Write the tone-marked pinyin for &quot;ten&quot; and &quot;to be&quot;.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="<strong>bú qù</strong> — because 不 changes to tone 2 (bú) before a tone-4 word (qù).">
+<p class="quiz-t"><strong>10.</strong> How is 不去 read? Explain why.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Because ü meeting j/q/x/y is written without the two dots — but still read as &quot;ü&quot; (so &quot;qü&quot;, not &quot;qu&quot;).">
+<p class="quiz-t"><strong>11.</strong> Why is 去 written &quot;qù&quot; instead of &quot;qǜ&quot;?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Before tone 4 → <strong>yí</strong> (example: 一个 <span class='quiz-py'>(yí gè)</span>); before tone 1/2/3 → <strong>yì</strong> (example: 一本书 <span class='quiz-py'>(yì běn shū)</span>).">
+<p class="quiz-t"><strong>12.</strong> State the sandhi rule for 一: how is it read before a tone-4 word (give an example), and before tone 1/2/3 (give an example)?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

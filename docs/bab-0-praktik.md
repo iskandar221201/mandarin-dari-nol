@@ -29,34 +29,81 @@ Nada itu skill otot mulut + telinga. Latihan terbaiknya pendek tapi tiap hari:
 
 Lima menit sehari selama seminggu, dan telingamu bakal mulai "ngeh" sendiri kapan nada orang lain salah.
 
-## Latihan
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/1</span></div>
+<div class="quiz-q" data-type="reveal" data-explain="mā, má, mǎ, mà.">
+<p class="quiz-t"><strong>1.</strong> Tulis ulang dengan tanda nada yang benar: <code>ma1</code>, <code>ma2</code>, <code>ma3</code>, <code>ma4</code>.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. Tulis ulang dengan tanda nada yang benar: `ma1`, `ma2`, `ma3`, `ma4`.
-2. Kata 妈 dibaca dengan nada keberapa? Artinya apa?
-3. 不 bertemu kata bernada 4 dibaca apa? Kasih satu contoh.
-4. 一本书 dibaca apa? Kenapa bukan "yī běn shū"?
-5. Mana yang simplified: 国 atau 國?
-6. Di suku kata `xué`, kenapa tanda nadanya ada di `e`, bukan di `u`?
-7. Apa fungsi pinyin dalam belajar Mandarin?
-8. Pasangan 好 (hǎo) vs 号 (hào): masing-masing nada berapa dan artinya apa?
-9. Tulis pinyin bertanda nada untuk "sepuluh" dan "adalah".
-10. 不去 dibaca apa? Jelaskan kenapa.
-11. Kenapa 去 ditulis "qù", bukan "qǜ"?
-12. Sebutkan aturan sandhi 一: sebelum kata bernada 4 dibaca apa (kasih contoh), sebelum nada 1/2/3 dibaca apa (kasih contoh)?
+<div class="quiz-q" data-type="reveal" data-explain="Nada 1 (datar tinggi), artinya &quot;ibu&quot;. <span class='quiz-py'>(mā)</span>">
+<p class="quiz-t"><strong>2.</strong> Kata 妈 dibaca dengan nada keberapa? Artinya apa?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-<details><summary>Kunci jawaban</summary>
+<div class="quiz-q" data-type="reveal" data-explain="Dibaca <strong>bú</strong> (nada 2). Contoh: 不是 <span class='quiz-py'>(bú shì)</span> atau 不客气 <span class='quiz-py'>(bú kèqi)</span>.">
+<p class="quiz-t"><strong>3.</strong> 不 bertemu kata bernada 4 dibaca apa? Kasih satu contoh.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. mā, má, mǎ, mà.
-2. Nada 1 (datar tinggi), artinya "ibu".
-3. Dibaca **bú** (nada 2). Contoh: 不是 (bú shì) atau 不客气 (bú kèqi).
-4. **yì** běn shū — karena 一 berubah jadi nada 4 (yì) sebelum kata bernada 1/2/3 (běn bernada 3).
-5. 国.
-6. Karena aturan tanda nada: kalau ada a/o/e, tanda ditaruh di situ (a didahulukan, lalu o, lalu e). Di "xue" yang ada cuma e dan u, jadi di e.
-7. Menuliskan bunyi bahasa Mandarin dengan huruf Latin, supaya bisa dibaca sebelum hafal hanzi.
-8. 好 = nada 3 ("baik"), 号 = nada 4 ("tanggal/nomor").
-9. 十 **shí** ("sepuluh"), 是 **shì** ("adalah").
-10. **bú qù** — karena 不 berubah jadi nada 2 (bú) sebelum kata bernada 4 (qù).
-11. Karena ü yang ketemu j/q/x/y ditulis tanpa titik dua — tapi tetap dibaca "ü" (jadi "qü", bukan "qu").
-12. Sebelum nada 4 → **yí** (contoh: 一个 yí gè); sebelum nada 1/2/3 → **yì** (contoh: 一本书 yì běn shū).
+<div class="quiz-q" data-type="reveal" data-explain="Karena 一 berubah jadi nada 4 (yì) sebelum kata bernada 1/2/3 (běn bernada 3): <strong>yì</strong> běn shū.">
+<p class="quiz-t"><strong>4.</strong> 一本书 dibaca apa? Kenapa bukan &quot;yī běn shū&quot;?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 国 — versi simplified; 國 adalah traditional.">
+<p class="quiz-t"><strong>5.</strong> Mana yang simplified: 国 atau 國?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 国</button>
+<button type="button" data-opt="B">B. 國</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Karena aturan tanda nada: kalau ada a/o/e, tanda ditaruh di situ (a didahulukan, lalu o, lalu e). Di &quot;xue&quot; yang ada cuma e dan u, jadi di e.">
+<p class="quiz-t"><strong>6.</strong> Di suku kata <code>xué</code>, kenapa tanda nadanya ada di <code>e</code>, bukan di <code>u</code>?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Menuliskan bunyi bahasa Mandarin dengan huruf Latin, supaya bisa dibaca sebelum hafal hanzi.">
+<p class="quiz-t"><strong>7.</strong> Apa fungsi pinyin dalam belajar Mandarin?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="好 = nada 3 (&quot;baik&quot;), 号 = nada 4 (&quot;tanggal/nomor&quot;).">
+<p class="quiz-t"><strong>8.</strong> Pasangan 好 (hǎo) vs 号 (hào): masing-masing nada berapa dan artinya apa?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="十 <strong>shí</strong> (&quot;sepuluh&quot;), 是 <strong>shì</strong> (&quot;adalah&quot;).">
+<p class="quiz-t"><strong>9.</strong> Tulis pinyin bertanda nada untuk &quot;sepuluh&quot; dan &quot;adalah&quot;.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="<strong>bú qù</strong> — karena 不 berubah jadi nada 2 (bú) sebelum kata bernada 4 (qù).">
+<p class="quiz-t"><strong>10.</strong> 不去 dibaca apa? Jelaskan kenapa.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Karena ü yang ketemu j/q/x/y ditulis tanpa titik dua — tapi tetap dibaca &quot;ü&quot; (jadi &quot;qü&quot;, bukan &quot;qu&quot;).">
+<p class="quiz-t"><strong>11.</strong> Kenapa 去 ditulis &quot;qù&quot;, bukan &quot;qǜ&quot;?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Sebelum nada 4 → <strong>yí</strong> (contoh: 一个 <span class='quiz-py'>(yí gè)</span>); sebelum nada 1/2/3 → <strong>yì</strong> (contoh: 一本书 <span class='quiz-py'>(yì běn shū)</span>).">
+<p class="quiz-t"><strong>12.</strong> Sebutkan aturan sandhi 一: sebelum kata bernada 4 dibaca apa (kasih contoh), sebelum nada 1/2/3 dibaca apa (kasih contoh)?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

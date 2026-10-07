@@ -427,34 +427,96 @@ Oke, sampai jumpa!
 *zàijiàn!*
 Sampai jumpa!
 
-## Latihan
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/4</span></div>
+<div class="quiz-q" data-type="reveal" data-explain="我叫 Aska。 <span class='quiz-py'>(wǒ jiào Aska.)</span>">
+<p class="quiz-t"><strong>1.</strong> Terjemahkan ke Mandarin: &quot;Nama saya Aska.&quot;</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. Terjemahkan ke Mandarin: "Nama saya Aska."
-2. Terjemahkan ke Mandarin: "Apakah dia (laki-laki) guru?"
-3. Isi titik-titik: 你___吗？("Apa kabar?")
-4. Susun kata jadi kalimat yang benar: 名字 / 什么 / 你 / 叫 / ？
-5. Terjemahkan ke Mandarin: "Sama-sama."
-6. Jawab dengan negatif: 他是学生吗？(Dia bukan siswa.)
-7. Isi titik-titik: 我___学生。("Saya adalah siswa.")
-8. Terjemahkan ke Mandarin: "Kalau kamu?"
-9. Terjemahkan ke Mandarin: "Selamat pagi!"
-10. Terjemahkan ke Mandarin: "Kamu tinggal di mana?"
-11. Isi titik-titik: ___很漂亮。("Dia (perempuan) cantik.")
-12. Buat satu pertanyaan 吗 memakai kata 喜欢.
+<div class="quiz-q" data-type="reveal" data-explain="他是老师吗？ <span class='quiz-py'>(tā shì lǎoshī ma?)</span>">
+<p class="quiz-t"><strong>2.</strong> Terjemahkan ke Mandarin: &quot;Apakah dia (laki-laki) guru?&quot;</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-<details><summary>Kunci jawaban</summary>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="好" data-explain="你<strong>好</strong>吗？ <span class='quiz-py'>(nǐ hǎo ma?)</span>">
+<p class="quiz-t"><strong>3.</strong> Isi titik-titik: 你___吗？(&quot;Apa kabar?&quot;)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="呢">呢</button>
+<button type="button" data-chip="好">好</button>
+<button type="button" data-chip="很">很</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 我叫 Aska。(wǒ jiào Aska.)
-2. 他是老师吗？(tā shì lǎoshī ma?)
-3. 你**好**吗？(nǐ hǎo ma?)
-4. 你叫什么名字？(nǐ jiào shénme míngzi?)
-5. 不客气。(bù kèqi.)
-6. 不是，他不是学生。(bù shì, tā bù shì xuéshēng.)
-7. 我**是**学生。(wǒ shì xuéshēng.)
-8. 你呢？(nǐ ne?)
-9. 上午好！(shàngwǔ hǎo!)
-10. 你住哪儿？(nǐ zhù nǎr?)
-11. **她**很漂亮。(tā hěn piàoliang.)
-12. Contoh: 你喜欢喝茶吗？(nǐ xǐhuan hē chá ma?) — jawaban lain yang benar diterima.
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="你叫什么名字？" data-explain="你叫什么名字？ <span class='quiz-py'>(nǐ jiào shénme míngzi?)</span>">
+<p class="quiz-t"><strong>4.</strong> Susun kata jadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="叫">叫</button>
+<button type="button" draggable="true" data-w="名字">名字</button>
+<button type="button" draggable="true" data-w="？">？</button>
+<button type="button" draggable="true" data-w="你">你</button>
+<button type="button" draggable="true" data-w="什么">什么</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="reveal" data-explain="不客气。 <span class='quiz-py'>(bù kèqi.)</span>">
+<p class="quiz-t"><strong>5.</strong> Terjemahkan ke Mandarin: &quot;Sama-sama.&quot;</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="不是，他不是学生。 <span class='quiz-py'>(bú shì, tā bù shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>6.</strong> Jawab dengan negatif: 他是学生吗？(Dia bukan siswa.)</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="我<strong>是</strong>学生。 <span class='quiz-py'>(wǒ shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>7.</strong> Isi titik-titik: 我___学生。(&quot;Saya adalah siswa.&quot;)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="在">在</button>
+<button type="button" data-chip="是">是</button>
+<button type="button" data-chip="很">很</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你呢？ <span class='quiz-py'>(nǐ ne?)</span>">
+<p class="quiz-t"><strong>8.</strong> Terjemahkan ke Mandarin: &quot;Kalau kamu?&quot;</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="上午好！ <span class='quiz-py'>(shàngwǔ hǎo!)</span>">
+<p class="quiz-t"><strong>9.</strong> Terjemahkan ke Mandarin: &quot;Selamat pagi!&quot;</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你住哪儿？ <span class='quiz-py'>(nǐ zhù nǎr?)</span>">
+<p class="quiz-t"><strong>10.</strong> Terjemahkan ke Mandarin: &quot;Kamu tinggal di mana?&quot;</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="她" data-explain="<strong>她</strong>很漂亮。 <span class='quiz-py'>(tā hěn piàoliang.)</span>">
+<p class="quiz-t"><strong>11.</strong> Isi titik-titik: ___很漂亮。(&quot;Dia (perempuan) cantik.&quot;)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="你">你</button>
+<button type="button" data-chip="她">她</button>
+<button type="button" data-chip="他">他</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Contoh: 你喜欢喝茶吗？ <span class='quiz-py'>(nǐ xǐhuan hē chá ma?)</span> — jawaban lain yang benar diterima.">
+<p class="quiz-t"><strong>12.</strong> Buat satu pertanyaan 吗 memakai kata 喜欢.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
