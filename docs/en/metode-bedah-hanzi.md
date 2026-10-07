@@ -21,7 +21,7 @@ Before dissecting, learn the six positional structures of hanzi. Position tells 
 | Full enclosure 全包围 | ⿴ | 国 = 囗 + 玉 |
 | Half enclosure 半包围 | ⿵⿶⿷⿸⿹ | 床 · 庭 · 历 |
 | Triple stack 品字 | ⿳ | 品 · 森 · 晶 |
-| Single 独体 | — | 人 · 口 · 日 · 木 (can't be dissected further) |
+| Single 独体 | single | 人 · 口 · 日 · 木 (can't be dissected further) |
 
 The **left-right** structure is by far the most common (the majority of HSK 1 hanzi), so master that one first.
 
@@ -29,8 +29,8 @@ The **left-right** structure is by far the most common (the majority of HSK 1 ha
 
 Every hanzi component plays one of two roles:
 
-- **Meaning hint** — usually the radical (部首). Examples: 氵 means "water", 扌 means "hand", 口 means "mouth". This component tells you the *category* of the hanzi's meaning.
-- **Sound hint** — the phonetic component. Examples: 马 (mǎ) hints the sound is roughly "ma", 也 (yě) hints the sound is roughly "ye/ta".
+- **Meaning hint**: usually the radical (部首). Examples: 氵 means "water", 扌 means "hand", 口 means "mouth". This component tells you the *category* of the hanzi's meaning.
+- **Sound hint**: the phonetic component. Examples: 马 (mǎ) hints the sound is roughly "ma", 也 (yě) hints the sound is roughly "ye/ta".
 
 Over 80% of hanzi are **形声字** (xíngshēngzì, "sound-meaning characters"): one component for meaning, one for sound. Once you can separate "which part gives meaning, which part gives sound", an unfamiliar hanzi becomes 50% easier to guess.
 
@@ -50,18 +50,18 @@ The technique is always the same, four steps:
 3. Sound: 相 (xiāng) → sounds roughly like "xiang".
 4. Combine: "something heart-related that sounds like xiang" → 想 = to think/to want. Check the dictionary ✓.
 
-### Walkthrough 2: 语 (yǔ, language — in 汉语 Hànyǔ)
+### Walkthrough 2: 语 (yǔ, language, in 汉语 Hànyǔ)
 
 1. Split (left-right): 讠 + 吾
 2. Radical: 讠 (speech) → category of language/talking.
 3. Sound: 吾 (wú) → sounds roughly like "wu".
 4. Combine: "speech-related, sounds roughly like wu/yu" → 语 = language. Check the dictionary ✓.
 
-Notice: in both examples the sound guess isn't 100% exact (xiāng → xiǎng differs in tone, wú → yǔ drifts). That's normal — sound hints are "roughly", and "roughly" is enough for remembering.
+Notice: in both examples the sound guess isn't 100% exact (xiāng → xiǎng differs in tone, wú → yǔ drifts). That's normal. Sound hints are "roughly", and "roughly" is enough for remembering.
 
 ## 5. How to use this method on this site
 
-- Every chapter has **"dissection"** boxes — that's this method applied to the chapter's vocabulary.
+- Every chapter has **"dissection"** boxes: that's this method applied to the chapter's vocabulary.
 - The [Hanzi Pattern Gallery](/en/galeri-pola-hanzi) is the pattern bank: sound families, meaning families, and the most common shape variants.
 - [Dissection Traps](/en/jebakan-bedah-hanzi) covers its limits: when dissection fails and what to do then.
 - The rule: when you meet a new hanzi → **dissect first, guess, then check**. Don't memorize its shape straight away.

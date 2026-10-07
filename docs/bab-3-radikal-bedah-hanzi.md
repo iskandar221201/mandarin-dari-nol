@@ -2,7 +2,7 @@
 
 Di Bab 1 dan 2 kamu menghafal hanzi satu per satu. Mulai bab ini, caranya berubah: hanzi tidak dihafal buta, tapi **dibedah**. Setiap hanzi tersusun dari komponen-komponen kecil yang berulang, dan kalau kamu kenal komponennya, kamu bisa menebak arti hanzi baru yang belum pernah kamu lihat.
 
-Metode lengkapnya — filosofi, teknik, galeri pola, dan jebakannya — sekarang punya rumah sendiri di tiga halaman khusus:
+Metode lengkapnya (filosofi, teknik, galeri pola, dan jebakannya) sekarang punya rumah sendiri di tiga halaman khusus:
 
 - [Metode Bedah Hanzi](/metode-bedah-hanzi): kenapa hanzi dipahami bukan dihafal, anatomi, dan 4 langkah bedah.
 - [Galeri Pola Hanzi](/galeri-pola-hanzi): bank pola keluarga bunyi, keluarga makna, dan varian bentuk.

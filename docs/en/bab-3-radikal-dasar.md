@@ -19,7 +19,7 @@ Quick facts:
 | 言 yán (speech) | 讠 | left | 说 |
 | 食 shí (food) | 饣 | left | 饭 |
 
-Radicals usually give a **meaning hint** (not an exact meaning). Example: characters with the 口 (mouth) radical almost always relate to the mouth, sound, or speech — for example 叫 (to call), 吃 (to eat), 喝 (to drink).
+Radicals usually give a **meaning hint** (not an exact meaning). Example: characters with the 口 (mouth) radical almost always relate to the mouth, sound, or speech, for example 叫 (to call), 吃 (to eat), 喝 (to drink).
 
 ## 3.2 The "guess the meaning from components" technique
 
@@ -64,7 +64,7 @@ The most human of radicals: characters with it relate to people or human activit
 <div class="bedah"><strong>你</strong> (nǐ, you) = 亻 (person) + 尔 (sound hint) → second-person pronoun.</div>
 <div class="bedah"><strong>他</strong> (tā, he) = 亻 (person) + 也 (sound hint) → third-person pronoun.</div>
 <div class="bedah"><strong>们</strong> (men, in <strong>我们</strong> wǒmen, we/us) = 亻 (person) + 门 (mén, sound hint) → plural marker reserved for humans.</div>
-<div class="bedah"><strong>什</strong> (shén, in <strong>什么</strong> shénme, what) = 亻 (person) + 十 (ten). The components give no clear meaning hint — 什么 is a question word to memorize whole; don't force "person + ten = what".</div>
+<div class="bedah"><strong>什</strong> (shén, in <strong>什么</strong> shénme, what) = 亻 (person) + 十 (ten). The components give no clear meaning hint: 什么 is a question word to memorize whole; don't force "person + ten = what".</div>
 <div class="bedah"><strong>住</strong> (zhù, to live) = 亻 (person) + 主 (zhǔ, sound hint) → to live/settle.</div>
 <div class="bedah"><strong>做</strong> (zuò, to do/make) = 亻 (person) + 故 (gù, sound hint) → to do/make.</div>
 <div class="bedah"><strong>候</strong> (hòu, in <strong>时候</strong> shíhou, time) = 亻 (person) + 侯 (hóu, sound hint). The meaning "moment" comes from usage of 时候, not from the components.</div>
@@ -209,7 +209,7 @@ A double-duty radical: it can mean moon, but more often it's the variant form of
 <div class="bedah"><strong>有</strong> (yǒu, to have) = 𠂇 (hand) + 月 (meat) → "a hand holding meat" = to possess.</div>
 <div class="bedah"><strong>朋</strong> (péng, in <strong>朋友</strong> péngyou, friend) = 月 + 月 → "two pieces of meat side by side" = companion.</div>
 <div class="bedah"><strong>服</strong> (fú, in <strong>衣服</strong> yīfu, clothes) uses 月 (meat/body) → something that covers the body.</div>
-<div class="bedah"><strong>前</strong> (qián, in <strong>前面</strong> qiánmian, front): the 月 component here gives no clear meaning hint — "front" is memorized whole.</div>
+<div class="bedah"><strong>前</strong> (qián, in <strong>前面</strong> qiánmian, front): the 月 component here gives no clear meaning hint; "front" is memorized whole.</div>
 <div class="bedah"><strong>期</strong> (qī, in <strong>星期</strong> xīngqī, week) = 其 + 月 → "period of time". 星期 = "period of (counting) stars" = week (seven days).</div>
 
 ### 10. 讠 / 言, yán, "speech"
@@ -254,7 +254,7 @@ In HSK 1, 子 most often appears as a **suffix marking small/concrete things**, 
 
 <div class="bedah"><strong>桌子</strong> (zhuōzi, table) = 桌 + 子 (thing suffix) → the thing is a table.</div>
 <div class="bedah"><strong>杯子</strong> (bēizi, glass) = 杯 (木 + 不) + 子 (thing suffix) → the thing is a glass.</div>
-<div class="bedah"><strong>字</strong> (zì, in <strong>名字</strong> míngzi, name) = 宀 (roof) + 子 (child) → character. Meanwhile <strong>名</strong> (míng, name) = 夕 (dusk) + 口 (mouth): legend says in the dark people are recognized by voice, not face — so a "name" is what the mouth calls out. The exact origin is debated; just memorize 名字 = name.</div>
+<div class="bedah"><strong>字</strong> (zì, in <strong>名字</strong> míngzi, name) = 宀 (roof) + 子 (child) → character. Meanwhile <strong>名</strong> (míng, name) = 夕 (dusk) + 口 (mouth): legend says in the dark people are recognized by voice, not face, so a "name" is what the mouth calls out. The exact origin is debated; just memorize 名字 = name.</div>
 <div class="bedah"><strong>儿子</strong> (érzi, son) = 儿 (child) + 子 → child.</div>
 <div class="bedah"><strong>椅子</strong> (yǐzi, chair) = 椅 (木 + 奇) + 子 (thing suffix) → the thing is a chair.</div>
 
@@ -268,7 +268,7 @@ Related to houses, buildings, and dwellings.
 - 字 zì, character
 
 <div class="bedah"><strong>家</strong> (jiā, home/family) = 宀 (roof) + 豕 (pig) → "a pig under a roof" = home. Makes sense in ancient agrarian society: a home was where humans and livestock sheltered.</div>
-<div class="bedah"><strong>字</strong> (zì, character) = 宀 (roof) + 子 (child). The exact origin is debated — what matters: 字 always means character, as in 名字 (name) and 汉字 (Hànzì, Chinese characters).</div>
+<div class="bedah"><strong>字</strong> (zì, character) = 宀 (roof) + 子 (child). The exact origin is debated. What matters: 字 always means character, as in 名字 (name) and 汉字 (Hànzì, Chinese characters).</div>
 
 <!-- KENAPA:jia -->
 <div class="kenapa">
@@ -286,9 +286,9 @@ Related to earth, places, and positions.
 - 坐 zuò, to sit; to ride (a vehicle)
 - 块 kuài, measure word for money (yuan, spoken)
 
-<div class="bedah"><strong>在</strong> (zài, at/to be at) = 土 (earth) + 才. The meaning "to be at" can't be derived from the components — memorize it whole. (In Chapter 5, 在 becomes a superstar verb: 我在学校 = I'm at school.)</div>
+<div class="bedah"><strong>在</strong> (zài, at/to be at) = 土 (earth) + 才. The meaning "to be at" can't be derived from the components; memorize it whole. (In Chapter 5, 在 becomes a superstar verb: 我在学校 = I'm at school.)</div>
 <div class="bedah"><strong>坐</strong> (zuò, to sit) = 从 (two people) + 土 (earth) → "two people on the ground" = to sit → to ride (a vehicle).</div>
-<div class="bedah"><strong>块</strong> (kuài, money measure word) = 土 (earth) + 夬. Its original meaning is "lump/chunk" (of earth) — since money is counted per piece, 块 extended into the spoken measure word for yuan: 三块钱 (sān kuài qián) = three yuan.</div>
+<div class="bedah"><strong>块</strong> (kuài, money measure word) = 土 (earth) + 夬. Its original meaning is "lump/chunk" (of earth). Since money is counted per piece, 块 extended into the spoken measure word for yuan: 三块钱 (sān kuài qián) = three yuan.</div>
 
 ### 15. 饣 / 食, shí, "food"
 

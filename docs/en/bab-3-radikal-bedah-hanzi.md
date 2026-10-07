@@ -2,10 +2,10 @@
 
 In Chapters 1 and 2 you memorized characters one by one. From this chapter on, the approach changes: characters aren't memorized blindly, they're **dissected**. Every character is built from small repeating components, and once you know the components, you can guess the meaning of new characters you've never seen before.
 
-The full method — philosophy, technique, pattern gallery, and traps — now has its own home in three dedicated pages:
+The full method (philosophy, technique, pattern gallery, and traps) now has its own home in three dedicated pages:
 
 - [Hanzi Dissection Method](/en/metode-bedah-hanzi): why hanzi are understood not memorized, anatomy, and the 4 dissection steps.
-- [Hanzi Pattern Gallery](/en/galeri-pola-hanzi): the pattern bank — sound families, meaning families, and shape variants.
+- [Hanzi Pattern Gallery](/en/galeri-pola-hanzi): the pattern bank: sound families, meaning families, and shape variants.
 - [Dissection Traps](/en/jebakan-bedah-hanzi): the method's limits plus hands-on dissection exercises.
 
 This chapter is split into two pages:

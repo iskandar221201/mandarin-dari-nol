@@ -51,7 +51,7 @@ Kebalikannya: **satu radikal memberi kategori arti yang sama** ke banyak hanzi.
 
 ### 氵 (air) → pikirkan air/cairan
 
-汉 (Hàn, di 汉语 — Sungai Han), 酒 (jiǔ, arak), 洗 (xǐ, mencuci). Lihat 氵 di kiri → tebak dulu "ini soal air/cairan", biasanya benar.
+汉 (Hàn, di 汉语, Sungai Han), 酒 (jiǔ, arak), 洗 (xǐ, mencuci). Lihat 氵 di kiri → tebak dulu "ini soal air/cairan", biasanya benar.
 
 ### 扌 (tangan) → pikirkan aktivitas tangan
 
@@ -63,7 +63,7 @@ Kebalikannya: **satu radikal memberi kategori arti yang sama** ke banyak hanzi.
 
 ## 3. Varian bentuk: radikal yang menyamar
 
-Radikal sering berubah bentuk ramping saat terjepit di kiri hanzi. Ini enam yang paling sering keluar — hafalkan pasangannya:
+Radikal sering berubah bentuk ramping saat terjepit di kiri hanzi. Ini enam yang paling sering keluar, hafalkan pasangannya:
 
 | Radikal utuh | Varian | Posisi | Contoh |
 |---|---|---|---|
@@ -78,4 +78,4 @@ Aturannya sederhana: **bentuk ramping = posisi kiri**. Kalau kamu melihat 亻, �
 
 ## 4. Cara memakai galeri ini
 
-Jangan dihafal sekaligus. Setiap kali [bedah](/metode-bedah-hanzi) menemukan komponen yang familiar (misalnya "eh, ini 马 lagi"), buka halaman ini dan cocokkan ke keluarganya. Lama-lama polanya menempel sendiri — dan setiap pola yang menempel menghemat puluhan hanzi yang tidak perlu dihafal satu-satu.
+Jangan dihafal sekaligus. Setiap kali [bedah](/metode-bedah-hanzi) menemukan komponen yang familiar (misalnya "eh, ini 马 lagi"), buka halaman ini dan cocokkan ke keluarganya. Lama-lama polanya menempel sendiri, dan setiap pola yang menempel menghemat puluhan hanzi yang tidak perlu dihafal satu-satu.

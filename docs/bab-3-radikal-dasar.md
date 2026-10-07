@@ -19,7 +19,7 @@ Fakta singkatnya:
 | 言 yán (ucapan) | 讠 | kiri | 说 |
 | 食 shí (makanan) | 饣 | kiri | 饭 |
 
-Radikal biasanya memberi **petunjuk makna** (bukan makna pasti). Contoh: hanzi beradikal 口 (mulut) hampir selalu berkaitan dengan mulut, suara, atau ucapan — misalnya 叫 (memanggil), 吃 (makan), 喝 (minum).
+Radikal biasanya memberi **petunjuk makna** (bukan makna pasti). Contoh: hanzi beradikal 口 (mulut) hampir selalu berkaitan dengan mulut, suara, atau ucapan, misalnya 叫 (memanggil), 吃 (makan), 喝 (minum).
 
 ## 3.2 Teknik "tebak arti dari komponen"
 
@@ -64,7 +64,7 @@ Radikal paling manusiawi: hanzi beradikal ini berkaitan dengan orang atau aktivi
 <div class="bedah"><strong>你</strong> (nǐ, kamu) = 亻 (orang) + 尔 (petunjuk bunyi) → kata ganti untuk orang kedua.</div>
 <div class="bedah"><strong>他</strong> (tā, dia) = 亻 (orang) + 也 (petunjuk bunyi) → kata ganti orang ketiga.</div>
 <div class="bedah"><strong>们</strong> (men, di <strong>我们</strong> wǒmen, kami) = 亻 (orang) + 门 (mén, petunjuk bunyi) → penanda jamak khusus untuk manusia.</div>
-<div class="bedah"><strong>什</strong> (shén, di <strong>什么</strong> shénme, apa) = 亻 (orang) + 十 (sepuluh). Komponennya tidak memberi petunjuk makna yang jelas — 什么 adalah kata tanya yang dihafal utuh, jangan dipaksa jadi "orang + sepuluh = apa".</div>
+<div class="bedah"><strong>什</strong> (shén, di <strong>什么</strong> shénme, apa) = 亻 (orang) + 十 (sepuluh). Komponennya tidak memberi petunjuk makna yang jelas: 什么 adalah kata tanya yang dihafal utuh, jangan dipaksa jadi "orang + sepuluh = apa".</div>
 <div class="bedah"><strong>住</strong> (zhù, tinggal) = 亻 (orang) + 主 (zhǔ, petunjuk bunyi) → tinggal/menetap.</div>
 <div class="bedah"><strong>做</strong> (zuò, melakukan/membuat) = 亻 (orang) + 故 (gù, petunjuk bunyi) → melakukan/membuat.</div>
 <div class="bedah"><strong>候</strong> (hòu, di <strong>时候</strong> shíhou, waktu) = 亻 (orang) + 侯 (hóu, petunjuk bunyi). Arti "saat" datang dari pemakaian kata 时候, bukan dari komponennya.</div>
@@ -209,7 +209,7 @@ Radikal ganda: bisa berarti bulan, tapi lebih sering adalah bentuk varian dari *
 <div class="bedah"><strong>有</strong> (yǒu, punya) = 𠂇 (tangan) + 月 (daging) → "tangan memegang daging" = memiliki.</div>
 <div class="bedah"><strong>朋</strong> (péng, di <strong>朋友</strong> péngyou, teman) = 月 + 月 → "dua potong daging berdampingan" = kawan.</div>
 <div class="bedah"><strong>服</strong> (fú, di <strong>衣服</strong> yīfu, pakaian) memakai 月 (daging/tubuh) → sesuatu yang menutup tubuh.</div>
-<div class="bedah"><strong>前</strong> (qián, di <strong>前面</strong> qiánmian, depan): komponen 月 di sini tidak memberi petunjuk makna yang jelas — arti "depan" dihafal utuh.</div>
+<div class="bedah"><strong>前</strong> (qián, di <strong>前面</strong> qiánmian, depan): komponen 月 di sini tidak memberi petunjuk makna yang jelas; arti "depan" dihafal utuh.</div>
 <div class="bedah"><strong>期</strong> (qī, di <strong>星期</strong> xīngqī, minggu) = 其 + 月 → "periode waktu". 星期 = "periode (hitungan) bintang" = minggu (tujuh hari).</div>
 
 ### 10. 讠 / 言, yán, "ucapan"
@@ -254,7 +254,7 @@ Di HSK 1, 子 paling sering muncul sebagai **akhiran penanda benda kecil/konkret
 
 <div class="bedah"><strong>桌子</strong> (zhuōzi, meja) = 桌 + 子 (akhiran benda) → bendanya meja.</div>
 <div class="bedah"><strong>杯子</strong> (bēizi, gelas) = 杯 (木 + 不) + 子 (akhiran benda) → bendanya gelas.</div>
-<div class="bedah"><strong>字</strong> (zì, di <strong>名字</strong> míngzi, nama) = 宀 (atap) + 子 (anak) → karakter/huruf. Sedangkan <strong>名</strong> (míng, nama) = 夕 (senja) + 口 (mulut): konon, di waktu gelap orang dikenali lewat suara, bukan wajah — jadi "nama" adalah yang disebut mulut. Asal-usul pastinya diperdebatkan; cukup hafalkan 名字 = nama.</div>
+<div class="bedah"><strong>字</strong> (zì, di <strong>名字</strong> míngzi, nama) = 宀 (atap) + 子 (anak) → karakter/huruf. Sedangkan <strong>名</strong> (míng, nama) = 夕 (senja) + 口 (mulut): konon, di waktu gelap orang dikenali lewat suara, bukan wajah, jadi "nama" adalah yang disebut mulut. Asal-usul pastinya diperdebatkan; cukup hafalkan 名字 = nama.</div>
 <div class="bedah"><strong>儿子</strong> (érzi, anak laki-laki) = 儿 (anak) + 子 → anak.</div>
 <div class="bedah"><strong>椅子</strong> (yǐzi, kursi) = 椅 (木 + 奇) + 子 (akhiran benda) → bendanya kursi.</div>
 
@@ -268,7 +268,7 @@ Berkaitan dengan rumah, bangunan, dan tempat tinggal.
 - 字 zì, karakter/huruf
 
 <div class="bedah"><strong>家</strong> (jiā, rumah/keluarga) = 宀 (atap) + 豕 (babi) → "babi di bawah atap" = rumah. Masuk akal di masyarakat agraris kuno: rumah adalah tempat manusia dan ternak berlindung.</div>
-<div class="bedah"><strong>字</strong> (zì, karakter/huruf) = 宀 (atap) + 子 (anak). Asal-usulnya diperdebatkan — yang penting diingat: 字 selalu berarti karakter/huruf, seperti di 名字 (nama) dan 汉字 (Hànzì, hanzi).</div>
+<div class="bedah"><strong>字</strong> (zì, karakter/huruf) = 宀 (atap) + 子 (anak). Asal-usulnya diperdebatkan. Yang penting diingat: 字 selalu berarti karakter/huruf, seperti di 名字 (nama) dan 汉字 (Hànzì, hanzi).</div>
 
 <!-- KENAPA:jia -->
 <div class="kenapa">
@@ -286,9 +286,9 @@ Berkaitan dengan tanah, tempat, dan posisi.
 - 坐 zuò, duduk; naik (kendaraan)
 - 块 kuài, satuan uang (yuan, lisan)
 
-<div class="bedah"><strong>在</strong> (zài, di/berada) = 土 (tanah) + 才. Arti "berada di" tidak bisa diturunkan dari komponennya — hafalkan sebagai satu kesatuan. (Di Bab 5, 在 jadi kata kerja super penting: 我在学校 = saya di sekolah.)</div>
+<div class="bedah"><strong>在</strong> (zài, di/berada) = 土 (tanah) + 才. Arti "berada di" tidak bisa diturunkan dari komponennya; hafalkan sebagai satu kesatuan. (Di Bab 5, 在 jadi kata kerja super penting: 我在学校 = saya di sekolah.)</div>
 <div class="bedah"><strong>坐</strong> (zuò, duduk) = 从 (dua orang) + 土 (tanah) → "dua orang di atas tanah" = duduk → naik (kendaraan).</div>
-<div class="bedah"><strong>块</strong> (kuài, satuan uang) = 土 (tanah) + 夬. Arti aslinya "gumpalan" (tanah) — karena uang dihitung per keping, 块 meluas jadi satuan uang lisan: 三块钱 (sān kuài qián) = tiga yuan.</div>
+<div class="bedah"><strong>块</strong> (kuài, satuan uang) = 土 (tanah) + 夬. Arti aslinya "gumpalan" (tanah). Karena uang dihitung per keping, 块 meluas jadi satuan uang lisan: 三块钱 (sān kuài qián) = tiga yuan.</div>
 
 ### 15. 饣 / 食, shí, "makanan"
 

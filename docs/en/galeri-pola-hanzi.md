@@ -6,7 +6,7 @@ This page is the "periodic table" of the [Hanzi Dissection Method](/en/metode-be
 
 ## 1. Sound families: one phonetic component, many hanzi
 
-The most profitable pattern: **one right/bottom component gives the same sound to many hanzi** — just swap the left radical to change the meaning.
+The most profitable pattern: **one right/bottom component gives the same sound to many hanzi**; just swap the left radical to change the meaning.
 
 ### The 马 (mǎ, horse) family → sound "ma"
 
@@ -51,7 +51,7 @@ The reverse: **one radical gives the same meaning category** to many hanzi.
 
 ### 氵 (water) → think water/liquid
 
-汉 (Hàn, in 汉语 — the Han River), 酒 (jiǔ, alcohol), 洗 (xǐ, to wash). See 氵 on the left → first guess "this is about water/liquid", usually right.
+汉 (Hàn, in 汉语, the Han River), 酒 (jiǔ, alcohol), 洗 (xǐ, to wash). See 氵 on the left → first guess "this is about water/liquid", usually right.
 
 ### 扌 (hand) → think hand actions
 
@@ -63,7 +63,7 @@ The reverse: **one radical gives the same meaning category** to many hanzi.
 
 ## 3. Shape variants: radicals in disguise
 
-Radicals often slim down when squeezed to the left of a hanzi. These six are the most common — memorize the pairs:
+Radicals often slim down when squeezed to the left of a hanzi. These six are the most common, memorize the pairs:
 
 | Full radical | Variant | Position | Examples |
 |---|---|---|---|
@@ -78,4 +78,4 @@ The rule is simple: **slim shape = left position**. When you see 亻, 忄, 扌, 
 
 ## 4. How to use this gallery
 
-Don't memorize it all at once. Every time a [dissection](/en/metode-bedah-hanzi) turns up a familiar component ("hey, that's 马 again"), open this page and match it to its family. Gradually the patterns stick on their own — and every pattern that sticks saves dozens of hanzi from rote memorization.
+Don't memorize it all at once. Every time a [dissection](/en/metode-bedah-hanzi) turns up a familiar component ("hey, that's 马 again"), open this page and match it to its family. Gradually the patterns stick on their own, and every pattern that sticks saves dozens of hanzi from rote memorization.

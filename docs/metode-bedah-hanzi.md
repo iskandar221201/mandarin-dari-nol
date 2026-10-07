@@ -21,7 +21,7 @@ Sebelum membedah, kenali dulu enam struktur posisi hanzi. Posisi menentukan di m
 | Bungkus penuh 全包围 | ⿴ | 国 = 囗 + 玉 |
 | Setengah bungkus 半包围 | ⿵⿶⿷⿸⿹ | 床 · 庭 · 历 |
 | Tiga tumpuk 品字 | ⿳ | 品 · 森 · 晶 |
-| Tunggal 独体 | — | 人 · 口 · 日 · 木 (tidak bisa dibedah lagi) |
+| Tunggal 独体 | tunggal | 人 · 口 · 日 · 木 (tidak bisa dibedah lagi) |
 
 Struktur **kiri-kanan** adalah yang paling sering keluar (mayoritas hanzi HSK 1), jadi itu yang paling worth dikuasai dulu.
 
@@ -29,8 +29,8 @@ Struktur **kiri-kanan** adalah yang paling sering keluar (mayoritas hanzi HSK 1)
 
 Setiap komponen hanzi punya salah satu dari dua peran:
 
-- **Petunjuk makna** — biasanya radikal (部首). Contoh: 氵 berarti "air", 扌 berarti "tangan", 口 berarti "mulut". Komponen ini memberi tahu *kategori* arti hanzi.
-- **Petunjuk bunyi** — komponen fonetik. Contoh: 马 (mǎ) memberi tahu bunyinya kira-kira "ma", 也 (yě) memberi tahu bunyinya kira-kira "ye/ta".
+- **Petunjuk makna**: biasanya radikal (部首). Contoh: 氵 berarti "air", 扌 berarti "tangan", 口 berarti "mulut". Komponen ini memberi tahu *kategori* arti hanzi.
+- **Petunjuk bunyi**: komponen fonetik. Contoh: 马 (mǎ) memberi tahu bunyinya kira-kira "ma", 也 (yě) memberi tahu bunyinya kira-kira "ye/ta".
 
 Lebih dari 80% hanzi adalah **形声字** (xíngshēngzì, "hanzi suara-bentuk"): satu komponen untuk makna, satu komponen untuk bunyi. Begitu kamu bisa memisahkan "mana yang kasih arti, mana yang kasih bunyi", hanzi asing langsung jadi 50% lebih mudah ditebak.
 
@@ -50,18 +50,18 @@ Tekniknya selalu sama, empat langkah:
 3. Bunyi: 相 (xiāng) → bunyinya kira-kira "xiang".
 4. Rangkai: "sesuatu yang berhubungan dengan hati dan bunyinya xiang" → 想 = memikirkan/menginginkan. Cek kamus ✓.
 
-### Walkthrough 2: 语 (yǔ, bahasa — di 汉语 Hànyǔ)
+### Walkthrough 2: 语 (yǔ, bahasa, di 汉语 Hànyǔ)
 
 1. Pecah (kiri-kanan): 讠 + 吾
 2. Radikal: 讠 (ucapan) → kategori bahasa/omongan.
 3. Bunyi: 吾 (wú) → bunyinya kira-kira "wu".
 4. Rangkai: "omongan yang bunyinya kira-kira wu/yu" → 语 = bahasa. Cek kamus ✓.
 
-Perhatikan: di kedua contoh, tebakan bunyi tidak 100% tepat (xiāng → xiǎng nadanya beda, wú → yǔ meleset). Itu normal — petunjuk bunyi itu "kira-kira", dan "kira-kira" sudah cukup untuk mengingat.
+Perhatikan: di kedua contoh, tebakan bunyi tidak 100% tepat (xiāng → xiǎng nadanya beda, wú → yǔ meleset). Itu normal. Petunjuk bunyi itu "kira-kira", dan "kira-kira" sudah cukup untuk mengingat.
 
 ## 5. Cara memakai metode ini di situs ini
 
-- Setiap bab punya kotak **"bedah"** — itu metode ini yang diterapkan ke kosakata bab tersebut.
+- Setiap bab punya kotak **"bedah"**: itu metode ini yang diterapkan ke kosakata bab tersebut.
 - [Galeri Pola Hanzi](/galeri-pola-hanzi) adalah bank polanya: keluarga bunyi, keluarga makna, dan varian bentuk yang paling sering keluar.
 - [Jebakan Bedah Hanzi](/jebakan-bedah-hanzi) adalah batasannya: kapan bedah gagal dan apa yang dilakukan kalau gagal.
 - Aturan mainnya: ketemu hanzi baru → **bedah dulu, tebak, baru cek**. Jangan langsung hafal bentuknya.
