@@ -308,3 +308,100 @@ Kenalan dengan satu kata fungsi baru: 也 (*yě*) = "juga". Aturannya: 也 dan �
 
 **Jebakan orang Indonesia:** posisi! Orang Indonesia tergoda menaruh "juga" di akhir ("saya siswa juga"), di Mandarin 也/都 harus sebelum kata kerja. 我是也学生 itu salah.
 
+
+## Latihan
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 我不是老师 <span class='quiz-py'>(wǒ bù shì lǎoshī)</span>. Bentuk negatif dari 是 adalah 不是.">
+<p class="quiz-t"><strong>1.</strong> Pilih yang benar untuk "Saya bukan guru":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我不是老师</button>
+<button type="button" data-opt="B">B. 我不老师是</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="吗" data-explain="吗 <span class='quiz-py'>(ma)</span> ditempel di ujung kalimat pernyataan: 他是医生吗？ <span class='quiz-py'>(tā shì yīshēng ma?), Apakah dia dokter?</span>">
+<p class="quiz-t"><strong>2.</strong> Lengkapi pertanyaan ya/tidak ini: 他是医生___？</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我很高兴" data-explain="我很高兴。 <span class='quiz-py'>(wǒ hěn gāoxìng.)</span>, Saya senang. Kata sifat butuh jembatan 很.">
+<p class="quiz-t"><strong>3.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="高兴">高兴</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="很">很</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 她很漂亮 <span class='quiz-py'>(tā hěn piàoliang)</span>. Kata sifat butuh jembatan 很, bukan langsung ditempel ke subjek.">
+<p class="quiz-t"><strong>4.</strong> Pilih yang benar:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 她漂亮</button>
+<button type="button" data-opt="B">B. 她很漂亮</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我的猫呢" data-explain="我的猫呢？ <span class='quiz-py'>(wǒ de māo ne?)</span>, Kucing saya di mana? 呢 dipakai untuk menanyakan keberadaan.">
+<p class="quiz-t"><strong>5.</strong> Susun jadi pertanyaan yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="呢">呢</button>
+<button type="button" draggable="true" data-w="我的">我的</button>
+<button type="button" draggable="true" data-w="猫">猫</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我们都是朋友。 <span class='quiz-py'>(wǒmen dōu shì péngyou.)</span>">
+<p class="quiz-t"><strong>6.</strong> Terjemahkan ke Mandarin: "Kami semua adalah teman."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B yang salah. 也 harus sebelum kata kerja: 我也喜欢茶 <span class='quiz-py'>(wǒ yě xǐhuan chá)</span>.">
+<p class="quiz-t"><strong>7.</strong> Pilih yang SALAH:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我也喜欢茶</button>
+<button type="button" data-opt="B">B. 我喜欢也茶</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="了" data-explain="了 wajib di pola 太...了: 这个杯子太大了。 <span class='quiz-py'>(zhège bēizi tài dà le.)</span>, Cangkir ini terlalu besar.">
+<p class="quiz-t"><strong>8.</strong> Lengkapi pola 太...了: 这个杯子太大___。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我不是学生" data-explain="我不是学生。 <span class='quiz-py'>(wǒ bù shì xuéshēng.)</span>, Saya bukan siswa.">
+<p class="quiz-t"><strong>9.</strong> Susun jadi kalimat negatif yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="学生">学生</button>
+<button type="button" draggable="true" data-w="不是">不是</button>
+<button type="button" draggable="true" data-w="我">我</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你喝茶吗？ <span class='quiz-py'>(nǐ hē chá ma?)</span>">
+<p class="quiz-t"><strong>10.</strong> Terjemahkan ke Mandarin: "Apakah kamu minum teh?"</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

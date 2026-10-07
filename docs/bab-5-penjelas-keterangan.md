@@ -254,3 +254,94 @@ Keterangan waktu (今天, 明天, 昨天, 现在...) ditaruh **setelah subjek, s
 <p><strong>Awas jebakan:</strong> 我去学校今天 meniru pola Indonesia, salah.</p>
 </div>
 
+
+## Latihan
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 这本书 <span class='quiz-py'>(zhè běn shū)</span>. Kata tunjuk butuh kata satuan di tengah, 这书 salah.">
+<p class="quiz-t"><strong>1.</strong> Pilih yang benar untuk "buku ini":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 这本书</button>
+<button type="button" data-opt="B">B. 这书</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="本" data-explain="Buku dihitung dengan 本: 三本书 <span class='quiz-py'>(sān běn shū)</span>, tiga buku.">
+<p class="quiz-t"><strong>2.</strong> Isi dengan kata satuan yang tepat: 三___书。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我的书" data-explain="我的书 <span class='quiz-py'>(wǒ de shū)</span>, buku saya. Polanya A 的 B.">
+<p class="quiz-t"><strong>3.</strong> Susun jadi frasa milik yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="书">书</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="的">的</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="爸爸和妈妈。 <span class='quiz-py'>(bàba hé māma.)</span>">
+<p class="quiz-t"><strong>4.</strong> Terjemahkan ke Mandarin: "Ayah dan ibu."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B yang salah. Kata tanya tidak pindah posisi: 什么 tetap di posisi objek, bukan di depan.">
+<p class="quiz-t"><strong>5.</strong> Pilih yang SALAH:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 你吃什么？</button>
+<button type="button" data-opt="B">B. 什么你吃？</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="岁" data-explain="Umur pakai 岁: 二十岁 <span class='quiz-py'>(èrshí suì)</span>, dua puluh tahun.">
+<p class="quiz-t"><strong>6.</strong> Lengkapi umur yang benar: 二十___。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我今天去学校" data-explain="我今天去学校。 <span class='quiz-py'>(wǒ jīntiān qù xuéxiào.)</span>, Saya hari ini pergi ke sekolah. Keterangan waktu sebelum kata kerja.">
+<p class="quiz-t"><strong>7.</strong> Susun jadi kalimat yang benar (perhatikan posisi waktu):</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="学校">学校</button>
+<button type="button" draggable="true" data-w="今天">今天</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="去">去</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="漂亮的衣服。 <span class='quiz-py'>(piàoliang de yīfu.)</span>">
+<p class="quiz-t"><strong>8.</strong> Terjemahkan ke Mandarin: "Pakaian yang cantik."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 一些朋友 <span class='quiz-py'>(yī xiē péngyou)</span>. 些 tidak dipakai dengan angka pasti, jadi 三些朋友 salah.">
+<p class="quiz-t"><strong>9.</strong> Pilih yang benar untuk "beberapa teman":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 一些朋友</button>
+<button type="button" data-opt="B">B. 三些朋友</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="和" data-explain="和 <span class='quiz-py'>(hé)</span> menggabungkan kata benda: 茶和水 <span class='quiz-py'>(chá hé shuǐ)</span>, teh dan air.">
+<p class="quiz-t"><strong>10.</strong> Isi dengan kata sambung yang tepat: 茶___水。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

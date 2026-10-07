@@ -339,3 +339,97 @@
 <div class="py">zhè ge hěn dà.</div>
 <div>Ini besar.</div>
 </div>
+
+## Latihan
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 电脑 <span class='quiz-py'>(diànnǎo)</span> = komputer, harfiahnya 'otak listrik'. 电视 (diànshì) = televisi, 电话 (diànhuà) = telepon.">
+<p class="quiz-t"><strong>1.</strong> 电脑 (diànnǎo) artinya?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. televisi</button>
+<button type="button" data-opt="B">B. komputer</button>
+<button type="button" data-opt="C">C. telepon</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="电视" data-explain="电视 <span class='quiz-py'>(diànshì)</span> = televisi. Kalimat lengkap: 我看电视。(wǒ kàn diànshì.)">
+<p class="quiz-t"><strong>2.</strong> 我看___。(Saya menonton televisi.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我看电影" data-explain="我看电影 <span class='quiz-py'>(wǒ kàn diànyǐng.)</span> = Saya menonton film.">
+<p class="quiz-t"><strong>3.</strong> Susun kata acak ini menjadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="电影">电影</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="看">看</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="天气很好 <span class='quiz-py'>(tiānqì hěn hǎo.)</span> = Cuacanya bagus.">
+<p class="quiz-t"><strong>4.</strong> Terjemahkan ke Mandarin: "Cuacanya bagus."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. 会 (huì) = bisa (keahlian); 能 (néng) = bisa (mampu). Contoh: 我会写字 (saya bisa menulis), 你能来吗 (bisakah kamu datang).">
+<p class="quiz-t"><strong>5.</strong> Manakah pasangan arti yang BENAR?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 会 = bisa (izin); 能 = bisa (keahlian)</button>
+<button type="button" data-opt="B">B. 会 dan 能 artinya persis sama</button>
+<button type="button" data-opt="C">C. 会 = bisa (keahlian); 能 = bisa (mampu)</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="请" data-explain="请 <span class='quiz-py'>(qǐng)</span> = silakan; mohon. Kalimat lengkap: 请坐。(qǐng zuò.)">
+<p class="quiz-t"><strong>6.</strong> ___坐。(Silakan duduk.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="你能来吗？" data-explain="你能来吗 <span class='quiz-py'>(nǐ néng lái ma?)</span> = Bisakah kamu datang?">
+<p class="quiz-t"><strong>7.</strong> Susun kata acak ini menjadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="吗">吗</button>
+<button type="button" draggable="true" data-w="你">你</button>
+<button type="button" draggable="true" data-w="来">来</button>
+<button type="button" draggable="true" data-w="能">能</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Harfiahnya 'otak listrik': komputer dipahami sebagai otak (脑) yang ditenagai listrik (电) <span class='quiz-py'>(diànnǎo)</span>. Pola yang sama: 电视 = 'penglihatan listrik', 电影 = 'bayangan listrik'.">
+<p class="quiz-t"><strong>8.</strong> Kenapa 电脑 = 电 + 脑? Jelaskan logikanya.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 漂亮 <span class='quiz-py'>(piàoliang)</span> = cantik. 高兴 (gāoxìng) = senang, 好 (hǎo) = baik.">
+<p class="quiz-t"><strong>9.</strong> 漂亮 (piàoliang) artinya?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. senang</button>
+<button type="button" data-opt="B">B. cantik</button>
+<button type="button" data-opt="C">C. baik</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span> = dingin. Kalimat lengkap: 今天很冷。(jīntiān hěn lěng.)">
+<p class="quiz-t"><strong>10.</strong> 今天很___。(Hari ini sangat dingin.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

@@ -303,3 +303,97 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 <div class="py">xuéxiào zài nǎr?</div>
 <div>Sekolah di mana?</div>
 </div>
+
+## Latihan
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 妈妈 <span class='quiz-py'>(māma)</span> = ibu. 爸爸 (bàba) = ayah, 女儿 (nǚ'ér) = anak perempuan.">
+<p class="quiz-t"><strong>1.</strong> 妈妈 (māma) artinya?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. ayah</button>
+<button type="button" data-opt="B">B. ibu</button>
+<button type="button" data-opt="C">C. anak perempuan</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="医生" data-explain="医生 <span class='quiz-py'>(yīshēng)</span> = dokter. Kalimat lengkap: 我爸爸是医生。(wǒ bàba shì yīshēng.)">
+<p class="quiz-t"><strong>2.</strong> 我爸爸是___。(Ayah saya seorang dokter.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我爸爸是医生" data-explain="我爸爸是医生 <span class='quiz-py'>(wǒ bàba shì yīshēng.)</span> = Ayah saya seorang dokter.">
+<p class="quiz-t"><strong>3.</strong> Susun kata acak ini menjadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="是">是</button>
+<button type="button" draggable="true" data-w="医生">医生</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="爸爸">爸爸</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你喝茶吗？ <span class='quiz-py'>(nǐ hē chá ma?)</span> = Kamu minum teh?">
+<p class="quiz-t"><strong>4.</strong> Terjemahkan ke Mandarin: "Kamu minum teh?"</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 饭店 <span class='quiz-py'>(fàndiàn)</span> = restoran. 商店 (shāngdiàn) = toko, 医院 (yīyuàn) = rumah sakit.">
+<p class="quiz-t"><strong>5.</strong> Manakah yang berarti "restoran"?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 商店</button>
+<button type="button" data-opt="B">B. 饭店</button>
+<button type="button" data-opt="C">C. 医院</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="饭店" data-explain="饭店 <span class='quiz-py'>(fàndiàn)</span> = restoran. Kalimat lengkap: 饭店在前面。(fàndiàn zài qiánmian.)">
+<p class="quiz-t"><strong>6.</strong> ___在前面。(Restorannya di depan.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="猫在桌子下" data-explain="猫在桌子下 <span class='quiz-py'>(māo zài zhuōzi xià.)</span> = Kucing di bawah meja.">
+<p class="quiz-t"><strong>7.</strong> Susun kata acak ini menjadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="桌子下">桌子下</button>
+<button type="button" draggable="true" data-w="猫">猫</button>
+<button type="button" draggable="true" data-w="在">在</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="水果 artinya buah: 水 (air) + 果 (buah) = 'buah yang berair', istilah umum untuk buah segar <span class='quiz-py'>(shuǐguǒ)</span>.">
+<p class="quiz-t"><strong>8.</strong> Apa arti 水果 (shuǐguǒ)? Bedah komponennya.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 你家有几个人？ <span class='quiz-py'>(nǐ jiā yǒu jǐ ge rén?)</span> = Keluargamu ada berapa orang?">
+<p class="quiz-t"><strong>9.</strong> 你家有几个人？ artinya?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Siapa namamu?</button>
+<button type="button" data-opt="B">B. Keluargamu ada berapa orang?</button>
+<button type="button" data-opt="C">C. Di mana rumahmu?</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="买" data-explain="买 <span class='quiz-py'>(mǎi)</span> = membeli. Kalimat lengkap: 我买水果。(wǒ mǎi shuǐguǒ.)">
+<p class="quiz-t"><strong>10.</strong> 我___水果。(Saya membeli buah.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

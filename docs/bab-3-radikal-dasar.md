@@ -302,3 +302,96 @@ Bentuk varian 食 di kiri. Berkaitan dengan makanan.
 <div class="bedah"><strong>饭店</strong> (fàndiàn) = 饭 (makanan) + 店 (toko) → "toko makanan" = restoran.</div>
 <div class="bedah"><strong>饭馆</strong> (fànguǎn) = 饭 (makanan) + 馆 → rumah makan.</div>
 
+
+## Latihan
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. 马 (mǎ) adalah petunjuk bunyi: 妈 dibaca mā, mirip bunyi 马 <span class='quiz-py'>(mǎ)</span>. 女 (perempuan) adalah petunjuk maknanya.">
+<p class="quiz-t"><strong>1.</strong> Komponen mana yang menjadi petunjuk bunyi pada 妈 (mā, ibu)?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 女 (perempuan)</button>
+<button type="button" data-opt="B">B. 口 (mulut)</button>
+<button type="button" data-opt="C">C. 马 (kuda)</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="马" data-explain="马 (mǎ): 吗 dibaca ma, mirip bunyi 马 <span class='quiz-py'>(mǎ)</span>. 口 (mulut/ucapan) adalah petunjuk maknanya.">
+<p class="quiz-t"><strong>2.</strong> Lengkapi: 吗 (ma, partikel tanya) = 口 (mulut/ucapan) + ___ (petunjuk bunyi).</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. 氵 adalah bentuk varian dari 水 <span class='quiz-py'>(shuǐ)</span>, air. Contoh: 汉 (di 汉语) dan 水 itu sendiri.">
+<p class="quiz-t"><strong>3.</strong> Radikal 氵 adalah bentuk varian dari 水 (shuǐ). Hanzi beradikal ini biasanya berkaitan dengan…</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. tangan</button>
+<button type="button" data-opt="B">B. ucapan</button>
+<button type="button" data-opt="C">C. air</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="想 = 相 + 心. 相 (xiāng) adalah petunjuk bunyi, 心 (xīn, hati) adalah petunjuk makna: sesuatu yang 'ada di hati' = dipikirkan/diinginkan <span class='quiz-py'>(xiǎng)</span>.">
+<p class="quiz-t"><strong>4.</strong> Bedah hanzi 想 (xiǎng, ingin/berpikir): sebutkan komponennya dan peran masing-masing.</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="Cari radikalnyaTebak kategori maknaLihat komponen sisanyaCek kamus" data-explain="Urutannya: 1) Cari radikalnya, 2) Tebak kategori makna, 3) Lihat komponen sisanya (petunjuk bunyi), 4) Cek kamus.">
+<p class="quiz-t"><strong>5.</strong> Urutkan 4 langkah teknik "tebak arti dari komponen", dari pertama sampai terakhir:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="Tebak kategori makna">Tebak kategori makna</button>
+<button type="button" draggable="true" data-w="Cek kamus">Cek kamus</button>
+<button type="button" draggable="true" data-w="Cari radikalnya">Cari radikalnya</button>
+<button type="button" draggable="true" data-w="Lihat komponen sisanya">Lihat komponen sisanya</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 马 (mǎ) hanya memberi petunjuk bunyi 'ma'. Yang menentukan makna adalah radikal kiri: 女 (perempuan) → 妈 = ibu; 口 (mulut) → 吗 = partikel tanya.">
+<p class="quiz-t"><strong>6.</strong> 妈 (mā, ibu) dan 吗 (ma, partikel tanya) berbagi komponen kanan yang sama, yaitu 马. Apa artinya?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Keduanya memakai 马 sebagai petunjuk bunyi; radikal kiri yang menentukan makna</button>
+<button type="button" data-opt="B">B. Keduanya berarti hal yang sama</button>
+<button type="button" data-opt="C">C. Keduanya beradikal perempuan</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="亻" data-explain="亻: varian ramping dari 人 <span class='quiz-py'>(rén)</span>, orang, yang dipakai di posisi kiri.">
+<p class="quiz-t"><strong>7.</strong> ___ adalah bentuk varian ramping dari 人 (rén) yang dipakai di posisi kiri, seperti pada 你 dan 他.</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="学校" data-explain="学校 (xuéxiào) = 学 + 校. 校 (xiào) memakai radikal 木 (kayu).">
+<p class="quiz-t"><strong>8.</strong> Susun hanzi acak ini menjadi kata "sekolah" (xuéxiào):</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="校">校</button>
+<button type="button" draggable="true" data-w="学">学</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Logikanya budaya, bukan universal: 'perempuan + anak = baik' masuk akal di Tiongkok agraris kuno, tapi tidak bisa diturunkan dari akal sehat murni <span class='quiz-py'>(hǎo)</span>. Bedah kadang memberi cerita asal-usul, bukan rumus.">
+<p class="quiz-t"><strong>9.</strong> 好 (hǎo, baik) = 女 (perempuan) + 子 (anak). Apa jebakan logika di sini?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="耳" data-explain="耳 (telinga): versi tradisional 聽 memakai 耳, jauh lebih masuk akal. Versi sederhana meminjam 口 + 斤. Ini contoh jebakan penyederhanaan.">
+<p class="quiz-t"><strong>10.</strong> Hanzi 听 (tīng, mendengar) versi tradisionalnya (聽) memakai radikal ___ yang berarti "telinga", jauh lebih masuk akal daripada 口.</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
