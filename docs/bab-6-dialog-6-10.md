@@ -52,16 +52,16 @@
 
 **Bedah dialog:**
 
-- **喂** *wèi*: sapaan khusus telepon — tidak dipakai untuk menyapa tatap muka.
+- **喂** *wèi*: sapaan khusus telepon, tidak dipakai untuk menyapa tatap muka.
 - **打电话** *dǎ diànhuà* ("menelepon", harfiah "memukul telepon"): 打 = 扌 + 丁 (pakai tangan); 话 = 讠 + 舌 (kata-kata + lidah).
-- **回** *huí* ("pulang; kembali"): 回 = 囗 + 口 — mulut (口) kembali masuk ke dalam kotak (囗).
-- **什么时候** *shénme shíhou* ("kapan", harfiah "waktu apa"): 时 = 日 + 寸 — matahari (日) + takaran (寸) = waktu.
+- **回** *huí* ("pulang; kembali"): 回 = 囗 + 口, mulut (口) kembali masuk ke dalam kotak (囗).
+- **什么时候** *shénme shíhou* ("kapan", harfiah "waktu apa"): 时 = 日 + 寸, matahari (日) + takaran (寸) = waktu.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>喂 <em>(wèi)</em> bukan sapaan — ia adalah <strong>&quot;cek sinyal&quot;</strong>: memastikan lawan bicara mendengar sebelum percakapan dimulai, seperti &quot;halo-halo, tes&quot; di Indonesia. Makanya urutannya selalu 喂 dulu (pastikan tersambung), baru 你好 (mulai percakapan resmi). Karena fungsinya teknis, 喂 tidak pernah dipakai untuk menyapa orang secara tatap muka.</p>
+<p>喂 <em>(wèi)</em> bukan sapaan, ia adalah <strong>&quot;cek sinyal&quot;</strong>: memastikan lawan bicara mendengar sebelum percakapan dimulai, seperti &quot;halo-halo, tes&quot; di Indonesia. Makanya urutannya selalu 喂 dulu (pastikan tersambung), baru 你好 (mulai percakapan resmi). Karena fungsinya teknis, 喂 tidak pernah dipakai untuk menyapa orang secara tatap muka.</p>
 <p><strong>Pola yang sama:</strong> dalam semua dialog telepon, polanya konsisten: 喂 → 你好 → isi pembicaraan.</p>
-<p><strong>Awas jebakan:</strong> memakai 喂 untuk menyapa orang yang ditemui langsung — terdengar aneh.</p>
+<p><strong>Awas jebakan:</strong> memakai 喂 untuk menyapa orang yang ditemui langsung, terdengar aneh.</p>
 </div>
 
 ## Dialog 7: Di sekolah
@@ -116,10 +116,10 @@
 
 **Bedah dialog:**
 
-- **同学** *tóngxué* ("teman sekelas"): 同学 = 同 + 学 — "belajar (学) bersama (同)" → teman sekelas.
-- **老师** *lǎoshī* ("guru"): 老师 = 老 + 师 — 老 (berpengalaman) + 师 (ahli) → guru, sapaan hormat untuk pengajar.
-- **学习** *xuéxí* ("belajar"): 学 = ⺍ + 子 — anak (子) di bawah atap (⺍) = belajar; 习 = 羽 + 白 — latihan berulang seperti sayap (羽) burung.
-- **几** *jǐ* ("berapa", untuk jumlah kecil): 几 vs 多少 — 几 dipakai kalau jawabannya kecil/bisa dihitung (jam, umur), 多少 untuk yang besar atau tak pasti.
+- **同学** *tóngxué* ("teman sekelas"): 同学 = 同 + 学, "belajar (学) bersama (同)" → teman sekelas.
+- **老师** *lǎoshī* ("guru"): 老师 = 老 + 师, 老 (berpengalaman) + 师 (ahli) → guru, sapaan hormat untuk pengajar.
+- **学习** *xuéxí* ("belajar"): 学 = ⺍ + 子, anak (子) di bawah atap (⺍) = belajar; 习 = 羽 + 白, latihan berulang seperti sayap (羽) burung.
+- **几** *jǐ* ("berapa", untuk jumlah kecil): 几 vs 多少, 几 dipakai kalau jawabannya kecil/bisa dihitung (jam, umur), 多少 untuk yang besar atau tak pasti.
 
 ## Dialog 8: Menanyakan cuaca
 
@@ -173,16 +173,16 @@
 
 **Bedah dialog:**
 
-- **天气** *tiānqì* ("cuaca"): 天 = 大 + 一 — manusia besar (大) di bawah langit (一); 气 = uap/udara.
-- **下雨** *xià yǔ* ("hujan"): 下 (turun) + 雨 (hujan) — "turun hujan".
-- **了** *le* di 下雨了: tanda perubahan keadaan — "mulai/bakal hujan", bukan lampau. Pola Bab 5.
-- **怎么样** *zěnmeyàng* ("bagaimana"): kata tanya untuk meminta pendapat/keadaan — 怎么 + 样.
+- **天气** *tiānqì* ("cuaca"): 天 = 大 + 一, manusia besar (大) di bawah langit (一); 气 = uap/udara.
+- **下雨** *xià yǔ* ("hujan"): 下 (turun) + 雨 (hujan), "turun hujan".
+- **了** *le* di 下雨了: tanda perubahan keadaan, "mulai/bakal hujan", bukan lampau. Pola Bab 5.
+- **怎么样** *zěnmeyàng* ("bagaimana"): kata tanya untuk meminta pendapat/keadaan, 怎么 + 样.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>怎么 bertanya tentang <strong>cara</strong> (&quot;dengan cara apa&quot;: 你怎么去学校？ <em>(nǐ zěnme qù xuéxiào?)</em>), sedangkan 怎么样 bertanya tentang <strong>keadaan/penilaian</strong> (&quot;bagaimana kondisinya&quot;). Cuaca adalah keadaan, bukan cara — makanya 今天天气怎么样？ <em>(jīntiān tiānqì zěnmeyàng?)</em>, bukan 怎么. Bedakan: 怎么 = &quot;how (by what means)&quot;, 怎么样 = &quot;how about / how is it&quot;.</p>
-<p><strong>Pola yang sama:</strong> 你的汉语怎么样？ <em>(nǐ de Hànyǔ zěnmeyàng?)</em> (Bab 5) — menanyakan keadaan kemampuan bahasa.</p>
-<p><strong>Awas jebakan:</strong> 今天天气怎么？ — salah; untuk keadaan harus 怎么样.</p>
+<p>怎么 bertanya tentang <strong>cara</strong> (&quot;dengan cara apa&quot;: 你怎么去学校？ <em>(nǐ zěnme qù xuéxiào?)</em>), sedangkan 怎么样 bertanya tentang <strong>keadaan/penilaian</strong> (&quot;bagaimana kondisinya&quot;). Cuaca adalah keadaan, bukan cara, makanya 今天天气怎么样？ <em>(jīntiān tiānqì zěnmeyàng?)</em>, bukan 怎么. Bedakan: 怎么 = &quot;how (by what means)&quot;, 怎么样 = &quot;how about / how is it&quot;.</p>
+<p><strong>Pola yang sama:</strong> 你的汉语怎么样？ <em>(nǐ de Hànyǔ zěnmeyàng?)</em> (Bab 5), menanyakan keadaan kemampuan bahasa.</p>
+<p><strong>Awas jebakan:</strong> 今天天气怎么？, salah; untuk keadaan harus 怎么样.</p>
 </div>
 
 ## Dialog 9: Mengajak makan
@@ -231,10 +231,10 @@
 
 **Bedah dialog:**
 
-- **饭馆** *fànguǎn* ("rumah makan"): 饭 = 饣 + 反 — makanan/nasi; 馆 = 饣 + 官 — gedung tempat makan. Beda dengan 饭店 (restoran/hotel) dari bab sebelumnya.
-- **好吗** *hǎo ma* ("mau?/bagaimana?"): 好 + 吗 — ajakan sopan, harfiah "baik tidak?".
-- **我们去** *wǒmen qù*: 我们 + kata kerja = ajakan "ayo kita…" — tanpa kata tambahan.
-- **想** *xiǎng* + kata kerja ("ingin…"): 想吃 = ingin makan — pola Bab 5 (想/喜欢/会/能 + kata kerja).
+- **饭馆** *fànguǎn* ("rumah makan"): 饭 = 饣 + 反, makanan/nasi; 馆 = 饣 + 官, gedung tempat makan. Beda dengan 饭店 (restoran/hotel) dari bab sebelumnya.
+- **好吗** *hǎo ma* ("mau?/bagaimana?"): 好 + 吗, ajakan sopan, harfiah "baik tidak?".
+- **我们去** *wǒmen qù*: 我们 + kata kerja = ajakan "ayo kita…", tanpa kata tambahan.
+- **想** *xiǎng* + kata kerja ("ingin…"): 想吃 = ingin makan, pola Bab 5 (想/喜欢/会/能 + kata kerja).
 
 ## Dialog 10: Perpisahan / pamit
 
@@ -276,10 +276,10 @@
 
 **Bedah dialog:**
 
-- **家** *jiā* ("rumah; keluarga"): 家 = 宀 + 豕 — hewan ternak (豕) di bawah atap (宀) = rumah.
-- **回家** *huí jiā* ("pulang ke rumah"): 回 (kembali) + 家 (rumah) — lawan katanya 去 (pergi).
-- **谢谢 ↔ 不客气**: pasangan wajib — terima kasih selalu dibalas sama-sama.
-- **老师** sebagai sapaan: di Mandarin, 老师 bisa dipakai langsung untuk menyapa guru tanpa nama — tanda hormat.
+- **家** *jiā* ("rumah; keluarga"): 家 = 宀 + 豕, hewan ternak (豕) di bawah atap (宀) = rumah.
+- **回家** *huí jiā* ("pulang ke rumah"): 回 (kembali) + 家 (rumah), lawan katanya 去 (pergi).
+- **谢谢 ↔ 不客气**: pasangan wajib, terima kasih selalu dibalas sama-sama.
+- **老师** sebagai sapaan: di Mandarin, 老师 bisa dipakai langsung untuk menyapa guru tanpa nama, tanda hormat.
 
 ## Latihan
 
@@ -291,9 +291,9 @@ Tugasmu: **buat 1 dialog sendiri** (6–8 baris) memakai pola dari 10 dialog di 
 - (d) menanyakan cuaca lalu mengajak makan;
 - (e) pamit ke guru sepulang sekolah.
 
-Aturannya: tulis tiap baris lengkap dengan hanzi + pinyin + arti Indonesia (format `.contoh` seperti di atas). Boleh mencontek struktur kalimat dari dialog contoh — cukup ganti kata bendanya. Tidak ada kunci jawaban kaku; yang penting polanya benar.
+Aturannya: tulis tiap baris lengkap dengan hanzi + pinyin + arti Indonesia (format `.contoh` seperti di atas). Boleh mencontek struktur kalimat dari dialog contoh, cukup ganti kata bendanya. Tidak ada kunci jawaban kaku; yang penting polanya benar.
 
-Contoh jawaban (situasi a — kenalan dengan teman baru di sekolah):
+Contoh jawaban (situasi a, kenalan dengan teman baru di sekolah):
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/c690b7d50008.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 你好！我是学生，你呢？</div>
@@ -337,7 +337,7 @@ Contoh jawaban (situasi a — kenalan dengan teman baru di sekolah):
 <div>Sekarang jam tiga. Ayo pergi!</div>
 </div>
 
-Contoh jawaban (situasi b — beli buah di toko):
+Contoh jawaban (situasi b, beli buah di toko):
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/6e8ac93dfa43.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 你好！</div>
