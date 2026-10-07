@@ -8,37 +8,59 @@ const idNav = [
 ]
 
 const idSidebar = [
+  { text: 'Tentang Buku Ini', link: '/tentang' },
   {
-    text: 'Pengantar',
+    text: 'Bab 0: Persiapan',
+    collapsed: true,
     items: [
-      { text: 'Tentang Buku Ini', link: '/tentang' },
-      { text: 'Bab 0: Persiapan', link: '/bab-0-persiapan' },
+      { text: 'Ikhtisar', link: '/bab-0-persiapan' },
+      { text: 'Pinyin & Nada', link: '/bab-0-pinyin-nada' },
+      { text: 'Praktik Mandiri', link: '/bab-0-praktik' },
+    ],
+  },
+  { text: 'Bab 1: Salam & Perkenalan', link: '/bab-1-salam-perkenalan' },
+  { text: 'Bab 2: Angka, Waktu & Uang', link: '/bab-2-angka-waktu' },
+  {
+    text: 'Bab 3: Radikal & Bedah Hanzi',
+    collapsed: true,
+    items: [
+      { text: 'Ikhtisar', link: '/bab-3-radikal-bedah-hanzi' },
+      { text: 'Radikal Dasar', link: '/bab-3-radikal-dasar' },
+      { text: 'Pola Lanjutan', link: '/bab-3-pola-lanjutan' },
     ],
   },
   {
-    text: 'Fondasi',
+    text: 'Bab 4: Kosakata Sehari-hari',
+    collapsed: true,
     items: [
-      { text: 'Bab 1: Salam & Perkenalan', link: '/bab-1-salam-perkenalan' },
-      { text: 'Bab 2: Angka, Waktu & Uang', link: '/bab-2-angka-waktu' },
-      { text: 'Bab 3: Radikal & Bedah Hanzi', link: '/bab-3-radikal-bedah-hanzi' },
+      { text: 'Ikhtisar', link: '/bab-4-kosakata-sehari-hari' },
+      { text: 'Keluarga, Makanan & Tempat', link: '/bab-4-keluarga-makanan-tempat' },
+      { text: 'Benda, Kata Kerja & Kata Sifat', link: '/bab-4-benda-kerja-sifat' },
+      { text: 'Waktu, Warna & Arah', link: '/bab-4-waktu-warna-arah' },
     ],
   },
   {
-    text: 'Percakapan',
+    text: 'Bab 5: Tata Bahasa Dasar',
+    collapsed: true,
     items: [
-      { text: 'Bab 4: Kosakata Sehari-hari', link: '/bab-4-kosakata-sehari-hari' },
-      { text: 'Bab 5: Tata Bahasa Dasar', link: '/bab-5-tata-bahasa-dasar' },
-      { text: 'Bab 6: Dialog & Percakapan', link: '/bab-6-dialog-percakapan' },
+      { text: 'Ikhtisar', link: '/bab-5-tata-bahasa-dasar' },
+      { text: 'Kalimat Dasar (1–7)', link: '/bab-5-kalimat-dasar' },
+      { text: 'Penjelas & Keterangan (8–13)', link: '/bab-5-penjelas-keterangan' },
+      { text: 'Keberadaan & Posisi (14–19)', link: '/bab-5-keberadaan-posisi' },
     ],
   },
   {
-    text: 'Latihan & Referensi',
+    text: 'Bab 6: Dialog & Percakapan',
+    collapsed: true,
     items: [
-      { text: 'Bank Latihan', link: '/latihan' },
-      { text: 'Daftar Kosakata HSK 1', link: '/kosakata-hsk1' },
-      { text: 'Roadmap: Setelah HSK 1', link: '/roadmap' },
+      { text: 'Ikhtisar', link: '/bab-6-dialog-percakapan' },
+      { text: 'Dialog 1–5', link: '/bab-6-dialog-1-5' },
+      { text: 'Dialog 6–10', link: '/bab-6-dialog-6-10' },
     ],
   },
+  { text: 'Bank Latihan', link: '/latihan' },
+  { text: 'Daftar Kosakata HSK 1', link: '/kosakata-hsk1' },
+  { text: 'Roadmap: Setelah HSK 1', link: '/roadmap' },
 ]
 
 const enNav = [
@@ -49,37 +71,59 @@ const enNav = [
 ]
 
 const enSidebar = [
+  { text: 'About This Book', link: '/en/tentang' },
   {
-    text: 'Introduction',
+    text: 'Chapter 0: Preparation',
+    collapsed: true,
     items: [
-      { text: 'About This Book', link: '/en/tentang' },
-      { text: 'Chapter 0: Preparation', link: '/en/bab-0-persiapan' },
+      { text: 'Overview', link: '/en/bab-0-persiapan' },
+      { text: 'Pinyin & Tones', link: '/en/bab-0-pinyin-nada' },
+      { text: 'Hands-on Practice', link: '/en/bab-0-praktik' },
+    ],
+  },
+  { text: 'Chapter 1: Greetings & Introductions', link: '/en/bab-1-salam-perkenalan' },
+  { text: 'Chapter 2: Numbers, Time & Money', link: '/en/bab-2-angka-waktu' },
+  {
+    text: 'Chapter 3: Radicals & Character Breakdown',
+    collapsed: true,
+    items: [
+      { text: 'Overview', link: '/en/bab-3-radikal-bedah-hanzi' },
+      { text: 'Core Radicals', link: '/en/bab-3-radikal-dasar' },
+      { text: 'Advanced Patterns', link: '/en/bab-3-pola-lanjutan' },
     ],
   },
   {
-    text: 'Foundations',
+    text: 'Chapter 4: Everyday Vocabulary',
+    collapsed: true,
     items: [
-      { text: 'Chapter 1: Greetings & Introductions', link: '/en/bab-1-salam-perkenalan' },
-      { text: 'Chapter 2: Numbers, Time & Money', link: '/en/bab-2-angka-waktu' },
-      { text: 'Chapter 3: Radicals & Character Breakdown', link: '/en/bab-3-radikal-bedah-hanzi' },
+      { text: 'Overview', link: '/en/bab-4-kosakata-sehari-hari' },
+      { text: 'Family, Food & Places', link: '/en/bab-4-keluarga-makanan-tempat' },
+      { text: 'Objects, Verbs & Adjectives', link: '/en/bab-4-benda-kerja-sifat' },
+      { text: 'Time, Colors & Directions', link: '/en/bab-4-waktu-warna-arah' },
     ],
   },
   {
-    text: 'Conversation',
+    text: 'Chapter 5: Basic Grammar',
+    collapsed: true,
     items: [
-      { text: 'Chapter 4: Everyday Vocabulary', link: '/en/bab-4-kosakata-sehari-hari' },
-      { text: 'Chapter 5: Basic Grammar', link: '/en/bab-5-tata-bahasa-dasar' },
-      { text: 'Chapter 6: Dialogues & Conversation', link: '/en/bab-6-dialog-percakapan' },
+      { text: 'Overview', link: '/en/bab-5-tata-bahasa-dasar' },
+      { text: 'Basic Sentences (1–7)', link: '/en/bab-5-kalimat-dasar' },
+      { text: 'Modifiers & Adverbials (8–13)', link: '/en/bab-5-penjelas-keterangan' },
+      { text: 'Existence & Position (14–19)', link: '/en/bab-5-keberadaan-posisi' },
     ],
   },
   {
-    text: 'Practice & Reference',
+    text: 'Chapter 6: Dialogues & Conversation',
+    collapsed: true,
     items: [
-      { text: 'Exercise Bank', link: '/en/latihan' },
-      { text: 'HSK 1 Vocabulary List', link: '/en/kosakata-hsk1' },
-      { text: 'Roadmap: After HSK 1', link: '/en/roadmap' },
+      { text: 'Overview', link: '/en/bab-6-dialog-percakapan' },
+      { text: 'Dialogues 1–5', link: '/en/bab-6-dialog-1-5' },
+      { text: 'Dialogues 6–10', link: '/en/bab-6-dialog-6-10' },
     ],
   },
+  { text: 'Exercise Bank', link: '/en/latihan' },
+  { text: 'HSK 1 Vocabulary List', link: '/en/kosakata-hsk1' },
+  { text: 'Roadmap: After HSK 1', link: '/en/roadmap' },
 ]
 
 export default defineConfig({
