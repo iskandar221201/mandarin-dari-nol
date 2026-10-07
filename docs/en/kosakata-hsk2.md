@@ -1,6 +1,8 @@
 # HSK 2 Vocabulary List
 
-All new HSK 2 vocabulary used in this book, ±150 words, grouped by category. Every word in Chapters 7–9 comes from this list, no "ghost" words.
+All new HSK 2 vocabulary used in this book, ±150 words, grouped by category. Every word in Chapters 7–9 comes from this list, no "ghost" words. Words outside the list that appear in examples/dialogues are always marked as **bonus words**.
+
+> **Source**: this list follows the widely circulated HSK 2.0 vocabulary list (secondary source, cross-checked with *HSK Standard Course*), not an official CTI document. See the [Syllabus](/en/silabus) for details.
 
 > **Memorize gradually following the chapter order**, not all at once. This table is for reference, not marathon memorization.
 

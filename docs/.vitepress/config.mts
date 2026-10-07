@@ -130,74 +130,80 @@ const enNav = [
 const enSidebar = [
   { text: 'About This Book', link: '/en/tentang' },
   {
-    text: 'Chapter 0: Preparation',
-    collapsed: true,
-    items: [
-      { text: 'Overview', link: '/en/bab-0-persiapan' },
-      { text: 'Pinyin & Tones', link: '/en/bab-0-pinyin-nada' },
-      { text: 'Hands-on Practice', link: '/en/bab-0-praktik' },
-    ],
-  },
-  { text: 'Chapter 1: Greetings & Introductions', link: '/en/bab-1-salam-perkenalan' },
-  { text: 'Chapter 2: Numbers, Time & Money', link: '/en/bab-2-angka-waktu' },
-  {
-    text: 'Hanzi Dissection Method',
+    text: 'HSK 1: Foundations',
     collapsed: false,
     items: [
-      { text: 'Dissection Technique', link: '/en/metode-bedah-hanzi' },
-      { text: 'Pattern Gallery', link: '/en/galeri-pola-hanzi' },
-      { text: 'Traps & Limits', link: '/en/jebakan-bedah-hanzi' },
+      {
+        text: 'Chapter 0: Preparation',
+        link: '/en/bab-0-persiapan',
+        collapsed: true,
+        items: [
+          { text: 'Pinyin & Tones', link: '/en/bab-0-pinyin-nada' },
+          { text: 'Hands-on Practice', link: '/en/bab-0-praktik' },
+        ],
+      },
+      { text: 'Chapter 1: Greetings & Introductions', link: '/en/bab-1-salam-perkenalan' },
+      { text: 'Chapter 2: Numbers, Time & Money', link: '/en/bab-2-angka-waktu' },
+      {
+        text: 'Hanzi Dissection Method',
+        link: '/en/metode-bedah-hanzi',
+        collapsed: true,
+        items: [
+          { text: 'Pattern Gallery', link: '/en/galeri-pola-hanzi' },
+          { text: 'Traps & Limits', link: '/en/jebakan-bedah-hanzi' },
+        ],
+      },
+      {
+        text: 'Chapter 3: Radicals & Character Breakdown',
+        link: '/en/bab-3-radikal-bedah-hanzi',
+        collapsed: true,
+        items: [
+          { text: 'Core Radicals', link: '/en/bab-3-radikal-dasar' },
+          { text: 'Advanced Patterns', link: '/en/bab-3-pola-lanjutan' },
+        ],
+      },
+      {
+        text: 'Chapter 4: Everyday Vocabulary',
+        link: '/en/bab-4-kosakata-sehari-hari',
+        collapsed: true,
+        items: [
+          { text: 'Family, Food & Places', link: '/en/bab-4-keluarga-makanan-tempat' },
+          { text: 'Objects, Verbs & Adjectives', link: '/en/bab-4-benda-kerja-sifat' },
+          { text: 'Time, Colors & Directions', link: '/en/bab-4-waktu-warna-arah' },
+        ],
+      },
+      {
+        text: 'Chapter 5: Basic Grammar',
+        link: '/en/bab-5-tata-bahasa-dasar',
+        collapsed: true,
+        items: [
+          { text: 'Basic Sentences (1-7)', link: '/en/bab-5-kalimat-dasar' },
+          { text: 'Modifiers & Adverbials (8-13)', link: '/en/bab-5-penjelas-keterangan' },
+          { text: 'Existence & Position (14-19)', link: '/en/bab-5-keberadaan-posisi' },
+        ],
+      },
+      {
+        text: 'Chapter 6: Dialogues & Conversation',
+        link: '/en/bab-6-dialog-percakapan',
+        collapsed: true,
+        items: [
+          { text: 'Dialogues 1-5', link: '/en/bab-6-dialog-1-5' },
+          { text: 'Dialogues 6-10', link: '/en/bab-6-dialog-6-10' },
+        ],
+      },
+      { text: 'HSK 1 Vocabulary List', link: '/en/kosakata-hsk1' },
+      { text: 'HSK 1 Mock Exam', link: '/en/tryout-hsk1' },
     ],
   },
-  {
-    text: 'Chapter 3: Radicals & Character Breakdown',
-    collapsed: true,
-    items: [
-      { text: 'Overview', link: '/en/bab-3-radikal-bedah-hanzi' },
-      { text: 'Core Radicals', link: '/en/bab-3-radikal-dasar' },
-      { text: 'Advanced Patterns', link: '/en/bab-3-pola-lanjutan' },
-    ],
-  },
-  {
-    text: 'Chapter 4: Everyday Vocabulary',
-    collapsed: true,
-    items: [
-      { text: 'Overview', link: '/en/bab-4-kosakata-sehari-hari' },
-      { text: 'Family, Food & Places', link: '/en/bab-4-keluarga-makanan-tempat' },
-      { text: 'Objects, Verbs & Adjectives', link: '/en/bab-4-benda-kerja-sifat' },
-      { text: 'Time, Colors & Directions', link: '/en/bab-4-waktu-warna-arah' },
-    ],
-  },
-  {
-    text: 'Chapter 5: Basic Grammar',
-    collapsed: true,
-    items: [
-      { text: 'Overview', link: '/en/bab-5-tata-bahasa-dasar' },
-      { text: 'Basic Sentences (1–7)', link: '/en/bab-5-kalimat-dasar' },
-      { text: 'Modifiers & Adverbials (8–13)', link: '/en/bab-5-penjelas-keterangan' },
-      { text: 'Existence & Position (14–19)', link: '/en/bab-5-keberadaan-posisi' },
-    ],
-  },
-  {
-    text: 'Chapter 6: Dialogues & Conversation',
-    collapsed: true,
-    items: [
-      { text: 'Overview', link: '/en/bab-6-dialog-percakapan' },
-      { text: 'Dialogues 1–5', link: '/en/bab-6-dialog-1-5' },
-      { text: 'Dialogues 6–10', link: '/en/bab-6-dialog-6-10' },
-    ],
-  },
-  { text: 'Exercise Bank', link: '/en/latihan' },
-  { text: 'HSK 1 Vocabulary List', link: '/en/kosakata-hsk1' },
   {
     text: 'HSK 2: Level Up',
     collapsed: true,
     items: [
       {
         text: 'Chapter 7: HSK 2 Vocabulary',
+        link: '/en/bab-7-kosakata-hsk2',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/en/bab-7-kosakata-hsk2' },
           { text: 'People & Things', link: '/en/bab-7-orang-benda' },
           { text: 'Food & Adjectives', link: '/en/bab-7-makanan-sifat' },
           { text: 'Activities', link: '/en/bab-7-kegiatan' },
@@ -205,9 +211,9 @@ const enSidebar = [
       },
       {
         text: 'Chapter 8: HSK 2 Grammar',
+        link: '/en/bab-8-tata-bahasa-hsk2',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/en/bab-8-tata-bahasa-hsk2' },
           { text: 'Aspect & Time', link: '/en/bab-8-aspek' },
           { text: 'Comparison & Degree', link: '/en/bab-8-perbandingan' },
           { text: 'Combined Sentences', link: '/en/bab-8-gabungan' },
@@ -215,17 +221,26 @@ const enSidebar = [
       },
       {
         text: 'Chapter 9: HSK 2 Dialogues',
+        link: '/en/bab-9-dialog-hsk2',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/en/bab-9-dialog-hsk2' },
-          { text: 'Dialogues 1–3', link: '/en/bab-9-dialog-1-3' },
-          { text: 'Dialogues 4–6', link: '/en/bab-9-dialog-4-6' },
+          { text: 'Dialogues 1-3', link: '/en/bab-9-dialog-1-3' },
+          { text: 'Dialogues 4-6', link: '/en/bab-9-dialog-4-6' },
         ],
       },
+      { text: 'HSK 2 Vocabulary List', link: '/en/kosakata-hsk2' },
+      { text: 'Chapter 10: HSK 2 Mock Exam', link: '/en/bab-10-tryout-hsk2' },
     ],
   },
-  { text: 'HSK 2 Vocabulary List', link: '/en/kosakata-hsk2' },
-  { text: 'Roadmap: After HSK 2', link: '/en/roadmap' },
+  {
+    text: 'Reference',
+    collapsed: true,
+    items: [
+      { text: 'Exercise Bank', link: '/en/latihan' },
+      { text: 'Syllabus', link: '/en/silabus' },
+      { text: 'Roadmap', link: '/en/roadmap' },
+    ],
+  },
 ]
 
 export default defineConfig({

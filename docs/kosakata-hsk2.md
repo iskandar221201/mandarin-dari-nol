@@ -1,6 +1,8 @@
 # Daftar Kosakata HSK 2
 
-Seluruh kosakata baru HSK 2 yang dipakai di buku ini, ±150 kata, dikelompokkan per kategori. Setiap kata di Bab 7–9 diambil dari daftar ini, tidak ada kata "siluman".
+Seluruh kosakata baru HSK 2 yang dipakai di buku ini, ±150 kata, dikelompokkan per kategori. Setiap kata di Bab 7–9 diambil dari daftar ini, tidak ada kata "siluman". Kata di luar daftar yang muncul di contoh/dialog selalu ditandai **kata bonus**.
+
+> **Sumber**: daftar ini mengacu pada daftar kosakata HSK 2.0 yang beredar luas (sumber sekunder, diselaraskan dengan *HSK Standard Course*), bukan dokumen resmi CTI. Detailnya di [Silabus](/silabus).
 
 > **Hafalkan bertahap mengikuti urutan bab**, jangan dihafal sekaligus. Tabel ini tempat mencontek, bukan tempat menghafal maraton.
 
