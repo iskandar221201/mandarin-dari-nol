@@ -248,44 +248,165 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 
 ## Latihan
 
-1. Susun kata acak ini jadi kalimat tanya yang benar: 学生 / 是 / 他 / 吗
-2. Pilih yang benar: A. 我是高兴 B. 我很高兴
-3. Terjemahkan ke Mandarin: "Dia (perempuan) juga suka teh."
-4. Isi titik-titik dengan kata satuan yang tepat: 这___书是我的。
-5. Betulkan urutan kata ini: 我去学校今天。
-6. Pilih yang benar untuk "Saya kemarin tidak pergi ke toko": A. 我昨天不去商店 B. 我昨天没去商店
-7. Terjemahkan ke Mandarin: "Di rumah sakit ada banyak dokter."
-8. Susun kata acak ini jadi kalimat yang benar: 太 / 热 / 了 / 今天
-9. Susun kata acak ini jadi kalimat yang benar: 我 / 也 / 喜欢 / 狗
-10. Pilih yang benar untuk "Dia (laki-laki) belajar di rumah": A. 他在家学习 B. 他是在家学习
-11. Terjemahkan ke Mandarin: "Saya punya satu buku."
-12. Isi titik-titik dengan kata yang tepat (juga): 她___喜欢茶。
-13. Pilih yang SALAH: A. 你吃什么？ B. 什么你吃？
-14. Terjemahkan ke Mandarin: "Apel ini terlalu besar."
-15. Susun kata acak ini jadi kalimat yang benar: 看 / 电影 / 他 / 昨天
-16. Terjemahkan ke Mandarin: "Buku di atas meja."
-17. Pilih yang benar untuk "di dalam kelas": A. 在里教室 B. 在教室里
-18. Terjemahkan ke Mandarin: "Anjing di bawah meja."
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
 
-<details><summary>Kunci jawaban</summary>
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他是学生吗？" data-explain="他是学生吗？ <span class='quiz-py'>(tā shì xuéshēng ma?) — Apakah dia siswa?</span>">
+<p class="quiz-t"><strong>1.</strong> Susun kata acak ini jadi kalimat tanya yang benar:</p>
+<div class="quiz-words">
+<button type="button" data-w="学生">学生</button>
+<button type="button" data-w="是">是</button>
+<button type="button" data-w="他">他</button>
+<button type="button" data-w="吗">吗</button>
+</div>
+<div>Jawabanmu: <span class="quiz-seq"></span></div>
+<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. 他是学生吗？(*tā shì xuéshēng ma?*) — "Apakah dia siswa?"
-2. **B.** Kata sifat butuh jembatan 很, bukan 是.
-3. 她也喜欢茶。(*tā yě xǐhuan chá.*)
-4. **本** — buku dihitung dengan 本: 这本书.
-5. 我今天去学校。(*wǒ jīntiān qù xuéxiào.*) — keterangan waktu sebelum kata kerja.
-6. **B.** Kejadiannya sudah lewat (kemarin) → pakai 没.
-7. 医院里有很多医生。(*yīyuàn lǐ yǒu hěn duō yīshēng.*)
-8. 今天太热了。(*jīntiān tài rè le.*)
-9. 我也喜欢狗。(*wǒ yě xǐhuan gǒu.*) — "Saya juga suka anjing."
-10. **A.** Lokasi pakai 在, tanpa 是.
-11. 我有一本书。(*wǒ yǒu yī běn shū.*)
-12. **也** — 她也喜欢茶。(*tā yě xǐhuan chá.*)
-13. **B** yang salah. Kata tanya tidak pindah posisi: 什么 tetap di posisi objek.
-14. 这个苹果太大了。(*zhège píngguǒ tài dà le.*)
-15. 他昨天看电影。(*tā zuótiān kàn diànyǐng.*) — "Dia kemarin menonton film." Keterangan waktu sebelum kata kerja.
-16. 书在桌子上。(*shū zài zhuōzi shàng.*)
-17. **B.** Urutannya 在 → tempat → posisi: 在教室里.
-18. 狗在桌子下。(*gǒu zài zhuōzi xià.*)
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我很高兴 <span class='quiz-py'>(wǒ hěn gāoxìng)</span> — kata sifat butuh jembatan 很, bukan 是.">
+<p class="quiz-t"><strong>2.</strong> Pilih yang benar:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我是高兴</button>
+<button type="button" data-opt="B">B. 我很高兴</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="reveal" data-explain="她也喜欢茶。 <span class='quiz-py'>(tā yě xǐhuan chá.)</span>">
+<p class="quiz-t"><strong>3.</strong> Terjemahkan ke Mandarin: "Dia (perempuan) juga suka teh."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="本" data-explain="Buku dihitung dengan 本: 这本书 <span class='quiz-py'>(zhè běn shū)</span>.">
+<p class="quiz-t"><strong>4.</strong> Isi titik-titik dengan kata satuan yang tepat: 这___书是我的。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我今天去学校" data-explain="我今天去学校。 <span class='quiz-py'>(wǒ jīntiān qù xuéxiào.)</span> — keterangan waktu sebelum kata kerja.">
+<p class="quiz-t"><strong>5.</strong> Betulkan urutan kata ini:</p>
+<div class="quiz-words">
+<button type="button" data-w="我">我</button>
+<button type="button" data-w="去">去</button>
+<button type="button" data-w="学校">学校</button>
+<button type="button" data-w="今天">今天</button>
+</div>
+<div>Jawabanmu: <span class="quiz-seq"></span></div>
+<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我昨天没去商店 — kejadiannya sudah lewat (kemarin) → pakai 没.">
+<p class="quiz-t"><strong>6.</strong> Pilih yang benar untuk "Saya kemarin tidak pergi ke toko":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我昨天不去商店</button>
+<button type="button" data-opt="B">B. 我昨天没去商店</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="医院里有很多医生。 <span class='quiz-py'>(yīyuàn lǐ yǒu hěn duō yīshēng.)</span>">
+<p class="quiz-t"><strong>7.</strong> Terjemahkan ke Mandarin: "Di rumah sakit ada banyak dokter."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="今天太热了" data-explain="今天太热了。 <span class='quiz-py'>(jīntiān tài rè le.)</span>">
+<p class="quiz-t"><strong>8.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<div class="quiz-words">
+<button type="button" data-w="太">太</button>
+<button type="button" data-w="热">热</button>
+<button type="button" data-w="了">了</button>
+<button type="button" data-w="今天">今天</button>
+</div>
+<div>Jawabanmu: <span class="quiz-seq"></span></div>
+<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我也喜欢狗" data-explain="我也喜欢狗。 <span class='quiz-py'>(wǒ yě xǐhuan gǒu.)</span> — Saya juga suka anjing.">
+<p class="quiz-t"><strong>9.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<div class="quiz-words">
+<button type="button" data-w="我">我</button>
+<button type="button" data-w="也">也</button>
+<button type="button" data-w="喜欢">喜欢</button>
+<button type="button" data-w="狗">狗</button>
+</div>
+<div>Jawabanmu: <span class="quiz-seq"></span></div>
+<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 他在家学习 — lokasi pakai 在, tanpa 是.">
+<p class="quiz-t"><strong>10.</strong> Pilih yang benar untuk "Dia (laki-laki) belajar di rumah":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 他在家学习</button>
+<button type="button" data-opt="B">B. 他是在家学习</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我有一本书。 <span class='quiz-py'>(wǒ yǒu yī běn shū.)</span>">
+<p class="quiz-t"><strong>11.</strong> Terjemahkan ke Mandarin: "Saya punya satu buku."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="也" data-explain="她也喜欢茶。 <span class='quiz-py'>(tā yě xǐhuan chá.)</span>">
+<p class="quiz-t"><strong>12.</strong> Isi titik-titik dengan kata yang tepat (juga): 她___喜欢茶。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B yang salah — kata tanya tidak pindah posisi: 什么 tetap di posisi objek.">
+<p class="quiz-t"><strong>13.</strong> Pilih yang SALAH:</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 你吃什么？</button>
+<button type="button" data-opt="B">B. 什么你吃？</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="这个苹果太大了。 <span class='quiz-py'>(zhège píngguǒ tài dà le.)</span>">
+<p class="quiz-t"><strong>14.</strong> Terjemahkan ke Mandarin: "Apel ini terlalu besar."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他昨天看电影" data-explain="他昨天看电影。 <span class='quiz-py'>(tā zuótiān kàn diànyǐng.)</span> — Dia kemarin menonton film. Keterangan waktu sebelum kata kerja.">
+<p class="quiz-t"><strong>15.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<div class="quiz-words">
+<button type="button" data-w="看">看</button>
+<button type="button" data-w="电影">电影</button>
+<button type="button" data-w="他">他</button>
+<button type="button" data-w="昨天">昨天</button>
+</div>
+<div>Jawabanmu: <span class="quiz-seq"></span></div>
+<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="书在桌子上。 <span class='quiz-py'>(shū zài zhuōzi shàng.)</span>">
+<p class="quiz-t"><strong>16.</strong> Terjemahkan ke Mandarin: "Buku di atas meja."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B — urutannya 在 → tempat → posisi: 在教室里.">
+<p class="quiz-t"><strong>17.</strong> Pilih yang benar untuk "di dalam kelas":</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 在里教室</button>
+<button type="button" data-opt="B">B. 在教室里</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="狗在桌子下。 <span class='quiz-py'>(gǒu zài zhuōzi xià.)</span>">
+<p class="quiz-t"><strong>18.</strong> Terjemahkan ke Mandarin: "Anjing di bawah meja."</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
