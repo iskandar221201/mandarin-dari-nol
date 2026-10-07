@@ -127,7 +127,7 @@ const enSidebar = [
 ]
 
 export default defineConfig({
-  base: '/mandarin-dari-nol/',
+  base: '/',
 
   // NOTE: per-locale themeConfig WAJIB di dalam tiap locale (locales.<key>.themeConfig),
   // bukan di themeConfig.locales, itu tidak dibaca oleh VitePress.
