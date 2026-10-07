@@ -728,6 +728,110 @@ Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca — kombinas
 <div>Besok saya pergi ke sekolah.</div>
 </div>
 
+## 4.8 Warna (颜色)
+
+Warna-warna dasar — di luar daftar resmi HSK 1, tapi kepake terus dalam obrolan (belanja, deskripsi barang, basa-basi).
+
+| Hanzi | Pinyin | Arti |
+|---|---|---|
+| 红 | hóng | merah |
+| 蓝 | lán | biru |
+| 绿 | lǜ | hijau |
+| 黄 | huáng | kuning |
+| 黑 | hēi | hitam |
+| 白 | bái | putih |
+| 颜色 | yánsè | warna |
+
+<!-- KENAPA:hong -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 红 identik dengan keberuntungan?</div>
+<p><strong>红</strong> (hóng, merah) di budaya Tionghoa berarti keberuntungan dan kegembiraan — bukan bahaya seperti asosiasi Barat. Makanya amplop berisi uang disebut <strong>红包</strong> (hóngbāo, "amplop merah"), lampion merah dipasang saat perayaan, dan baju pengantin tradisional berwarna merah. Kalau melihat sesuatu berwarna merah dalam konteks Tionghoa, default-nya positif.</p>
+<p><strong>Pola yang sama:</strong> tambah <strong>色</strong> (sè, "rona/warna") di belakang warna → versi bendanya: <strong>红色</strong> (hóngsè, "warna merah"), <strong>蓝色</strong> (lánsè, "warna biru"). 我喜欢红色 = "saya suka warna merah".</p>
+<p><strong>Awas jebakan:</strong> 色 tidak selalu berarti "warna" — di kata lain bisa berarti "rupa/ekspresi". Fokus ke pola [warna + 色] dulu.</p>
+</div>
+
+<div class="contoh">
+<div class="hz">我喜欢红色。</div>
+<div class="py">wǒ xǐhuān hóngsè.</div>
+<div>Saya suka warna merah.</div>
+</div>
+
+<div class="contoh">
+<div class="hz">这是蓝色的。</div>
+<div class="py">zhè shì lánsè de.</div>
+<div>Ini berwarna biru.</div>
+</div>
+
+<div class="contoh">
+<div class="hz">他的车是黑色的。</div>
+<div class="py">tā de chē shì hēisè de.</div>
+<div>Mobilnya berwarna hitam.</div>
+</div>
+
+<div class="contoh">
+<div class="hz">白猫很漂亮。</div>
+<div class="py">bái māo hěn piàoliang.</div>
+<div>Kucing putih sangat cantik.</div>
+</div>
+
+## 4.9 Arah Mata Angin & Kata Posisi
+
+Dua kelompok yang sering muncul bareng: arah kompas dan kata posisi (di dalam/di luar/di atas...). Arah mata angin di luar HSK 1 resmi, tapi wajib tahu.
+
+### Arah mata angin
+
+| Hanzi | Pinyin | Arti |
+|---|---|---|
+| 东 | dōng | timur |
+| 南 | nán | selatan |
+| 西 | xī | barat |
+| 北 | běi | utara |
+| 左 | zuǒ | kiri |
+| 右 | yòu | kanan |
+
+Kombinasi arah — polanya [arah + arah]:
+
+| Hanzi | Pinyin | Arti |
+|---|---|---|
+| 东北 | dōngběi | timur laut |
+| 东南 | dōngnán | tenggara |
+| 西北 | xīběi | barat laut |
+| 西南 | xīnán | barat daya |
+
+<!-- KENAPA:dongnanxibei -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa urutannya 东南西北?</div>
+<p>Orang Indonesia menghafal "utara-selatan-timur-barat", tapi Mandarin mengurutkan <strong>东南西北</strong> (dōng-nán-xī-běi) — mulai dari timur. Konon karena matahari terbit di timur, arah timur dianggap paling mulia dalam tradisi Tionghoa, jadi kompas "dibaca" mulai dari sana.</p>
+<p><strong>Pola yang sama:</strong> arah + arah = arah kombinasi (东北, 西南...). Dan ingat <strong>东西</strong> (dōngxi, "barang") dari box kenapa di bab ini — timur + barat yang maknanya melompat jauh jadi "barang".</p>
+<p><strong>Awas jebakan:</strong> <strong>北</strong> (běi, utara, nada 3) vs <strong>背</strong> (bèi, punggung, nada 4) — bentuk mirip, nada beda, arti beda jauh.</p>
+</div>
+
+### Kata posisi
+
+| Hanzi | Pinyin | Arti |
+|---|---|---|
+| 里 | lǐ | dalam |
+| 外 | wài | luar |
+| 上 | shàng | atas |
+| 下 | xià | bawah |
+| 前 | qián | depan |
+| 后 | hòu | belakang |
+| 旁边 | pángbiān | di samping |
+| 中间 | zhōngjiān | di tengah |
+| 对面 | duìmiàn | di seberang |
+| 里面 | lǐmiàn | bagian dalam |
+| 外面 | wàimiàn | bagian luar |
+
+<!-- KENAPA:limian -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa ada 里 dan 里面 dua-duanya?</div>
+<p><strong>里</strong> (lǐ) sendiri sudah berarti "dalam" — versi pendek dan klasik. <strong>里面</strong> (lǐmiàn) = 里 + <strong>面</strong> (miàn, "sisi/permukaan") → "sisi dalam", versi modern yang lebih eksplisit. Keduanya benar dan sering dipakai bergantian.</p>
+<p><strong>Pola yang sama:</strong> X + 面 = "sisi X" — hafal 面 sekali, langsung dapat enam kata: <strong>上面</strong> (shàngmiàn, sisi atas), <strong>下面</strong> (xiàmiàn, sisi bawah), <strong>前面</strong> (qiánmiàn, sisi depan), <strong>后面</strong> (hòumiàn, sisi belakang), <strong>对面</strong> (duìmiàn, sisi seberang).</p>
+<p><strong>Awas jebakan:</strong> 上面/下面 juga dipakai untuk posisi dalam teks: 上面说的 (shàngmiàn shuō de) = "yang dibilang di atas (teks)". Konteks yang menentukan.</p>
+</div>
+
+Cara memakai kata posisi dalam kalimat dibahas tuntas di Bab 5 poin 19 (pola 在 + tempat + posisi).
+
 ## Latihan
 
 1. Terjemahkan ke Mandarin: "Saya suka minum teh."
@@ -742,6 +846,10 @@ Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca — kombinas
 10. Terjemahkan ke Mandarin: "Di dalam toko ada banyak barang."
 11. Apa arti kalimat ini: 今天天气很好。
 12. Buat satu kalimat memakai kata 天气 dan kata sifat dari bab ini.
+13. Terjemahkan ke Mandarin: "Saya suka warna biru."
+14. Apa arti 东北?
+15. Terjemahkan ke Mandarin: "Di samping sekolah ada toko."
+16. Pilih yang benar untuk "bagian dalam": A. 外面 B. 里面
 
 <details><summary>Kunci jawaban</summary>
 
@@ -757,5 +865,9 @@ Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca — kombinas
 10. 商店里有很多东西。(shāngdiàn lǐ yǒu hěn duō dōngxi.) — "Di dalam toko ada banyak barang."
 11. "Cuaca hari ini bagus."
 12. Bebas, selama memakai 天气 + kata sifat. Contoh: 今天天气很热。(jīntiān tiānqì hěn rè.) — "Cuaca hari ini panas."
+13. 我喜欢蓝色。(wǒ xǐhuān lánsè.)
+14. "Timur laut" (dōngběi).
+15. 学校旁边有商店。(xuéxiào pángbiān yǒu shāngdiàn.) — "Di samping sekolah ada toko."
+16. **B.** 里面 (lǐmiàn) = bagian dalam; 外面 (wàimiàn) = bagian luar.
 
 </details>
