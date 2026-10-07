@@ -785,6 +785,33 @@ Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi 
 <p><strong>Awas jebakan:</strong> menyamakan 了 dengan "-ed" bahasa Inggris — padahal 我昨天去商店 (tanpa 了) sudah benar untuk lampau.</p>
 </div>
 
+## 19. Kata posisi: 在 + tempat + 里/上/下 (di dalam/di atas — ala at/in/on)
+
+Di bahasa Inggris, kata posisi ditaruh SEBELUM benda (*pre*-position): *in* the box, *on* the table, *at* the door. Di Mandarin polanya dibalik — kata posisi ditaruh SETELAH tempat, dibuka dengan 在:
+
+**在 + [tempat] + [posisi]**
+
+| Inggris | Mandarin | Contoh |
+|---|---|---|
+| in the classroom | 在教室里 | 学生在教室里。(xuéshēng zài jiàoshì lǐ.) — Murid-murid di dalam kelas. |
+| on the table | 在桌子上 | 杯子在桌子上。(bēizi zài zhuōzi shàng.) — Cangkir di atas meja. |
+| under the table | 在桌子下 | 狗在桌子下。(gǒu zài zhuōzi xià.) — Anjing di bawah meja. |
+| outside the school | 在学校外面 | 我在学校外面。(wǒ zài xuéxiào wàimiàn.) — Saya di luar sekolah. |
+| behind the door | 在门后面 | 他在门后面。(tā zài mén hòumiàn.) — Dia di belakang pintu. |
+| next to the school | 在学校旁边 | 商店在学校旁边。(shāngdiàn zài xuéxiào pángbiān.) — Toko di samping sekolah. |
+
+Catatan: 在 saja tanpa kata posisi juga boleh (他在学校 = "dia di sekolah") — tapi kalau mau spesifik posisinya, kata posisinya wajib ada.
+
+Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas" (posisi subjek) vs 教室里有学生 = "di dalam kelas ada murid" (keberadaan). Keduanya pakai 里 — bedanya siapa yang jadi subjek.
+
+<!-- KENAPA:postposition -->
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa posisinya ditaruh di belakang?</div>
+<p>Inggris memakai <em>pre</em>-position (in/on/at + benda), Mandarin memakai <em>post</em>-position: <strong>在</strong> membuka ("di"), kata posisi menutup (<strong>里/上/下</strong>). Anggap seperti kurung: <strong>在...里</strong> = "di...dalam". Sekali ngeh pola kurungnya, semua posisi tinggal ganti ekornya: 在...上, 在...下, 在...外, 在...前, 在...后, 在...旁边.</p>
+<p><strong>Pola yang sama:</strong> pola "kurung" juga muncul di tempat lain — mis. 从...到 (cóng...dào, "dari...sampai...") yang akan dibahas di HSK 2.</p>
+<p><strong>Awas jebakan:</strong> jangan menaruh posisi di depan seperti Inggris — ✗在里教室 (salah!). Urutannya selalu: 在 → tempat → posisi.</p>
+</div>
+
 ## Latihan
 
 1. Susun kata acak ini jadi kalimat tanya yang benar: 学生 / 是 / 他 / 吗
@@ -802,6 +829,9 @@ Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi 
 13. Pilih yang SALAH: A. 你吃什么？ B. 什么你吃？
 14. Terjemahkan ke Mandarin: "Apel ini terlalu besar."
 15. Susun kata acak ini jadi kalimat yang benar: 看 / 电影 / 他 / 昨天
+16. Terjemahkan ke Mandarin: "Buku di atas meja."
+17. Pilih yang benar untuk "di dalam kelas": A. 在里教室 B. 在教室里
+18. Terjemahkan ke Mandarin: "Anjing di bawah meja."
 
 <details><summary>Kunci jawaban</summary>
 
@@ -820,5 +850,8 @@ Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi 
 13. **B** yang salah. Kata tanya tidak pindah posisi: 什么 tetap di posisi objek.
 14. 这个苹果太大了。(*zhège píngguǒ tài dà le.*)
 15. 他昨天看电影。(*tā zuótiān kàn diànyǐng.*) — "Dia kemarin menonton film." Keterangan waktu sebelum kata kerja.
+16. 书在桌子上。(*shū zài zhuōzi shàng.*)
+17. **B.** Urutannya 在 → tempat → posisi: 在教室里.
+18. 狗在桌子下。(*gǒu zài zhuōzi xià.*)
 
 </details>
