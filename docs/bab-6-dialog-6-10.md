@@ -283,6 +283,81 @@
 
 ## Latihan
 
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/5</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. A berkata 他去商店了 <span class='quiz-py'>(tā qù shāngdiàn le)</span>, artinya 'Dia pergi ke toko'.">
+<p class="quiz-t"><strong>1.</strong> Di dialog 6, ke mana "dia" (他) pergi?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Ke sekolah</button>
+<button type="button" data-opt="B">B. Ke toko</button>
+<button type="button" data-opt="C">C. Ke rumah</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. A menjawab 明天上午 <span class='quiz-py'>(míngtiān shàngwǔ)</span>, artinya 'Besok pagi'.">
+<p class="quiz-t"><strong>2.</strong> Di dialog 6, kapan "dia" pulang (回来)?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Sore ini</button>
+<button type="button" data-opt="B">B. Sekarang</button>
+<button type="button" data-opt="C">C. Besok pagi</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="喂 <span class='quiz-py'>(wèi)</span> adalah sapaan khusus telepon ('halo' di telepon). Tidak dipakai untuk menyapa orang secara tatap muka (dialog 6).">
+<p class="quiz-t"><strong>3.</strong> Apa arti 喂 dan kapan dipakai?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. B berkata 我们的老师是好老师 <span class='quiz-py'>(wǒmen de lǎoshī shì hǎo lǎoshī)</span>, artinya 'Guru kami guru yang baik'. Nama gurunya tidak disebutkan.">
+<p class="quiz-t"><strong>4.</strong> Di dialog 7, siapa guru mereka?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Aska</button>
+<button type="button" data-opt="B">B. Guru yang baik (nama tidak disebutkan)</button>
+<button type="button" data-opt="C">C. Miu</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. B berkata 明天天气不好。下雨了 <span class='quiz-py'>(míngtiān tiānqì bù hǎo. xià yǔ le)</span>, artinya 'Cuaca besok tidak bagus. Hujan'.">
+<p class="quiz-t"><strong>5.</strong> Di dialog 8, bagaimana cuaca besok?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Tidak bagus, hujan</button>
+<button type="button" data-opt="B">B. Bagus, tidak dingin</button>
+<button type="button" data-opt="C">C. Panas</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="不冷，很热 <span class='quiz-py'>(bù lěng, hěn rè)</span> artinya 'Tidak dingin, panas' (dialog 8).">
+<p class="quiz-t"><strong>6.</strong> Apa arti kalimat "不冷，很热"?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. A berkata 我想吃米饭和菜 <span class='quiz-py'>(wǒ xiǎng chī mǐfàn hé cài)</span>, artinya 'Saya mau makan nasi dan lauk'.">
+<p class="quiz-t"><strong>7.</strong> Di dialog 9, apa yang ingin mereka makan?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Apel</button>
+<button type="button" data-opt="B">B. Teh</button>
+<button type="button" data-opt="C">C. Nasi dan lauk</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="A pamit ke guru: 老师，再见！ <span class='quiz-py'>(lǎoshī, zàijiàn!)</span> A mau pulang: 我现在回家 <span class='quiz-py'>(wǒ xiànzài huí jiā)</span>, artinya 'Saya pulang ke rumah sekarang' (dialog 10).">
+<p class="quiz-t"><strong>8.</strong> Di dialog 10, kepada siapa A pamit dan A mau ke mana?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
+
+## Tugas Kreatif
+
 Tugasmu: **buat 1 dialog sendiri** (6–8 baris) memakai pola dari 10 dialog di atas. Pilih satu situasi:
 
 - (a) kenalan dengan teman baru di sekolah;

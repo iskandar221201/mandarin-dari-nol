@@ -300,3 +300,78 @@
 <p><strong>Awas jebakan:</strong> meniru pola Indonesia "stasiunnya di mana?" lalu membuang 在-nya.</p>
 </div>
 
+
+## Latihan
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/5</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. B berkata 我叫 Aska <span class='quiz-py'>(wǒ jiào Aska)</span>, artinya 'Nama saya Aska'.">
+<p class="quiz-t"><strong>1.</strong> Di dialog 1, siapa yang bernama Aska?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. A</button>
+<button type="button" data-opt="B">B. B</button>
+<button type="button" data-opt="C">C. Tidak disebutkan</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. B menjawab 我二十五岁 <span class='quiz-py'>(wǒ èrshíwǔ suì)</span>, artinya 'Saya 25 tahun'.">
+<p class="quiz-t"><strong>2.</strong> Di dialog 2, berapa umur B?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 15 tahun</button>
+<button type="button" data-opt="B">B. 35 tahun</button>
+<button type="button" data-opt="C">C. 25 tahun</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. B berkata 我住在北京 <span class='quiz-py'>(wǒ zhù zài Běijīng)</span>, artinya 'Saya tinggal di Beijing'.">
+<p class="quiz-t"><strong>3.</strong> Di dialog 2, di mana B tinggal?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Beijing</button>
+<button type="button" data-opt="B">B. Shanghai</button>
+<button type="button" data-opt="C">C. Guangzhou</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你想吃什么？ <span class='quiz-py'>(nǐ xiǎng chī shénme?)</span> artinya 'Kamu mau makan apa?' (dialog 3).">
+<p class="quiz-t"><strong>4.</strong> Apa arti kalimat "你想吃什么？"?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. B berkata 那个五块钱 <span class='quiz-py'>(nàge wǔ kuài qián)</span>, artinya 'Yang itu lima yuan'.">
+<p class="quiz-t"><strong>5.</strong> Di dialog 4, berapa harga apel "yang itu" (那个)?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Tiga yuan</button>
+<button type="button" data-opt="B">B. Tujuh yuan</button>
+<button type="button" data-opt="C">C. Lima yuan</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="B yang berkata 现在三点 <span class='quiz-py'>(xiànzài sān diǎn)</span>, artinya 'Sekarang jam tiga' (dialog 5).">
+<p class="quiz-t"><strong>6.</strong> Siapa yang berkata "现在三点" dan apa artinya?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. B menjawab 在前面 <span class='quiz-py'>(zài qiánmian)</span>, artinya 'Di depan'.">
+<p class="quiz-t"><strong>7.</strong> Di dialog 5, di mana stasiun kereta (火车站)?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Di belakang</button>
+<button type="button" data-opt="B">B. Di depan</button>
+<button type="button" data-opt="C">C. Di atas</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="A menjawab: 不是，我是中国人。 <span class='quiz-py'>(bù shì, wǒ shì Zhōngguó rén.)</span> Artinya 'Bukan, saya orang Tiongkok' (dialog 1).">
+<p class="quiz-t"><strong>8.</strong> Bagaimana A menjawab pertanyaan "你是北京人吗？"?</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
