@@ -1,6 +1,6 @@
 # Bank Latihan
 
-Kumpulan soal interaktif per bab. Kerjakan setelah membaca babnya — jawaban langsung dicek otomatis begitu kamu menjawab. Soal terjemahan tidak masuk skor; cocokkan sendiri dengan jawaban yang muncul.
+Kumpulan soal interaktif per bab. Kerjakan setelah membaca babnya, jawaban langsung dicek otomatis begitu kamu menjawab. Soal terjemahan tidak masuk skor; cocokkan sendiri dengan jawaban yang muncul.
 
 Cara main:
 
@@ -13,7 +13,7 @@ Cara main:
 - **Lengkapi** = lengkapi dialog yang rumpang, lalu cek.
 
 
-## Bab 0 — Persiapan (pinyin & nada)
+## Bab 0, Persiapan (pinyin & nada)
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
@@ -82,7 +82,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="1-c, 2-b, 3-a — 水 <span class='quiz-py'>(shuǐ)</span>, 茶 <span class='quiz-py'>(chá)</span>, 狗 <span class='quiz-py'>(gǒu)</span>.">
+<div class="quiz-q" data-type="reveal" data-explain="1-c, 2-b, 3-a, 水 <span class='quiz-py'>(shuǐ)</span>, 茶 <span class='quiz-py'>(chá)</span>, 狗 <span class='quiz-py'>(gǒu)</span>.">
 <p class="quiz-t"><strong>9.</strong> Pasangkan hanzi dengan pinyinnya:<br>1. 水 2. 茶 3. 狗<br>a. gǒu b. chá c. shuǐ</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>
@@ -128,7 +128,7 @@ Cara main:
 
 </div>
 
-## Bab 1 — Salam & perkenalan
+## Bab 1, Salam & perkenalan
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
@@ -251,7 +251,7 @@ Cara main:
 
 </div>
 
-## Bab 2 — Angka & waktu
+## Bab 2, Angka & waktu
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/13</span></div>
@@ -277,7 +277,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Untuk menghitung benda dipakai 两 <span class='quiz-py'>(liǎng)</span>, bukan 二 — 二 hanya untuk angka murni/urutan.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Untuk menghitung benda dipakai 两 <span class='quiz-py'>(liǎng)</span>, bukan 二, 二 hanya untuk angka murni/urutan.">
 <p class="quiz-t"><strong>4.</strong> Untuk menghitung benda ("dua apel"), yang benar adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 二苹果</button><button type="button" data-opt="B">B. 两苹果</button><button type="button" data-opt="C">C. 二个苹果</button><button type="button" data-opt="D">D. 二本苹果</button>
@@ -298,7 +298,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="我二十岁。 <span class='quiz-py'>(wǒ èrshí suì.)</span> — umur pakai 岁, bukan 个.">
+<div class="quiz-q" data-type="reveal" data-explain="我二十岁。 <span class='quiz-py'>(wǒ èrshí suì.)</span>, umur pakai 岁, bukan 个.">
 <p class="quiz-t"><strong>6.</strong> "Umur saya 20 tahun." → ...</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>
@@ -374,7 +374,7 @@ Cara main:
 
 </div>
 
-## Bab 3 — Radikal & bedah hanzi
+## Bab 3, Radikal & bedah hanzi
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
@@ -486,7 +486,7 @@ Cara main:
 
 </div>
 
-## Bab 4 — Kosakata sehari-hari
+## Bab 4, Kosakata sehari-hari
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/10</span></div>
@@ -556,7 +556,7 @@ Cara main:
 </div>
 
 <div class="quiz-q" data-type="fill" data-scored="1" data-answer="苹" data-explain="苹果 <span class='quiz-py'>(píngguǒ)</span>; 苹 = 艹 + 平.">
-<p class="quiz-t"><strong>9.</strong> ...果 ("apel" — tulis hanzi pertamanya)</p>
+<p class="quiz-t"><strong>9.</strong> ...果 ("apel", tulis hanzi pertamanya)</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="苹">苹</button><button type="button" data-chip="平">平</button><button type="button" data-chip="草">草</button></div>
 <p class="quiz-fb" hidden></p>
@@ -605,7 +605,7 @@ Cara main:
 
 </div>
 
-## Bab 5 — Tata bahasa dasar
+## Bab 5, Tata bahasa dasar
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/16</span></div>
@@ -639,7 +639,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="漂亮的衣服" data-explain="漂亮的衣服 <span class='quiz-py'>(piàoliang de yīfu)</span> — &quot;pakaian yang cantik&quot;.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="漂亮的衣服" data-explain="漂亮的衣服 <span class='quiz-py'>(piàoliang de yīfu)</span>, &quot;pakaian yang cantik&quot;.">
 <p class="quiz-t"><strong>5.</strong> Susun jadi frasa:</p>
 <p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
@@ -666,8 +666,8 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="太" data-explain="今天太热了。 <span class='quiz-py'>(jīntiān tài rè le.)</span> — pola 太 + adj + 了.">
-<p class="quiz-t"><strong>8.</strong> 今天...热了。 ("Hari ini terlalu panas." — lengkapi polanya)</p>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="太" data-explain="今天太热了。 <span class='quiz-py'>(jīntiān tài rè le.)</span>, pola 太 + adj + 了.">
+<p class="quiz-t"><strong>8.</strong> 今天...热了。 ("Hari ini terlalu panas.", lengkapi polanya)</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="太">太</button><button type="button" data-chip="很">很</button><button type="button" data-chip="都">都</button></div>
 <p class="quiz-fb" hidden></p>
@@ -676,12 +676,12 @@ Cara main:
 <div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="了 menandai keadaan berubah, bukan (semata) lampau.">
 <p class="quiz-t"><strong>9.</strong> 下雨了! artinya...</p>
 <div class="quiz-opts">
-<button type="button" data-opt="A">A. kemarin hujan</button><button type="button" data-opt="B">B. sekarang (mulai) hujan — keadaan baru berubah</button><button type="button" data-opt="C">C. tidak hujan</button><button type="button" data-opt="D">D. tahun depan akan hujan</button>
+<button type="button" data-opt="A">A. kemarin hujan</button><button type="button" data-opt="B">B. sekarang (mulai) hujan, keadaan baru berubah</button><button type="button" data-opt="C">C. tidak hujan</button><button type="button" data-opt="D">D. tahun depan akan hujan</button>
 </div>
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="S — kejadian lampau → pakai 没.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="S, kejadian lampau → pakai 没.">
 <p class="quiz-t"><strong>10a.</strong> 不 bisa dipakai untuk menyangkal kejadian lampau. (B/S)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. Benar</button><button type="button" data-opt="S">S. S. Salah</button>
@@ -720,7 +720,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="你在哪儿? <span class='quiz-py'>(nǐ zài nǎr?)</span> — posisi kata tanya tetap, tidak pindah ke depan.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="你在哪儿? <span class='quiz-py'>(nǐ zài nǎr?)</span>, posisi kata tanya tetap, tidak pindah ke depan.">
 <p class="quiz-t"><strong>13.</strong> Kalimat tanya "kamu di mana?" yang benar adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 你在哪儿?</button><button type="button" data-opt="B">B. 你哪儿在?</button><button type="button" data-opt="C">C. 在你哪儿?</button>
@@ -728,7 +728,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="S — 和 hanya menyambung kata benda.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="S, 和 hanya menyambung kata benda.">
 <p class="quiz-t"><strong>14a.</strong> 和 bisa dipakai untuk menyambung dua kata kerja. (B/S)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. Benar</button><button type="button" data-opt="S">S. S. Salah</button>
@@ -744,7 +744,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="S — 很 bisa sekadar penghubung kata sifat, tidak selalu &quot;sangat&quot;.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="S, 很 bisa sekadar penghubung kata sifat, tidak selalu &quot;sangat&quot;.">
 <p class="quiz-t"><strong>14c.</strong> 很 selalu berarti "sangat". (B/S)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. Benar</button><button type="button" data-opt="S">S. S. Salah</button>
@@ -760,7 +760,7 @@ Cara main:
 
 </div>
 
-## Bab 6 — Dialog & percakapan
+## Bab 6, Dialog & percakapan
 
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
@@ -850,7 +850,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="在" data-explain="在,我在家。 <span class='quiz-py'>(zài, wǒ zài jiā.)</span> — &quot;ada, saya di rumah.&quot;">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="在" data-explain="在,我在家。 <span class='quiz-py'>(zài, wǒ zài jiā.)</span>, &quot;ada, saya di rumah.&quot;">
 <p class="quiz-t"><strong>12.</strong> Lengkapi:<br>A: 喂,你在家吗?<br>B: ... ,我在家。</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="在">在</button><button type="button" data-chip="是">是</button><button type="button" data-chip="有">有</button></div>

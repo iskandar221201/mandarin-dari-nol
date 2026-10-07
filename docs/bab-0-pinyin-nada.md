@@ -1,8 +1,8 @@
 # Bab 0 · 0.1–0.5: Pinyin & Nada
 
-## 0.1 — Bahasa Mandarin itu apa sih?
+## 0.1: Bahasa Mandarin itu apa sih?
 
-Yang kita pelajari namanya **普通话 (pǔtōnghuà)** — harfiahnya "bahasa umum". Ini bahasa Mandarin standar yang dipakai di Tiongkok daratan, diajarkan di sekolah-sekolah, dan dipakai di ujian HSK.
+Yang kita pelajari namanya **普通话 (pǔtōnghuà)**, harfiahnya "bahasa umum". Ini bahasa Mandarin standar yang dipakai di Tiongkok daratan, diajarkan di sekolah-sekolah, dan dipakai di ujian HSK.
 
 
 | Hanzi | Pinyin | Arti |
@@ -12,11 +12,11 @@ Yang kita pelajari namanya **普通话 (pǔtōnghuà)** — harfiahnya "bahasa u
 | 拼音 | pīnyīn | sistem penulisan bunyi Mandarin dengan huruf Latin |
 
 
-## 0.2 — Simplified vs Traditional: kenapa kita pakai yang simplified?
+## 0.2: Simplified vs Traditional: kenapa kita pakai yang simplified?
 
 Hanzi punya dua versi: **simplified** (goresannya disederhanakan, dipakai di Tiongkok daratan & Singapura) dan **traditional** (bentuk klasik, dipakai di Taiwan, Hong Kong, Macau). Versi simplified dirancang supaya lebih gampang dipelajari.
 
-Buku ini — dan ujian HSK — pakai **simplified**. Contoh bedanya:
+Buku ini, dan ujian HSK, pakai **simplified**. Contoh bedanya:
 
 | Simplified | Traditional | Pinyin | Arti |
 |---|---|---|---|
@@ -26,22 +26,22 @@ Buku ini — dan ujian HSK — pakai **simplified**. Contoh bedanya:
 | 你好 | 你好 | nǐ hǎo | halo (sama di dua versi) |
 
 ::: info
-Kadang kamu bakal ketemu traditional di dunia nyata — misal caption Threads dari Taiwan. Jangan panik: banyak yang bentuknya mirip, dan polanya bisa ditebak kalau kamu sudah paham komponen hanzi (dibahas di [Bab 3](/bab-3-radikal-bedah-hanzi)).
+Kadang kamu bakal ketemu traditional di dunia nyata, misal caption Threads dari Taiwan. Jangan panik: banyak yang bentuknya mirip, dan polanya bisa ditebak kalau kamu sudah paham komponen hanzi (dibahas di [Bab 3](/bab-3-radikal-bedah-hanzi)).
 :::
 
-## 0.3 — Pinyin: nulis bunyi pakai huruf Latin
+## 0.3: Pinyin: nulis bunyi pakai huruf Latin
 
 Satu suku kata Mandarin = **initial** (bunyi pembuka) + **final** (bunyi vokal) + **nada**. Contoh: `hǎo` = `h` + `ao` + nada 3.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa pinyin pakai huruf Latin, bukan simbol sendiri?</div>
-<p>Pinyin dirancang tahun 1950-an (tim Zhou Youguang) buat berantas buta huruf — huruf Latin dipilih karena sudah jadi standar internasional: gampang dicetak, gampang diketik, dan familiar buat orang asing. Sebelumnya ada sistem Wade-Giles (nulis "t'a" buat tā, ribet pakai apostrof) dan Zhuyin/Bopomofo (ㄅㄆㄇㄈ — simbol unik yang masih dipakai di Taiwan sampai sekarang).</p>
-<p><strong>Pola yang sama:</strong> Taiwan pakai Zhuyin (ㄅㄆㄇㄈ) buat bunyi yang sama persis — beda "kemasan", isi sama.</p>
-<p><strong>Awas jebakan:</strong> yang dipinjam cuma BENTUK hurufnya, bukan bunyinya — q, x, c, zh sama sekali nggak dibaca kayak bahasa Inggris. Jangan percaya insting Inggrismu di sini.</p>
+<p>Pinyin dirancang tahun 1950-an (tim Zhou Youguang) buat berantas buta huruf, huruf Latin dipilih karena sudah jadi standar internasional: gampang dicetak, gampang diketik, dan familiar buat orang asing. Sebelumnya ada sistem Wade-Giles (nulis "t'a" buat tā, ribet pakai apostrof) dan Zhuyin/Bopomofo (ㄅㄆㄇㄈ, simbol unik yang masih dipakai di Taiwan sampai sekarang).</p>
+<p><strong>Pola yang sama:</strong> Taiwan pakai Zhuyin (ㄅㄆㄇㄈ) buat bunyi yang sama persis, beda "kemasan", isi sama.</p>
+<p><strong>Awas jebakan:</strong> yang dipinjam cuma BENTUK hurufnya, bukan bunyinya, q, x, c, zh sama sekali nggak dibaca kayak bahasa Inggris. Jangan percaya insting Inggrismu di sini.</p>
 </div>
 
 ::: tip
-Klik 🔊 di tiap huruf untuk mendengar bunyinya — setiap bunyi didemokan dengan satu kata (mis. **b** → 波 **bō**). Untuk initial dan final, yang penting adalah bunyi pembuka/vokalnya, bukan arti katanya.
+Klik 🔊 di tiap huruf untuk mendengar bunyinya, setiap bunyi didemokan dengan satu kata (mis. **b** → 波 **bō**). Untuk initial dan final, yang penting adalah bunyi pembuka/vokalnya, bukan arti katanya.
 :::
 
 **Initial** (bunyi pembuka):
@@ -68,18 +68,18 @@ Klik 🔊 di tiap huruf untuk mendengar bunyinya — setiap bunyi didemokan deng
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa ada y/w di tabel initial?</div>
-<p>y dan w di situ sebenarnya <strong>bukan konsonan</strong> — mereka "pemisah". Suku kata yang diawali i/u/ü bakal ambigu kalau ditulis polos ("ian" itu satu suku kata atau i+an?), jadi pinyin menyisipkan y/w biar batas suku katanya jelas: i → yi (一 yī), u → wu (五 wǔ), ü → yu (月 yuè). Mereka nambah NOL bunyi — yī bunyinya persis kayak "ī" kalau "ī" boleh ditulis.</p>
-<p><strong>Pola yang sama:</strong> 一 yī, 有 yǒu, 五 wǔ, 月 yuè — bandingkan dengan 学 xué (ada initial x asli, nggak butuh y/w).</p>
-<p><strong>Awas jebakan:</strong> jangan bunyikan konsonan "y" Inggris di yī — nggak ada bunyi "y" di sana, cuma perancah ejaan.</p>
+<p>y dan w di situ sebenarnya <strong>bukan konsonan</strong>, mereka "pemisah". Suku kata yang diawali i/u/ü bakal ambigu kalau ditulis polos ("ian" itu satu suku kata atau i+an?), jadi pinyin menyisipkan y/w biar batas suku katanya jelas: i → yi (一 yī), u → wu (五 wǔ), ü → yu (月 yuè). Mereka nambah NOL bunyi, yī bunyinya persis kayak "ī" kalau "ī" boleh ditulis.</p>
+<p><strong>Pola yang sama:</strong> 一 yī, 有 yǒu, 五 wǔ, 月 yuè, bandingkan dengan 学 xué (ada initial x asli, nggak butuh y/w).</p>
+<p><strong>Awas jebakan:</strong> jangan bunyikan konsonan "y" Inggris di yī, nggak ada bunyi "y" di sana, cuma perancah ejaan.</p>
 </div>
 
 Yang bacaannya "nggak sesuai dugaan":
 
 - **j** ≈ "c" ringan (kayak "cinta" tapi lebih lembut), **q** ≈ "c" berdesis, **x** ≈ "sy" (kayak "syarat")
-- **ü** — monyongkan bibir kayak mau bilang "u", tapi bunyikan "i"
-- **zh / ch / sh / r** — lidah ditekuk ke belakang, bunyinya lebih berat dari z / c / s biasa
+- **ü**, monyongkan bibir kayak mau bilang "u", tapi bunyikan "i"
+- **zh / ch / sh / r**, lidah ditekuk ke belakang, bunyinya lebih berat dari z / c / s biasa
 
-**Initial + contoh kata HSK 1** — baca tiap baris, cocokkan bunyinya dengan kata yang sudah (atau bakal) kamu kenal:
+**Initial + contoh kata HSK 1**, baca tiap baris, cocokkan bunyinya dengan kata yang sudah (atau bakal) kamu kenal:
 
 | Initial | Contoh kata |
 |---|---|
@@ -107,7 +107,7 @@ Yang bacaannya "nggak sesuai dugaan":
 | y | 一 **yī**, 有 **yǒu**, 月 **yuè** |
 | w | 我 **wǒ**, 我们 **wǒmen**, 五 **wǔ** |
 
-**Kombinasi tricky** — hafal pola ini, banyak membantu:
+**Kombinasi tricky**, hafal pola ini, banyak membantu:
 
 | Pola | Aturan | Contoh HSK 1 |
 |---|---|---|
@@ -115,22 +115,22 @@ Yang bacaannya "nggak sesuai dugaan":
 | n/l + ü | ü **tetap pakai titik dua** | 女 **nǚ** (di 女儿) |
 | -ng di akhir | sengau, tahan di hidung | 生 **shēng** (di 学生), 中 **zhōng** (di 中国), 明 **míng** (di 明天) |
 
-<div class="bedah"><strong>去</strong> (qù, pergi) — pinyin aslinya qǜ, tapi karena ü ketemu q, titik duanya dibuang di tulisan. Bacanya tetap "qü", bukan "qu".</div>
+<div class="bedah"><strong>去</strong> (qù, pergi), pinyin aslinya qǜ, tapi karena ü ketemu q, titik duanya dibuang di tulisan. Bacanya tetap "qü", bukan "qu".</div>
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa ü kehilangan titik dua setelah j/q/x?</div>
-<p>Karena j, q, x <strong>tidak pernah</strong> ketemu u biasa — mereka cuma bisa ketemu ü. Jadi tulisan "qu" nggak mungkin ambigu: nggak ada bunyi "kuh-u" setelah q yang perlu dibedakan. Titik duanya dibuang biar ngetiknya gampang. Logika yang sama buat y: yu, yue, yun selalu ü. Tapi n dan l <strong>bisa</strong> ketemu u maupun ü, jadi titik duanya wajib dipertahankan biar nggak ketuker.</p>
-<p><strong>Pola yang sama:</strong> 去 qù (= qǜ), 学 xué (= xüé), 月 yuè (= üè) — titik dibuang; vs 女 nǚ — titik dipertahankan.</p>
-<p><strong>Awas jebakan:</strong> ejaannya berbohong, bunyinya tidak — "qu" tetap dibaca "qü" (bibir monyong kayak ü), bukan "ku".</p>
+<p>Karena j, q, x <strong>tidak pernah</strong> ketemu u biasa, mereka cuma bisa ketemu ü. Jadi tulisan "qu" nggak mungkin ambigu: nggak ada bunyi "kuh-u" setelah q yang perlu dibedakan. Titik duanya dibuang biar ngetiknya gampang. Logika yang sama buat y: yu, yue, yun selalu ü. Tapi n dan l <strong>bisa</strong> ketemu u maupun ü, jadi titik duanya wajib dipertahankan biar nggak ketuker.</p>
+<p><strong>Pola yang sama:</strong> 去 qù (= qǜ), 学 xué (= xüé), 月 yuè (= üè), titik dibuang; vs 女 nǚ, titik dipertahankan.</p>
+<p><strong>Awas jebakan:</strong> ejaannya berbohong, bunyinya tidak, "qu" tetap dibaca "qü" (bibir monyong kayak ü), bukan "ku".</p>
 </div>
 
 ::: tip
 Nggak perlu sempurna di bab ini. Pinyin itu alat bantu baca, bukan target hafalan. Yang penting: tiap lihat pinyin, kamu tahu cara mendekati bunyinya.
 :::
 
-## 0.4 — Empat nada + satu nada netral
+## 0.4: Empat nada + satu nada netral
 
-Nada itu WAJIB di Mandarin — beda nada, beda arti. Ada 4 nada utama + 1 nada netral (ringan).
+Nada itu WAJIB di Mandarin, beda nada, beda arti. Ada 4 nada utama + 1 nada netral (ringan).
 
 | Nada | Nama | Cara baca | Contoh |
 |---|---|---|---|
@@ -142,23 +142,23 @@ Nada itu WAJIB di Mandarin — beda nada, beda arti. Ada 4 nada utama + 1 nada n
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa tanda nada bentuknya begitu?</div>
-<p>Empat tanda nada itu sebenarnya <strong>gambar melodi</strong>: ˉ datar-tinggi, ˊ naik kayak lagi nanya "hah?", ˇ turun dulu baru naik, ˋ jatuh tajam. Tandanya literally menggambar gerakan nada suaramu — kamu hampir bisa "membaca" nadanya cuma dari bentuk gambarnya. Makanya nada netral nggak punya tanda: dibaca pendek dan ringan, nggak ada melodi tetap yang perlu digambar.</p>
-<p><strong>Pola yang sama:</strong> 妈 mā (datar), 麻 má (naik), 马 mǎ (turun-naik), 骂 mà (jatuh) — satu bunyi "ma", empat gambar, empat melodi.</p>
-<p><strong>Awas jebakan:</strong> di omongan cepat, nada 3 jarang melakukan full turun-naik — biasanya cuma turun rendah doang. Tanda ˇ itu versi "kamus"-nya; versi santainya cuma setengahnya.</p>
+<p>Empat tanda nada itu sebenarnya <strong>gambar melodi</strong>: ˉ datar-tinggi, ˊ naik kayak lagi nanya "hah?", ˇ turun dulu baru naik, ˋ jatuh tajam. Tandanya literally menggambar gerakan nada suaramu, kamu hampir bisa "membaca" nadanya cuma dari bentuk gambarnya. Makanya nada netral nggak punya tanda: dibaca pendek dan ringan, nggak ada melodi tetap yang perlu digambar.</p>
+<p><strong>Pola yang sama:</strong> 妈 mā (datar), 麻 má (naik), 马 mǎ (turun-naik), 骂 mà (jatuh), satu bunyi "ma", empat gambar, empat melodi.</p>
+<p><strong>Awas jebakan:</strong> di omongan cepat, nada 3 jarang melakukan full turun-naik, biasanya cuma turun rendah doang. Tanda ˇ itu versi "kamus"-nya; versi santainya cuma setengahnya.</p>
 </div>
 
-**Minimal pair** — satu bunyi "ma", empat arti yang beda cuma karena nada:
+**Minimal pair**, satu bunyi "ma", empat arti yang beda cuma karena nada:
 
-- 妈 **mā** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma1.mp3" aria-label="Dengar 妈" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 1) — ibu
-- 麻 **má** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma2.mp3" aria-label="Dengar 麻" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 2) — rami
-- 马 **mǎ** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma3.mp3" aria-label="Dengar 马" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 3) — kuda
-- 骂 **mà** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma4.mp3" aria-label="Dengar 骂" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 4) — memaki
+- 妈 **mā** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma1.mp3" aria-label="Dengar 妈" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 1), ibu
+- 麻 **má** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma2.mp3" aria-label="Dengar 麻" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 2), rami
+- 马 **mǎ** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma3.mp3" aria-label="Dengar 马" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 3), kuda
+- 骂 **mà** <button class="audio-btn audio-btn-inline" data-audio="audio/py-ma4.mp3" aria-label="Dengar 骂" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button> (nada 4), memaki
 
 ::: info
-Empat kata di atas cuma contoh bunyi, bukan kosakata HSK 1 — nggak perlu dihafal artinya. Fokus ke beda nadanya dulu.
+Empat kata di atas cuma contoh bunyi, bukan kosakata HSK 1, nggak perlu dihafal artinya. Fokus ke beda nadanya dulu.
 :::
 
-**Minimal pair dari kosakata HSK 1** — beda nada, beda arti, dan dua-duanya bakal sering kepake:
+**Minimal pair dari kosakata HSK 1**, beda nada, beda arti, dan dua-duanya bakal sering kepake:
 
 | A | | B | | Bedanya |
 |---|---|---|---|---|
@@ -175,21 +175,21 @@ Nada netral (sering disebut "nada 5") ditulis **tanpa tanda nada**: pendek dan r
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 吗/呢/的 nadanya netral?</div>
-<p>Partikel tata bahasa itu "pemain pendukung" kalimat — mereka nggak bawa arti sendiri, cuma bawa fungsi (吗 = penanya, 的 = penghubung milik, 呢 = penanya susulan). Karena nggak penting secara makna, mereka diucap cepat dan ringan, tanpa penekanan. Nggak ada tanda nada = nggak ada melodi tetap = "baca sekilas aja". Hilangnya tanda itu sendiri adalah informasinya.</p>
-<p><strong>Pola yang sama:</strong> 吗 ma, 呢 ne, 的 de, 了 le — semuanya netral, semuanya partikel tata bahasa.</p>
-<p><strong>Awas jebakan:</strong> kalau lihat suku kata tanpa tanda nada, jangan dibaca dengan penekanan penuh — baca pendek dan lemas. Itu bedanya 妈 mā (nada 1, "ibu", penting) vs 吗 ma (netral, "cuma penanya").</p>
+<p>Partikel tata bahasa itu "pemain pendukung" kalimat, mereka nggak bawa arti sendiri, cuma bawa fungsi (吗 = penanya, 的 = penghubung milik, 呢 = penanya susulan). Karena nggak penting secara makna, mereka diucap cepat dan ringan, tanpa penekanan. Nggak ada tanda nada = nggak ada melodi tetap = "baca sekilas aja". Hilangnya tanda itu sendiri adalah informasinya.</p>
+<p><strong>Pola yang sama:</strong> 吗 ma, 呢 ne, 的 de, 了 le, semuanya netral, semuanya partikel tata bahasa.</p>
+<p><strong>Awas jebakan:</strong> kalau lihat suku kata tanpa tanda nada, jangan dibaca dengan penekanan penuh, baca pendek dan lemas. Itu bedanya 妈 mā (nada 1, "ibu", penting) vs 吗 ma (netral, "cuma penanya").</p>
 </div>
 
 **Aturan naruh tanda nada:** kalau ada **a**, taruh di a. Kalau nggak ada a, taruh di **o** atau **e**. Kalau tinggal **i/u**, taruh di huruf yang **terakhir**: l**iù**, h**uì**, j**iǔ**.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa tanda nada ditaruh di 'a' dulu?</div>
-<p>Aturannya a &gt; o &gt; e &gt; i/u — dan ini bukan aturan ngasal. Tanda nada ditaruh di vokal yang paling "terbuka" (paling nyaring disuarakan): <strong>a</strong> paling terbuka, lalu <strong>o</strong>, lalu <strong>e</strong>. Makanya hǎo tandanya di a (bukan di o), dan hē tandanya di e (karena nggak ada a/o). Kalau tinggal i/u, tandanya di huruf yang <strong>terakhir</strong>: liù, huì, jiǔ.</p>
+<p>Aturannya a &gt; o &gt; e &gt; i/u, dan ini bukan aturan ngasal. Tanda nada ditaruh di vokal yang paling "terbuka" (paling nyaring disuarakan): <strong>a</strong> paling terbuka, lalu <strong>o</strong>, lalu <strong>e</strong>. Makanya hǎo tandanya di a (bukan di o), dan hē tandanya di e (karena nggak ada a/o). Kalau tinggal i/u, tandanya di huruf yang <strong>terakhir</strong>: liù, huì, jiǔ.</p>
 <p><strong>Pola yang sama:</strong> mā (cuma ada a), hǎo (a menang atas o), hē (cuma ada e), jiǔ (i/u → yang terakhir).</p>
-<p><strong>Awas jebakan:</strong> ü selalu bawa tandanya sendiri (nǚ, lǜ) — dan ui/iu sebenarnya singkatan dari uei/iou, makanya tandanya jatuh di "vokal utama" yang disembunyikan itu (huì = h+uei, jiǔ = j+iou).</p>
+<p><strong>Awas jebakan:</strong> ü selalu bawa tandanya sendiri (nǚ, lǜ), dan ui/iu sebenarnya singkatan dari uei/iou, makanya tandanya jatuh di "vokal utama" yang disembunyikan itu (huì = h+uei, jiǔ = j+iou).</p>
 </div>
 
-## 0.5 — Nada yang berubah: tone sandhi
+## 0.5: Nada yang berubah: tone sandhi
 
 Dua kata spesial yang nadanya berubah tergantung tetangganya:
 
@@ -225,9 +225,9 @@ Ketemu nada selain 4, tetap **bù**: 不好 **bù hǎo** (tidak baik).
 
 Contoh tambahan biar polanya nempel:
 
-- 不好 **bù hǎo** (tidak baik) — 不 ketemu nada 3, tetap bù
-- 不去 **bú qù** (tidak pergi) — 不 ketemu nada 4, jadi bú
-- 不大 **bú dà** (tidak besar) — 不 ketemu nada 4, jadi bú
+- 不好 **bù hǎo** (tidak baik), 不 ketemu nada 3, tetap bù
+- 不去 **bú qù** (tidak pergi), 不 ketemu nada 4, jadi bú
+- 不大 **bú dà** (tidak besar), 不 ketemu nada 4, jadi bú
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/1134466965c6.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">一个人</div>
@@ -247,8 +247,8 @@ Contoh tambahan biar polanya nempel:
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa nada bisa berubah-ubah (sandhi)?</div>
-<p>Mulutmu malas — dan sandhi adalah cara mulut berhemat tenaga. Dua nada "berat" berurutan dilunakkan biar gampang diucap: 不 (nada 4 yang jatuh tajam) sebelum nada 4 lain terasa kayak membentak dua kali, jadi dilembutkan jadi nada 2 (bú shì). Dua nada 3 berurutan (dua-duanya turun-naik) bikin lidah capek, jadi yang pertama naik jadi nada 2 (ní hǎo). Sama kayak di Indonesia: "tidak" jadi "nggak" kalau ngomong cepat.</p>
-<p><strong>Pola yang sama:</strong> 你好 ní hǎo, 我想 wó xiǎng, 买水 mái shuǐ, 不去 bú qù, 一个 yí gè — semuanya mulut yang mencari jalan pintas.</p>
-<p><strong>Awas jebakan:</strong> yang berubah cuma MULUT, bukan tulisan — makanya buku ini tetap nulis nǐ hǎo (nada dasar). Sandhi itu aturan ngomong, bukan aturan nulis.</p>
+<p>Mulutmu malas, dan sandhi adalah cara mulut berhemat tenaga. Dua nada "berat" berurutan dilunakkan biar gampang diucap: 不 (nada 4 yang jatuh tajam) sebelum nada 4 lain terasa kayak membentak dua kali, jadi dilembutkan jadi nada 2 (bú shì). Dua nada 3 berurutan (dua-duanya turun-naik) bikin lidah capek, jadi yang pertama naik jadi nada 2 (ní hǎo). Sama kayak di Indonesia: "tidak" jadi "nggak" kalau ngomong cepat.</p>
+<p><strong>Pola yang sama:</strong> 你好 ní hǎo, 我想 wó xiǎng, 买水 mái shuǐ, 不去 bú qù, 一个 yí gè, semuanya mulut yang mencari jalan pintas.</p>
+<p><strong>Awas jebakan:</strong> yang berubah cuma MULUT, bukan tulisan, makanya buku ini tetap nulis nǐ hǎo (nada dasar). Sandhi itu aturan ngomong, bukan aturan nulis.</p>
 </div>
 
