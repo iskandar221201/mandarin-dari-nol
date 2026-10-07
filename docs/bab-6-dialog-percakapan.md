@@ -53,6 +53,13 @@ Teori tanpa praktik itu seperti punya sepeda tapi tidak pernah dikayuh. Di bab t
 - **呢** *ne* ("kalau kamu?"): 呢 = 口 + 尼 — partikel tanya susulan, selalu soal omongan (口).
 - **也** *yě* ("juga"): kata fungsi baru dari Bab 5, posisinya sebelum kata kerja.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>Dialog perkenalan Mandarin mengikuti pola <strong>corong: dari umum ke khusus</strong>. Mulai dari sapaan netral (你好) yang tidak menuntut apa-apa, lalu nama (你叫什么名字？), lalu identitas (我是学生), lalu asal (你是北京人吗？). Tiap langkah memberi lawan bicara &quot;pegangan&quot; sebelum masuk ke info yang lebih personal — mirip basa-basi Indonesia, cuma urutannya lebih baku.</p>
+<p><strong>Pola yang sama:</strong> Dialog 2 mengulang corong yang sama: umur → asal → tempat tinggal, dari ringan ke spesifik.</p>
+<p><strong>Awas jebakan:</strong> langsung melompat ke pertanyaan personal (umur, gaji) ke orang yang baru kenal dianggap kurang sopan — di budaya Mandarin maupun Indonesia.</p>
+</div>
+
 ## Dialog 2: Bertanya umur & asal
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/00edc030373e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -97,6 +104,13 @@ Teori tanpa praktik itu seperti punya sepeda tapi tidak pernah dikayuh. Di bab t
 - **哪** *nǎ* ("yang mana"): 哪 = 口 + 那 — kata tanya (口) yang menunjuk (那).
 - **北京** *Běijīng*: 北 = dua orang (匕 + 匕) saling membelakangi = "utara"; 京 = 亠 + 口 + 小 = "ibukota". Jadi 北京 = "ibukota utara".
 - **住** *zhù* ("tinggal"): 住 = 亻 + 主 — orang (亻) + pemilik (主) = menetap/tinggal.
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>你是哪儿人？ <em>(nǐ shì nǎr rén?)</em> memakai 是 karena &quot;asal&quot; dianggap <strong>identitas</strong>, bukan lokasi. Strukturnya A 是 B: &quot;kamu <em>adalah</em> orang mana&quot;. Bandingkan dengan 你住在哪儿？ <em>(nǐ zhù zài nǎr?)</em> (&quot;kamu <em>tinggal</em> di mana&quot;) yang pakai 住 + 在 karena menanyakan lokasi fisik. Satu menanyakan &quot;kamu siapa&quot;, satunya &quot;kamu di mana&quot; — dua pertanyaan yang beda logika.</p>
+<p><strong>Pola yang sama:</strong> 你是北京人吗？, 你是谁？ <em>(nǐ shì shéi?)</em> — semua pertanyaan identitas pakai 是.</p>
+<p><strong>Awas jebakan:</strong> 你在哪儿人？ — 在 tidak dipakai untuk asal.</p>
+</div>
 
 ## Dialog 3: Di restoran
 
@@ -211,6 +225,19 @@ Teori tanpa praktik itu seperti punya sepeda tapi tidak pernah dikayuh. Di bab t
 - **块** *kuài*: satuan uang versi lisan — 三块钱 = "tiga yuan" (lisan). Versi formalnya pakai 元 (di luar HSK 1).
 - **多少** *duōshao* ("berapa", untuk jumlah besar/tak pasti): 多 = 夕 + 夕 — "banyak" = dua malam (夕) bertumpuk.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>几 dipakai kalau jawabannya <strong>kecil dan bisa dihitung</strong> — umur, jam, jumlah barang (biasanya di bawah 10). 多少 dipakai kalau skalanya <strong>besar atau belum ketahuan</strong> — harga, jumlah orang banyak. Intuisinya: 几 = &quot;berapa (pasti sedikit)&quot;, 多少 = &quot;berapa (entah seberapa)&quot;. Makanya tanya harga selalu 多少钱 <em>(duōshao qián)</em>, tidak pernah 几钱.</p>
+<p><strong>Pola yang sama:</strong> di Dialog 7, 现在几点？ <em>(xiànzài jǐ diǎn?)</em> pakai 几 karena jam pasti angka kecil.</p>
+<p><strong>Awas jebakan:</strong> 这个几钱？ — untuk harga harus 多少.</p>
+</div>
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>这个苹果多少钱？ <em>(zhège píngguǒ duōshao qián?)</em> mengikuti pola khas Mandarin: <strong>topik dulu, komentar kemudian</strong>. 这个苹果 (&quot;apel ini&quot;) adalah topik yang ditunjuk, 多少钱？ adalah komentar/pertanyaan tentang topik itu. Urutannya meniru cara orang menunjuk barang di dunia nyata: tunjuk dulu bendanya, baru tanya harganya.</p>
+<p><strong>Pola yang sama:</strong> 我的书呢？ <em>(wǒ de shū ne?)</em> — topik (bukuku), komentar (di mana?).</p>
+</div>
+
 ## Dialog 5: Tanya jalan & waktu
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/c555b999e8d6.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -268,6 +295,13 @@ Teori tanpa praktik itu seperti punya sepeda tapi tidak pernah dikayuh. Di bab t
 - **点** *diǎn* ("jam; pukul"): 点 = 占 + 灬 — titik (占) + api (灬) → titik waktu.
 - **钟** *zhōng* (dalam 分钟 "menit"): 钟 = 钅 (logam) + 中 — lonceng logam penanda waktu.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>火车站在哪儿？ <em>(huǒchēzhàn zài nǎr?)</em> selalu pakai 在 karena pertanyaannya adalah &quot;<strong>X berada di mana</strong>&quot; — 在 adalah kata kerja &quot;berada&quot; di sini, bukan sekadar kata depan. Tanpa 在, kalimatnya kehilangan predikat: 火车站哪儿？ itu seperti bertanya &quot;stasiun kereta mana?&quot; tanpa kata kerja.</p>
+<p><strong>Pola yang sama:</strong> 他在哪儿？ (Dialog 6), 你住在哪儿？ (Dialog 2) — semua pertanyaan lokasi butuh 在.</p>
+<p><strong>Awas jebakan:</strong> meniru pola Indonesia "stasiunnya di mana?" lalu membuang 在-nya.</p>
+</div>
+
 ## Dialog 6: Telepon
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/26d8f6901ab6.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -324,6 +358,13 @@ Teori tanpa praktik itu seperti punya sepeda tapi tidak pernah dikayuh. Di bab t
 - **打电话** *dǎ diànhuà* ("menelepon", harfiah "memukul telepon"): 打 = 扌 + 丁 (pakai tangan); 话 = 讠 + 舌 (kata-kata + lidah).
 - **回** *huí* ("pulang; kembali"): 回 = 囗 + 口 — mulut (口) kembali masuk ke dalam kotak (囗).
 - **什么时候** *shénme shíhou* ("kapan", harfiah "waktu apa"): 时 = 日 + 寸 — matahari (日) + takaran (寸) = waktu.
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>喂 <em>(wèi)</em> bukan sapaan — ia adalah <strong>&quot;cek sinyal&quot;</strong>: memastikan lawan bicara mendengar sebelum percakapan dimulai, seperti &quot;halo-halo, tes&quot; di Indonesia. Makanya urutannya selalu 喂 dulu (pastikan tersambung), baru 你好 (mulai percakapan resmi). Karena fungsinya teknis, 喂 tidak pernah dipakai untuk menyapa orang secara tatap muka.</p>
+<p><strong>Pola yang sama:</strong> dalam semua dialog telepon, polanya konsisten: 喂 → 你好 → isi pembicaraan.</p>
+<p><strong>Awas jebakan:</strong> memakai 喂 untuk menyapa orang yang ditemui langsung — terdengar aneh.</p>
+</div>
 
 ## Dialog 7: Di sekolah
 
@@ -438,6 +479,13 @@ Teori tanpa praktik itu seperti punya sepeda tapi tidak pernah dikayuh. Di bab t
 - **下雨** *xià yǔ* ("hujan"): 下 (turun) + 雨 (hujan) — "turun hujan".
 - **了** *le* di 下雨了: tanda perubahan keadaan — "mulai/bakal hujan", bukan lampau. Pola Bab 5.
 - **怎么样** *zěnmeyàng* ("bagaimana"): kata tanya untuk meminta pendapat/keadaan — 怎么 + 样.
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>怎么 bertanya tentang <strong>cara</strong> (&quot;dengan cara apa&quot;: 你怎么去学校？ <em>(nǐ zěnme qù xuéxiào?)</em>), sedangkan 怎么样 bertanya tentang <strong>keadaan/penilaian</strong> (&quot;bagaimana kondisinya&quot;). Cuaca adalah keadaan, bukan cara — makanya 今天天气怎么样？ <em>(jīntiān tiānqì zěnmeyàng?)</em>, bukan 怎么. Bedakan: 怎么 = &quot;how (by what means)&quot;, 怎么样 = &quot;how about / how is it&quot;.</p>
+<p><strong>Pola yang sama:</strong> 你的汉语怎么样？ <em>(nǐ de Hànyǔ zěnmeyàng?)</em> (Bab 5) — menanyakan keadaan kemampuan bahasa.</p>
+<p><strong>Awas jebakan:</strong> 今天天气怎么？ — salah; untuk keadaan harus 怎么样.</p>
+</div>
 
 ## Dialog 9: Mengajak makan
 

@@ -45,6 +45,13 @@ Kabar baik: urutan kata Mandarin sama persis seperti Indonesia — **Subjek – 
 
 **Jebakan orang Indonesia:** godaan terbesar adalah menaruh keterangan waktu di akhir seperti di Indonesia ("Saya pergi ke sekolah *hari ini*"). Di Mandarin keterangan waktu ditaruh sebelum kata kerja — lihat poin 13.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>Mandarin tidak punya konjugasi kata kerja dan tidak punya akhiran penanda subjek/objek. Jadi satu-satunya cara membedakan &quot;siapa melakukan apa ke siapa&quot; adalah <strong>urutan kata yang kaku</strong>: pelaku dulu, aksi di tengah, sasaran di akhir. Indonesia kebetulan juga bahasa yang &quot;polos&quot; seperti ini — makanya S-P-O-nya sama persis dan kamu bisa menerjemahkan hampir kata per kata.</p>
+<p><strong>Pola yang sama:</strong> kekakuan urutan ini menjelaskan banyak pola lain: kata tanya tidak pindah posisi (poin 12), keterangan waktu selalu di slot yang sama (poin 13). Kalau urutannya acak, maknanya ikut acak.</p>
+<p><strong>Awas jebakan:</strong> karena S-P-O-nya sama, godaan terbesar justru menerjemahkan keterangan (waktu/tempat) kata per kata — padahal slot keterangan Mandarin beda dari Indonesia.</p>
+</div>
+
 ## 2. Kalimat 是 (A 是 B)
 
 是 (*shì*) artinya "adalah" — dipakai untuk menyatakan identitas, pekerjaan, atau asal: **A 是 B**. Bentuk negatifnya tinggal tambah 不 di depan: **不是**.
@@ -127,6 +134,13 @@ Ubah kalimat pernyataan jadi pertanyaan tinggal tempel 吗 (*ma*, nada netral) d
 
 **Jebakan orang Indonesia:** jangan gabung 吗 dengan kata tanya lain. Kalau kalimat sudah ada 谁 / 什么 / 哪, 吗 tidak diperlukan — 你是谁吗？ itu salah.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>吗 bukan kata tanya seperti &quot;apakah&quot; — ia adalah <strong>penanda modus kalimat</strong>, seperti tanda tanya &quot;?&quot; dalam tulisan. Tanda &quot;?&quot; selalu di akhir kalimat karena ia membungkus <em>seluruh</em> kalimat; kalau ditempel di tengah, ia cuma membungkus separuh kalimat dan maknanya jadi aneh. Makanya 吗 selalu di ujung: 你是学生吗？ <em>(nǐ shì xuéshēng ma?)</em></p>
+<p><strong>Pola yang sama:</strong> 呢 (poin 4) dan 了 (poin 18) juga selalu di akhir kalimat — semuanya &quot;pembungkus&quot; kalimat, bukan bagian isi.</p>
+<p><strong>Awas jebakan:</strong> karena 吗 sudah mengubah modus kalimat jadi tanya, menambah kata tanya lain (谁/什么) jadi dobel dan salah.</p>
+</div>
+
 ## 4. Pertanyaan susulan dengan 呢
 
 呢 (*ne*) dipakai untuk melempar balik pertanyaan yang barusan dibahas — persis seperti "kalau kamu?" dalam Indonesia. 呢 juga bisa dipakai menanyakan keberadaan ("di mana ...?").
@@ -208,6 +222,13 @@ Kata sifat tidak bisa langsung jadi predikat — butuh "jembatan". Jembatan pali
 | Subjek + 很 + kata sifat | 今天很冷。 |
 
 **Jebakan orang Indonesia:** menerjemahkan "dia cantik" mentah-mentah jadi 她漂亮 — bisa dimengerti, tapi bentuk bakunya pakai 很. Kalau mau benar-benar "sangat/terlalu", pakai pola poin 6.
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>Kata sifat Mandarin tidak bisa berdiri sendiri sebagai predikat — ia butuh &quot;kaki&quot; untuk menopangnya. 很 adalah kaki paling netral: tugasnya cuma <strong>menyambungkan subjek ke sifatnya</strong>, bukan menguatkan maknanya. Jadi 她很漂亮 <em>(tā hěn piàoliang)</em> secara harfiah lebih dekat ke &quot;dia <em>adalah</em> cantik&quot; daripada &quot;dia <em>sangat</em> cantik&quot;. Kalau mau makna &quot;sangat&quot; yang beneran, pakai pola 太...了 (poin 6).</p>
+<p><strong>Pola yang sama:</strong> 是 adalah &quot;kaki&quot; untuk identitas (他是老师), 在 adalah &quot;kaki&quot; untuk lokasi (他在家). Mandarin suka jembatan yang eksplisit.</p>
+<p><strong>Awas jebakan:</strong> menerjemahkan "sangat cantik" jadi 很漂亮 — itu cuma "cantik" biasa.</p>
+</div>
 
 ## 6. 太 + kata sifat + 了 (terlalu...)
 
@@ -490,6 +511,13 @@ Ini kabar baik: kata tanya Mandarin (什么, 谁, 哪, 哪儿, 多少, 几, 怎�
 
 **Jebakan orang Indonesia:** refleks memindah kata tanya ke depan ("Apa kamu makan?"). Di Mandarin, 什么 tetap di posisi objek: 你吃什么 — bukan 什么你吃.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>Karena tidak ada konjugasi dan urutan kata kaku (poin 1), cara termudah membentuk pertanyaan adalah <strong>mengganti kata yang tidak diketahui dengan kata tanya di posisi yang sama</strong> — seperti mengisi titik-titik: 你吃___？ → 你吃什么？ <em>(nǐ chī shénme?)</em>. Bahasa Indonesia malah memindah kata tanyanya ke depan (&quot;apa yang kamu makan?&quot;), makanya terasa aneh di awal. Tapi logika Mandarin lebih hemat: struktur kalimatnya tidak berubah sama sekali.</p>
+<p><strong>Pola yang sama:</strong> semua kata tanya (谁, 哪, 哪儿, 多少, 几, 怎么, 怎么样) mengikuti aturan yang sama — tidak ada yang pindah.</p>
+<p><strong>Awas jebakan:</strong> 什么你吃？ meniru pola Indonesia — salah total di Mandarin.</p>
+</div>
+
 ## 13. Keterangan waktu: di antara subjek & kata kerja
 
 Keterangan waktu (今天, 明天, 昨天, 现在...) ditaruh **setelah subjek, sebelum kata kerja**: [Subjek] + [waktu] + [kata kerja].
@@ -530,6 +558,13 @@ Keterangan waktu (今天, 明天, 昨天, 现在...) ditaruh **setelah subjek, s
 | Subjek + keterangan waktu + kata kerja | 他明天下午来。 |
 
 **Jebakan orang Indonesia:** ini jebakan klasik. "Saya pergi ke sekolah hari ini" kalau diterjemahkan kata per kata jadi 我去学校今天 — salah. Waktu harus sebelum kata kerja.
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>Mandarin menaruh <strong>&quot;bingkai&quot; sebelum &quot;isi&quot;</strong>: kapan kejadiannya disebutkan dulu, baru aksinya — seperti menata panggung sebelum aktornya main. 我今天去学校 <em>(wǒ jīntiān qù xuéxiào)</em> dibaca sebagai &quot;[hari ini] [saya pergi ke sekolah]&quot;: waktunya adalah latar, aksinya adalah isi. Indonesia lebih fleksibel (&quot;saya pergi hari ini&quot; / &quot;hari ini saya pergi&quot;), tapi Mandarin memilih satu slot baku supaya tidak ambigu.</p>
+<p><strong>Pola yang sama:</strong> 在 + tempat juga sebelum kata kerja (他在家学习, poin 14) — tempat pun adalah &quot;panggung&quot; yang dipasang sebelum aksi.</p>
+<p><strong>Awas jebakan:</strong> 我去学校今天 meniru pola Indonesia — salah.</p>
+</div>
 
 ## 14. 在 + tempat + kata kerja
 
@@ -654,6 +689,13 @@ Dua-duanya "tidak", tapi beda waktu. 不 (*bù*) = menyangkal kebiasaan, keadaan
 
 **Jebakan orang Indonesia:** Indonesia cuma punya "tidak/belum" — di Mandarin harus pilih. "Saya kemarin tidak pergi" = 我昨天没去, bukan 不去. Patokan cepat: kejadiannya sudah lewat → pakai 没.
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>Bedanya bukan sekadar &quot;lampau vs bukan&quot;, tapi <strong>penilaian vs fakta</strong>. 不 menyangkal sesuatu yang sifatnya penilaian, kebiasaan, atau rencana — hal yang <em>belum diputuskan</em> atau tidak bisa dicek (我不吃苹果 = &quot;saya memang tidak makan apel&quot;). 没 menyangkal <strong>fakta yang sudah terjadi</strong> — hal yang bisa dicek kebenarannya (我没去商店 = &quot;faktanya saya tidak pergi&quot;). Makanya masa depan pakai 不 (belum terjadi = belum bisa dicek) dan masa lalu pakai 没.</p>
+<p><strong>Pola yang sama:</strong> 没有 (&quot;tidak ada&quot;) = 没 + 有 — menyangkal fakta keberadaan sesuatu.</p>
+<p><strong>Awas jebakan:</strong> 我昨天不去商店 — kejadiannya sudah lewat dan bisa dicek, harus pakai 没.</p>
+</div>
+
 ## 17. 会 / 能 / 想 / 喜欢 + kata kerja
 
 Empat kata ini selalu diikuti kata kerja langsung (tanpa "untuk"). 会 (*huì*) = bisa karena sudah dipelajari (keahlian), juga bisa berarti "akan"; 能 (*néng*) = bisa/mampu (kesanggupan atau izin); 想 (*xiǎng*) = ingin; 喜欢 (*xǐhuan*) = suka.
@@ -735,6 +777,13 @@ Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi 
 | [situasi baru] + 了 | 现在三点了。 |
 
 **Jebakan orang Indonesia:** jangan anggap 了 = "-ed" bahasa Inggris atau "sudah" yang selalu berarti lampau. Fungsi lampau/selesainya baru dibahas tuntas di HSK 2. Untuk sekarang ingat: 了 = "sekarang keadaannya begini".
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa polanya begini?</div>
+<p>了 bukan penanda waktu lampau — ia penanda <strong>perubahan keadaan</strong>. 下雨了 <em>(xià yǔ le)</em> artinya &quot;sekarang keadaannya hujan&quot;, dengan implikasi &quot;tadinya tidak&quot;. Makanya 了 bisa muncul di kalimat masa depan juga (nanti di HSK 2): yang penting ada <em>peralihan</em> dari satu keadaan ke keadaan lain, bukan kapan terjadinya.</p>
+<p><strong>Pola yang sama:</strong> 太...了 butuh 了 sebagai &quot;penutup&quot; (poin 6) — kalimat terasa selesai karena ada penegasan keadaan baru.</p>
+<p><strong>Awas jebakan:</strong> menyamakan 了 dengan "-ed" bahasa Inggris — padahal 我昨天去商店 (tanpa 了) sudah benar untuk lampau.</p>
+</div>
 
 ## Latihan
 
