@@ -10,74 +10,79 @@ const idNav = [
 const idSidebar = [
   { text: 'Tentang Buku Ini', link: '/tentang' },
   {
-    text: 'Bab 0: Persiapan',
-    collapsed: true,
-    items: [
-      { text: 'Ikhtisar', link: '/bab-0-persiapan' },
-      { text: 'Pinyin & Nada', link: '/bab-0-pinyin-nada' },
-      { text: 'Praktik Mandiri', link: '/bab-0-praktik' },
-    ],
-  },
-  { text: 'Bab 1: Salam & Perkenalan', link: '/bab-1-salam-perkenalan' },
-  { text: 'Bab 2: Angka, Waktu & Uang', link: '/bab-2-angka-waktu' },
-  {
-    text: 'Metode Bedah Hanzi',
+    text: 'HSK 1: Dasar',
     collapsed: false,
     items: [
-      { text: 'Teknik Bedah', link: '/metode-bedah-hanzi' },
-      { text: 'Galeri Pola', link: '/galeri-pola-hanzi' },
-      { text: 'Jebakan & Batasan', link: '/jebakan-bedah-hanzi' },
+      {
+        text: 'Bab 0: Persiapan',
+        link: '/bab-0-persiapan',
+        collapsed: true,
+        items: [
+          { text: 'Pinyin & Nada', link: '/bab-0-pinyin-nada' },
+          { text: 'Praktik Mandiri', link: '/bab-0-praktik' },
+        ],
+      },
+      { text: 'Bab 1: Salam & Perkenalan', link: '/bab-1-salam-perkenalan' },
+      { text: 'Bab 2: Angka, Waktu & Uang', link: '/bab-2-angka-waktu' },
+      {
+        text: 'Metode Bedah Hanzi',
+        link: '/metode-bedah-hanzi',
+        collapsed: true,
+        items: [
+          { text: 'Galeri Pola', link: '/galeri-pola-hanzi' },
+          { text: 'Jebakan & Batasan', link: '/jebakan-bedah-hanzi' },
+        ],
+      },
+      {
+        text: 'Bab 3: Radikal & Bedah Hanzi',
+        link: '/bab-3-radikal-bedah-hanzi',
+        collapsed: true,
+        items: [
+          { text: 'Radikal Dasar', link: '/bab-3-radikal-dasar' },
+          { text: 'Pola Lanjutan', link: '/bab-3-pola-lanjutan' },
+        ],
+      },
+      {
+        text: 'Bab 4: Kosakata Sehari-hari',
+        link: '/bab-4-kosakata-sehari-hari',
+        collapsed: true,
+        items: [
+          { text: 'Keluarga, Makanan & Tempat', link: '/bab-4-keluarga-makanan-tempat' },
+          { text: 'Benda, Kata Kerja & Kata Sifat', link: '/bab-4-benda-kerja-sifat' },
+          { text: 'Waktu, Warna & Arah', link: '/bab-4-waktu-warna-arah' },
+        ],
+      },
+      {
+        text: 'Bab 5: Tata Bahasa Dasar',
+        link: '/bab-5-tata-bahasa-dasar',
+        collapsed: true,
+        items: [
+          { text: 'Kalimat Dasar (1–7)', link: '/bab-5-kalimat-dasar' },
+          { text: 'Penjelas & Keterangan (8–13)', link: '/bab-5-penjelas-keterangan' },
+          { text: 'Keberadaan & Posisi (14–19)', link: '/bab-5-keberadaan-posisi' },
+        ],
+      },
+      {
+        text: 'Bab 6: Dialog & Percakapan',
+        link: '/bab-6-dialog-percakapan',
+        collapsed: true,
+        items: [
+          { text: 'Dialog 1–5', link: '/bab-6-dialog-1-5' },
+          { text: 'Dialog 6–10', link: '/bab-6-dialog-6-10' },
+        ],
+      },
+      { text: 'Daftar Kosakata HSK 1', link: '/kosakata-hsk1' },
     ],
   },
-  {
-    text: 'Bab 3: Radikal & Bedah Hanzi',
-    collapsed: true,
-    items: [
-      { text: 'Ikhtisar', link: '/bab-3-radikal-bedah-hanzi' },
-      { text: 'Radikal Dasar', link: '/bab-3-radikal-dasar' },
-      { text: 'Pola Lanjutan', link: '/bab-3-pola-lanjutan' },
-    ],
-  },
-  {
-    text: 'Bab 4: Kosakata Sehari-hari',
-    collapsed: true,
-    items: [
-      { text: 'Ikhtisar', link: '/bab-4-kosakata-sehari-hari' },
-      { text: 'Keluarga, Makanan & Tempat', link: '/bab-4-keluarga-makanan-tempat' },
-      { text: 'Benda, Kata Kerja & Kata Sifat', link: '/bab-4-benda-kerja-sifat' },
-      { text: 'Waktu, Warna & Arah', link: '/bab-4-waktu-warna-arah' },
-    ],
-  },
-  {
-    text: 'Bab 5: Tata Bahasa Dasar',
-    collapsed: true,
-    items: [
-      { text: 'Ikhtisar', link: '/bab-5-tata-bahasa-dasar' },
-      { text: 'Kalimat Dasar (1–7)', link: '/bab-5-kalimat-dasar' },
-      { text: 'Penjelas & Keterangan (8–13)', link: '/bab-5-penjelas-keterangan' },
-      { text: 'Keberadaan & Posisi (14–19)', link: '/bab-5-keberadaan-posisi' },
-    ],
-  },
-  {
-    text: 'Bab 6: Dialog & Percakapan',
-    collapsed: true,
-    items: [
-      { text: 'Ikhtisar', link: '/bab-6-dialog-percakapan' },
-      { text: 'Dialog 1–5', link: '/bab-6-dialog-1-5' },
-      { text: 'Dialog 6–10', link: '/bab-6-dialog-6-10' },
-    ],
-  },
-  { text: 'Bank Latihan', link: '/latihan' },
-  { text: 'Daftar Kosakata HSK 1', link: '/kosakata-hsk1' },
   {
     text: 'HSK 2: Naik Level',
     collapsed: true,
     items: [
       {
         text: 'Bab 7: Kosakata HSK 2',
+        link: '/bab-7-kosakata-hsk2',
         collapsed: true,
         items: [
-          { text: 'Ikhtisar', link: '/bab-7-kosakata-hsk2' },
           { text: 'Orang & Benda', link: '/bab-7-orang-benda' },
           { text: 'Makanan & Sifat', link: '/bab-7-makanan-sifat' },
           { text: 'Kegiatan', link: '/bab-7-kegiatan' },
@@ -85,9 +90,9 @@ const idSidebar = [
       },
       {
         text: 'Bab 8: Tata Bahasa HSK 2',
+        link: '/bab-8-tata-bahasa-hsk2',
         collapsed: true,
         items: [
-          { text: 'Ikhtisar', link: '/bab-8-tata-bahasa-hsk2' },
           { text: 'Aspek & Waktu', link: '/bab-8-aspek' },
           { text: 'Perbandingan & Derajat', link: '/bab-8-perbandingan' },
           { text: 'Kalimat Gabungan', link: '/bab-8-gabungan' },
@@ -95,17 +100,24 @@ const idSidebar = [
       },
       {
         text: 'Bab 9: Dialog HSK 2',
+        link: '/bab-9-dialog-hsk2',
         collapsed: true,
         items: [
-          { text: 'Ikhtisar', link: '/bab-9-dialog-hsk2' },
           { text: 'Dialog 1–3', link: '/bab-9-dialog-1-3' },
           { text: 'Dialog 4–6', link: '/bab-9-dialog-4-6' },
         ],
       },
+      { text: 'Daftar Kosakata HSK 2', link: '/kosakata-hsk2' },
     ],
   },
-  { text: 'Daftar Kosakata HSK 2', link: '/kosakata-hsk2' },
-  { text: 'Roadmap: Setelah HSK 2', link: '/roadmap' },
+  {
+    text: 'Referensi',
+    collapsed: true,
+    items: [
+      { text: 'Bank Latihan', link: '/latihan' },
+      { text: 'Roadmap', link: '/roadmap' },
+    ],
+  },
 ]
 
 const enNav = [
