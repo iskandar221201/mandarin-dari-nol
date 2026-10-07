@@ -10,15 +10,6 @@ const idNav = [
 const idSidebar = [
   { text: 'Tentang Buku Ini', link: '/tentang' },
   {
-    text: 'Metode Bedah Hanzi',
-    collapsed: false,
-    items: [
-      { text: 'Teknik Bedah', link: '/metode-bedah-hanzi' },
-      { text: 'Galeri Pola', link: '/galeri-pola-hanzi' },
-      { text: 'Jebakan & Batasan', link: '/jebakan-bedah-hanzi' },
-    ],
-  },
-  {
     text: 'Bab 0: Persiapan',
     collapsed: true,
     items: [
@@ -29,6 +20,15 @@ const idSidebar = [
   },
   { text: 'Bab 1: Salam & Perkenalan', link: '/bab-1-salam-perkenalan' },
   { text: 'Bab 2: Angka, Waktu & Uang', link: '/bab-2-angka-waktu' },
+  {
+    text: 'Metode Bedah Hanzi',
+    collapsed: false,
+    items: [
+      { text: 'Teknik Bedah', link: '/metode-bedah-hanzi' },
+      { text: 'Galeri Pola', link: '/galeri-pola-hanzi' },
+      { text: 'Jebakan & Batasan', link: '/jebakan-bedah-hanzi' },
+    ],
+  },
   {
     text: 'Bab 3: Radikal & Bedah Hanzi',
     collapsed: true,
@@ -82,15 +82,6 @@ const enNav = [
 const enSidebar = [
   { text: 'About This Book', link: '/en/tentang' },
   {
-    text: 'Hanzi Dissection Method',
-    collapsed: false,
-    items: [
-      { text: 'Dissection Technique', link: '/en/metode-bedah-hanzi' },
-      { text: 'Pattern Gallery', link: '/en/galeri-pola-hanzi' },
-      { text: 'Traps & Limits', link: '/en/jebakan-bedah-hanzi' },
-    ],
-  },
-  {
     text: 'Chapter 0: Preparation',
     collapsed: true,
     items: [
@@ -101,6 +92,15 @@ const enSidebar = [
   },
   { text: 'Chapter 1: Greetings & Introductions', link: '/en/bab-1-salam-perkenalan' },
   { text: 'Chapter 2: Numbers, Time & Money', link: '/en/bab-2-angka-waktu' },
+  {
+    text: 'Hanzi Dissection Method',
+    collapsed: false,
+    items: [
+      { text: 'Dissection Technique', link: '/en/metode-bedah-hanzi' },
+      { text: 'Pattern Gallery', link: '/en/galeri-pola-hanzi' },
+      { text: 'Traps & Limits', link: '/en/jebakan-bedah-hanzi' },
+    ],
+  },
   {
     text: 'Chapter 3: Radicals & Character Breakdown',
     collapsed: true,

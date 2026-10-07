@@ -49,6 +49,7 @@ Aturan praktisnya:
 
 Lima hanzi di bawah ini belum dibahas di bab mana pun. Bedah masing-masing pakai 4 langkah, tebak artinya, baru klik untuk cek.
 
+<div class="quiz">
 <div class="quiz-q" data-type="reveal" data-explain="清 = 氵 (air) + 青 (qīng, petunjuk bunyi) → <span class='quiz-py'>qīng</span>, jernih/bersih. Pola: keluarga bunyi 青. Bunyi 'qing' konsisten, radikal 氵 memberi kategori air.">
 <p class="quiz-t"><strong>1.</strong> Bedah 清, tebak bunyi dan artinya.</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
@@ -78,3 +79,5 @@ Lima hanzi di bawah ini belum dibahas di bab mana pun. Bedah masing-masing pakai
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>
 </div>
+</div>
+

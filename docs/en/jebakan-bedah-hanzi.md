@@ -49,6 +49,7 @@ Practical rules:
 
 Five hanzi not covered in any chapter. Dissect each with the 4 steps, guess the meaning, then click to check.
 
+<div class="quiz">
 <div class="quiz-q" data-type="reveal" data-explain="清 = 氵 (water) + 青 (qīng, sound hint) → <span class='quiz-py'>qīng</span>, clear/clean. Pattern: the 青 sound family. Consistent 'qing' sound, the 氵 radical gives the water category.">
 <p class="quiz-t"><strong>1.</strong> Dissect 清; guess its sound and meaning.</p>
 <button type="button" class="quiz-show">Show answer</button>
@@ -78,3 +79,5 @@ Five hanzi not covered in any chapter. Dissect each with the 4 steps, guess the 
 <button type="button" class="quiz-show">Show answer</button>
 <p class="quiz-fb" hidden></p>
 </div>
+</div>
+
