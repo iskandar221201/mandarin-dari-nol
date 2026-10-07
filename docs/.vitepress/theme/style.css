@@ -130,7 +130,7 @@
   margin: 1rem 0;
 }
 
-/* Kenapa & Pola — deep-dive ala cara belajar Aska: kenapa hanzi ini begini + pola ke hanzi lain */
+/* Kenapa & Pola: deep-dive ala cara belajar Aska: kenapa hanzi ini begini + pola ke hanzi lain */
 .kenapa {
   border: 2px solid var(--vp-c-gold-1);
   background: var(--vp-c-gold-soft);
@@ -395,4 +395,17 @@
 
 .quiz-chips button:hover:not(:disabled) {
   border-color: var(--vp-c-brand-1);
+}
+
+/* Aksesibilitas keyboard: indikator fokus yang jelas (R-32) */
+.quiz-opts button:focus-visible,
+.quiz-words button:focus-visible,
+.quiz-check:focus-visible,
+.quiz-show:focus-visible,
+.quiz-placed:focus-visible,
+.quiz-chips button:focus-visible,
+.audio-btn:focus-visible,
+.quiz-input:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
 }

@@ -1,8 +1,8 @@
 # Daftar Kosakata HSK 1
 
-Seluruh kosakata HSK 1 yang dipakai di buku ini — ±150 kata, dikelompokkan per kategori. Setiap kata di buku ini diambil dari daftar ini, tidak ada kata "siluman".
+Seluruh kosakata HSK 1 yang dipakai di buku ini, ±150 kata, dikelompokkan per kategori. Setiap kata di buku ini diambil dari daftar ini, tidak ada kata "siluman".
 
-> **Hafalkan bertahap mengikuti urutan bab** — jangan dihafal sekaligus. Bab 1 pakai kelompok sapaan, Bab 2 pakai angka & waktu, dan seterusnya. Tabel ini tempat mencontek, bukan tempat menghafal maraton.
+> **Hafalkan bertahap mengikuti urutan bab**, jangan dihafal sekaligus. Bab 1 pakai kelompok sapaan, Bab 2 pakai angka & waktu, dan seterusnya. Tabel ini tempat mencontek, bukan tempat menghafal maraton.
 
 ## Kata ganti & sapaan
 

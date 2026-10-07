@@ -1,8 +1,8 @@
 # Bab 2: Angka, Waktu & Uang
 
-Angka dipakai di mana-mana: umur, tanggal, jam, harga. Kabar baiknya: sistem angka Mandarin super logis. Hafal 1–10, sisanya cuma pola. Bab ini juga ngebahas waktu (tanggal, hari, jam) dan uang — tiga hal yang bikin kamu bisa survive percakapan dasar.
+Angka dipakai di mana-mana: umur, tanggal, jam, harga. Kabar baiknya: sistem angka Mandarin super logis. Hafal 1–10, sisanya cuma pola. Bab ini juga ngebahas waktu (tanggal, hari, jam) dan uang, tiga hal yang bikin kamu bisa survive percakapan dasar.
 
-## 2.1 — Angka 1–10
+## 2.1: Angka 1–10
 
 
 | Hanzi | Pinyin | Arti |
@@ -31,9 +31,9 @@ Angka dipakai di mana-mana: umur, tanggal, jam, harga. Kabar baiknya: sistem ang
 <div>Saya beli lima apel.</div>
 </div>
 
-Catatan: **个 (gè)** itu kata satuan umum — kayak "tiga *buah* apel". Detailnya di Bab 5; buat sekarang anggap tempelan wajib tiap nyebut jumlah benda.
+Catatan: **个 (gè)** itu kata satuan umum, kayak "tiga *buah* apel". Detailnya di Bab 5; buat sekarang anggap tempelan wajib tiap nyebut jumlah benda.
 
-## 2.2 — Belasan & puluhan: cuma pola
+## 2.2: Belasan & puluhan: cuma pola
 
 Rumusnya:
 
@@ -52,9 +52,9 @@ Rumusnya:
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 二十 = "dua-sepuluh"?</div>
-<p>Angka Mandarin itu matematika murni — nggak ada kata spesial kayak "twenty" atau "tigapuluh". 二十 = "dua-sepuluh" = 2×10. Digit di DEPAN 十 artinya perkalian; digit di BELAKANG 十 artinya penjumlahan: 二十一 = 20+1. Sekali ngeh logikanya, 99 angka runtuh jadi satu aturan.</p>
-<p><strong>Pola yang sama:</strong> 三十 (3×10), 九十九 (9×10+9), 一百 (1×100 — logika yang sama naik satu tingkat).</p>
-<p><strong>Awas jebakan:</strong> 11 itu 十一, BUKAN 一十一 — angka 一 di depan 十 dibuang. (Tapi 一百 tetap pakai 一.)</p>
+<p>Angka Mandarin itu matematika murni, nggak ada kata spesial kayak "twenty" atau "tigapuluh". 二十 = "dua-sepuluh" = 2×10. Digit di DEPAN 十 artinya perkalian; digit di BELAKANG 十 artinya penjumlahan: 二十一 = 20+1. Sekali ngeh logikanya, 99 angka runtuh jadi satu aturan.</p>
+<p><strong>Pola yang sama:</strong> 三十 (3×10), 九十九 (9×10+9), 一百 (1×100, logika yang sama naik satu tingkat).</p>
+<p><strong>Awas jebakan:</strong> 11 itu 十一, BUKAN 一十一, angka 一 di depan 十 dibuang. (Tapi 一百 tetap pakai 一.)</p>
 </div>
 
 
@@ -64,7 +64,7 @@ Rumusnya:
 <div>Dia (berumur) 35 tahun.</div>
 </div>
 
-## 2.3 — Nol & seratus
+## 2.3: Nol & seratus
 
 
 | Hanzi | Pinyin | Arti |
@@ -74,7 +74,7 @@ Rumusnya:
 
 
 ::: info
-**百 (bǎi, "ratus")** sebenarnya di luar HSK 1, tapi kamu butuh buat bilang 100 — jadi kita kenalin sekarang. Polanya gampang: [angka] + 百.
+**百 (bǎi, "ratus")** sebenarnya di luar HSK 1, tapi kamu butuh buat bilang 100, jadi kita kenalin sekarang. Polanya gampang: [angka] + 百.
 :::
 
 零 dipakai di nomor tahun: 2026 = **二零二六年** (èr líng èr liù nián), 1990 = **一九九零年** (yī jiǔ jiǔ líng nián).
@@ -85,20 +85,20 @@ Rumusnya:
 <div>100 yuan.</div>
 </div>
 
-## 2.4 — 二 vs 两: jebakan "dua"
+## 2.4: 二 vs 两: jebakan "dua"
 
 ::: info
-**两 (liǎng, "dua")** di luar HSK 1 tapi penting banget: **二** dipakai buat berhitung dan urutan (二十 = 20, 二月 = Februari), sedangkan **两** dipakai sebelum kata satuan buat menyatakan jumlah benda — misal **两个人** (liǎng gè rén, "dua orang"). Di HSK 1 cukup hafal 二; 两 dibahas tuntas di persiapan HSK 2.
+**两 (liǎng, "dua")** di luar HSK 1 tapi penting banget: **二** dipakai buat berhitung dan urutan (二十 = 20, 二月 = Februari), sedangkan **两** dipakai sebelum kata satuan buat menyatakan jumlah benda, misal **两个人** (liǎng gè rén, "dua orang"). Di HSK 1 cukup hafal 二; 两 dibahas tuntas di persiapan HSK 2.
 :::
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa "dua" ada dua versi: 二 vs 两?</div>
-<p>二 (èr) itu "dua matematis" — buat berhitung, urutan, dan posisi digit: 二十 (20), 二月 (Februari), 二零二六 (2026). 两 (liǎng) itu "dua barang" — buat menyatakan jumlah benda sebelum kata satuan: 两个人 (dua orang), 两本书 (dua buku). Konon 两 aslinya berarti "sepasang" — dua benda yang berpasangan — makanya dia cuma masuk akal buat benda konkret, bukan angka abstrak.</p>
-<p><strong>Pola yang sama:</strong> cuma angka 2 yang punya dua versi — 三个人, 一本书 tetap pakai angka biasa.</p>
-<p><strong>Awas jebakan:</strong> 20 itu 二十, bukan 两十; tapi 2000 boleh 两千. Dan 两 di luar HSK 1 — buat sekarang, 二 di mana-mana sudah aman.</p>
+<p>二 (èr) itu "dua matematis", buat berhitung, urutan, dan posisi digit: 二十 (20), 二月 (Februari), 二零二六 (2026). 两 (liǎng) itu "dua barang", buat menyatakan jumlah benda sebelum kata satuan: 两个人 (dua orang), 两本书 (dua buku). Konon 两 aslinya berarti "sepasang", dua benda yang berpasangan, makanya dia cuma masuk akal buat benda konkret, bukan angka abstrak.</p>
+<p><strong>Pola yang sama:</strong> cuma angka 2 yang punya dua versi, 三个人, 一本书 tetap pakai angka biasa.</p>
+<p><strong>Awas jebakan:</strong> 20 itu 二十, bukan 两十; tapi 2000 boleh 两千. Dan 两 di luar HSK 1, buat sekarang, 二 di mana-mana sudah aman.</p>
 </div>
 
-## 2.5 — Umur: 岁
+## 2.5: Umur: 岁
 
 Pola: **[angka] + 岁 (suì)**. Nanya umur (santai): **你几岁？**
 
@@ -110,9 +110,9 @@ Pola: **[angka] + 岁 (suì)**. Nanya umur (santai): **你几岁？**
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa umur pakai 岁, bukan 年?</div>
-<p>年 itu tahun kalender (2026年); 岁 (suì) itu kata satuan khusus buat umur — sejajar dengan 个 buat benda dan 本 buat buku. Konon 岁 terkait siklus panen zaman dulu: satu 岁 = satu putaran musim penuh. Bentuk sederhananya (山 + 夕) cuma steno; bentuk tradisional 歲 yang menyimpan makna lamanya.</p>
-<p><strong>Pola yang sama:</strong> [angka] + 岁 selalu buat umur — 三岁, 二十岁, 四十五岁; nanyanya 你几岁？(angka kecil) atau 你多少岁？(lebih sopan buat yang tua).</p>
-<p><strong>Awas jebakan:</strong> jangan pakai 年 buat umur (× 我二十年 — itu kedengarannya kayak "durasi dua puluh tahun", aneh). 年 cuma buat tahun kalender.</p>
+<p>年 itu tahun kalender (2026年); 岁 (suì) itu kata satuan khusus buat umur, sejajar dengan 个 buat benda dan 本 buat buku. Konon 岁 terkait siklus panen zaman dulu: satu 岁 = satu putaran musim penuh. Bentuk sederhananya (山 + 夕) cuma steno; bentuk tradisional 歲 yang menyimpan makna lamanya.</p>
+<p><strong>Pola yang sama:</strong> [angka] + 岁 selalu buat umur, 三岁, 二十岁, 四十五岁; nanyanya 你几岁？(angka kecil) atau 你多少岁？(lebih sopan buat yang tua).</p>
+<p><strong>Awas jebakan:</strong> jangan pakai 年 buat umur (× 我二十年, itu kedengarannya kayak "durasi dua puluh tahun", aneh). 年 cuma buat tahun kalender.</p>
 </div>
 
 
@@ -128,7 +128,7 @@ Pola: **[angka] + 岁 (suì)**. Nanya umur (santai): **你几岁？**
 <div>Umurmu berapa?</div>
 </div>
 
-**Umur keluarga** — polanya sama, tinggal ganti subjeknya:
+**Umur keluarga**, polanya sama, tinggal ganti subjeknya:
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/c2efa4cadf4d.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我爸爸四十岁。</div>
@@ -160,7 +160,7 @@ Pola: **[angka] + 岁 (suì)**. Nanya umur (santai): **你几岁？**
 <div>Dia 45 tahun.</div>
 </div>
 
-## 2.6 — Tanggal: 年 月 号
+## 2.6: Tanggal: 年 月 号
 
 Urutan Mandarin: **tahun → bulan → tanggal** (besar ke kecil). Bulan = angka + 月, tanggal = angka + 号.
 
@@ -188,12 +188,12 @@ Januari = 一月 (yīyuè), Februari = 二月 (èryuè), Desember = 十二月 (s
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa urutannya 年→月→号 (besar→kecil)?</div>
-<p>Mandarin selalu mulai dari bingkai terbesar lalu zoom in: 年→月→号 (tahun→bulan→tanggal). Logika yang sama di mana-mana: alamat ditulis negara→kota→jalan, nama ditulis marga→nama depan (王明 = "Wang Ming", marga dulu). Indonesia/Barat kebalikannya: kecil→besar (7 Oktober 2026). Nggak ada yang lebih benar — cuma beda arah zoom.</p>
+<p>Mandarin selalu mulai dari bingkai terbesar lalu zoom in: 年→月→号 (tahun→bulan→tanggal). Logika yang sama di mana-mana: alamat ditulis negara→kota→jalan, nama ditulis marga→nama depan (王明 = "Wang Ming", marga dulu). Indonesia/Barat kebalikannya: kecil→besar (7 Oktober 2026). Nggak ada yang lebih benar, cuma beda arah zoom.</p>
 <p><strong>Pola yang sama:</strong> 中国北京 (negara→kota), 王明 (marga→nama depan).</p>
-<p><strong>Awas jebakan:</strong> di omongan santai, 年 sering dibuang (十月七号 saja sudah oke) — tapi urutan besar→kecilnya nggak pernah dibalik.</p>
+<p><strong>Awas jebakan:</strong> di omongan santai, 年 sering dibuang (十月七号 saja sudah oke), tapi urutan besar→kecilnya nggak pernah dibalik.</p>
 </div>
 
-## 2.7 — Hari: 星期, 今天, 昨天, 明天
+## 2.7: Hari: 星期, 今天, 昨天, 明天
 
 
 | Hanzi | Pinyin | Arti |
@@ -207,14 +207,14 @@ Januari = 一月 (yīyuè), Februari = 二月 (èryuè), Desember = 十二月 (s
 Nama hari = 星期 + angka 1–6: 星期一 (Senin) … 星期六 (Sabtu).
 
 ::: info
-Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap: seminggu itu 7 hari, bukan 6.
+Hari Minggu = **星期天** (xīngqītiān), di luar HSK 1, tapi biar lengkap: seminggu itu 7 hari, bukan 6.
 :::
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa "minggu" = 星期 (bintang + periode)?</div>
-<p>星期 = 星 (bintang) + 期 (periode/siklus) — harfiahnya "periode bintang". Konon penamaan hari mengikuti tujuh benda langit klasik: matahari, bulan, plus lima planet yang kelihatan mata telanjang. 期 sendiri cuma berarti siklus berulang. Jadi 星期一 = "siklus-bintang kesatu" = Senin.</p>
-<p><strong>Pola yang sama:</strong> 星期一 sampai 星期六 semuanya bernomor dengan logika yang sama — kayak pola puluhan: kata dasar + digit.</p>
-<p><strong>Awas jebakan:</strong> hari Minggu merusak pola — 星期天 (atau 星期日), bukan *星期七. Seminggu 7 hari, tapi cuma 6 yang dapat nomor.</p>
+<p>星期 = 星 (bintang) + 期 (periode/siklus), harfiahnya "periode bintang". Konon penamaan hari mengikuti tujuh benda langit klasik: matahari, bulan, plus lima planet yang kelihatan mata telanjang. 期 sendiri cuma berarti siklus berulang. Jadi 星期一 = "siklus-bintang kesatu" = Senin.</p>
+<p><strong>Pola yang sama:</strong> 星期一 sampai 星期六 semuanya bernomor dengan logika yang sama, kayak pola puluhan: kata dasar + digit.</p>
+<p><strong>Awas jebakan:</strong> hari Minggu merusak pola, 星期天 (atau 星期日), bukan *星期七. Seminggu 7 hari, tapi cuma 6 yang dapat nomor.</p>
 </div>
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/cfbf013501fe.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -229,7 +229,7 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 <div>Kemarin hari Rabu.</div>
 </div>
 
-## 2.8 — Jam: 点, 分钟, 现在
+## 2.8: Jam: 点, 分钟, 现在
 
 
 | Hanzi | Pinyin | Arti |
@@ -243,9 +243,9 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa "jam" = 点 (titik)?</div>
-<p>点 harfiahnya "titik" — jam adalah "titik di muka jam". 三点 = "tiga titik" = jam 3. Logikanya visual banget: waktu dibaca sebagai titik-titik di dial. Pasangannya: 分钟 = 分 (membagi/menit) + 钟 (lonceng/jam) → "bagian-bagian jam" = menit.</p>
-<p><strong>Pola yang sama:</strong> [angka] + 点 buat jam (五点, 八点, 三点十分), [angka] + 分钟 buat menit — strukturnya selalu angka dulu.</p>
-<p><strong>Awas jebakan:</strong> 点 butuh angka di depannya (× 点 saja buat "jam berapa" — harus 几点？). Dan 现在 (sekarang) itu kata waktu, bukan angka.</p>
+<p>点 harfiahnya "titik", jam adalah "titik di muka jam". 三点 = "tiga titik" = jam 3. Logikanya visual banget: waktu dibaca sebagai titik-titik di dial. Pasangannya: 分钟 = 分 (membagi/menit) + 钟 (lonceng/jam) → "bagian-bagian jam" = menit.</p>
+<p><strong>Pola yang sama:</strong> [angka] + 点 buat jam (五点, 八点, 三点十分), [angka] + 分钟 buat menit, strukturnya selalu angka dulu.</p>
+<p><strong>Awas jebakan:</strong> 点 butuh angka di depannya (× 点 saja buat "jam berapa", harus 几点？). Dan 现在 (sekarang) itu kata waktu, bukan angka.</p>
 </div>
 
 
@@ -279,7 +279,7 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 <div>Siang hari kami makan nasi.</div>
 </div>
 
-**Jadwal harian** — jam + kegiatan. Kata tanya "kapan": **什么时候** (shénme shíhou):
+**Jadwal harian**, jam + kegiatan. Kata tanya "kapan": **什么时候** (shénme shíhou):
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/c42348d16a6b.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">你什么时候去学校？</div>
@@ -317,7 +317,7 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 <div>Aku bekerja jam 9.</div>
 </div>
 
-**Durasi: ...分钟** — pola [angka] + 分钟 buat menyatakan lamanya:
+**Durasi: ...分钟**, pola [angka] + 分钟 buat menyatakan lamanya:
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/f38c812ba22a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我看电视三十分钟。</div>
@@ -337,7 +337,7 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 <div>Filmnya 90 menit.</div>
 </div>
 
-## 2.9 — Uang: 钱 & 块
+## 2.9: Uang: 钱 & 块
 
 
 | Hanzi | Pinyin | Arti |
@@ -348,13 +348,13 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 钱 bawa radikal "logam"?</div>
-<p>钱 (qián, uang) bawa radikal logam 钅 — karena uang zaman dulu MEMANG logam (koin). Bentuk tradisionalnya 錢 = 金 (logam) + 戔, dan konon 戔 itu dua 戈 (tombak) ditumpuk — ya, 戈 yang sama yang bikin 我 dan 钱 mirip! Logam + senjata = mata uang zaman perang. Terus 块 (kuài) harfiahnya "gumpalan/bongkahan" — dipakai sebagai kata satuan yuan versi lisan, kayak bilang "perak" buat rupiah: 三块钱 = "tiga perak".</p>
-<p><strong>Pola yang sama:</strong> 块 dipakai kayak kata satuan lain: 一块钱, 十块钱, 三十块钱 — [angka] + 块 (+ 钱).</p>
-<p><strong>Awas jebakan:</strong> 块 itu versi lisan/santai — versi resminya beda lagi, tapi buat ngomong sehari-hari (dan HSK 1), 块 yang bakal kamu dengar.</p>
+<p>钱 (qián, uang) bawa radikal logam 钅, karena uang zaman dulu MEMANG logam (koin). Bentuk tradisionalnya 錢 = 金 (logam) + 戔, dan konon 戔 itu dua 戈 (tombak) ditumpuk, ya, 戈 yang sama yang bikin 我 dan 钱 mirip! Logam + senjata = mata uang zaman perang. Terus 块 (kuài) harfiahnya "gumpalan/bongkahan", dipakai sebagai kata satuan yuan versi lisan, kayak bilang "perak" buat rupiah: 三块钱 = "tiga perak".</p>
+<p><strong>Pola yang sama:</strong> 块 dipakai kayak kata satuan lain: 一块钱, 十块钱, 三十块钱, [angka] + 块 (+ 钱).</p>
+<p><strong>Awas jebakan:</strong> 块 itu versi lisan/santai, versi resminya beda lagi, tapi buat ngomong sehari-hari (dan HSK 1), 块 yang bakal kamu dengar.</p>
 </div>
 
 
-**块 (kuài)** itu cara lisan nyebut yuan — kayak bilang "perak" buat rupiah. Pola harga: [angka] + 块 + 钱.
+**块 (kuài)** itu cara lisan nyebut yuan, kayak bilang "perak" buat rupiah. Pola harga: [angka] + 块 + 钱.
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/dacb7e1eb12e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">这是多少钱？</div>
@@ -387,10 +387,10 @@ Hari Minggu = **星期天** (xīngqītiān) — di luar HSK 1, tapi biar lengkap
 </div>
 
 ::: info
-Kosakata tawar-menawar (mahal/murah) dan uang kembalian belum masuk HSK 1 — itu materi persiapan HSK 2. Buat sekarang, pola "___多少钱？" + "[angka]块钱" sudah cukup buat belanja dasar.
+Kosakata tawar-menawar (mahal/murah) dan uang kembalian belum masuk HSK 1, itu materi persiapan HSK 2. Buat sekarang, pola "___多少钱？" + "[angka]块钱" sudah cukup buat belanja dasar.
 :::
 
-**Dialog — di toko (lebih lengkap):**
+**Dialog, di toko (lebih lengkap):**
 
 **A:** 你好！这个多少钱？
 *zhège duōshao qián?*
@@ -420,9 +420,9 @@ Sama-sama! Sampai jumpa!
 *zàijiàn!*
 Sampai jumpa!
 
-## 2.10 — Drill angka: belasan & puluhan
+## 2.10: Drill angka: belasan & puluhan
 
-Hafal 1–10 saja nggak cukup — mulut dan telingamu harus otomatis. Baca tiap baris 3x, makin lama makin cepat:
+Hafal 1–10 saja nggak cukup, mulut dan telingamu harus otomatis. Baca tiap baris 3x, makin lama makin cepat:
 
 | Hanzi | Pinyin | | Hanzi | Pinyin |
 |---|---|---|---|---|
@@ -436,7 +436,7 @@ Hafal 1–10 saja nggak cukup — mulut dan telingamu harus otomatis. Baca tiap 
 | 四十四 | sìshísì | | 八十八 | bāshíbā |
 
 ::: tip
-Perhatikan bedanya **十四 (shísì, 14)** vs **四十 (sìshí, 40)** — cuma kebalik urutannya! Ini jebakan paling klasik buat pemula. Ucapkan pelan-pelan sampai bedanya jelas.
+Perhatikan bedanya **十四 (shísì, 14)** vs **四十 (sìshí, 40)**, cuma kebalik urutannya! Ini jebakan paling klasik buat pemula. Ucapkan pelan-pelan sampai bedanya jelas.
 :::
 
 ## Latihan
@@ -485,7 +485,7 @@ Perhatikan bedanya **十四 (shísì, 14)** vs **四十 (sìshí, 40)** — cuma
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 两个人 <span class='quiz-py'>(liǎng gè rén)</span> — karena sebelum kata satuan (个) untuk menyatakan jumlah benda pakai 两, bukan 二.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 两个人 <span class='quiz-py'>(liǎng gè rén)</span>, karena sebelum kata satuan (个) untuk menyatakan jumlah benda pakai 两, bukan 二.">
 <p class="quiz-t"><strong>6.</strong> Pilih yang benar: "dua orang"? Kenapa?</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 二个人</button>

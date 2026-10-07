@@ -130,14 +130,14 @@ export default defineConfig({
   base: '/mandarin-dari-nol/',
 
   // NOTE: per-locale themeConfig WAJIB di dalam tiap locale (locales.<key>.themeConfig),
-  // bukan di themeConfig.locales — itu tidak dibaca oleh VitePress.
+  // bukan di themeConfig.locales, itu tidak dibaca oleh VitePress.
   locales: {
     root: {
       label: 'Indonesia',
       lang: 'id-ID',
       title: 'Mandarin dari Nol',
       description:
-        'Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 1 — dokumentasi terbuka berbahasa Indonesia.',
+        'Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 1, dokumentasi terbuka berbahasa Indonesia.',
       themeConfig: {
         nav: idNav,
         sidebar: idSidebar,
@@ -168,7 +168,7 @@ export default defineConfig({
           text: 'Ubah halaman ini di GitHub',
         },
         footer: {
-          message: 'Ditulis sambil belajar — dari nol, untuk yang mulai dari nol.',
+          message: 'Ditulis sambil belajar, dari nol, untuk yang mulai dari nol.',
           copyright: '© 2026 Asep Iskandar · Lisensi CC BY-SA 4.0',
         },
       },
@@ -178,7 +178,7 @@ export default defineConfig({
       lang: 'en-US',
       title: 'Mandarin from Zero',
       description:
-        'A zero-to-HSK 1 Mandarin curriculum — open documentation for English speakers.',
+        'A zero-to-HSK 1 Mandarin curriculum, open documentation for English speakers.',
       link: '/en/',
       themeConfig: {
         nav: enNav,
@@ -194,7 +194,7 @@ export default defineConfig({
           text: 'Edit this page on GitHub',
         },
         footer: {
-          message: 'Written while learning — from zero, for those starting from zero.',
+          message: 'Written while learning, from zero, for those starting from zero.',
           copyright: '© 2026 Asep Iskandar · CC BY-SA 4.0 license',
         },
       },
