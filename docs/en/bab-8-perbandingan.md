@@ -9,6 +9,8 @@
 | A 比 B + Adj | 他比我高。 | He is taller than me. |
 | A 比 B + Adj + 得多 | 这个比那个贵得多。 | This is much more expensive than that. |
 
+> 💡 **Bonus city name**: 上海 (Shànghǎi) = Shanghai. 北京 (Běijīng) = Beijing, already known from HSK 1.
+
 <div class="contoh"><div class="hz">北京比上海大。</div><div class="py">Běijīng bǐ Shànghǎi dà.</div><div class="id">Beijing is bigger than Shanghai.</div></div>
 
 <div class="contoh"><div class="hz">我比他忙得多。</div><div class="py">Wǒ bǐ tā máng de duō.</div><div class="id">I'm much busier than him.</div></div>
@@ -16,6 +18,8 @@
 Common trap: don't put 很 in a 比 sentence. ✗ 他比我很高 (wrong). 比 already means "more", so the adjective stays bare.
 
 Variation: **A + 没有 + B + 这么/那么 + adjective** = A is not as [adjective] as B.
+> 💡 **Bonus words**: 那么 (nàme) = that (far), 这么 (zhème) = this (near). Used for equal comparisons.
+
 <div class="contoh"><div class="hz">我没有他那么高。</div><div class="py">Wǒ méiyǒu tā nàme gāo.</div><div class="id">I'm not as tall as him.</div></div>
 
 ## 8.6 最 (zuì), 非常 (fēicháng), 真 (zhēn)

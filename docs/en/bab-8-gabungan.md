@@ -23,10 +23,10 @@ Its question partner: **为什么** (wèishénme, why).
 | Word | Meaning | Pattern | Example |
 |---|---|---|---|
 | 从 | from | 从 A 到 B | 从家到公司很远。Home to office is far. |
-| 往 | toward | 往 + direction + V | 往左走。Go left. |
+| 往 | toward | 往 + direction + V | 往左走。Go left. (左 = left, short for 左边) |
 | 离 | away from | A 离 B + distance | 机场离这里很远。The airport is far from here. |
 
-<div class="contoh"><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yí ge xiǎoshí.</div><div class="id">Airport to hotel takes one hour.</div></div>
+<div class="contoh"><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yī gè xiǎoshí.</div><div class="id">Airport to hotel takes one hour.</div></div>
 
 <div class="contoh"><div class="hz">往前走，医院在右边。</div><div class="py">Wǎng qián zǒu, yīyuàn zài yòubian.</div><div class="id">Go straight, the hospital is on the right.</div></div>
 
@@ -38,6 +38,8 @@ Its question partner: **为什么** (wèishénme, why).
 | 别 | don't (prohibition) | 别说话！Don't talk! |
 
 <div class="contoh"><div class="hz">进来坐吧！</div><div class="py">Jìnlái zuò ba!</div><div class="id">Come in and sit!</div></div>
+
+> 💡 **Bonus words**: 担心 (dānxīn) = to worry, 没事 (méi shì) = it's nothing / I'm fine.
 
 <div class="contoh"><div class="hz">别担心，我没事。</div><div class="py">Bié dānxīn, wǒ méi shì.</div><div class="id">Don't worry, I'm fine.</div></div>
 
@@ -52,7 +54,11 @@ Mandarin's most iconic pattern. HSK 2 only needs the idea; HSK 3 dissects it ful
 
 **把 + object + verb + complement** = "take the object, then do something to it" (focus on the result).
 
+> 💡 **Bonus word**: 关 (guān) = to close (opposite of 开 = to open). 上 here is a directional complement = "shut tight".
+
 <div class="contoh"><div class="hz">把门关上。</div><div class="py">Bǎ mén guān shang.</div><div class="id">Close the door.</div></div>
+
+> 💡 **Bonus word**: 作业 (zuòyè) = homework/school assignment.
 
 <div class="contoh"><div class="hz">把作业写完。</div><div class="py">Bǎ zuòyè xiě wán.</div><div class="id">Finish the homework.</div></div>
 
