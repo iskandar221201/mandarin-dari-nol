@@ -37,7 +37,7 @@
 
 ## 9. Kata satuan: 个 / 本 / 岁 / 块 / 些
 
-Tiap benda dihitung dengan "satuan"nya masing-masing. 个 (*gè*) adalah satuan sejuta umat — kalau ragu, pakai 个. 本 untuk buku, 岁 untuk umur, 块 untuk uang (lisan), 些 untuk "beberapa".
+Tiap benda dihitung dengan "satuan"nya masing-masing. 个 (*gè*) adalah satuan sejuta umat, kalau ragu, pakai 个. 本 untuk buku, 岁 untuk umur, 块 untuk uang (lisan), 些 untuk "beberapa".
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/1134466965c6.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">一个人</div>
@@ -74,11 +74,11 @@ Tiap benda dihitung dengan "satuan"nya masing-masing. 个 (*gè*) adalah satuan 
 | angka + kata satuan + benda | 三本书 |
 | (umur) angka + 岁 | 二十岁 |
 
-**Jebakan orang Indonesia:** 些 tidak dipakai dengan angka pasti (三些书 salah). Dan umur pakai 岁, bukan 个 — 二十个 untuk umur itu salah.
+**Jebakan orang Indonesia:** 些 tidak dipakai dengan angka pasti (三些书 salah). Dan umur pakai 岁, bukan 个, 二十个 untuk umur itu salah.
 
 ## 10. Partikel 的: milik & penjelas
 
-的 (*de*) punya dua kerjaan: (1) menunjukkan milik — **A 的 B** = "B-nya A"; (2) menghubungkan penjelas dengan benda — **[penjelas] 的 [benda]**.
+的 (*de*) punya dua kerjaan: (1) menunjukkan milik, **A 的 B** = "B-nya A"; (2) menghubungkan penjelas dengan benda, **[penjelas] 的 [benda]**.
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/a3ef3dcc159c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我的书</div>
@@ -115,7 +115,7 @@ Tiap benda dihitung dengan "satuan"nya masing-masing. 个 (*gè*) adalah satuan 
 | A 的 B (milik) | 我的书 |
 | [penjelas] 的 [benda] | 漂亮的衣服 |
 
-**Jebakan orang Indonesia:** urutannya sama seperti Indonesia ("buku saya" = 我的书) — bagian ini gampang. Tapi untuk pasangan kata sifat–benda yang sudah akrab, 的 boleh hilang: 好朋友 ("teman baik"), bukan 好朋友的.
+**Jebakan orang Indonesia:** urutannya sama seperti Indonesia ("buku saya" = 我的书), bagian ini gampang. Tapi untuk pasangan kata sifat–benda yang sudah akrab, 的 boleh hilang: 好朋友 ("teman baik"), bukan 好朋友的.
 
 ## 11. 和 (dan)
 
@@ -156,11 +156,11 @@ Tiap benda dihitung dengan "satuan"nya masing-masing. 个 (*gè*) adalah satuan 
 | kata benda + 和 + kata benda | 爸爸和妈妈 |
 | kata benda + 和 + kata benda | 米饭和菜 |
 
-**Jebakan orang Indonesia:** jangan pakai 和 untuk menggabungkan kata kerja. "Saya makan dan minum" bukan 我吃和喝 — gabungkan dua klausa saja (我吃饭，我喝茶).
+**Jebakan orang Indonesia:** jangan pakai 和 untuk menggabungkan kata kerja. "Saya makan dan minum" bukan 我吃和喝, gabungkan dua klausa saja (我吃饭，我喝茶).
 
 ## 12. Kata tanya tidak pindah posisi
 
-Ini kabar baik: kata tanya Mandarin (什么, 谁, 哪, 哪儿, 多少, 几, 怎么, 怎么样) **tetap di posisi kata yang ditanyakan** — tidak pindah ke depan kalimat seperti di Indonesia.
+Ini kabar baik: kata tanya Mandarin (什么, 谁, 哪, 哪儿, 多少, 几, 怎么, 怎么样) **tetap di posisi kata yang ditanyakan**, tidak pindah ke depan kalimat seperti di Indonesia.
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/4cd43b154e3f.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">你是谁？</div>
@@ -197,13 +197,13 @@ Ini kabar baik: kata tanya Mandarin (什么, 谁, 哪, 哪儿, 多少, 几, 怎�
 | kata tanya tetap di posisi yang ditanyakan | 你吃什么？ |
 | kata tanya tetap di posisi yang ditanyakan | 你是谁？ |
 
-**Jebakan orang Indonesia:** refleks memindah kata tanya ke depan ("Apa kamu makan?"). Di Mandarin, 什么 tetap di posisi objek: 你吃什么 — bukan 什么你吃.
+**Jebakan orang Indonesia:** refleks memindah kata tanya ke depan ("Apa kamu makan?"). Di Mandarin, 什么 tetap di posisi objek: 你吃什么, bukan 什么你吃.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>Karena tidak ada konjugasi dan urutan kata kaku (poin 1), cara termudah membentuk pertanyaan adalah <strong>mengganti kata yang tidak diketahui dengan kata tanya di posisi yang sama</strong> — seperti mengisi titik-titik: 你吃___？ → 你吃什么？ <em>(nǐ chī shénme?)</em>. Bahasa Indonesia malah memindah kata tanyanya ke depan (&quot;apa yang kamu makan?&quot;), makanya terasa aneh di awal. Tapi logika Mandarin lebih hemat: struktur kalimatnya tidak berubah sama sekali.</p>
-<p><strong>Pola yang sama:</strong> semua kata tanya (谁, 哪, 哪儿, 多少, 几, 怎么, 怎么样) mengikuti aturan yang sama — tidak ada yang pindah.</p>
-<p><strong>Awas jebakan:</strong> 什么你吃？ meniru pola Indonesia — salah total di Mandarin.</p>
+<p>Karena tidak ada konjugasi dan urutan kata kaku (poin 1), cara termudah membentuk pertanyaan adalah <strong>mengganti kata yang tidak diketahui dengan kata tanya di posisi yang sama</strong>, seperti mengisi titik-titik: 你吃___？ → 你吃什么？ <em>(nǐ chī shénme?)</em>. Bahasa Indonesia malah memindah kata tanyanya ke depan (&quot;apa yang kamu makan?&quot;), makanya terasa aneh di awal. Tapi logika Mandarin lebih hemat: struktur kalimatnya tidak berubah sama sekali.</p>
+<p><strong>Pola yang sama:</strong> semua kata tanya (谁, 哪, 哪儿, 多少, 几, 怎么, 怎么样) mengikuti aturan yang sama, tidak ada yang pindah.</p>
+<p><strong>Awas jebakan:</strong> 什么你吃？ meniru pola Indonesia, salah total di Mandarin.</p>
 </div>
 
 ## 13. Keterangan waktu: di antara subjek & kata kerja
@@ -245,12 +245,12 @@ Keterangan waktu (今天, 明天, 昨天, 现在...) ditaruh **setelah subjek, s
 | Subjek + keterangan waktu + kata kerja | 我今天去学校。 |
 | Subjek + keterangan waktu + kata kerja | 他明天下午来。 |
 
-**Jebakan orang Indonesia:** ini jebakan klasik. "Saya pergi ke sekolah hari ini" kalau diterjemahkan kata per kata jadi 我去学校今天 — salah. Waktu harus sebelum kata kerja.
+**Jebakan orang Indonesia:** ini jebakan klasik. "Saya pergi ke sekolah hari ini" kalau diterjemahkan kata per kata jadi 我去学校今天, salah. Waktu harus sebelum kata kerja.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>Mandarin menaruh <strong>&quot;bingkai&quot; sebelum &quot;isi&quot;</strong>: kapan kejadiannya disebutkan dulu, baru aksinya — seperti menata panggung sebelum aktornya main. 我今天去学校 <em>(wǒ jīntiān qù xuéxiào)</em> dibaca sebagai &quot;[hari ini] [saya pergi ke sekolah]&quot;: waktunya adalah latar, aksinya adalah isi. Indonesia lebih fleksibel (&quot;saya pergi hari ini&quot; / &quot;hari ini saya pergi&quot;), tapi Mandarin memilih satu slot baku supaya tidak ambigu.</p>
-<p><strong>Pola yang sama:</strong> 在 + tempat juga sebelum kata kerja (他在家学习, poin 14) — tempat pun adalah &quot;panggung&quot; yang dipasang sebelum aksi.</p>
-<p><strong>Awas jebakan:</strong> 我去学校今天 meniru pola Indonesia — salah.</p>
+<p>Mandarin menaruh <strong>&quot;bingkai&quot; sebelum &quot;isi&quot;</strong>: kapan kejadiannya disebutkan dulu, baru aksinya, seperti menata panggung sebelum aktornya main. 我今天去学校 <em>(wǒ jīntiān qù xuéxiào)</em> dibaca sebagai &quot;[hari ini] [saya pergi ke sekolah]&quot;: waktunya adalah latar, aksinya adalah isi. Indonesia lebih fleksibel (&quot;saya pergi hari ini&quot; / &quot;hari ini saya pergi&quot;), tapi Mandarin memilih satu slot baku supaya tidak ambigu.</p>
+<p><strong>Pola yang sama:</strong> 在 + tempat juga sebelum kata kerja (他在家学习, poin 14), tempat pun adalah &quot;panggung&quot; yang dipasang sebelum aksi.</p>
+<p><strong>Awas jebakan:</strong> 我去学校今天 meniru pola Indonesia, salah.</p>
 </div>
 

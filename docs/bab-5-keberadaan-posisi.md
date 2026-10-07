@@ -39,11 +39,11 @@ Untuk "melakukan sesuatu **di** suatu tempat": **在 + [tempat] + [kata kerja]**
 | 在 + tempat + kata kerja | 他在家学习。 |
 | 在 + tempat + kata kerja | 我在饭馆吃饭。 |
 
-**Jebakan orang Indonesia:** jangan pakai 是 untuk lokasi — "dia di rumah" = 他在家, bukan 他是在家. Dan jangan menumpuk: 我在在商店 itu salah, cukup satu 在.
+**Jebakan orang Indonesia:** jangan pakai 是 untuk lokasi, "dia di rumah" = 他在家, bukan 他是在家. Dan jangan menumpuk: 我在在商店 itu salah, cukup satu 在.
 
 ## 15. 有: punya & ada
 
-有 (*yǒu*) artinya dua hal: (1) **"punya"** — A 有 B; (2) **"ada" (eksistensi)** — [tempat] 有 B.
+有 (*yǒu*) artinya dua hal: (1) **"punya"**, A 有 B; (2) **"ada" (eksistensi)**, [tempat] 有 B.
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/9da3c0a066a7.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我有三本书。</div>
@@ -121,13 +121,13 @@ Dua-duanya "tidak", tapi beda waktu. 不 (*bù*) = menyangkal kebiasaan, keadaan
 | 不 + kata kerja (kebiasaan/sekarang/masa depan) | 我不吃苹果。 |
 | 没 + kata kerja (sudah terjadi) | 我没去商店。 |
 
-**Jebakan orang Indonesia:** Indonesia cuma punya "tidak/belum" — di Mandarin harus pilih. "Saya kemarin tidak pergi" = 我昨天没去, bukan 不去. Patokan cepat: kejadiannya sudah lewat → pakai 没.
+**Jebakan orang Indonesia:** Indonesia cuma punya "tidak/belum", di Mandarin harus pilih. "Saya kemarin tidak pergi" = 我昨天没去, bukan 不去. Patokan cepat: kejadiannya sudah lewat → pakai 没.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>Bedanya bukan sekadar &quot;lampau vs bukan&quot;, tapi <strong>penilaian vs fakta</strong>. 不 menyangkal sesuatu yang sifatnya penilaian, kebiasaan, atau rencana — hal yang <em>belum diputuskan</em> atau tidak bisa dicek (我不吃苹果 = &quot;saya memang tidak makan apel&quot;). 没 menyangkal <strong>fakta yang sudah terjadi</strong> — hal yang bisa dicek kebenarannya (我没去商店 = &quot;faktanya saya tidak pergi&quot;). Makanya masa depan pakai 不 (belum terjadi = belum bisa dicek) dan masa lalu pakai 没.</p>
-<p><strong>Pola yang sama:</strong> 没有 (&quot;tidak ada&quot;) = 没 + 有 — menyangkal fakta keberadaan sesuatu.</p>
-<p><strong>Awas jebakan:</strong> 我昨天不去商店 — kejadiannya sudah lewat dan bisa dicek, harus pakai 没.</p>
+<p>Bedanya bukan sekadar &quot;lampau vs bukan&quot;, tapi <strong>penilaian vs fakta</strong>. 不 menyangkal sesuatu yang sifatnya penilaian, kebiasaan, atau rencana, hal yang <em>belum diputuskan</em> atau tidak bisa dicek (我不吃苹果 = &quot;saya memang tidak makan apel&quot;). 没 menyangkal <strong>fakta yang sudah terjadi</strong>, hal yang bisa dicek kebenarannya (我没去商店 = &quot;faktanya saya tidak pergi&quot;). Makanya masa depan pakai 不 (belum terjadi = belum bisa dicek) dan masa lalu pakai 没.</p>
+<p><strong>Pola yang sama:</strong> 没有 (&quot;tidak ada&quot;) = 没 + 有, menyangkal fakta keberadaan sesuatu.</p>
+<p><strong>Awas jebakan:</strong> 我昨天不去商店, kejadiannya sudah lewat dan bisa dicek, harus pakai 没.</p>
 </div>
 
 ## 17. 会 / 能 / 想 / 喜欢 + kata kerja
@@ -169,11 +169,11 @@ Empat kata ini selalu diikuti kata kerja langsung (tanpa "untuk"). 会 (*huì*) 
 | 会/能/想/喜欢 + kata kerja | 我会写字。 |
 | 会/能/想/喜欢 + kata kerja | 我想学习汉语。 |
 
-**Jebakan orang Indonesia:** Indonesia cuma punya "bisa" — di Mandarin harus pilih. Sudah jadi keterampilan yang dipelajari → 会. Sekadar mampu, sempat, atau diizinkan → 能. "Saya bisa datang besok" (soal kesanggupan, bukan keahlian) = 我明天能来.
+**Jebakan orang Indonesia:** Indonesia cuma punya "bisa", di Mandarin harus pilih. Sudah jadi keterampilan yang dipelajari → 会. Sekadar mampu, sempat, atau diizinkan → 能. "Saya bisa datang besok" (soal kesanggupan, bukan keahlian) = 我明天能来.
 
 ## 18. 了: tanda keadaan berubah (pengenalan)
 
-Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi baru"** — bukan penanda lampau. Sesuatu yang tadinya tidak begitu, sekarang begitu.
+Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi baru"**, bukan penanda lampau. Sesuatu yang tadinya tidak begitu, sekarang begitu.
 
 <div class="contoh"><button class="audio-btn" data-audio="audio/277b73be6650.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">下雨了！</div>
@@ -214,36 +214,36 @@ Di HSK 1, kenalkan dulu 了 (*le*) sebagai penanda **"keadaan berubah / situasi 
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>了 bukan penanda waktu lampau — ia penanda <strong>perubahan keadaan</strong>. 下雨了 <em>(xià yǔ le)</em> artinya &quot;sekarang keadaannya hujan&quot;, dengan implikasi &quot;tadinya tidak&quot;. Makanya 了 bisa muncul di kalimat masa depan juga (nanti di HSK 2): yang penting ada <em>peralihan</em> dari satu keadaan ke keadaan lain, bukan kapan terjadinya.</p>
-<p><strong>Pola yang sama:</strong> 太...了 butuh 了 sebagai &quot;penutup&quot; (poin 6) — kalimat terasa selesai karena ada penegasan keadaan baru.</p>
-<p><strong>Awas jebakan:</strong> menyamakan 了 dengan "-ed" bahasa Inggris — padahal 我昨天去商店 (tanpa 了) sudah benar untuk lampau.</p>
+<p>了 bukan penanda waktu lampau, ia penanda <strong>perubahan keadaan</strong>. 下雨了 <em>(xià yǔ le)</em> artinya &quot;sekarang keadaannya hujan&quot;, dengan implikasi &quot;tadinya tidak&quot;. Makanya 了 bisa muncul di kalimat masa depan juga (nanti di HSK 2): yang penting ada <em>peralihan</em> dari satu keadaan ke keadaan lain, bukan kapan terjadinya.</p>
+<p><strong>Pola yang sama:</strong> 太...了 butuh 了 sebagai &quot;penutup&quot; (poin 6), kalimat terasa selesai karena ada penegasan keadaan baru.</p>
+<p><strong>Awas jebakan:</strong> menyamakan 了 dengan "-ed" bahasa Inggris, padahal 我昨天去商店 (tanpa 了) sudah benar untuk lampau.</p>
 </div>
 
 ## 19. Kata posisi: 在 + tempat + 里/上/下 (di dalam/di atas/di samping)
 
-Dalam bahasa Indonesia, kata posisi ditaruh SEBELUM benda: *di dalam* kotak, *di atas* meja, *di samping* sekolah. Di Mandarin polanya dibalik — kata posisi ditaruh SETELAH tempat, dibuka dengan 在:
+Dalam bahasa Indonesia, kata posisi ditaruh SEBELUM benda: *di dalam* kotak, *di atas* meja, *di samping* sekolah. Di Mandarin polanya dibalik, kata posisi ditaruh SETELAH tempat, dibuka dengan 在:
 
 **在 + [tempat] + [posisi]**
 
 | Indonesia | Mandarin | Contoh |
 |---|---|---|
-| di dalam kelas | 在教室里 | 学生在教室里。(xuéshēng zài jiàoshì lǐ.) — Murid-murid di dalam kelas. |
-| di atas meja | 在桌子上 | 杯子在桌子上。(bēizi zài zhuōzi shàng.) — Cangkir di atas meja. |
-| di bawah meja | 在桌子下 | 狗在桌子下。(gǒu zài zhuōzi xià.) — Anjing di bawah meja. |
-| di luar sekolah | 在学校外面 | 我在学校外面。(wǒ zài xuéxiào wàimiàn.) — Saya di luar sekolah. |
-| di belakang pintu | 在门后面 | 他在门后面。(tā zài mén hòumiàn.) — Dia di belakang pintu. |
-| di samping sekolah | 在学校旁边 | 商店在学校旁边。(shāngdiàn zài xuéxiào pángbiān.) — Toko di samping sekolah. |
+| di dalam kelas | 在教室里 | 学生在教室里。(xuéshēng zài jiàoshì lǐ.), Murid-murid di dalam kelas. |
+| di atas meja | 在桌子上 | 杯子在桌子上。(bēizi zài zhuōzi shàng.), Cangkir di atas meja. |
+| di bawah meja | 在桌子下 | 狗在桌子下。(gǒu zài zhuōzi xià.), Anjing di bawah meja. |
+| di luar sekolah | 在学校外面 | 我在学校外面。(wǒ zài xuéxiào wàimiàn.), Saya di luar sekolah. |
+| di belakang pintu | 在门后面 | 他在门后面。(tā zài mén hòumiàn.), Dia di belakang pintu. |
+| di samping sekolah | 在学校旁边 | 商店在学校旁边。(shāngdiàn zài xuéxiào pángbiān.), Toko di samping sekolah. |
 
-Catatan: 在 saja tanpa kata posisi juga boleh (他在学校 = "dia di sekolah") — tapi kalau mau spesifik posisinya, kata posisinya wajib ada.
+Catatan: 在 saja tanpa kata posisi juga boleh (他在学校 = "dia di sekolah"), tapi kalau mau spesifik posisinya, kata posisinya wajib ada.
 
-Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas" (posisi subjek) vs 教室里有学生 = "di dalam kelas ada murid" (keberadaan). Keduanya pakai 里 — bedanya siapa yang jadi subjek.
+Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas" (posisi subjek) vs 教室里有学生 = "di dalam kelas ada murid" (keberadaan). Keduanya pakai 里, bedanya siapa yang jadi subjek.
 
 <!-- KENAPA:postposition -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa posisinya ditaruh di belakang?</div>
 <p>Bahasa Indonesia memakai <em>kata depan</em> (di dalam/di atas + benda), Mandarin memakai <em>kata belakang</em>: <strong>在</strong> membuka ("di"), kata posisi menutup (<strong>里/上/下</strong>). Anggap seperti kurung: <strong>在...里</strong> = "di...dalam". Sekali ngeh pola kurungnya, semua posisi tinggal ganti ekornya: 在...上, 在...下, 在...外, 在...前, 在...后, 在...旁边.</p>
-<p><strong>Pola yang sama:</strong> pola "kurung" juga muncul di tempat lain — mis. 从...到 (cóng...dào, "dari...sampai...") yang akan dibahas di HSK 2.</p>
-<p><strong>Awas jebakan:</strong> jangan menaruh posisi di depan seperti bahasa Indonesia — ✗在里教室 (salah!). Urutannya selalu: 在 → tempat → posisi.</p>
+<p><strong>Pola yang sama:</strong> pola "kurung" juga muncul di tempat lain, mis. 从...到 (cóng...dào, "dari...sampai...") yang akan dibahas di HSK 2.</p>
+<p><strong>Awas jebakan:</strong> jangan menaruh posisi di depan seperti bahasa Indonesia, ✗在里教室 (salah!). Urutannya selalu: 在 → tempat → posisi.</p>
 </div>
 
 ## Latihan
@@ -251,7 +251,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="他是学生吗？" data-explain="他是学生吗？ <span class='quiz-py'>(tā shì xuéshēng ma?) — Apakah dia siswa?</span>">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他是学生吗？" data-explain="他是学生吗？ <span class='quiz-py'>(tā shì xuéshēng ma?), Apakah dia siswa?</span>">
 <p class="quiz-t"><strong>1.</strong> Susun kata acak ini jadi kalimat tanya yang benar:</p>
 <p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
@@ -265,7 +265,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我很高兴 <span class='quiz-py'>(wǒ hěn gāoxìng)</span> — kata sifat butuh jembatan 很, bukan 是.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我很高兴 <span class='quiz-py'>(wǒ hěn gāoxìng)</span>, kata sifat butuh jembatan 很, bukan 是.">
 <p class="quiz-t"><strong>2.</strong> Pilih yang benar:</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我是高兴</button>
@@ -287,7 +287,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我今天去学校" data-explain="我今天去学校。 <span class='quiz-py'>(wǒ jīntiān qù xuéxiào.)</span> — keterangan waktu sebelum kata kerja.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我今天去学校" data-explain="我今天去学校。 <span class='quiz-py'>(wǒ jīntiān qù xuéxiào.)</span>, keterangan waktu sebelum kata kerja.">
 <p class="quiz-t"><strong>5.</strong> Betulkan urutan kata ini:</p>
 <p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
@@ -301,7 +301,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我昨天没去商店 — kejadiannya sudah lewat (kemarin) → pakai 没.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 我昨天没去商店, kejadiannya sudah lewat (kemarin) → pakai 没.">
 <p class="quiz-t"><strong>6.</strong> Pilih yang benar untuk "Saya kemarin tidak pergi ke toko":</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我昨天不去商店</button>
@@ -330,7 +330,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我也喜欢狗" data-explain="我也喜欢狗。 <span class='quiz-py'>(wǒ yě xǐhuan gǒu.)</span> — Saya juga suka anjing.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我也喜欢狗" data-explain="我也喜欢狗。 <span class='quiz-py'>(wǒ yě xǐhuan gǒu.)</span>, Saya juga suka anjing.">
 <p class="quiz-t"><strong>9.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
 <p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
@@ -344,7 +344,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 他在家学习 — lokasi pakai 在, tanpa 是.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 他在家学习, lokasi pakai 在, tanpa 是.">
 <p class="quiz-t"><strong>10.</strong> Pilih yang benar untuk "Dia (laki-laki) belajar di rumah":</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 他在家学习</button>
@@ -366,7 +366,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B yang salah — kata tanya tidak pindah posisi: 什么 tetap di posisi objek.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B yang salah, kata tanya tidak pindah posisi: 什么 tetap di posisi objek.">
 <p class="quiz-t"><strong>13.</strong> Pilih yang SALAH:</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 你吃什么？</button>
@@ -381,7 +381,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="他昨天看电影" data-explain="他昨天看电影。 <span class='quiz-py'>(tā zuótiān kàn diànyǐng.)</span> — Dia kemarin menonton film. Keterangan waktu sebelum kata kerja.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他昨天看电影" data-explain="他昨天看电影。 <span class='quiz-py'>(tā zuótiān kàn diànyǐng.)</span>, Dia kemarin menonton film. Keterangan waktu sebelum kata kerja.">
 <p class="quiz-t"><strong>15.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
 <p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
@@ -401,7 +401,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B — urutannya 在 → tempat → posisi: 在教室里.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B, urutannya 在 → tempat → posisi: 在教室里.">
 <p class="quiz-t"><strong>17.</strong> Pilih yang benar untuk "di dalam kelas":</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 在里教室</button>

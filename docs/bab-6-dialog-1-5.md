@@ -46,16 +46,16 @@
 
 **Bedah dialog:**
 
-- **名字** *míngzi* ("nama"): 名 = 夕 + 口 — "mulut (口) yang menyebut di malam hari (夕)" → nama.
-- **叫** *jiào* ("memanggil; bernama"): 叫 = 口 + 卩 — memakai mulut (口) untuk memanggil.
-- **呢** *ne* ("kalau kamu?"): 呢 = 口 + 尼 — partikel tanya susulan, selalu soal omongan (口).
+- **名字** *míngzi* ("nama"): 名 = 夕 + 口, "mulut (口) yang menyebut di malam hari (夕)" → nama.
+- **叫** *jiào* ("memanggil; bernama"): 叫 = 口 + 卩, memakai mulut (口) untuk memanggil.
+- **呢** *ne* ("kalau kamu?"): 呢 = 口 + 尼, partikel tanya susulan, selalu soal omongan (口).
 - **也** *yě* ("juga"): kata fungsi baru dari Bab 5, posisinya sebelum kata kerja.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>Dialog perkenalan Mandarin mengikuti pola <strong>corong: dari umum ke khusus</strong>. Mulai dari sapaan netral (你好) yang tidak menuntut apa-apa, lalu nama (你叫什么名字？), lalu identitas (我是学生), lalu asal (你是北京人吗？). Tiap langkah memberi lawan bicara &quot;pegangan&quot; sebelum masuk ke info yang lebih personal — mirip basa-basi Indonesia, cuma urutannya lebih baku.</p>
+<p>Dialog perkenalan Mandarin mengikuti pola <strong>corong: dari umum ke khusus</strong>. Mulai dari sapaan netral (你好) yang tidak menuntut apa-apa, lalu nama (你叫什么名字？), lalu identitas (我是学生), lalu asal (你是北京人吗？). Tiap langkah memberi lawan bicara &quot;pegangan&quot; sebelum masuk ke info yang lebih personal, mirip basa-basi Indonesia, cuma urutannya lebih baku.</p>
 <p><strong>Pola yang sama:</strong> Dialog 2 mengulang corong yang sama: umur → asal → tempat tinggal, dari ringan ke spesifik.</p>
-<p><strong>Awas jebakan:</strong> langsung melompat ke pertanyaan personal (umur, gaji) ke orang yang baru kenal dianggap kurang sopan — di budaya Mandarin maupun Indonesia.</p>
+<p><strong>Awas jebakan:</strong> langsung melompat ke pertanyaan personal (umur, gaji) ke orang yang baru kenal dianggap kurang sopan, di budaya Mandarin maupun Indonesia.</p>
 </div>
 
 ## Dialog 2: Bertanya umur & asal
@@ -98,16 +98,16 @@
 
 **Bedah dialog:**
 
-- **岁** *suì*: satuan khusus untuk umur — umur tidak pakai 个.
-- **哪** *nǎ* ("yang mana"): 哪 = 口 + 那 — kata tanya (口) yang menunjuk (那).
+- **岁** *suì*: satuan khusus untuk umur, umur tidak pakai 个.
+- **哪** *nǎ* ("yang mana"): 哪 = 口 + 那, kata tanya (口) yang menunjuk (那).
 - **北京** *Běijīng*: 北 = dua orang (匕 + 匕) saling membelakangi = "utara"; 京 = 亠 + 口 + 小 = "ibukota". Jadi 北京 = "ibukota utara".
-- **住** *zhù* ("tinggal"): 住 = 亻 + 主 — orang (亻) + pemilik (主) = menetap/tinggal.
+- **住** *zhù* ("tinggal"): 住 = 亻 + 主, orang (亻) + pemilik (主) = menetap/tinggal.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>你是哪儿人？ <em>(nǐ shì nǎr rén?)</em> memakai 是 karena &quot;asal&quot; dianggap <strong>identitas</strong>, bukan lokasi. Strukturnya A 是 B: &quot;kamu <em>adalah</em> orang mana&quot;. Bandingkan dengan 你住在哪儿？ <em>(nǐ zhù zài nǎr?)</em> (&quot;kamu <em>tinggal</em> di mana&quot;) yang pakai 住 + 在 karena menanyakan lokasi fisik. Satu menanyakan &quot;kamu siapa&quot;, satunya &quot;kamu di mana&quot; — dua pertanyaan yang beda logika.</p>
-<p><strong>Pola yang sama:</strong> 你是北京人吗？, 你是谁？ <em>(nǐ shì shéi?)</em> — semua pertanyaan identitas pakai 是.</p>
-<p><strong>Awas jebakan:</strong> 你在哪儿人？ — 在 tidak dipakai untuk asal.</p>
+<p>你是哪儿人？ <em>(nǐ shì nǎr rén?)</em> memakai 是 karena &quot;asal&quot; dianggap <strong>identitas</strong>, bukan lokasi. Strukturnya A 是 B: &quot;kamu <em>adalah</em> orang mana&quot;. Bandingkan dengan 你住在哪儿？ <em>(nǐ zhù zài nǎr?)</em> (&quot;kamu <em>tinggal</em> di mana&quot;) yang pakai 住 + 在 karena menanyakan lokasi fisik. Satu menanyakan &quot;kamu siapa&quot;, satunya &quot;kamu di mana&quot;, dua pertanyaan yang beda logika.</p>
+<p><strong>Pola yang sama:</strong> 你是北京人吗？, 你是谁？ <em>(nǐ shì shéi?)</em>, semua pertanyaan identitas pakai 是.</p>
+<p><strong>Awas jebakan:</strong> 你在哪儿人？, 在 tidak dipakai untuk asal.</p>
 </div>
 
 ## Dialog 3: Di restoran
@@ -162,8 +162,8 @@
 
 **Bedah dialog:**
 
-- **菜** *cài* ("masakan; sayur"): 菜 = 艹 + 采 — tumbuhan (艹) yang dipetik (采).
-- **茶** *chá* ("teh"): 茶 = 艹 + 人 + 木 — daun (艹) dari pohon (木) yang dipetik orang (人).
+- **菜** *cài* ("masakan; sayur"): 菜 = 艹 + 采, tumbuhan (艹) yang dipetik (采).
+- **茶** *chá* ("teh"): 茶 = 艹 + 人 + 木, daun (艹) dari pohon (木) yang dipetik orang (人).
 - **好吃** *hǎo chī* ("enak", harfiah "baik-dimakan"): pola kata sifat + kata kerja yang sering dipakai untuk rasa.
 
 ## Dialog 4: Belanja, tanya harga
@@ -218,22 +218,22 @@
 
 **Bedah dialog:**
 
-- **买** *mǎi* ("membeli"): bentuk sederhana dari 買 — hafalkan sebagai satu kesatuan, jangan dibedah.
-- **钱** *qián* ("uang"): 钱 = 钅 (logam) + 戋 — dari zaman uang logam.
-- **块** *kuài*: satuan uang versi lisan — 三块钱 = "tiga yuan" (lisan). Versi formalnya pakai 元 (di luar HSK 1).
-- **多少** *duōshao* ("berapa", untuk jumlah besar/tak pasti): 多 = 夕 + 夕 — "banyak" = dua malam (夕) bertumpuk.
+- **买** *mǎi* ("membeli"): bentuk sederhana dari 買, hafalkan sebagai satu kesatuan, jangan dibedah.
+- **钱** *qián* ("uang"): 钱 = 钅 (logam) + 戋, dari zaman uang logam.
+- **块** *kuài*: satuan uang versi lisan, 三块钱 = "tiga yuan" (lisan). Versi formalnya pakai 元 (di luar HSK 1).
+- **多少** *duōshao* ("berapa", untuk jumlah besar/tak pasti): 多 = 夕 + 夕, "banyak" = dua malam (夕) bertumpuk.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>几 dipakai kalau jawabannya <strong>kecil dan bisa dihitung</strong> — umur, jam, jumlah barang (biasanya di bawah 10). 多少 dipakai kalau skalanya <strong>besar atau belum ketahuan</strong> — harga, jumlah orang banyak. Intuisinya: 几 = &quot;berapa (pasti sedikit)&quot;, 多少 = &quot;berapa (entah seberapa)&quot;. Makanya tanya harga selalu 多少钱 <em>(duōshao qián)</em>, tidak pernah 几钱.</p>
+<p>几 dipakai kalau jawabannya <strong>kecil dan bisa dihitung</strong>, umur, jam, jumlah barang (biasanya di bawah 10). 多少 dipakai kalau skalanya <strong>besar atau belum ketahuan</strong>, harga, jumlah orang banyak. Intuisinya: 几 = &quot;berapa (pasti sedikit)&quot;, 多少 = &quot;berapa (entah seberapa)&quot;. Makanya tanya harga selalu 多少钱 <em>(duōshao qián)</em>, tidak pernah 几钱.</p>
 <p><strong>Pola yang sama:</strong> di Dialog 7, 现在几点？ <em>(xiànzài jǐ diǎn?)</em> pakai 几 karena jam pasti angka kecil.</p>
-<p><strong>Awas jebakan:</strong> 这个几钱？ — untuk harga harus 多少.</p>
+<p><strong>Awas jebakan:</strong> 这个几钱？, untuk harga harus 多少.</p>
 </div>
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
 <p>这个苹果多少钱？ <em>(zhège píngguǒ duōshao qián?)</em> mengikuti pola khas Mandarin: <strong>topik dulu, komentar kemudian</strong>. 这个苹果 (&quot;apel ini&quot;) adalah topik yang ditunjuk, 多少钱？ adalah komentar/pertanyaan tentang topik itu. Urutannya meniru cara orang menunjuk barang di dunia nyata: tunjuk dulu bendanya, baru tanya harganya.</p>
-<p><strong>Pola yang sama:</strong> 我的书呢？ <em>(wǒ de shū ne?)</em> — topik (bukuku), komentar (di mana?).</p>
+<p><strong>Pola yang sama:</strong> 我的书呢？ <em>(wǒ de shū ne?)</em>, topik (bukuku), komentar (di mana?).</p>
 </div>
 
 ## Dialog 5: Tanya jalan & waktu
@@ -288,15 +288,15 @@
 
 **Bedah dialog:**
 
-- **站** *zhàn* ("stasiun; berdiri"): 站 = 立 + 占 — berdiri (立) di satu titik (占).
-- **请** *qǐng* ("mohon; silakan"): 请 = 讠 + 青 — meminta lewat kata-kata (讠).
-- **点** *diǎn* ("jam; pukul"): 点 = 占 + 灬 — titik (占) + api (灬) → titik waktu.
-- **钟** *zhōng* (dalam 分钟 "menit"): 钟 = 钅 (logam) + 中 — lonceng logam penanda waktu.
+- **站** *zhàn* ("stasiun; berdiri"): 站 = 立 + 占, berdiri (立) di satu titik (占).
+- **请** *qǐng* ("mohon; silakan"): 请 = 讠 + 青, meminta lewat kata-kata (讠).
+- **点** *diǎn* ("jam; pukul"): 点 = 占 + 灬, titik (占) + api (灬) → titik waktu.
+- **钟** *zhōng* (dalam 分钟 "menit"): 钟 = 钅 (logam) + 中, lonceng logam penanda waktu.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa polanya begini?</div>
-<p>火车站在哪儿？ <em>(huǒchēzhàn zài nǎr?)</em> selalu pakai 在 karena pertanyaannya adalah &quot;<strong>X berada di mana</strong>&quot; — 在 adalah kata kerja &quot;berada&quot; di sini, bukan sekadar kata depan. Tanpa 在, kalimatnya kehilangan predikat: 火车站哪儿？ itu seperti bertanya &quot;stasiun kereta mana?&quot; tanpa kata kerja.</p>
-<p><strong>Pola yang sama:</strong> 他在哪儿？ (Dialog 6), 你住在哪儿？ (Dialog 2) — semua pertanyaan lokasi butuh 在.</p>
+<p>火车站在哪儿？ <em>(huǒchēzhàn zài nǎr?)</em> selalu pakai 在 karena pertanyaannya adalah &quot;<strong>X berada di mana</strong>&quot;, 在 adalah kata kerja &quot;berada&quot; di sini, bukan sekadar kata depan. Tanpa 在, kalimatnya kehilangan predikat: 火车站哪儿？ itu seperti bertanya &quot;stasiun kereta mana?&quot; tanpa kata kerja.</p>
+<p><strong>Pola yang sama:</strong> 他在哪儿？ (Dialog 6), 你住在哪儿？ (Dialog 2), semua pertanyaan lokasi butuh 在.</p>
 <p><strong>Awas jebakan:</strong> meniru pola Indonesia "stasiunnya di mana?" lalu membuang 在-nya.</p>
 </div>
 
