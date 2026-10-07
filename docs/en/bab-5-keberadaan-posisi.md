@@ -39,11 +39,11 @@ For "doing something **at** a place": **在 + [place] + [verb]**. Here 在 works
 | 在 + place + verb | 他在家学习。 |
 | 在 + place + verb | 我在饭馆吃饭。 |
 
-**Trap for Indonesian speakers:** don't use 是 for location — "he's at home" = 他在家, not 他是在家. And don't stack: 我在在商店 is wrong, one 在 is enough.
+**Trap for Indonesian speakers:** don't use 是 for location, "he's at home" = 他在家, not 他是在家. And don't stack: 我在在商店 is wrong, one 在 is enough.
 
 ## 15. 有: have & there is
 
-有 (*yǒu*) means two things: (1) **"have"** — A 有 B; (2) **"there is/are" (existence)** — [place] 有 B.
+有 (*yǒu*) means two things: (1) **"have"**, A 有 B; (2) **"there is/are" (existence)**, [place] 有 B.
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/9da3c0a066a7.mp3" aria-label="Listen to pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我有三本书。</div>
@@ -121,13 +121,13 @@ Both mean "not", but at different times. 不 (*bù*) = denying a habit, a presen
 | 不 + verb (habit/present/future) | 我不吃苹果。 |
 | 没 + verb (already happened) | 我没去商店。 |
 
-**Trap for Indonesian speakers:** Indonesian only has "tidak/belum" — in Mandarin you have to choose. "I didn't go yesterday" = 我昨天没去, not 不去. Quick rule of thumb: it already happened → use 没.
+**Trap for Indonesian speakers:** Indonesian only has "tidak/belum", in Mandarin you have to choose. "I didn't go yesterday" = 我昨天没去, not 不去. Quick rule of thumb: it already happened → use 没.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is the pattern like this?</div>
-<p>The difference isn't just &quot;past vs not&quot;, it's <strong>judgment vs fact</strong>. 不 denies something that's a judgment, a habit, or a plan — something <em>not yet decided</em> or unverifiable (我不吃苹果 = &quot;I just don't eat apples&quot;). 没 denies a <strong>fact that already happened</strong> — something checkable (我没去商店 = &quot;in fact I didn't go&quot;). That's why the future uses 不 (hasn't happened = can't be checked) and the past uses 没.</p>
-<p><strong>Same pattern:</strong> 没有 (&quot;there isn't&quot;) = 没 + 有 — denying the fact of something's existence.</p>
-<p><strong>Watch out:</strong> 我昨天不去商店 — it already happened and is checkable, so it must use 没.</p>
+<p>The difference isn't just &quot;past vs not&quot;, it's <strong>judgment vs fact</strong>. 不 denies something that's a judgment, a habit, or a plan, something <em>not yet decided</em> or unverifiable (我不吃苹果 = &quot;I just don't eat apples&quot;). 没 denies a <strong>fact that already happened</strong>, something checkable (我没去商店 = &quot;in fact I didn't go&quot;). That's why the future uses 不 (hasn't happened = can't be checked) and the past uses 没.</p>
+<p><strong>Same pattern:</strong> 没有 (&quot;there isn't&quot;) = 没 + 有, denying the fact of something's existence.</p>
+<p><strong>Watch out:</strong> 我昨天不去商店, it already happened and is checkable, so it must use 没.</p>
 </div>
 
 ## 17. 会 / 能 / 想 / 喜欢 + verb
@@ -169,11 +169,11 @@ These four are always followed directly by a verb (no "to"). 会 (*huì*) = can 
 | 会/能/想/喜欢 + verb | 我会写字。 |
 | 会/能/想/喜欢 + verb | 我想学习汉语。 |
 
-**Trap for Indonesian speakers:** Indonesian only has "bisa" — in Mandarin you have to choose. A learned skill → 会. Just being able, having time, or being allowed → 能. "I can come tomorrow" (a matter of ability, not skill) = 我明天能来.
+**Trap for Indonesian speakers:** Indonesian only has "bisa", in Mandarin you have to choose. A learned skill → 会. Just being able, having time, or being allowed → 能. "I can come tomorrow" (a matter of ability, not skill) = 我明天能来.
 
 ## 18. 了: marker of changed state (introduction)
 
-At HSK 1, first meet 了 (*le*) as a marker of **"changed state / new situation"** — not a past-tense marker. Something that wasn't so before, is so now.
+At HSK 1, first meet 了 (*le*) as a marker of **"changed state / new situation"**, not a past-tense marker. Something that wasn't so before, is so now.
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/277b73be6650.mp3" aria-label="Listen to pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">下雨了！</div>
@@ -214,36 +214,36 @@ At HSK 1, first meet 了 (*le*) as a marker of **"changed state / new situation"
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is the pattern like this?</div>
-<p>了 isn't a past-tense marker — it's a <strong>change-of-state</strong> marker. 下雨了 <em>(xià yǔ le)</em> means &quot;the situation now is rain&quot;, implying &quot;it wasn't before&quot;. That's why 了 can also appear in future sentences (later in HSK 2): what matters is a <em>transition</em> from one state to another, not when it happens.</p>
-<p><strong>Same pattern:</strong> 太...了 needs 了 as a &quot;closer&quot; (point 6) — the sentence feels complete because it asserts a new state.</p>
-<p><strong>Watch out:</strong> equating 了 with the English "-ed" — even though 我昨天去商店 (without 了) is already correct for the past.</p>
+<p>了 isn't a past-tense marker, it's a <strong>change-of-state</strong> marker. 下雨了 <em>(xià yǔ le)</em> means &quot;the situation now is rain&quot;, implying &quot;it wasn't before&quot;. That's why 了 can also appear in future sentences (later in HSK 2): what matters is a <em>transition</em> from one state to another, not when it happens.</p>
+<p><strong>Same pattern:</strong> 太...了 needs 了 as a &quot;closer&quot; (point 6), the sentence feels complete because it asserts a new state.</p>
+<p><strong>Watch out:</strong> equating 了 with the English "-ed", even though 我昨天去商店 (without 了) is already correct for the past.</p>
 </div>
 
 ## 19. Position words: 在 + place + 里/上/下 (like at/in/on)
 
-In English, position words go BEFORE the noun (*pre*-positions): *in* the box, *on* the table, *at* the door. In Mandarin the pattern flips — the position word goes AFTER the place, opened by 在:
+In English, position words go BEFORE the noun (*pre*-positions): *in* the box, *on* the table, *at* the door. In Mandarin the pattern flips, the position word goes AFTER the place, opened by 在:
 
 **在 + [place] + [position]**
 
 | English | Mandarin | Example |
 |---|---|---|
-| in the classroom | 在教室里 | 学生在教室里。(xuéshēng zài jiàoshì lǐ.) — The students are in the classroom. |
-| on the table | 在桌子上 | 杯子在桌子上。(bēizi zài zhuōzi shàng.) — The cup is on the table. |
-| under the table | 在桌子下 | 狗在桌子下。(gǒu zài zhuōzi xià.) — The dog is under the table. |
-| outside the school | 在学校外面 | 我在学校外面。(wǒ zài xuéxiào wàimiàn.) — I'm outside the school. |
-| behind the door | 在门后面 | 他在门后面。(tā zài mén hòumiàn.) — He's behind the door. |
-| next to the school | 在学校旁边 | 商店在学校旁边。(shāngdiàn zài xuéxiào pángbiān.) — The shop is next to the school. |
+| in the classroom | 在教室里 | 学生在教室里。 <button class="audio-btn audio-btn-inline" data-audio="audio/15028612b7dc.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(xuéshēng zài jiàoshì lǐ.), The students are in the classroom. |
+| on the table | 在桌子上 | 杯子在桌子上。 <button class="audio-btn audio-btn-inline" data-audio="audio/4f755adbacde.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(bēizi zài zhuōzi shàng.), The cup is on the table. |
+| under the table | 在桌子下 | 狗在桌子下。 <button class="audio-btn audio-btn-inline" data-audio="audio/ff984e68d4dc.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(gǒu zài zhuōzi xià.), The dog is under the table. |
+| outside the school | 在学校外面 | 我在学校外面。 <button class="audio-btn audio-btn-inline" data-audio="audio/34fda7844dac.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(wǒ zài xuéxiào wàimiàn.), I'm outside the school. |
+| behind the door | 在门后面 | 他在门后面。 <button class="audio-btn audio-btn-inline" data-audio="audio/96757f9e6c79.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(tā zài mén hòumiàn.), He's behind the door. |
+| next to the school | 在学校旁边 | 商店在学校旁边。 <button class="audio-btn audio-btn-inline" data-audio="audio/baaaab3df552.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(shāngdiàn zài xuéxiào pángbiān.), The shop is next to the school. |
 
-Note: 在 alone without a position word also works (他在学校 = "he's at school") — but if you want to be specific about the position, the position word is required.
+Note: 在 alone without a position word also works (他在学校 = "he's at school"), but if you want to be specific about the position, the position word is required.
 
-Compare with 有 (point 15): 他在教室里 = "he is in the classroom" (the subject's position) vs 教室里有学生 = "there are students in the classroom" (existence). Both use 里 — the difference is who the subject is.
+Compare with 有 (point 15): 他在教室里 = "he is in the classroom" (the subject's position) vs 教室里有学生 = "there are students in the classroom" (existence). Both use 里, the difference is who the subject is.
 
 <!-- KENAPA:postposition -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why does the position word go at the back?</div>
 <p>English uses <em>pre</em>-positions (in/on/at + noun); Mandarin uses <em>post</em>-positions: <strong>在</strong> opens ("at/in/on"), the position word closes (<strong>里/上/下</strong>). Think of it as brackets: <strong>在...里</strong> = "in...". Once you see the bracket pattern, every position is just a different closing: 在...上, 在...下, 在...外, 在...前, 在...后, 在...旁边.</p>
-<p><strong>Same pattern:</strong> the "bracket" pattern shows up elsewhere too — e.g. 从...到 (cóng...dào, "from...to"), coming in HSK 2.</p>
-<p><strong>Watch out:</strong> don't put the position in front like in English — ✗在里教室 (wrong!). The order is always: 在 → place → position.</p>
+<p><strong>Same pattern:</strong> the "bracket" pattern shows up elsewhere too, e.g. 从...到 (cóng...dào, "from...to"), coming in HSK 2.</p>
+<p><strong>Watch out:</strong> don't put the position in front like in English, ✗在里教室 (wrong!). The order is always: 在 → place → position.</p>
 </div>
 
 ## Exercises
@@ -266,20 +266,20 @@ Compare with 有 (point 15): 他在教室里 = "he is in the classroom" (the sub
 
 <details><summary>Answer key</summary>
 
-1. 他是学生吗？(*tā shì xuéshēng ma?*) — "Is he a student?"
+1. 他是学生吗？(*tā shì xuéshēng ma?*), "Is he a student?"
 2. **B.** Adjectives need the bridge 很, not 是.
 3. 她也喜欢茶。(*tā yě xǐhuan chá.*)
-4. **本** — books are counted with 本: 这本书.
-5. 我今天去学校。(*wǒ jīntiān qù xuéxiào.*) — time expressions go before the verb.
+4. **本**, books are counted with 本: 这本书.
+5. 我今天去学校。(*wǒ jīntiān qù xuéxiào.*), time expressions go before the verb.
 6. **B.** It already happened (yesterday) → use 没.
 7. 医院里有很多医生。(*yīyuàn lǐ yǒu hěn duō yīshēng.*)
 8. 今天太热了。(*jīntiān tài rè le.*)
-9. 我也喜欢狗。(*wǒ yě xǐhuan gǒu.*) — "I also like dogs."
+9. 我也喜欢狗。(*wǒ yě xǐhuan gǒu.*), "I also like dogs."
 10. **A.** Locations use 在, without 是.
 11. 我有一本书。(*wǒ yǒu yī běn shū.*)
-12. **也** — 她也喜欢茶。(*tā yě xǐhuan chá.*)
+12. **也**, 她也喜欢茶。(*tā yě xǐhuan chá.*)
 13. **B** is wrong. Question words don't move position: 什么 stays in object position.
 14. 这个苹果太大了。(*zhège píngguǒ tài dà le.*)
-15. 他昨天看电影。(*tā zuótiān kàn diànyǐng.*) — "He watched a movie yesterday." Time expressions go before the verb.
+15. 他昨天看电影。(*tā zuótiān kàn diànyǐng.*), "He watched a movie yesterday." Time expressions go before the verb.
 
 </details>

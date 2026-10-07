@@ -4,12 +4,12 @@
 <!-- KENAPA:tian -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why do 明天/今天/昨天 all end with 天?</div>
-<p><strong>天</strong> (tiān) means sky, but also "day" — supposedly because the day is marked by the sky's rotation (the sun). Three HSK 1 time words use the <strong>X + 天</strong> pattern: <strong>明天</strong> (míngtiān, tomorrow) = 明 (bright, from 日 + 月) + 天 → "the bright day"; <strong>今天</strong> (jīntiān, today) = 今 (now) + 天; <strong>昨天</strong> (zuótiān, yesterday) = 昨 + 天.</p>
-<p><strong>Same pattern:</strong> "X + 天 = day name" — memorize 天 once and three time words line up instantly.</p>
-<p><strong>Watch out:</strong> 天 itself has many meanings (sky, day, weather, God in classical contexts) — which meaning applies depends on its partner.</p>
+<p><strong>天</strong> (tiān) means sky, but also "day", supposedly because the day is marked by the sky's rotation (the sun). Three HSK 1 time words use the <strong>X + 天</strong> pattern: <strong>明天</strong> (míngtiān, tomorrow) = 明 (bright, from 日 + 月) + 天 → "the bright day"; <strong>今天</strong> (jīntiān, today) = 今 (now) + 天; <strong>昨天</strong> (zuótiān, yesterday) = 昨 + 天.</p>
+<p><strong>Same pattern:</strong> "X + 天 = day name", memorize 天 once and three time words line up instantly.</p>
+<p><strong>Watch out:</strong> 天 itself has many meanings (sky, day, weather, God in classical contexts), which meaning applies depends on its partner.</p>
 </div>
 
-A bonus theme weaving together the time words (Chapter 2) with weather words — the combo you'll use most in everyday chit-chat, like small talk about the weather or making plans.
+A bonus theme weaving together the time words (Chapter 2) with weather words, the combo you'll use most in everyday chit-chat, like small talk about the weather or making plans.
 
 | Character | Pinyin | Meaning |
 |---|---|---|
@@ -84,7 +84,7 @@ A bonus theme weaving together the time words (Chapter 2) with weather words —
 
 ## 4.8 Colors (颜色)
 
-Basic colors — outside the official HSK 1 list, but you'll use them constantly in conversation (shopping, describing things, small talk).
+Basic colors, outside the official HSK 1 list, but you'll use them constantly in conversation (shopping, describing things, small talk).
 
 | Hanzi | Pinyin | Meaning |
 |---|---|---|
@@ -99,30 +99,30 @@ Basic colors — outside the official HSK 1 list, but you'll use them constantly
 <!-- KENAPA:hong -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is 红 tied to good luck?</div>
-<p><strong>红</strong> (hóng, red) means good luck and joy in Chinese culture — not danger like the Western association. That's why money envelopes are called <strong>红包</strong> (hóngbāo, "red envelope"), red lanterns go up for celebrations, and traditional wedding dresses are red. When you see something red in a Chinese context, the default reading is positive.</p>
+<p><strong>红</strong> (hóng, red) means good luck and joy in Chinese culture, not danger like the Western association. That's why money envelopes are called <strong>红包</strong> (hóngbāo, "red envelope"), red lanterns go up for celebrations, and traditional wedding dresses are red. When you see something red in a Chinese context, the default reading is positive.</p>
 <p><strong>The same pattern:</strong> add <strong>色</strong> (sè, "hue/color") after a color → its noun form: <strong>红色</strong> (hóngsè, "the color red"), <strong>蓝色</strong> (lánsè, "the color blue"). 我喜欢红色 = "I like the color red."</p>
-<p><strong>Watch out:</strong> 色 doesn't always mean color — in other words it can mean "appearance/expression". Focus on the [color + 色] pattern for now.</p>
+<p><strong>Watch out:</strong> 色 doesn't always mean color, in other words it can mean "appearance/expression". Focus on the [color + 色] pattern for now.</p>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/fae392518311.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我喜欢红色。</div>
 <div class="py">wǒ xǐhuān hóngsè.</div>
 <div>I like the color red.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/f6bc4eb3face.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">这是蓝色的。</div>
 <div class="py">zhè shì lánsè de.</div>
 <div>This is blue.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/3aec9f7c0637.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">他的车是黑色的。</div>
 <div class="py">tā de chē shì hēisè de.</div>
 <div>His car is black.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/3bf3790eda65.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">白猫很漂亮。</div>
 <div class="py">bái māo hěn piàoliang.</div>
 <div>The white cat is very pretty.</div>
@@ -143,7 +143,7 @@ Two groups that often show up together: compass directions and position words (i
 | 左 | zuǒ | left |
 | 右 | yòu | right |
 
-Direction combos — the pattern is [direction + direction]:
+Direction combos, the pattern is [direction + direction]:
 
 | Hanzi | Pinyin | Meaning |
 |---|---|---|
@@ -155,9 +155,9 @@ Direction combos — the pattern is [direction + direction]:
 <!-- KENAPA:dongnanxibei -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is the order 东南西北?</div>
-<p>English speakers memorize "north-south-east-west", but Mandarin orders them <strong>东南西北</strong> (dōng-nán-xī-běi) — starting from the east. Legend has it the sun rises in the east, and the east was considered the noblest direction in Chinese tradition, so the compass is "read" starting from there.</p>
-<p><strong>The same pattern:</strong> direction + direction = combined direction (东北, 西南...). And remember <strong>东西</strong> (dōngxi, "thing") from the why-box in this chapter — east + west whose meaning jumps all the way to "thing".</p>
-<p><strong>Watch out:</strong> <strong>北</strong> (běi, north, 3rd tone) vs <strong>背</strong> (bèi, back, 4th tone) — similar shape, different tone, totally different meaning.</p>
+<p>English speakers memorize "north-south-east-west", but Mandarin orders them <strong>东南西北</strong> (dōng-nán-xī-běi), starting from the east. Legend has it the sun rises in the east, and the east was considered the noblest direction in Chinese tradition, so the compass is "read" starting from there.</p>
+<p><strong>The same pattern:</strong> direction + direction = combined direction (东北, 西南...). And remember <strong>东西</strong> (dōngxi, "thing") from the why-box in this chapter, east + west whose meaning jumps all the way to "thing".</p>
+<p><strong>Watch out:</strong> <strong>北</strong> (běi, north, 3rd tone) vs <strong>背</strong> (bèi, back, 4th tone), similar shape, different tone, totally different meaning.</p>
 </div>
 
 ### Position words
@@ -179,8 +179,8 @@ Direction combos — the pattern is [direction + direction]:
 <!-- KENAPA:limian -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why do both 里 and 里面 exist?</div>
-<p><strong>里</strong> (lǐ) already means "inside" on its own — the short, classical version. <strong>里面</strong> (lǐmiàn) = 里 + <strong>面</strong> (miàn, "side/surface") → "the inner side", the more explicit modern version. Both are correct and used interchangeably.</p>
-<p><strong>The same pattern:</strong> X + 面 = "the X side" — learn 面 once and you instantly get six words: <strong>上面</strong> (shàngmiàn, the upper side), <strong>下面</strong> (xiàmiàn, the lower side), <strong>前面</strong> (qiánmiàn, the front side), <strong>后面</strong> (hòumiàn, the back side), <strong>对面</strong> (duìmiàn, the opposite side).</p>
+<p><strong>里</strong> (lǐ) already means "inside" on its own, the short, classical version. <strong>里面</strong> (lǐmiàn) = 里 + <strong>面</strong> (miàn, "side/surface") → "the inner side", the more explicit modern version. Both are correct and used interchangeably.</p>
+<p><strong>The same pattern:</strong> X + 面 = "the X side", learn 面 once and you instantly get six words: <strong>上面</strong> (shàngmiàn, the upper side), <strong>下面</strong> (xiàmiàn, the lower side), <strong>前面</strong> (qiánmiàn, the front side), <strong>后面</strong> (hòumiàn, the back side), <strong>对面</strong> (duìmiàn, the opposite side).</p>
 <p><strong>Watch out:</strong> 上面/下面 are also used for positions in a text: 上面说的 (shàngmiàn shuō de) = "as said above (in the text)". Context decides.</p>
 </div>
 
@@ -203,7 +203,7 @@ How to use position words in sentences is covered in depth in [Chapter 5, point 
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我在学校学习汉语" data-explain="我在学校学习汉语。 <span class='quiz-py'>(wǒ zài xuéxiào xuéxí Hànyǔ.)</span> — I study Mandarin at school.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我在学校学习汉语" data-explain="我在学校学习汉语。 <span class='quiz-py'>(wǒ zài xuéxiào xuéxí Hànyǔ.)</span>, I study Mandarin at school.">
 <p class="quiz-t"><strong>3.</strong> Arrange these words into a correct sentence:</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">
@@ -230,7 +230,7 @@ How to use position words in sentences is covered in depth in [Chapter 5, point 
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span> — means cold. 吃 (chī, to eat) is a verb, doesn't fit.">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span>, means cold. 吃 (chī, to eat) is a verb, doesn't fit.">
 <p class="quiz-t"><strong>6.</strong> Fill in the blank with the right adjective: 今天很___.</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="吃">吃</button><button type="button" data-chip="冷">冷</button><button type="button" data-chip="热">热</button></div>
@@ -243,7 +243,7 @@ How to use position words in sentences is covered in depth in [Chapter 5, point 
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="Free choice, as long as you use words from the list. Example: 我去商店买东西。 <span class='quiz-py'>(wǒ qù shāngdiàn mǎi dōngxi.)</span> — I go to the store to buy things.">
+<div class="quiz-q" data-type="reveal" data-explain="Free choice, as long as you use words from the list. Example: 我去商店买东西。 <span class='quiz-py'>(wǒ qù shāngdiàn mǎi dōngxi.)</span>, I go to the store to buy things.">
 <p class="quiz-t"><strong>8.</strong> Make your own sentence using one verb and one place name from this chapter's list.</p>
 <button type="button" class="quiz-show">Show answer</button>
 <p class="quiz-fb" hidden></p>
@@ -267,7 +267,7 @@ How to use position words in sentences is covered in depth in [Chapter 5, point 
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="Free choice, as long as you use 天气 + an adjective. Example: 今天天气很热。 <span class='quiz-py'>(jīntiān tiānqì hěn rè.)</span> — It's hot today.">
+<div class="quiz-q" data-type="reveal" data-explain="Free choice, as long as you use 天气 + an adjective. Example: 今天天气很热。 <span class='quiz-py'>(jīntiān tiānqì hěn rè.)</span>, It's hot today.">
 <p class="quiz-t"><strong>12.</strong> Make one sentence using the word 天气 and an adjective from this chapter.</p>
 <button type="button" class="quiz-show">Show answer</button>
 <p class="quiz-fb" hidden></p>
@@ -279,7 +279,7 @@ How to use position words in sentences is covered in depth in [Chapter 5, point 
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Northeast <span class='quiz-py'>(dōngběi)</span> — 东 (east) + 北 (north).">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Northeast <span class='quiz-py'>(dōngběi)</span>, 东 (east) + 北 (north).">
 <p class="quiz-t"><strong>14.</strong> What does 东北 mean?</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. Southeast</button>

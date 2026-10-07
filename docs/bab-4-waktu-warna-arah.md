@@ -104,25 +104,25 @@ Warna-warna dasar, di luar daftar resmi HSK 1, tapi kepake terus dalam obrolan (
 <p><strong>Awas jebakan:</strong> 色 tidak selalu berarti "warna", di kata lain bisa berarti "rupa/ekspresi". Fokus ke pola [warna + 色] dulu.</p>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/fae392518311.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我喜欢红色。</div>
 <div class="py">wǒ xǐhuān hóngsè.</div>
 <div>Saya suka warna merah.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/f6bc4eb3face.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">这是蓝色的。</div>
 <div class="py">zhè shì lánsè de.</div>
 <div>Ini berwarna biru.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/3aec9f7c0637.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">他的车是黑色的。</div>
 <div class="py">tā de chē shì hēisè de.</div>
 <div>Mobilnya berwarna hitam.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/3bf3790eda65.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">白猫很漂亮。</div>
 <div class="py">bái māo hěn piàoliang.</div>
 <div>Kucing putih sangat cantik.</div>

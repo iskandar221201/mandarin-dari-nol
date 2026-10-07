@@ -227,12 +227,12 @@ Dalam bahasa Indonesia, kata posisi ditaruh SEBELUM benda: *di dalam* kotak, *di
 
 | Indonesia | Mandarin | Contoh |
 |---|---|---|
-| di dalam kelas | 在教室里 | 学生在教室里。(xuéshēng zài jiàoshì lǐ.), Murid-murid di dalam kelas. |
-| di atas meja | 在桌子上 | 杯子在桌子上。(bēizi zài zhuōzi shàng.), Cangkir di atas meja. |
-| di bawah meja | 在桌子下 | 狗在桌子下。(gǒu zài zhuōzi xià.), Anjing di bawah meja. |
-| di luar sekolah | 在学校外面 | 我在学校外面。(wǒ zài xuéxiào wàimiàn.), Saya di luar sekolah. |
-| di belakang pintu | 在门后面 | 他在门后面。(tā zài mén hòumiàn.), Dia di belakang pintu. |
-| di samping sekolah | 在学校旁边 | 商店在学校旁边。(shāngdiàn zài xuéxiào pángbiān.), Toko di samping sekolah. |
+| di dalam kelas | 在教室里 | 学生在教室里。 <button class="audio-btn audio-btn-inline" data-audio="audio/15028612b7dc.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(xuéshēng zài jiàoshì lǐ.), Murid-murid di dalam kelas. |
+| di atas meja | 在桌子上 | 杯子在桌子上。 <button class="audio-btn audio-btn-inline" data-audio="audio/4f755adbacde.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(bēizi zài zhuōzi shàng.), Cangkir di atas meja. |
+| di bawah meja | 在桌子下 | 狗在桌子下。 <button class="audio-btn audio-btn-inline" data-audio="audio/ff984e68d4dc.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(gǒu zài zhuōzi xià.), Anjing di bawah meja. |
+| di luar sekolah | 在学校外面 | 我在学校外面。 <button class="audio-btn audio-btn-inline" data-audio="audio/34fda7844dac.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(wǒ zài xuéxiào wàimiàn.), Saya di luar sekolah. |
+| di belakang pintu | 在门后面 | 他在门后面。 <button class="audio-btn audio-btn-inline" data-audio="audio/96757f9e6c79.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(tā zài mén hòumiàn.), Dia di belakang pintu. |
+| di samping sekolah | 在学校旁边 | 商店在学校旁边。 <button class="audio-btn audio-btn-inline" data-audio="audio/baaaab3df552.mp3" aria-label="Dengarkan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>(shāngdiàn zài xuéxiào pángbiān.), Toko di samping sekolah. |
 
 Catatan: 在 saja tanpa kata posisi juga boleh (他在学校 = "dia di sekolah"), tapi kalau mau spesifik posisinya, kata posisinya wajib ada.
 
