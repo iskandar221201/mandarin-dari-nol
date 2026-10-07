@@ -253,14 +253,15 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 
 <div class="quiz-q" data-type="order" data-scored="1" data-answer="他是学生吗？" data-explain="他是学生吗？ <span class='quiz-py'>(tā shì xuéshēng ma?) — Apakah dia siswa?</span>">
 <p class="quiz-t"><strong>1.</strong> Susun kata acak ini jadi kalimat tanya yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
-<button type="button" data-w="学生">学生</button>
-<button type="button" data-w="是">是</button>
-<button type="button" data-w="他">他</button>
-<button type="button" data-w="吗">吗</button>
+<button type="button" draggable="true" data-w="学生">学生</button>
+<button type="button" draggable="true" data-w="是">是</button>
+<button type="button" draggable="true" data-w="他">他</button>
+<button type="button" draggable="true" data-w="吗">吗</button>
 </div>
-<div>Jawabanmu: <span class="quiz-seq"></span></div>
-<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
@@ -282,19 +283,21 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <div class="quiz-q" data-type="fill" data-scored="1" data-answer="本" data-explain="Buku dihitung dengan 本: 这本书 <span class='quiz-py'>(zhè běn shū)</span>.">
 <p class="quiz-t"><strong>4.</strong> Isi titik-titik dengan kata satuan yang tepat: 这___书是我的。</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="本">本</button><button type="button" data-chip="个">个</button><button type="button" data-chip="只">只</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
 <div class="quiz-q" data-type="order" data-scored="1" data-answer="我今天去学校" data-explain="我今天去学校。 <span class='quiz-py'>(wǒ jīntiān qù xuéxiào.)</span> — keterangan waktu sebelum kata kerja.">
 <p class="quiz-t"><strong>5.</strong> Betulkan urutan kata ini:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
-<button type="button" data-w="我">我</button>
-<button type="button" data-w="去">去</button>
-<button type="button" data-w="学校">学校</button>
-<button type="button" data-w="今天">今天</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="去">去</button>
+<button type="button" draggable="true" data-w="学校">学校</button>
+<button type="button" draggable="true" data-w="今天">今天</button>
 </div>
-<div>Jawabanmu: <span class="quiz-seq"></span></div>
-<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
@@ -315,27 +318,29 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 
 <div class="quiz-q" data-type="order" data-scored="1" data-answer="今天太热了" data-explain="今天太热了。 <span class='quiz-py'>(jīntiān tài rè le.)</span>">
 <p class="quiz-t"><strong>8.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
-<button type="button" data-w="太">太</button>
-<button type="button" data-w="热">热</button>
-<button type="button" data-w="了">了</button>
-<button type="button" data-w="今天">今天</button>
+<button type="button" draggable="true" data-w="太">太</button>
+<button type="button" draggable="true" data-w="热">热</button>
+<button type="button" draggable="true" data-w="了">了</button>
+<button type="button" draggable="true" data-w="今天">今天</button>
 </div>
-<div>Jawabanmu: <span class="quiz-seq"></span></div>
-<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
 <div class="quiz-q" data-type="order" data-scored="1" data-answer="我也喜欢狗" data-explain="我也喜欢狗。 <span class='quiz-py'>(wǒ yě xǐhuan gǒu.)</span> — Saya juga suka anjing.">
 <p class="quiz-t"><strong>9.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
-<button type="button" data-w="我">我</button>
-<button type="button" data-w="也">也</button>
-<button type="button" data-w="喜欢">喜欢</button>
-<button type="button" data-w="狗">狗</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="也">也</button>
+<button type="button" draggable="true" data-w="喜欢">喜欢</button>
+<button type="button" draggable="true" data-w="狗">狗</button>
 </div>
-<div>Jawabanmu: <span class="quiz-seq"></span></div>
-<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
@@ -357,6 +362,7 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 <div class="quiz-q" data-type="fill" data-scored="1" data-answer="也" data-explain="她也喜欢茶。 <span class='quiz-py'>(tā yě xǐhuan chá.)</span>">
 <p class="quiz-t"><strong>12.</strong> Isi titik-titik dengan kata yang tepat (juga): 她___喜欢茶。</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="也">也</button><button type="button" data-chip="都">都</button><button type="button" data-chip="很">很</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
@@ -377,14 +383,15 @@ Bandingkan dengan 有 (poin 15): 他在教室里 = "dia (berada) di dalam kelas"
 
 <div class="quiz-q" data-type="order" data-scored="1" data-answer="他昨天看电影" data-explain="他昨天看电影。 <span class='quiz-py'>(tā zuótiān kàn diànyǐng.)</span> — Dia kemarin menonton film. Keterangan waktu sebelum kata kerja.">
 <p class="quiz-t"><strong>15.</strong> Susun kata acak ini jadi kalimat yang benar:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
-<button type="button" data-w="看">看</button>
-<button type="button" data-w="电影">电影</button>
-<button type="button" data-w="他">他</button>
-<button type="button" data-w="昨天">昨天</button>
+<button type="button" draggable="true" data-w="看">看</button>
+<button type="button" draggable="true" data-w="电影">电影</button>
+<button type="button" draggable="true" data-w="他">他</button>
+<button type="button" draggable="true" data-w="昨天">昨天</button>
 </div>
-<div>Jawabanmu: <span class="quiz-seq"></span></div>
-<div class="quiz-actions"><button type="button" class="quiz-undo">↩ Urungkan</button><button type="button" class="quiz-check">Cek jawaban</button></div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
