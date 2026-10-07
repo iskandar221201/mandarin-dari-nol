@@ -130,6 +130,25 @@
   margin: 1rem 0;
 }
 
+/* Kenapa & Pola — deep-dive ala cara belajar Aska: kenapa hanzi ini begini + pola ke hanzi lain */
+.kenapa {
+  border: 2px solid var(--vp-c-gold-1);
+  background: var(--vp-c-gold-soft);
+  border-radius: 10px;
+  padding: 0.8rem 1.1rem;
+  margin: 1.2rem 0;
+}
+
+.kenapa p {
+  margin: 0.4rem 0;
+}
+
+.kenapa .kenapa-title {
+  font-weight: 800;
+  font-size: 1.05em;
+  margin-bottom: 0.3rem;
+}
+
 /* Tabel kosakata: kolom hanzi lebih besar (semua tabel di situs ini adalah tabel kosakata) */
 .vp-doc table td:first-child {
   font-family: 'Noto Serif SC', 'Songti SC', serif;

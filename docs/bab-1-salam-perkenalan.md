@@ -24,6 +24,13 @@ Bab pertama yang beneran "ngomong". Target bab ini sederhana: kamu bisa menyapa 
 
 <div class="bedah"><strong>好</strong> = 女 (nǚ, perempuan) + 子 (zǐ, anak) → "baik". Zaman dulu: perempuan + anak = hal yang baik.</div>
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa "halo" = 你 + 好?</div>
+<p>你好 itu harfiahnya "kamu baik" — doa mini: "(semoga) kamu baik-baik saja". Sapaan Mandarin sering berupa cek kabar atau doa kecil, bukan bunyi kosong kayak "halo". Makanya lanjutannya yang natural adalah 你好吗 — "apakah (kamu) baik?" — pola tanya yang nyambung langsung.</p>
+<p><strong>Pola yang sama:</strong> 您好 (nín hǎo — "Anda" yang sopan + baik), 上午好 / 下午好 (waktu + 好), 你好吗 (tambah 吗 jadi pertanyaan).</p>
+<p><strong>Awas jebakan:</strong> 好 di sini adalah kata sifat 好 hǎo ("baik") — hanzi yang sama bakal muncul di mana-mana (很好...). Satu hanzi, sejuta kegunaan.</p>
+</div>
+
 ## 1.2 — Sapaan pagi, siang, sore
 
 你好 bisa dipakai kapan aja, tapi ada variasi sesuai waktu — semuanya dari kosakata HSK 1 yang nanti dibahas tuntas di Bab 2:
@@ -76,6 +83,13 @@ Kalau ragu, **你好** selalu aman dipakai kapan pun. Variasi di atas sifatnya b
 
 Perhatikan: 不 di 不客气 dibaca **bú** — ingat aturan tone sandhi dari Bab 0 (不 + nada 4 → bú).
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa sopan santun selalu berpasangan?</div>
+<p>Frasa sopan santun Mandarin datang sebagai <strong>paket aksi → pelepasan</strong>: 谢谢 (terima kasih) → 不客气 ("tidak usah sungkan" — harfiah: tidak + bersikap seperti tamu, alias melepas lawan bicara dari kesungkanan); 对不起 (maaf — harfiah "tak bisa menghadapimu") → 没关系 ("tidak apa-apa" — harfiah: tidak ada akibat). Logikanya: rendahkan dirimu, bebaskan lawan bicaramu. Bonus: 再见 = 再 (lagi) + 见 (bertemu) → "ketemu lagi" = sampai jumpa.</p>
+<p><strong>Pola yang sama:</strong> struktur pasangannya sendiri — setiap "utang sosial" selalu ada frasa "pelunasnya".</p>
+<p><strong>Awas jebakan:</strong> jangan tukar pasangannya (× 谢谢 → 没关系). Dan 客气 juga bisa jadi kata kerja "bersikap sungkan" — konteks yang menentukan.</p>
+</div>
+
 ## 1.4 — Kata ganti orang: 我你他她
 
 
@@ -89,6 +103,13 @@ Perhatikan: 不 di 不客气 dibaca **bú** — ingat aturan tone sandhi dari Ba
 
 
 他 dan 她 dibaca **sama persis** (tā) — bedanya cuma di tulisan. Kalau ngomong, konteks yang menentukan maksudnya.
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 他 dan 她 beda tulis tapi bunyi sama?</div>
+<p>Dulu cuma ada 他 buat semua orang. 她 (dengan radikal 女) baru diciptakan awal abad ke-20, zaman Gerakan Empat Mei, karena bahasa Eropa (kayak Inggris he/she) membedakan gender — para intelektual waktu itu merasa Mandarin "ketinggalan". Tapi bahasa lisan nggak pernah butuh pembedaan itu (konteks selalu cukup), makanya sampai sekarang tā tetap bunyi sama persis. Yang berubah cuma tulisan; mulut nggak ikut-ikutan.</p>
+<p><strong>Pola yang sama:</strong> 你 (kamu) dan 我 (saya) nggak pernah digenderkan — cuma orang ketiga yang dipecah.</p>
+<p><strong>Awas jebakan:</strong> di omongan, 他/她 nggak bisa dibedakan — andalkan konteks. Dan 您 (nín) itu soal kesopanan, bukan gender.</p>
+</div>
 
 ## 1.5 — 是: pola "adalah"
 
@@ -139,6 +160,13 @@ Pola paling dasar di Mandarin: **A 是 B** (A adalah B). Bentuk negatifnya: **�
 <div>Siapa namanya (dia)?</div>
 </div>
 
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa ada 叫 dan 是 buat "adalah"?</div>
+<p>叫 (jiào) itu spesialis <strong>nama</strong> — harfiahnya "dipanggil": 我叫Aska = "saya dipanggil Aska". 是 (shì) itu generalis "adalah" buat identitas dan status: 我是学生, 他是医生. Gampangnya: 叫 menjawab "siapa namamu?", 是 menjawab "kamu apa/siapa?". 叫 memperkenalkan label di name tag-mu; 是 menjelaskan siapa kamu.</p>
+<p><strong>Pola yang sama:</strong> 你叫什么名字？/ 他叫什么名字？(nama → 叫) vs 我是老师 / 这是书吗？(identitas → 是).</p>
+<p><strong>Awas jebakan:</strong> 我是Aska juga BENAR — 是 itu serbabisa. 叫 itu spesialis nama; kalau ragu soal identitas umum, 是 selalu aman.</p>
+</div>
+
 ## 1.7 — Bertanya: 吗 dan 呢
 
 **吗 (ma)** — tempel di akhir kalimat pernyataan, langsung jadi pertanyaan ya/tidak:
@@ -156,6 +184,13 @@ Pola paling dasar di Mandarin: **A 是 B** (A adalah B). Bentuk negatifnya: **�
 </div>
 
 Jawabnya simpel: **是** (ya) / **不是** (bukan), atau **好** (baik).
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 你好吗 pakai 吗?</div>
+<p>吗 itu partikel penanya — tempel di akhir kalimat pernyataan, langsung jadi pertanyaan ya/tidak. 你好 ("kamu baik") + 吗 = "apakah kamu baik?". Nggak butuh 是 karena 好 sudah jadi predikat sendiri: dalam Mandarin, kata sifat bisa langsung jadi predikat tanpa "adalah" (你好 = "kamu [adalah] baik"). Makanya jawabnya juga simpel: 好.</p>
+<p><strong>Pola yang sama:</strong> 你是学生吗？(pakai 是 karena identitas butuh 是), 这是书吗？, 你去北京吗？(kata kerja juga bisa).</p>
+<p><strong>Awas jebakan:</strong> 吗 HANYA buat pertanyaan ya/tidak — kalau sudah ada kata tanya (什么/谁/哪儿), 吗 dilarang masuk (× 你叫什么名字吗？).</p>
+</div>
 
 Enam lagi biar polanya nempel:
 
@@ -239,6 +274,13 @@ Enam lagi:
 <div class="hz">他是医生，你呢？</div>
 <div class="py">tā shì yīshēng, nǐ ne?</div>
 <div>Dia dokter, kalau kamu (apa)?</div>
+</div>
+
+<div class="kenapa">
+<div class="kenapa-title">🧩 Kenapa 呢 bisa menggantikan pengulangan?</div>
+<p>呢 itu partikel "lempar balik" — dia menunjuk ke topik pertanyaan sebelumnya lalu melemparkannya ke lawan bicara: "..., kalau kamu?". Jadi 我很好，你呢？ = "Aku baik — [apakah] kamu [baik]?" tanpa mengulang 好吗. Ini elipsis yang dimodali konteks bersama: kedua belah pihak sudah tahu yang ditanyakan apa.</p>
+<p><strong>Pola yang sama:</strong> polanya selalu [pernyataanku] + 你呢？ — 我叫王明，你呢？/ 我是学生，你呢？/ 我住在北京，你呢？</p>
+<p><strong>Awas jebakan:</strong> 呢 butuh sesuatu buat dipantulkan — nggak bisa buka percakapan dengan 你呢？ begitu saja. Harus ada pernyataan/pertanyaan sebelumnya dulu.</p>
 </div>
 
 ## 1.8 — 很 + kata sifat
