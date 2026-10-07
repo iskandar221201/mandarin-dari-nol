@@ -1,305 +1,883 @@
 # Exercise Bank
 
-A question bank per chapter. Do them after reading each chapter — no peeking at the answer key first. Each chapter's answer key is inside a `<details>` block at the end of each section.
+An interactive question bank per chapter. Do them after reading each chapter — answers are checked automatically as soon as you answer. Translation questions don't count toward the score; compare them yourself with the revealed answer.
 
-How to read the question types:
+How to play:
 
-- **Multiple choice** = multiple choice, pick one correct answer.
-- **Translate** = write hanzi + pinyin + meaning (check against the key).
-- **Arrange words** = arrange the scrambled words into a correct sentence.
-- **Fill in** = complete the blanks.
-- **Match** = match the hanzi list (numbered) with the pinyin/meaning list (lettered); answer with pairs, e.g. 1-b, 2-c, 3-a.
-- **True/False** = write B (true) or S (false) for each statement.
-- **Complete** = complete the gapped dialogue.
+- **Multiple choice** = multiple choice, click one correct answer.
+- **Translate** = click "Show answer" then compare it yourself.
+- **Arrange words** = click the words in order (or drag them into the answer box), then check.
+- **Fill in** = type your answer (or click a character chip), then check.
+- **Match** = click "Show answer" then compare your pairs.
+- **True/False** = click True or False for each statement.
+- **Complete** = complete the gapped dialogue, then check.
+
 
 ## Chapter 0 — Preparation (pinyin & tones)
 
-1. **Multiple choice.** Which tone is the pinyin "mā" in? A. 1 B. 2 C. 3 D. 4
-2. **Multiple choice.** Which is the correct pinyin spelling for 你好？ A. nǐ hǎo B. ni3 hao3 C. nī hāo D. nǐ hào
-3. **Fill in.** Write the pinyin (with tone marks) for 谢谢: ...
-4. **Multiple choice.** "shì" means... A. is B. not C. has D. goes
-5. **Arrange words** this pinyin into one word: hǎo / nǐ
-6. **Multiple choice.** An example of the neutral (light) tone is in... A. 吗 (*ma*) B. 好 (*hǎo*) C. 你 (*nǐ*) D. 是 (*shì*)
-7. **Fill in.** "bù" changes to be read "bù" when it meets tone no.-...
-8. **Translate.** "hello" → ...
-9. **Match.** Pair the hanzi with their pinyin:
-   1. 水 2. 茶 3. 狗
-   a. gǒu b. chá c. shuǐ
-10. **Multiple choice.** The correct pinyin for 再见 is... A. zàijiàn B. zāijiān C. zài jiǎn D. zāijiàn
-11. **Fill in.** Write the pinyin (with tone marks) for 对不起: ...
-12. **Multiple choice.** "妈妈" is read... A. māma B. māmā C. mǎma D. mamǎ
-13. **Fill in.** A syllable marked with ˊ (e.g. *má*) is read with tone no.-...
-14. **Multiple choice.** Which pinyin spelling is WRONG? A. nǐ hǎo B. xièxie C. shì D. ní hǎo
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/12</span></div>
 
-<details><summary>Answer key Chapter 0</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="The mark ˉ = tone 1 (high flat).">
+<p class="quiz-t"><strong>1.</strong> Which tone is the pinyin "mā" in?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 1</button><button type="button" data-opt="B">B. 2</button><button type="button" data-opt="C">C. 3</button><button type="button" data-opt="D">D. 4</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **A.** The mark ˉ = tone 1 (high flat).
-2. **A.** Standard pinyin uses tone marks, not numbers.
-3. **xièxie** — both in tone 4.
-4. **A.** 是 *shì* = "is".
-5. **nǐ hǎo**
-6. **A.** 吗 is read lightly (*ma*); the rest are full tones.
-7. **4** — 不 becomes *bù* before tone 4 (e.g. 不是 *bù shì*).
-8. 你好 (*nǐ hǎo*)
-9. 1-c, 2-b, 3-a — 水 *shuǐ*, 茶 *chá*, 狗 *gǒu*.
-10. **A.**
-11. **duìbuqǐ** — 对 + *bu* (light) + *qǐ*.
-12. **A.** — 妈 *mā* (tone 1) + light *ma*.
-13. **2** — ˊ = the rising tone.
-14. **D.** — the dictionary form is always *nǐ hǎo*; "ní" is only the spoken sound from tone sandhi, not the written form.
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Standard pinyin uses tone marks, not numbers.">
+<p class="quiz-t"><strong>2.</strong> Which is the correct pinyin spelling for 你好?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. nǐ hǎo</button><button type="button" data-opt="B">B. ni3 hao3</button><button type="button" data-opt="C">C. nī hāo</button><button type="button" data-opt="D">D. nǐ hào</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="xièxie" data-explain="Both in tone 4.">
+<p class="quiz-t"><strong>3.</strong> Write the pinyin (with tone marks) for 谢谢: ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="xièxie">xièxie</button><button type="button" data-chip="xiēxie">xiēxie</button><button type="button" data-chip="xiexie">xiexie</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="是 <span class='quiz-py'>(shì)</span> = &quot;is&quot;.">
+<p class="quiz-t"><strong>4.</strong> "shì" means...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. is</button><button type="button" data-opt="B">B. not</button><button type="button" data-opt="C">C. has</button><button type="button" data-opt="D">D. goes</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="nǐhǎo" data-explain="nǐ hǎo <span class='quiz-py'>(nǐ hǎo)</span>">
+<p class="quiz-t"><strong>5.</strong> Arrange this pinyin into one word:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="hǎo">hǎo</button>
+<button type="button" draggable="true" data-w="nǐ">nǐ</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="吗 is read lightly <span class='quiz-py'>(ma)</span>; the rest are full tones.">
+<p class="quiz-t"><strong>6.</strong> An example of the neutral (light) tone is in...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 吗 (ma)</button><button type="button" data-opt="B">B. 好 (hǎo)</button><button type="button" data-opt="C">C. 你 (nǐ)</button><button type="button" data-opt="D">D. 是 (shì)</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="4" data-explain="不 becomes <span class='quiz-py'>(bù)</span> before tone 4 (e.g. 不是 <span class='quiz-py'>(bù shì)</span>).">
+<p class="quiz-t"><strong>7.</strong> "bù" changes to be read "bù" when it meets tone no.-...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="4">4</button><button type="button" data-chip="2">2</button><button type="button" data-chip="3">3</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你好 <span class='quiz-py'>(nǐ hǎo)</span>">
+<p class="quiz-t"><strong>8.</strong> "hello" → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="1-c, 2-b, 3-a — 水 <span class='quiz-py'>(shuǐ)</span>, 茶 <span class='quiz-py'>(chá)</span>, 狗 <span class='quiz-py'>(gǒu)</span>.">
+<p class="quiz-t"><strong>9.</strong> Pair the hanzi with their pinyin:<br>1. 水 2. 茶 3. 狗<br>a. gǒu b. chá c. shuǐ</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<p class="quiz-t"><strong>10.</strong> The correct pinyin for 再见 is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. zàijiàn</button><button type="button" data-opt="B">B. zāijiān</button><button type="button" data-opt="C">C. zài jiǎn</button><button type="button" data-opt="D">D. zāijiàn</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="duìbuqǐ" data-explain="对 + <span class='quiz-py'>(bu)</span> (light) + <span class='quiz-py'>(qǐ)</span>.">
+<p class="quiz-t"><strong>11.</strong> Write the pinyin (with tone marks) for 对不起: ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="duìbuqǐ">duìbuqǐ</button><button type="button" data-chip="duìbùqǐ">duìbùqǐ</button><button type="button" data-chip="duibuqi">duibuqi</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="妈 <span class='quiz-py'>(mā)</span> (tone 1) + light <span class='quiz-py'>(ma)</span>.">
+<p class="quiz-t"><strong>12.</strong> "妈妈" is read...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. māma</button><button type="button" data-opt="B">B. māmā</button><button type="button" data-opt="C">C. mǎma</button><button type="button" data-opt="D">D. mamǎ</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="2" data-explain="ˊ = the rising tone.">
+<p class="quiz-t"><strong>13.</strong> A syllable marked with ˊ (e.g. má) is read with tone no.-...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="2">2</button><button type="button" data-chip="1">1</button><button type="button" data-chip="4">4</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="D" data-explain="The dictionary form is always <span class='quiz-py'>(nǐ hǎo)</span>; &quot;ní&quot; is only the spoken sound from tone sandhi, not the written form.">
+<p class="quiz-t"><strong>14.</strong> Which pinyin spelling is WRONG?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. nǐ hǎo</button><button type="button" data-opt="B">B. xièxie</button><button type="button" data-opt="C">C. shì</button><button type="button" data-opt="D">D. ní hǎo</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
 
 ## Chapter 1 — Greetings & introductions
 
-1. **Multiple choice.** The best answer to "你好吗？" is... A. 我很好，谢谢，你呢？ B. 我是学生。 C. 再见。 D. 对不起。
-2. **Translate.** "What is your name?" → ...
-3. **Fill in.** ...，我是学生。 (the greeting "hello")
-4. **Multiple choice.** 呢 is used for... A. yes/no questions B. follow-up questions ("and you?") C. negation D. giving commands
-5. **Arrange words** into a question: 吗 / 学生 / 你 / 是
-6. **Translate.** "See you later!" → ...
-7. **Multiple choice.** "Thank you" in Mandarin is... A. 对不起 B. 谢谢 C. 再见 D. 没关系
-8. **Fill in.** 我很好，...？ ("and you?")
-9. **Multiple choice.** The correct "no" answer to "你是老师吗？" is... A. 不是，我是学生。 B. 不吗。 C. 吗不。 D. 我不。
-10. **Multiple choice.** To ask back "and you?" after answering about yourself, the particle is... A. 吗 B. 呢 C. 的 D. 了
-11. **Complete.**
-    A: 你好！你叫什么名字？
-    B: 你好！我叫 ... ，你呢？
-12. **Multiple choice.** The polite reply to 对不起 is... A. 谢谢 B. 没关系 C. 再见 D. 你好
-13. **Translate.** "I'm happy to meet you." → ...
-14. **Complete.**
-    A: 谢谢！
-    B: ... ！
-15. **Multiple choice.** The "yes" answer to "你是学生吗？" is... A. 是，我是学生。 B. 吗是。 C. 不吗。 D. 我不。
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/12</span></div>
 
-<details><summary>Answer key Chapter 1</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<p class="quiz-t"><strong>1.</strong> The best answer to "你好吗?" is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我很好,谢谢,你呢?</button><button type="button" data-opt="B">B. 我是学生。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 对不起。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **A.**
-2. 你叫什么名字？(*nǐ jiào shénme míngzi?*)
-3. **你好** — 你好，我是学生。(*nǐ hǎo, wǒ shì xuéshēng.*)
-4. **B.**
-5. 你是学生吗？(*nǐ shì xuéshēng ma?*)
-6. 再见！(*zàijiàn!*)
-7. **B.**
-8. **你呢** — 我很好，你呢？(*wǒ hěn hǎo, nǐ ne?*)
-9. **A.** — 不是，我是学生。(*bù shì, wǒ shì xuéshēng.*)
-10. **B.**
-11. **我叫 [your name]，你呢？** — e.g. 我叫 Aska，你呢？(*wǒ jiào Aska, nǐ ne?*)
-12. **B.** — 对不起 ↔ 没关系.
-13. 我很高兴认识你。(*wǒ hěn gāoxìng rènshi nǐ.*)
-14. **不客气** — 不客气！(*bù kèqi!*)
-15. **A.**
+<div class="quiz-q" data-type="reveal" data-explain="你叫什么名字? <span class='quiz-py'>(nǐ jiào shénme míngzi?)</span>">
+<p class="quiz-t"><strong>2.</strong> "What is your name?" → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="你好" data-explain="你好,我是学生。 <span class='quiz-py'>(nǐ hǎo, wǒ shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>3.</strong> ...，我是学生。 (the greeting "hello")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="你好">你好</button><button type="button" data-chip="再见">再见</button><button type="button" data-chip="谢谢">谢谢</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>4.</strong> 呢 is used for...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. yes/no questions</button><button type="button" data-opt="B">B. follow-up questions ("and you?")</button><button type="button" data-opt="C">C. negation</button><button type="button" data-opt="D">D. giving commands</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="你是学生吗" data-explain="你是学生吗? <span class='quiz-py'>(nǐ shì xuéshēng ma?)</span>">
+<p class="quiz-t"><strong>5.</strong> Arrange words into a question:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="学生">学生</button>
+<button type="button" draggable="true" data-w="吗">吗</button>
+<button type="button" draggable="true" data-w="你">你</button>
+<button type="button" draggable="true" data-w="是">是</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="再见! <span class='quiz-py'>(zàijiàn!)</span>">
+<p class="quiz-t"><strong>6.</strong> "See you later!" → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>7.</strong> "Thank you" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 对不起</button><button type="button" data-opt="B">B. 谢谢</button><button type="button" data-opt="C">C. 再见</button><button type="button" data-opt="D">D. 没关系</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="你呢" data-explain="我很好,你呢? <span class='quiz-py'>(wǒ hěn hǎo, nǐ ne?)</span>">
+<p class="quiz-t"><strong>8.</strong> 我很好,...? ("and you?")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="你呢">你呢</button><button type="button" data-chip="吗">吗</button><button type="button" data-chip="呢">呢</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="不是,我是学生。 <span class='quiz-py'>(bù shì, wǒ shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>9.</strong> The correct "no" answer to "你是老师吗?" is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 不是,我是学生。</button><button type="button" data-opt="B">B. 不吗。</button><button type="button" data-opt="C">C. 吗不。</button><button type="button" data-opt="D">D. 我不。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>10.</strong> To ask back "and you?" after answering about yourself, the particle is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 吗</button><button type="button" data-opt="B">B. 呢</button><button type="button" data-opt="C">C. 的</button><button type="button" data-opt="D">D. 了</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="我叫Aska" data-explain="我叫 Aska,你呢? <span class='quiz-py'>(wǒ jiào Aska, nǐ ne?)</span>">
+<p class="quiz-t"><strong>11.</strong> Complete the dialogue (name: Aska):<br>A: 你好!你叫什么名字?<br>B: 你好!___ ，你呢?</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="我叫Aska">我叫Aska</button><button type="button" data-chip="我是Aska">我是Aska</button><button type="button" data-chip="我叫你">我叫你</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="对不起 ↔ 没关系.">
+<p class="quiz-t"><strong>12.</strong> The polite reply to 对不起 is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 谢谢</button><button type="button" data-opt="B">B. 没关系</button><button type="button" data-opt="C">C. 再见</button><button type="button" data-opt="D">D. 你好</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我很高兴认识你。 <span class='quiz-py'>(wǒ hěn gāoxìng rènshi nǐ.)</span>">
+<p class="quiz-t"><strong>13.</strong> "I'm happy to meet you." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="不客气" data-explain="不客气! <span class='quiz-py'>(bù kèqi!)</span>">
+<p class="quiz-t"><strong>14.</strong> Complete:<br>A: 谢谢!<br>B: ... !</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="不客气">不客气</button><button type="button" data-chip="没关系">没关系</button><button type="button" data-chip="再见">再见</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<p class="quiz-t"><strong>15.</strong> The "yes" answer to "你是学生吗?" is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 是,我是学生。</button><button type="button" data-opt="B">B. 吗是。</button><button type="button" data-opt="C">C. 不吗。</button><button type="button" data-opt="D">D. 我不。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
 
 ## Chapter 2 — Numbers & time
 
-1. **Multiple choice.** 二十 is read... A. 12 B. 20 C. 2 D. 200
-2. **Translate.** "It is three o'clock now." → ...
-3. **Fill in.** 今天是星期...。 (today is Monday)
-4. **Multiple choice.** To count objects ("two apples"), the correct one is... A. 二苹果 B. 两苹果 C. 二个苹果 D. 二本苹果
-5. **Arrange words** into a sentence: 点 / 三 / 现在
-6. **Translate.** "I am 20 years old." → ...
-7. **Multiple choice.** 几 is used to ask about... A. small amounts that are still uncertain B. people's names C. places D. past events
-8. **Fill in.** ...点了？ ("what time is it now?")
-9. **Multiple choice.** "Tomorrow" in Mandarin is... A. 今天 B. 明天 C. 昨天 D. 现在
-10. **Complete.**
-    A: 今天几号？
-    B: 今天 ... 号。 (the 7th)
-11. **Multiple choice.** 八十 is read... A. 18 B. 80 C. 800 D. 8
-12. **Fill in.** 一 + 一 = ... (write the pinyin of your answer)
-13. **Multiple choice.** "Three yuan" (a price, in spoken language) is... A. 三块钱 B. 三钱块 C. 块三钱 D. 三个钱
-14. **Complete.**
-    A: 现在几点？
-    B: 现在 ... 点。 (8 o'clock)
-15. **Multiple choice.** 两 is used correctly in... A. 两个人 B. 两十 C. 二个人 D. 十两
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/13</span></div>
 
-<details><summary>Answer key Chapter 2</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="二十 = 2 × 10 = 20.">
+<p class="quiz-t"><strong>1.</strong> 二十 is read...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 12</button><button type="button" data-opt="B">B. 20</button><button type="button" data-opt="C">C. 2</button><button type="button" data-opt="D">D. 200</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **B.** 二十 = 2 × 10 = 20.
-2. 现在三点。(*xiànzài sān diǎn.*)
-3. **一** — 今天是星期一。(*jīntiān shì xīngqī yī.*)
-4. **B.** To count objects, use 两 (*liǎng*), not 二 — 二 is only for pure numbers/sequences (introduced in Chapter 2).
-5. 现在三点。(*xiànzài sān diǎn.*)
-6. 我二十岁。(*wǒ èrshí suì.*) — age uses 岁, not 个.
-7. **A.** — e.g. 几个苹果 ("a few apples").
-8. **现在** — 现在几点？(*xiànzài jí diǎn?*)
-9. **B.**
-10. **七** — 今天七号。(*jīntiān qī hào.*)
-11. **B.** — 八十 = 8 × 10 = 80.
-12. **èr**
-13. **A.** — 三块钱 (*sān kuài qián*); 块 = the unit of money in spoken language.
-14. **八** — 现在八点。(*xiànzài bā diǎn.*)
-15. **A.** — 两 for counting objects (两个人); pure numbers/sequences use 二.
+<div class="quiz-q" data-type="reveal" data-explain="现在三点。 <span class='quiz-py'>(xiànzài sān diǎn.)</span>">
+<p class="quiz-t"><strong>2.</strong> "It is three o'clock now." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="一" data-explain="今天是星期一。 <span class='quiz-py'>(jīntiān shì xīngqī yī.)</span>">
+<p class="quiz-t"><strong>3.</strong> 今天是星期...。 (today is Monday)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="一">一</button><button type="button" data-chip="二">二</button><button type="button" data-chip="三">三</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="To count objects, use 两 <span class='quiz-py'>(liǎng)</span>, not 二 — 二 is only for pure numbers/sequences.">
+<p class="quiz-t"><strong>4.</strong> To count objects ("two apples"), the correct one is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 二苹果</button><button type="button" data-opt="B">B. 两苹果</button><button type="button" data-opt="C">C. 二个苹果</button><button type="button" data-opt="D">D. 二本苹果</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="现在三点" data-explain="现在三点。 <span class='quiz-py'>(xiànzài sān diǎn.)</span>">
+<p class="quiz-t"><strong>5.</strong> Arrange words into a sentence:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="三">三</button>
+<button type="button" draggable="true" data-w="点">点</button>
+<button type="button" draggable="true" data-w="现在">现在</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我二十岁。 <span class='quiz-py'>(wǒ èrshí suì.)</span> — age uses 岁, not 个.">
+<p class="quiz-t"><strong>6.</strong> "I am 20 years old." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="E.g. 几个苹果 (&quot;a few apples&quot;).">
+<p class="quiz-t"><strong>7.</strong> 几 is used to ask about...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. small amounts that are still uncertain</button><button type="button" data-opt="B">B. people's names</button><button type="button" data-opt="C">C. places</button><button type="button" data-opt="D">D. past events</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="现在" data-explain="现在几点? <span class='quiz-py'>(xiànzài jǐ diǎn?)</span>">
+<p class="quiz-t"><strong>8.</strong> ...点了? ("what time is it now?")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="现在">现在</button><button type="button" data-chip="今天">今天</button><button type="button" data-chip="明天">明天</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>9.</strong> "Tomorrow" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 今天</button><button type="button" data-opt="B">B. 明天</button><button type="button" data-opt="C">C. 昨天</button><button type="button" data-opt="D">D. 现在</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="七" data-explain="今天七号。 <span class='quiz-py'>(jīntiān qī hào.)</span>">
+<p class="quiz-t"><strong>10.</strong> Complete:<br>A: 今天几号?<br>B: 今天 ... 号。 (the 7th)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="七">七</button><button type="button" data-chip="九">九</button><button type="button" data-chip="三">三</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="八十 = 8 × 10 = 80.">
+<p class="quiz-t"><strong>11.</strong> 八十 is read...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 18</button><button type="button" data-opt="B">B. 80</button><button type="button" data-opt="C">C. 800</button><button type="button" data-opt="D">D. 8</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="èr" data-explain="">
+<p class="quiz-t"><strong>12.</strong> 一 + 一 = ... (write the pinyin of your answer)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="èr">èr</button><button type="button" data-chip="ér">ér</button><button type="button" data-chip="er">er</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="三块钱 <span class='quiz-py'>(sān kuài qián)</span>; 块 = the unit of money in spoken language.">
+<p class="quiz-t"><strong>13.</strong> "Three yuan" (a price, in spoken language) is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 三块钱</button><button type="button" data-opt="B">B. 三钱块</button><button type="button" data-opt="C">C. 块三钱</button><button type="button" data-opt="D">D. 三个钱</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="八" data-explain="现在八点。 <span class='quiz-py'>(xiànzài bā diǎn.)</span>">
+<p class="quiz-t"><strong>14.</strong> Complete:<br>A: 现在几点?<br>B: 现在 ... 点。 (8 o'clock)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="八">八</button><button type="button" data-chip="六">六</button><button type="button" data-chip="十">十</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="两 for counting objects (两个人); pure numbers/sequences use 二.">
+<p class="quiz-t"><strong>15.</strong> 两 is used correctly in...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 两个人</button><button type="button" data-opt="B">B. 两十</button><button type="button" data-opt="C">C. 二个人</button><button type="button" data-opt="D">D. 十两</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
 
 ## Chapter 3 — Radicals & hanzi breakdown
 
-1. **Multiple choice.** The (left) radical in 你 is... A. 亻 B. 尔 C. 口 D. 女
-2. **Multiple choice.** 好 = 女 + 子 means "good". The 女 component gives a clue of... A. the reading sound B. the meaning C. the tone D. the stroke count
-3. **Fill in.** 想 = 相 + ...
-4. **Multiple choice.** A character with the 氵 (three-dot water) radical is most likely related to... A. water/liquids B. fire C. wood D. metal
-5. **Multiple choice.** 吗 = 口 + 马. The function of the 马 component here is... A. to give a meaning clue B. to give a sound clue C. to show the tone D. no function
-6. **Fill in.** 猫 = 犭 + ...
-7. **Multiple choice.** The correct breakdown of 杯 ("cup") is... A. 杯 = 木 + 不 B. 杯 = 水 + 木 C. 杯 = 人 + 木 D. 杯 = 口 + 木
-8. **Multiple choice.** 字 = 宀 + 子. The 宀 ("roof") component hints that 字 is related to... A. something written/under a roof B. a child C. a house D. a door
-9. **Match.** Pair each character with its left radical:
-   1. 你 2. 吗 3. 猫
-   a. 口 b. 亻 c. 犭
-10. **Multiple choice.** In 好 = 女 + 子, the right component 子 (*zǐ*) gives a clue of... A. the meaning B. the sound C. the tone D. the stroke count
-11. **Fill in.** 听 = 口 + ...
-12. **Multiple choice.** A character with the 木 ("wood") radical is most likely related to... A. wooden objects B. water C. animals D. food
-13. **Match.** Pair each character with its sound-clue component:
-    1. 吗 (*ma*) 2. 杯 (*bēi*) 3. 猫 (*māo*)
-    a. 不 (*bù*) b. 马 (*mǎ*) c. 苗 (*miáo*)
-14. **Multiple choice.** 好 ("good") = 女 + 子 is an example of a character... A. combining two meaning clues B. combining meaning + sound C. a picture of an object D. a single radical only
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/12</span></div>
 
-<details><summary>Answer key Chapter 3</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="亻 (the &quot;person&quot; radical) + 尔.">
+<p class="quiz-t"><strong>1.</strong> The (left) radical in 你 is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 亻</button><button type="button" data-opt="B">B. 尔</button><button type="button" data-opt="C">C. 口</button><button type="button" data-opt="D">D. 女</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **A.** — 亻 (the "person" radical) + 尔.
-2. **B.** — meaning components vs sound components are the key to breaking down hanzi.
-3. **心** — 想 = 相 + 心: "wanting/thinking" always involves the heart (心).
-4. **A.**
-5. **B.** — 马 (*mǎ*) gives the sound clue *ma*; 口 (mouth) gives the meaning clue: a speech particle.
-6. **苗** — 猫 = 犭 (animal) + 苗.
-7. **A.** — 杯 = 木 (wood) + 不 (sound clue).
-8. **A.** — 字 ("character/letter"): something written under a roof.
-9. 1-b, 2-a, 3-c
-10. **B.** — 女 gives the meaning clue, 子 gives the sound clue (*zǐ* ≈ *hǎo*).
-11. **斤** — 听 = 口 (mouth → meaning: listening) + 斤 (sound clue).
-12. **A.** — e.g. 桌子 (table), 椅子 (chair), 杯子 (cup).
-13. 1-b, 2-a, 3-c
-14. **A.** — "woman + child = good", both are meaning clues.
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Meaning components vs sound components are the key to breaking down hanzi.">
+<p class="quiz-t"><strong>2.</strong> 好 = 女 + 子 means "good". The 女 component gives a clue of...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. the reading sound</button><button type="button" data-opt="B">B. the meaning</button><button type="button" data-opt="C">C. the tone</button><button type="button" data-opt="D">D. the stroke count</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="心" data-explain="想 = 相 + 心: &quot;wanting/thinking&quot; always involves the heart (心).">
+<p class="quiz-t"><strong>3.</strong> 想 = 相 + ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="心">心</button><button type="button" data-chip="手">手</button><button type="button" data-chip="口">口</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<p class="quiz-t"><strong>4.</strong> A character with the 氵 (three-dot water) radical is most likely related to...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. water/liquids</button><button type="button" data-opt="B">B. fire</button><button type="button" data-opt="C">C. wood</button><button type="button" data-opt="D">D. metal</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="马 <span class='quiz-py'>(mǎ)</span> gives the sound clue <span class='quiz-py'>(ma)</span>; 口 (mouth) gives the meaning clue: a speech particle.">
+<p class="quiz-t"><strong>5.</strong> 吗 = 口 + 马. The function of the 马 component here is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. to give a meaning clue</button><button type="button" data-opt="B">B. to give a sound clue</button><button type="button" data-opt="C">C. to show the tone</button><button type="button" data-opt="D">D. no function</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="苗" data-explain="猫 = 犭 (animal) + 苗.">
+<p class="quiz-t"><strong>6.</strong> 猫 = 犭 + ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="苗">苗</button><button type="button" data-chip="马">马</button><button type="button" data-chip="不">不</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="杯 = 木 (wood) + 不 (sound clue).">
+<p class="quiz-t"><strong>7.</strong> The correct breakdown of 杯 ("cup") is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 杯 = 木 + 不</button><button type="button" data-opt="B">B. 杯 = 水 + 木</button><button type="button" data-opt="C">C. 杯 = 人 + 木</button><button type="button" data-opt="D">D. 杯 = 口 + 木</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="字 (&quot;character/letter&quot;): something written under a roof.">
+<p class="quiz-t"><strong>8.</strong> 字 = 宀 + 子. The 宀 ("roof") component hints that 字 is related to...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. something written/under a roof</button><button type="button" data-opt="B">B. a child</button><button type="button" data-opt="C">C. a house</button><button type="button" data-opt="D">D. a door</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="1-b, 2-a, 3-c">
+<p class="quiz-t"><strong>9.</strong> Pair each character with its left radical:<br>1. 你 2. 吗 3. 猫<br>a. 口 b. 亻 c. 犭</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="女 gives the meaning clue, 子 gives the sound clue (<span class='quiz-py'>(zǐ)</span> ≈ <span class='quiz-py'>(hǎo)</span>).">
+<p class="quiz-t"><strong>10.</strong> In 好 = 女 + 子, the right component 子 (zǐ) gives a clue of...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. the meaning</button><button type="button" data-opt="B">B. the sound</button><button type="button" data-opt="C">C. the tone</button><button type="button" data-opt="D">D. the stroke count</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="斤" data-explain="听 = 口 (mouth → meaning: listening) + 斤 (sound clue).">
+<p class="quiz-t"><strong>11.</strong> 听 = 口 + ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="斤">斤</button><button type="button" data-chip="木">木</button><button type="button" data-chip="子">子</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="E.g. 桌子 (table), 椅子 (chair), 杯子 (cup).">
+<p class="quiz-t"><strong>12.</strong> A character with the 木 ("wood") radical is most likely related to...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. wooden objects</button><button type="button" data-opt="B">B. water</button><button type="button" data-opt="C">C. animals</button><button type="button" data-opt="D">D. food</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="1-b, 2-a, 3-c">
+<p class="quiz-t"><strong>13.</strong> Pair each character with its sound-clue component:<br>1. 吗 (ma) 2. 杯 (bēi) 3. 猫 (māo)<br>a. 不 (bù) b. 马 (mǎ) c. 苗 (miáo)</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="&quot;woman + child = good&quot;, both are meaning clues.">
+<p class="quiz-t"><strong>14.</strong> 好 ("good") = 女 + 子 is an example of a character...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. combining two meaning clues</button><button type="button" data-opt="B">B. combining meaning + sound</button><button type="button" data-opt="C">C. a picture of an object</button><button type="button" data-opt="D">D. a single radical only</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
 
 ## Chapter 4 — Everyday vocabulary
 
-1. **Multiple choice.** "Restaurant" in Mandarin is... A. 商店 B. 饭店 C. 学校 D. 医院
-2. **Multiple choice.** "Cat" in Mandarin is... A. 狗 B. 猫 C. 苹果 D. 水
-3. **Translate.** "I like drinking tea." → ...
-4. **Fill in.** 我...米饭。 ("I eat rice.")
-5. **Multiple choice.** The correct English–Mandarin pair is... A. book – 书 B. book – 杯子 C. book – 桌子 D. book – 椅子
-6. **Arrange words** into a sentence: 学习 / 我 / 汉语
-7. **Translate.** "Father and mother are at home." → ...
-8. **Multiple choice.** "Doctor" in Mandarin is... A. 老师 B. 医生 C. 学生 D. 朋友
-9. **Fill in.** ...果 ("apple" — write its first hanzi)
-10. **Match.** Pair the hanzi with their meanings:
-    1. 医院 2. 椅子 3. 狗
-    a. chair b. dog c. hospital
-11. **Multiple choice.** "To buy" in Mandarin is... A. 买 B. 开 C. 坐 D. 读
-12. **Translate.** "She drinks water." → ...
-13. **Fill in.** 我是 ... 。 ("I am a teacher.")
-14. **Match.** Pair the hanzi with their pinyin:
-    1. 苹果 2. 电影 3. 朋友
-    a. diànyǐng b. píngguǒ c. péngyou
-15. **Multiple choice.** The opposite of 大 is... A. 小 B. 多 C. 好 D. 热
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/10</span></div>
 
-<details><summary>Answer key Chapter 4</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="饭店 = restaurant/hotel; 商店 = shop.">
+<p class="quiz-t"><strong>1.</strong> "Restaurant" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 商店</button><button type="button" data-opt="B">B. 饭店</button><button type="button" data-opt="C">C. 学校</button><button type="button" data-opt="D">D. 医院</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **B.** — 饭店 = restaurant/hotel; 商店 = shop.
-2. **B.** — 猫 *māo* = cat; 狗 *gǒu* = dog.
-3. 我喜欢喝茶。(*wǒ xǐhuan hē chá.*)
-4. **吃** — 我吃米饭。(*wǒ chī mǐfàn.*)
-5. **A.**
-6. 我学习汉语。(*wǒ xuéxí Hànyǔ.*)
-7. 爸爸和妈妈在家。(*bàba hé māma zài jiā.*)
-8. **B.**
-9. **苹** — 苹果 *píngguǒ*; 苹 = 艹 + 平.
-10. 1-c, 2-a, 3-b
-11. **A.** — 买 *mǎi* = to buy.
-12. 她喝水。(*tā hē shuǐ.*)
-13. **老师** — 我是老师。(*wǒ shì lǎoshī.*)
-14. 1-b, 2-a, 3-c
-15. **A.** — 大 (big) ↔ 小 (small).
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="猫 <span class='quiz-py'>(māo)</span> = cat; 狗 <span class='quiz-py'>(gǒu)</span> = dog.">
+<p class="quiz-t"><strong>2.</strong> "Cat" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 狗</button><button type="button" data-opt="B">B. 猫</button><button type="button" data-opt="C">C. 苹果</button><button type="button" data-opt="D">D. 水</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="reveal" data-explain="我喜欢喝茶。 <span class='quiz-py'>(wǒ xǐhuan hē chá.)</span>">
+<p class="quiz-t"><strong>3.</strong> "I like drinking tea." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="吃" data-explain="我吃米饭。 <span class='quiz-py'>(wǒ chī mǐfàn.)</span>">
+<p class="quiz-t"><strong>4.</strong> 我...米饭。 ("I eat rice.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="吃">吃</button><button type="button" data-chip="喝">喝</button><button type="button" data-chip="买">买</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<p class="quiz-t"><strong>5.</strong> The correct English–Mandarin pair is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. book – 书</button><button type="button" data-opt="B">B. book – 杯子</button><button type="button" data-opt="C">C. book – 桌子</button><button type="button" data-opt="D">D. book – 椅子</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我学习汉语" data-explain="我学习汉语。 <span class='quiz-py'>(wǒ xuéxí Hànyǔ.)</span>">
+<p class="quiz-t"><strong>6.</strong> Arrange words into a sentence:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="汉语">汉语</button>
+<button type="button" draggable="true" data-w="学习">学习</button>
+<button type="button" draggable="true" data-w="我">我</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="爸爸和妈妈在家。 <span class='quiz-py'>(bàba hé māma zài jiā.)</span>">
+<p class="quiz-t"><strong>7.</strong> "Father and mother are at home." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>8.</strong> "Doctor" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 老师</button><button type="button" data-opt="B">B. 医生</button><button type="button" data-opt="C">C. 学生</button><button type="button" data-opt="D">D. 朋友</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="苹" data-explain="苹果 <span class='quiz-py'>(píngguǒ)</span>; 苹 = 艹 + 平.">
+<p class="quiz-t"><strong>9.</strong> ...果 ("apple" — write its first hanzi)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="苹">苹</button><button type="button" data-chip="平">平</button><button type="button" data-chip="草">草</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="1-c, 2-a, 3-b">
+<p class="quiz-t"><strong>10.</strong> Pair the hanzi with their meanings:<br>1. 医院 2. 椅子 3. 狗<br>a. chair b. dog c. hospital</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="买 <span class='quiz-py'>(mǎi)</span> = to buy.">
+<p class="quiz-t"><strong>11.</strong> "To buy" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 买</button><button type="button" data-opt="B">B. 开</button><button type="button" data-opt="C">C. 坐</button><button type="button" data-opt="D">D. 读</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="她喝水。 <span class='quiz-py'>(tā hē shuǐ.)</span>">
+<p class="quiz-t"><strong>12.</strong> "She drinks water." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="老师" data-explain="我是老师。 <span class='quiz-py'>(wǒ shì lǎoshī.)</span>">
+<p class="quiz-t"><strong>13.</strong> 我是 ... 。 ("I am a teacher.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="老师">老师</button><button type="button" data-chip="学生">学生</button><button type="button" data-chip="医生">医生</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="1-b, 2-a, 3-c">
+<p class="quiz-t"><strong>14.</strong> Pair the hanzi with their pinyin:<br>1. 苹果 2. 电影 3. 朋友<br>a. diànyǐng b. píngguǒ c. péngyou</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="大 (big) ↔ 小 (small).">
+<p class="quiz-t"><strong>15.</strong> The opposite of 大 is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 小</button><button type="button" data-opt="B">B. 多</button><button type="button" data-opt="C">C. 好</button><button type="button" data-opt="D">D. 热</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
 
 ## Chapter 5 — Basic grammar
 
-1. **Multiple choice.** The correct word order is... A. 我今天去学校 B. 我去学校今天 C. 我学校去今天 D. 去我学校今天
-2. **Translate.** "He is also a teacher." → ...
-3. **Fill in.** 那...人是医生。 (the right measure word)
-4. **Multiple choice.** The correct way to say "I didn't go to the shop yesterday" is... A. 我昨天不去商店 B. 我昨天没去商店
-5. **Arrange words** into a phrase: 漂亮 / 的 / 衣服
-6. **Translate.** "On the table there are three books." → ...
-7. **Multiple choice.** The **wrong** sentence is... A. 你吃什么？ B. 你是谁？ C. 你吗是学生？ D. 他在哪儿？
-8. **Fill in.** 今天...热了。 ("Today is too hot." — complete the pattern)
-9. **Multiple choice.** 下雨了！ means... A. it rained yesterday B. it is raining (starting) now — a newly changed state C. it isn't raining D. it will rain next year
-10. **True/False.** Write B (true) or S (false) for each statement:
-    a. 不 can be used to negate past events.
-    b. Time expressions are placed between the subject and the verb.
-    c. 吗 always comes at the end of a question.
-11. **Multiple choice.** "They are all students." → ... A. 他们都是学生。 B. 他们是都学生。 C. 他们是学生都。
-12. **Fill in.** 我 ... 中国人。 ("I am Chinese.")
-13. **Multiple choice.** The correct way to ask "where are you?" is... A. 你在哪儿？ B. 你哪儿在？ C. 在你哪儿？
-14. **True/False.** Write B (true) or S (false) for each statement:
-    a. 和 can be used to join two verbs.
-    b. After 喜欢 a verb may follow (e.g. 喜欢喝茶).
-    c. 很 always means "very".
-15. **Translate.** "Where do you want to go?" → ...
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/16</span></div>
 
-<details><summary>Answer key Chapter 5</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="The time expression goes between the subject and the verb.">
+<p class="quiz-t"><strong>1.</strong> The correct word order is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我今天去学校</button><button type="button" data-opt="B">B. 我去学校今天</button><button type="button" data-opt="C">C. 我学校去今天</button><button type="button" data-opt="D">D. 去我学校今天</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **A.** — the time expression goes between the subject and the verb.
-2. 他也是老师。(*tā yě shì lǎoshī.*)
-3. **个** — 那个人是医生。(*nà ge rén shì yīshēng.*)
-4. **B.** — past events → use 没, not 不.
-5. 漂亮的衣服 (*piàoliang de yīfu*) — "beautiful clothes".
-6. 桌子上有三本书。(*zhuōzi shang yǒu sān běn shū.*)
-7. **C.** — 吗 must be at the end: 你是学生吗？
-8. **太** — 今天太热了。(*jīntiān tài rè le.*) — the 太 + adj + 了 pattern.
-9. **B.** — 了 marks a changed state, not (just) the past.
-10. a-**S** (past events → use 没), b-**B**, c-**B**
-11. **A.** — 都 is placed before the verb: 他们都是学生。(*tāmen dōu shì xuéshēng.*)
-12. **是** — 我是中国人。(*wǒ shì Zhōngguó rén.*)
-13. **A.** — 你在哪儿？(*nǐ zài nǎr?*) — question words stay in position, they don't move to the front.
-14. a-**S** (和 only joins nouns), b-**B**, c-**S** (很 can be a mere adjective linker, not always "very")
-15. 你想去哪儿？(*nǐ xiǎng qù nǎr?*)
+<div class="quiz-q" data-type="reveal" data-explain="他也是老师。 <span class='quiz-py'>(tā yě shì lǎoshī.)</span>">
+<p class="quiz-t"><strong>2.</strong> "He is also a teacher." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="个" data-explain="那个人是医生。 <span class='quiz-py'>(nà ge rén shì yīshēng.)</span>">
+<p class="quiz-t"><strong>3.</strong> 那...人是医生。 (the right measure word)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="个">个</button><button type="button" data-chip="本">本</button><button type="button" data-chip="只">只</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Past events → use 没, not 不.">
+<p class="quiz-t"><strong>4.</strong> The correct way to say "I didn't go to the shop yesterday" is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我昨天不去商店</button><button type="button" data-opt="B">B. 我昨天没去商店</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="漂亮的衣服" data-explain="漂亮的衣服 <span class='quiz-py'>(piàoliang de yīfu)</span> — &quot;beautiful clothes&quot;.">
+<p class="quiz-t"><strong>5.</strong> Arrange words into a phrase:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="衣服">衣服</button>
+<button type="button" draggable="true" data-w="漂亮">漂亮</button>
+<button type="button" draggable="true" data-w="的">的</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="桌子上有三本书。 <span class='quiz-py'>(zhuōzi shang yǒu sān běn shū.)</span>">
+<p class="quiz-t"><strong>6.</strong> "On the table there are three books." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="吗 must be at the end: 你是学生吗?">
+<p class="quiz-t"><strong>7.</strong> The <strong>wrong</strong> sentence is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 你吃什么?</button><button type="button" data-opt="B">B. 你是谁?</button><button type="button" data-opt="C">C. 你吗是学生?</button><button type="button" data-opt="D">D. 他在哪儿?</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="太" data-explain="今天太热了。 <span class='quiz-py'>(jīntiān tài rè le.)</span> — the 太 + adj + 了 pattern.">
+<p class="quiz-t"><strong>8.</strong> 今天...热了。 ("Today is too hot." — complete the pattern)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="太">太</button><button type="button" data-chip="很">很</button><button type="button" data-chip="都">都</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="了 marks a changed state, not (just) the past.">
+<p class="quiz-t"><strong>9.</strong> 下雨了! means...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. it rained yesterday</button><button type="button" data-opt="B">B. it is raining (starting) now — a newly changed state</button><button type="button" data-opt="C">C. it isn't raining</button><button type="button" data-opt="D">D. it will rain next year</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="False — past events → use 没.">
+<p class="quiz-t"><strong>10a.</strong> 不 can be used to negate past events. (True/False)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>10b.</strong> Time expressions are placed between the subject and the verb. (True/False)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>10c.</strong> 吗 always comes at the end of a question. (True/False)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="都 is placed before the verb: 他们都是学生。 <span class='quiz-py'>(tāmen dōu shì xuéshēng.)</span>">
+<p class="quiz-t"><strong>11.</strong> "They are all students." → ...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 他们都是学生。</button><button type="button" data-opt="B">B. 他们是都学生。</button><button type="button" data-opt="C">C. 他们是学生都。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="我是中国人。 <span class='quiz-py'>(wǒ shì Zhōngguó rén.)</span>">
+<p class="quiz-t"><strong>12.</strong> 我 ... 中国人。 ("I am Chinese.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="是">是</button><button type="button" data-chip="在">在</button><button type="button" data-chip="有">有</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="你在哪儿? <span class='quiz-py'>(nǐ zài nǎr?)</span> — question words stay in position, they don't move to the front.">
+<p class="quiz-t"><strong>13.</strong> The correct way to ask "where are you?" is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 你在哪儿?</button><button type="button" data-opt="B">B. 你哪儿在?</button><button type="button" data-opt="C">C. 在你哪儿?</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="False — 和 only joins nouns.">
+<p class="quiz-t"><strong>14a.</strong> 和 can be used to join two verbs. (True/False)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<p class="quiz-t"><strong>14b.</strong> After 喜欢 a verb may follow (e.g. 喜欢喝茶). (True/False)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="S" data-explain="False — 很 can be a mere adjective linker, not always &quot;very&quot;.">
+<p class="quiz-t"><strong>14c.</strong> 很 always means "very". (True/False)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你想去哪儿? <span class='quiz-py'>(nǐ xiǎng qù nǎr?)</span>">
+<p class="quiz-t"><strong>15.</strong> "Where do you want to go?" → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>
 
 ## Chapter 6 — Dialogues & conversation
 
-1. **Multiple choice.** "这个苹果多少钱？" is best answered with... A. 三块钱。 B. 谢谢。 C. 再见。 D. 我是学生。
-2. **Fill in.** A: 你想喝什么？ B: ... ("I want to drink tea.")
-3. **Multiple choice.** 喂 is used when... A. meeting in person B. calling on the phone C. eating D. sleeping
-4. **Translate.** "Where do you live?" → ...
-5. **Multiple choice.** The right response to "谢谢！" is... A. 不客气！ B. 对不起！ C. 再见！ D. 没关系！
-6. **Arrange words** into a natural 2-line dialogue: 谢谢 / 不客气 / 再见
-7. **Translate.** "He is not at home." → ...
-8. **Multiple choice.** "When is he coming back?" in Mandarin is... A. 他什么时候回来？ B. 他是谁？ C. 他在哪儿？ D. 他吃什么？
-9. **Complete.**
-    A: 你在哪儿工作？
-    B: 我在 ... 工作。 (at school)
-10. **Multiple choice.** "How much does it cost?" in Mandarin is... A. 多少钱？ B. 多少人？ C. 几点了？ D. 你是谁？
-11. **Translate.** "I cannot come tomorrow." → ...
-12. **Complete.**
-    A: 喂，你在家吗？
-    B: ... ，我在家。 ("yes, I'm home")
-13. **Multiple choice.** A: 你喜欢吃什么？ The most natural B answer is... A. 我喜欢吃米饭。 B. 谢谢。 C. 再见。 D. 我是老师。
-14. **Complete.**
-    A: 明天你有时间吗？
-    B: ... ，明天我去学校。
-15. **Multiple choice.** A: 你是学生吗？ B: 不是，我是 ... 。("teacher") A. 老师 B. 学生 C. 医生 D. 朋友
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/12</span></div>
 
-<details><summary>Answer key Chapter 6</summary>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="三块钱。 <span class='quiz-py'>(sān kuài qián.)</span>">
+<p class="quiz-t"><strong>1.</strong> "这个苹果多少钱?" is best answered with...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 三块钱。</button><button type="button" data-opt="B">B. 谢谢。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 我是学生。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-1. **A.** — 三块钱。(*sān kuài qián.*)
-2. **我想喝茶。** (*wǒ xiǎng hē chá.*)
-3. **B.** — 喂 is a phone-only greeting.
-4. 你住在哪儿？(*nǐ zhù zài nǎr?*)
-5. **A.** — 谢谢 ↔ 不客气.
-6. A: 谢谢！ B: 不客气！再见！ (*xièxie! bù kèqi! zàijiàn!*)
-7. 他不在家。(*tā bù zài jiā.*)
-8. **A.** — 他什么时候回来？(*tā shénme shíhou huí?*)
-9. **学校** — 我在学校工作。(*wǒ zài xuéxiào gōngzuò.*)
-10. **A.** — 多少钱？(*duōshao qián?*) = asking the price.
-11. 我明天不能来。(*wǒ míngtiān bù néng lái.*)
-12. **在** — 在，我在家。(*zài, wǒ zài jiā.*) — "present, I'm at home."
-13. **A.**
-14. **对不起** — 对不起，明天我去学校。(*duìbuqǐ, míngtiān wǒ qù xuéxiào.*)
-15. **A.** — 老师 (*lǎoshī*).
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="我想喝茶" data-explain="我想喝茶。 <span class='quiz-py'>(wǒ xiǎng hē chá.)</span>">
+<p class="quiz-t"><strong>2.</strong> Complete:<br>A: 你想喝什么?<br>B: ... ("I want to drink tea.")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="我想喝茶">我想喝茶</button><button type="button" data-chip="我喝茶想">我喝茶想</button><button type="button" data-chip="想我喝茶">想我喝茶</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
 
-</details>
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="喂 is a phone-only greeting.">
+<p class="quiz-t"><strong>3.</strong> 喂 is used when...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. meeting in person</button><button type="button" data-opt="B">B. calling on the phone</button><button type="button" data-opt="C">C. eating</button><button type="button" data-opt="D">D. sleeping</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你住在哪儿? <span class='quiz-py'>(nǐ zhù zài nǎr?)</span>">
+<p class="quiz-t"><strong>4.</strong> "Where do you live?" → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="谢谢 ↔ 不客气.">
+<p class="quiz-t"><strong>5.</strong> The right response to "谢谢!" is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 不客气!</button><button type="button" data-opt="B">B. 对不起!</button><button type="button" data-opt="C">C. 再见!</button><button type="button" data-opt="D">D. 没关系!</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="谢谢不客气再见" data-explain="A: 谢谢! B: 不客气!再见! <span class='quiz-py'>(xièxie! bù kèqi! zàijiàn!)</span>">
+<p class="quiz-t"><strong>6.</strong> Arrange words into a natural 2-line dialogue:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="再见">再见</button>
+<button type="button" draggable="true" data-w="谢谢">谢谢</button>
+<button type="button" draggable="true" data-w="不客气">不客气</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="他不在家。 <span class='quiz-py'>(tā bù zài jiā.)</span>">
+<p class="quiz-t"><strong>7.</strong> "He is not at home." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="他什么时候回来? <span class='quiz-py'>(tā shénme shíhou huí?)</span>">
+<p class="quiz-t"><strong>8.</strong> "When is he coming back?" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 他什么时候回来?</button><button type="button" data-opt="B">B. 他是谁?</button><button type="button" data-opt="C">C. 他在哪儿?</button><button type="button" data-opt="D">D. 他吃什么?</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="学校" data-explain="我在学校工作。 <span class='quiz-py'>(wǒ zài xuéxiào gōngzuò.)</span>">
+<p class="quiz-t"><strong>9.</strong> Complete:<br>A: 你在哪儿工作?<br>B: 我在 ... 工作。 (at school)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="学校">学校</button><button type="button" data-chip="商店">商店</button><button type="button" data-chip="医院">医院</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="多少钱? <span class='quiz-py'>(duōshao qián?)</span> = asking the price.">
+<p class="quiz-t"><strong>10.</strong> "How much does it cost?" in Mandarin is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 多少钱?</button><button type="button" data-opt="B">B. 多少人?</button><button type="button" data-opt="C">C. 几点了?</button><button type="button" data-opt="D">D. 你是谁?</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我明天不能来。 <span class='quiz-py'>(wǒ míngtiān bù néng lái.)</span>">
+<p class="quiz-t"><strong>11.</strong> "I cannot come tomorrow." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="在" data-explain="在,我在家。 <span class='quiz-py'>(zài, wǒ zài jiā.)</span> — &quot;present, I'm at home.&quot;">
+<p class="quiz-t"><strong>12.</strong> Complete:<br>A: 喂,你在家吗?<br>B: ... ,我在家。 ("yes, I'm home")</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="在">在</button><button type="button" data-chip="是">是</button><button type="button" data-chip="有">有</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<p class="quiz-t"><strong>13.</strong> A: 你喜欢吃什么? The most natural B answer is...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我喜欢吃米饭。</button><button type="button" data-opt="B">B. 谢谢。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 我是老师。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="对不起" data-explain="对不起,明天我去学校。 <span class='quiz-py'>(duìbuqǐ, míngtiān wǒ qù xuéxiào.)</span>">
+<p class="quiz-t"><strong>14.</strong> Complete:<br>A: 明天你有时间吗?<br>B: ... ,明天我去学校。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="对不起">对不起</button><button type="button" data-chip="没关系">没关系</button><button type="button" data-chip="谢谢">谢谢</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="老师 <span class='quiz-py'>(lǎoshī)</span>.">
+<p class="quiz-t"><strong>15.</strong> A: 你是学生吗? B: 不是,我是 ... 。("teacher")</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 老师</button><button type="button" data-opt="B">B. 学生</button><button type="button" data-opt="C">C. 医生</button><button type="button" data-opt="D">D. 朋友</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

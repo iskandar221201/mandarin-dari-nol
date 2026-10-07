@@ -43,14 +43,22 @@ export default {
 
     // ---- Kuis interaktif ----
     const norm = (s: string) => s.trim().replace(/[。？！?!.\s]+$/g, '')
+    const isEN = () => document.documentElement.lang.startsWith('en')
+    const T = {
+      ok: () => (isEN() ? '✅ Correct! ' : '✅ Benar! '),
+      bad: () => (isEN() ? '❌ Not quite. ' : '❌ Kurang tepat. '),
+      badAns: (a: string) => (isEN() ? `❌ Not quite. Answer: <strong>${a}</strong>. ` : `❌ Kurang tepat. Jawaban: <strong>${a}</strong>. `),
+      ret: () => (isEN() ? 'Click to return' : 'Klik untuk mengembalikan'),
+    }
     const bumpScore = (quiz: HTMLElement, ok: boolean) => {
       const el = quiz.querySelector('.quiz-score')
       if (!el) return
-      const m = el.textContent?.match(/(\d+)\/(\d+)/)
+      const m = el.textContent?.match(/^(.*?)(\d+)\/(\d+)\s*$/)
       if (!m) return
-      let [got, total] = [parseInt(m[1]), parseInt(m[2])]
+      const label = m[1]
+      let [got, total] = [parseInt(m[2]), parseInt(m[3])]
       if (ok) got += 1
-      el.textContent = `Skor: ${got}/${total}`
+      el.textContent = `${label}${got}/${total}`
     }
     const lock = (q: HTMLElement, quiz: HTMLElement, ok: boolean) => {
       q.classList.add('done')
@@ -83,7 +91,7 @@ export default {
           const right = q.querySelector(`.quiz-opts button[data-opt="${q.dataset.answer}"]`)
           right?.classList.add('ok')
         }
-        fb(q, ok ? 'good' : 'miss', (ok ? '✅ Benar! ' : '❌ Kurang tepat. ') + (q.dataset.explain || ''))
+        fb(q, ok ? 'good' : 'miss', (ok ? T.ok() : T.bad()) + (q.dataset.explain || ''))
         lock(q, quiz, ok)
         return
       }
@@ -97,44 +105,77 @@ export default {
         fb(
           q,
           ok ? 'good' : 'miss',
-          (ok ? '✅ Benar! ' : `❌ Kurang tepat. Jawaban: <strong>${answers[0]}</strong>. `) +
+          (ok ? T.ok() : T.badAns(answers[0])) +
             (q.dataset.explain || '')
         )
         lock(q, quiz, ok)
         return
       }
 
-      // Susun kata: klik kata berurutan
+      // Susun kata: klik / drag-and-drop
+      const placeWord = (qq: HTMLElement, word: string) => {
+        const bank = qq.querySelector(`.quiz-words button[data-w="${word}"]:not(.used)`) as HTMLElement | null
+        if (!bank) return
+        bank.classList.add('used')
+        const drop = qq.querySelector('.quiz-drop') as HTMLElement | null
+        if (!drop) return
+        const ph = drop.querySelector('.quiz-ph')
+        ph?.remove()
+        const b = document.createElement('button')
+        b.type = 'button'
+        b.className = 'quiz-placed'
+        b.dataset.w = word
+        b.textContent = word
+        b.title = T.ret()
+        drop.appendChild(b)
+      }
+      const unplaceWord = (placed: HTMLElement) => {
+        const qq = placed.closest('.quiz-q') as HTMLElement | null
+        if (!qq) return
+        const bank = qq.querySelector(`.quiz-words button[data-w="${placed.dataset.w}"].used`) as HTMLElement | null
+        bank?.classList.remove('used')
+        const drop = placed.parentElement as HTMLElement | null
+        placed.remove()
+        if (drop && !drop.querySelector('.quiz-placed')) {
+          const ph = document.createElement('span')
+          ph.className = 'quiz-ph'
+          ph.textContent = drop.dataset.ph || 'Taruh jawaban di sini'
+          drop.appendChild(ph)
+        }
+      }
       const w = t.closest('.quiz-words button') as HTMLElement | null
       if (type === 'order' && w && !w.classList.contains('used')) {
-        w.classList.add('used')
-        const seq = q.querySelector('.quiz-seq') as HTMLElement | null
-        if (seq) seq.textContent = (seq.textContent || '') + (w.dataset.w || '')
+        placeWord(q, w.dataset.w || '')
         return
       }
-      if (type === 'order' && t.closest('.quiz-undo')) {
-        const used = Array.from(q.querySelectorAll('.quiz-words button.used'))
-        const last = used[used.length - 1] as HTMLElement | undefined
-        last?.classList.remove('used')
-        const seq = q.querySelector('.quiz-seq') as HTMLElement | null
-        if (seq && last) {
-          const lw = last.dataset.w || ''
-          seq.textContent = (seq.textContent || '').slice(0, -(lw.length))
-        }
+      const placed = t.closest('.quiz-placed') as HTMLElement | null
+      if (type === 'order' && placed) {
+        unplaceWord(placed)
         return
       }
       if (type === 'order' && t.closest('.quiz-check')) {
-        const seq = q.querySelector('.quiz-seq') as HTMLElement | null
-        const val = norm(seq?.textContent || '')
+        const words = Array.from(q.querySelectorAll('.quiz-placed')).map((b) => (b as HTMLElement).dataset.w || '')
+        const val = norm(words.join(''))
         const answers = (q.dataset.answer || '').split('|').map(norm)
         const ok = answers.includes(val)
         fb(
           q,
           ok ? 'good' : 'miss',
-          (ok ? '✅ Benar! ' : `❌ Kurang tepat. Jawaban: <strong>${answers[0]}</strong>. `) +
+          (ok ? T.ok() : T.badAns(answers[0])) +
             (q.dataset.explain || '')
         )
         lock(q, quiz, ok)
+        return
+      }
+
+      // Chip hanzi → isi ke input
+      const chip = t.closest('.quiz-chips button') as HTMLElement | null
+      if (type === 'fill' && chip) {
+        const inp = q.querySelector('.quiz-input') as HTMLInputElement | null
+        if (inp && !inp.disabled) {
+          inp.value = chip.dataset.chip || ''
+          inp.focus()
+        }
         return
       }
 
@@ -145,6 +186,46 @@ export default {
         ;(t.closest('.quiz-show') as HTMLButtonElement).disabled = true
         return
       }
+    })
+
+    // ---- Drag-and-drop untuk susun kata ----
+    document.addEventListener('dragstart', (e) => {
+      const chip = (e.target as HTMLElement).closest?.('.quiz-words button') as HTMLElement | null
+      if (!chip || chip.classList.contains('used')) return
+      e.dataTransfer?.setData('text/plain', chip.dataset.w || '')
+      chip.classList.add('dragging')
+    })
+    document.addEventListener('dragend', () => {
+      document.querySelectorAll('.quiz-words button.dragging').forEach((b) => b.classList.remove('dragging'))
+      document.querySelectorAll('.quiz-drop.over').forEach((d) => d.classList.remove('over'))
+    })
+    document.addEventListener('dragover', (e) => {
+      const drop = (e.target as HTMLElement).closest?.('.quiz-drop') as HTMLElement | null
+      if (!drop || drop.closest('.quiz-q.done')) return
+      e.preventDefault()
+      drop.classList.add('over')
+    })
+    document.addEventListener('drop', (e) => {
+      const drop = (e.target as HTMLElement).closest?.('.quiz-drop') as HTMLElement | null
+      if (!drop) return
+      const qq = drop.closest('.quiz-q') as HTMLElement | null
+      if (!qq || qq.classList.contains('done')) return
+      e.preventDefault()
+      drop.classList.remove('over')
+      const word = e.dataTransfer?.getData('text/plain') || ''
+      if (!word) return
+      const bank = qq.querySelector(`.quiz-words button[data-w="${word}"]:not(.used)`) as HTMLElement | null
+      if (!bank) return
+      bank.classList.add('used')
+      const ph = drop.querySelector('.quiz-ph')
+      ph?.remove()
+      const b = document.createElement('button')
+      b.type = 'button'
+      b.className = 'quiz-placed'
+      b.dataset.w = word
+      b.textContent = word
+      b.title = T.ret()
+      drop.appendChild(b)
     })
   },
 }

@@ -317,3 +317,82 @@
   color: var(--vp-c-text-2);
   font-size: 0.9em;
 }
+
+/* Kuis v2: drag-and-drop + chip hanzi */
+.quiz-hint {
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
+  margin: 0 0 0.6rem 0;
+}
+
+.quiz-drop {
+  min-height: 3rem;
+  border: 2px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 0.5rem;
+  margin-bottom: 0.6rem;
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  align-items: center;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.quiz-drop.over {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.quiz-ph {
+  color: var(--vp-c-text-3);
+  font-size: 0.9em;
+}
+
+.quiz-placed {
+  cursor: pointer;
+  border: 1px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  border-radius: 8px;
+  padding: 0.4rem 0.8rem;
+  font-size: 1em;
+  color: var(--vp-c-text-1);
+}
+
+.quiz-placed:hover {
+  border-color: #dc2626;
+}
+
+.quiz-words button[draggable="true"] {
+  cursor: grab;
+}
+
+.quiz-words button.dragging {
+  opacity: 0.4;
+}
+
+.quiz-chips {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-top: 0.6rem;
+  align-items: center;
+}
+
+.quiz-chips .quiz-chips-label {
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
+}
+
+.quiz-chips button {
+  cursor: pointer;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg);
+  border-radius: 8px;
+  padding: 0.4rem 0.9rem;
+  font-size: 1.1em;
+  color: var(--vp-c-text-1);
+}
+
+.quiz-chips button:hover:not(:disabled) {
+  border-color: var(--vp-c-brand-1);
+}
