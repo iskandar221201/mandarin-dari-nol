@@ -85,6 +85,8 @@ const enSidebar = [
 export default defineConfig({
   base: '/mandarin-dari-nol/',
 
+  // NOTE: per-locale themeConfig WAJIB di dalam tiap locale (locales.<key>.themeConfig),
+  // bukan di themeConfig.locales — itu tidak dibaca oleh VitePress.
   locales: {
     root: {
       label: 'Indonesia',
@@ -92,24 +94,7 @@ export default defineConfig({
       title: 'Mandarin dari Nol',
       description:
         'Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 1 — dokumentasi terbuka berbahasa Indonesia.',
-    },
-    en: {
-      label: 'English',
-      lang: 'en-US',
-      title: 'Mandarin from Zero',
-      description:
-        'A zero-to-HSK 1 Mandarin curriculum — open documentation for English speakers.',
-      link: '/en/',
-    },
-  },
-
-  themeConfig: {
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/iskandar221201/mandarin-dari-nol' },
-    ],
-
-    locales: {
-      root: {
+      themeConfig: {
         nav: idNav,
         sidebar: idSidebar,
         search: {
@@ -143,7 +128,15 @@ export default defineConfig({
           copyright: '© 2026 Asep Iskandar · Lisensi CC BY-SA 4.0',
         },
       },
-      en: {
+    },
+    en: {
+      label: 'English',
+      lang: 'en-US',
+      title: 'Mandarin from Zero',
+      description:
+        'A zero-to-HSK 1 Mandarin curriculum — open documentation for English speakers.',
+      link: '/en/',
+      themeConfig: {
         nav: enNav,
         sidebar: enSidebar,
         search: { provider: 'local' },
@@ -162,5 +155,11 @@ export default defineConfig({
         },
       },
     },
+  },
+
+  themeConfig: {
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/iskandar221201/mandarin-dari-nol' },
+    ],
   },
 })
