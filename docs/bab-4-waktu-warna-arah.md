@@ -4,12 +4,12 @@
 <!-- KENAPA:tian -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 明天/今天/昨天 semuanya diakhiri 天?</div>
-<p><strong>天</strong> (tiān) berarti langit, tapi juga "hari" — konon karena hari ditandai oleh perputaran langit (matahari). Tiga kata waktu HSK 1 memakai pola <strong>X + 天</strong>: <strong>明天</strong> (míngtiān, besok) = 明 (terang, dari 日 + 月) + 天 → "hari yang terang"; <strong>今天</strong> (jīntiān, hari ini) = 今 (kini) + 天; <strong>昨天</strong> (zuótiān, kemarin) = 昨 + 天.</p>
-<p><strong>Pola yang sama:</strong> "X + 天 = nama hari" — hafal 天 sekali, tiga kata waktu langsung segaris.</p>
-<p><strong>Awas jebakan:</strong> 天 sendiri punya banyak arti (langit, hari, cuaca, Tuhan dalam konteks klasik) — arti yang dipakai tergantung pasangannya.</p>
+<p><strong>天</strong> (tiān) berarti langit, tapi juga "hari", konon karena hari ditandai oleh perputaran langit (matahari). Tiga kata waktu HSK 1 memakai pola <strong>X + 天</strong>: <strong>明天</strong> (míngtiān, besok) = 明 (terang, dari 日 + 月) + 天 → "hari yang terang"; <strong>今天</strong> (jīntiān, hari ini) = 今 (kini) + 天; <strong>昨天</strong> (zuótiān, kemarin) = 昨 + 天.</p>
+<p><strong>Pola yang sama:</strong> "X + 天 = nama hari", hafal 天 sekali, tiga kata waktu langsung segaris.</p>
+<p><strong>Awas jebakan:</strong> 天 sendiri punya banyak arti (langit, hari, cuaca, Tuhan dalam konteks klasik), arti yang dipakai tergantung pasangannya.</p>
 </div>
 
-Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca — kombinasi yang paling sering dipakai dalam obrolan sehari-hari, mis. basa-basi soal cuaca atau janjian.
+Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca, kombinasi yang paling sering dipakai dalam obrolan sehari-hari, mis. basa-basi soal cuaca atau janjian.
 
 | Hanzi | Pinyin | Arti |
 |---|---|---|
@@ -84,7 +84,7 @@ Tema bonus yang merangkai kata-kata waktu (Bab 2) dengan kata cuaca — kombinas
 
 ## 4.8 Warna (颜色)
 
-Warna-warna dasar — di luar daftar resmi HSK 1, tapi kepake terus dalam obrolan (belanja, deskripsi barang, basa-basi).
+Warna-warna dasar, di luar daftar resmi HSK 1, tapi kepake terus dalam obrolan (belanja, deskripsi barang, basa-basi).
 
 | Hanzi | Pinyin | Arti |
 |---|---|---|
@@ -99,9 +99,9 @@ Warna-warna dasar — di luar daftar resmi HSK 1, tapi kepake terus dalam obrola
 <!-- KENAPA:hong -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 红 identik dengan keberuntungan?</div>
-<p><strong>红</strong> (hóng, merah) di budaya Tionghoa berarti keberuntungan dan kegembiraan — bukan bahaya seperti asosiasi Barat. Makanya amplop berisi uang disebut <strong>红包</strong> (hóngbāo, "amplop merah"), lampion merah dipasang saat perayaan, dan baju pengantin tradisional berwarna merah. Kalau melihat sesuatu berwarna merah dalam konteks Tionghoa, default-nya positif.</p>
+<p><strong>红</strong> (hóng, merah) di budaya Tionghoa berarti keberuntungan dan kegembiraan, bukan bahaya seperti asosiasi Barat. Makanya amplop berisi uang disebut <strong>红包</strong> (hóngbāo, "amplop merah"), lampion merah dipasang saat perayaan, dan baju pengantin tradisional berwarna merah. Kalau melihat sesuatu berwarna merah dalam konteks Tionghoa, default-nya positif.</p>
 <p><strong>Pola yang sama:</strong> tambah <strong>色</strong> (sè, "rona/warna") di belakang warna → versi bendanya: <strong>红色</strong> (hóngsè, "warna merah"), <strong>蓝色</strong> (lánsè, "warna biru"). 我喜欢红色 = "saya suka warna merah".</p>
-<p><strong>Awas jebakan:</strong> 色 tidak selalu berarti "warna" — di kata lain bisa berarti "rupa/ekspresi". Fokus ke pola [warna + 色] dulu.</p>
+<p><strong>Awas jebakan:</strong> 色 tidak selalu berarti "warna", di kata lain bisa berarti "rupa/ekspresi". Fokus ke pola [warna + 色] dulu.</p>
 </div>
 
 <div class="contoh">
@@ -143,7 +143,7 @@ Dua kelompok yang sering muncul bareng: arah kompas dan kata posisi (di dalam/di
 | 左 | zuǒ | kiri |
 | 右 | yòu | kanan |
 
-Kombinasi arah — polanya [arah + arah]:
+Kombinasi arah, polanya [arah + arah]:
 
 | Hanzi | Pinyin | Arti |
 |---|---|---|
@@ -155,9 +155,9 @@ Kombinasi arah — polanya [arah + arah]:
 <!-- KENAPA:dongnanxibei -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa urutannya 东南西北?</div>
-<p>Orang Indonesia menghafal "utara-selatan-timur-barat", tapi Mandarin mengurutkan <strong>东南西北</strong> (dōng-nán-xī-běi) — mulai dari timur. Konon karena matahari terbit di timur, arah timur dianggap paling mulia dalam tradisi Tionghoa, jadi kompas "dibaca" mulai dari sana.</p>
-<p><strong>Pola yang sama:</strong> arah + arah = arah kombinasi (东北, 西南...). Dan ingat <strong>东西</strong> (dōngxi, "barang") dari box kenapa di bab ini — timur + barat yang maknanya melompat jauh jadi "barang".</p>
-<p><strong>Awas jebakan:</strong> <strong>北</strong> (běi, utara, nada 3) vs <strong>背</strong> (bèi, punggung, nada 4) — bentuk mirip, nada beda, arti beda jauh.</p>
+<p>Orang Indonesia menghafal "utara-selatan-timur-barat", tapi Mandarin mengurutkan <strong>东南西北</strong> (dōng-nán-xī-běi), mulai dari timur. Konon karena matahari terbit di timur, arah timur dianggap paling mulia dalam tradisi Tionghoa, jadi kompas "dibaca" mulai dari sana.</p>
+<p><strong>Pola yang sama:</strong> arah + arah = arah kombinasi (东北, 西南...). Dan ingat <strong>东西</strong> (dōngxi, "barang") dari box kenapa di bab ini, timur + barat yang maknanya melompat jauh jadi "barang".</p>
+<p><strong>Awas jebakan:</strong> <strong>北</strong> (běi, utara, nada 3) vs <strong>背</strong> (bèi, punggung, nada 4), bentuk mirip, nada beda, arti beda jauh.</p>
 </div>
 
 ### Kata posisi
@@ -179,8 +179,8 @@ Kombinasi arah — polanya [arah + arah]:
 <!-- KENAPA:limian -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa ada 里 dan 里面 dua-duanya?</div>
-<p><strong>里</strong> (lǐ) sendiri sudah berarti "dalam" — versi pendek dan klasik. <strong>里面</strong> (lǐmiàn) = 里 + <strong>面</strong> (miàn, "sisi/permukaan") → "sisi dalam", versi modern yang lebih eksplisit. Keduanya benar dan sering dipakai bergantian.</p>
-<p><strong>Pola yang sama:</strong> X + 面 = "sisi X" — hafal 面 sekali, langsung dapat enam kata: <strong>上面</strong> (shàngmiàn, sisi atas), <strong>下面</strong> (xiàmiàn, sisi bawah), <strong>前面</strong> (qiánmiàn, sisi depan), <strong>后面</strong> (hòumiàn, sisi belakang), <strong>对面</strong> (duìmiàn, sisi seberang).</p>
+<p><strong>里</strong> (lǐ) sendiri sudah berarti "dalam", versi pendek dan klasik. <strong>里面</strong> (lǐmiàn) = 里 + <strong>面</strong> (miàn, "sisi/permukaan") → "sisi dalam", versi modern yang lebih eksplisit. Keduanya benar dan sering dipakai bergantian.</p>
+<p><strong>Pola yang sama:</strong> X + 面 = "sisi X", hafal 面 sekali, langsung dapat enam kata: <strong>上面</strong> (shàngmiàn, sisi atas), <strong>下面</strong> (xiàmiàn, sisi bawah), <strong>前面</strong> (qiánmiàn, sisi depan), <strong>后面</strong> (hòumiàn, sisi belakang), <strong>对面</strong> (duìmiàn, sisi seberang).</p>
 <p><strong>Awas jebakan:</strong> 上面/下面 juga dipakai untuk posisi dalam teks: 上面说的 (shàngmiàn shuō de) = "yang dibilang di atas (teks)". Konteks yang menentukan.</p>
 </div>
 
@@ -203,7 +203,7 @@ Cara memakai kata posisi dalam kalimat dibahas tuntas di [Bab 5 poin 19](/bab-5-
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我在学校学习汉语" data-explain="我在学校学习汉语。 <span class='quiz-py'>(wǒ zài xuéxiào xuéxí Hànyǔ.)</span> — Saya belajar bahasa Mandarin di sekolah.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我在学校学习汉语" data-explain="我在学校学习汉语。 <span class='quiz-py'>(wǒ zài xuéxiào xuéxí Hànyǔ.)</span>, Saya belajar bahasa Mandarin di sekolah.">
 <p class="quiz-t"><strong>3.</strong> Susun kata-kata ini menjadi kalimat yang benar:</p>
 <p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
 <div class="quiz-words">
@@ -230,7 +230,7 @@ Cara memakai kata posisi dalam kalimat dibahas tuntas di [Bab 5 poin 19](/bab-5-
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span> — artinya dingin. 吃 (chī, makan) adalah kata kerja, tidak cocok.">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span>, artinya dingin. 吃 (chī, makan) adalah kata kerja, tidak cocok.">
 <p class="quiz-t"><strong>6.</strong> Isi titik-titik dengan kata sifat yang tepat: 今天很___。</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="吃">吃</button><button type="button" data-chip="冷">冷</button><button type="button" data-chip="热">热</button></div>
@@ -243,7 +243,7 @@ Cara memakai kata posisi dalam kalimat dibahas tuntas di [Bab 5 poin 19](/bab-5-
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="Bebas, selama memakai kata dari daftar. Contoh: 我去商店买东西。 <span class='quiz-py'>(wǒ qù shāngdiàn mǎi dōngxi.)</span> — Saya pergi ke toko membeli barang.">
+<div class="quiz-q" data-type="reveal" data-explain="Bebas, selama memakai kata dari daftar. Contoh: 我去商店买东西。 <span class='quiz-py'>(wǒ qù shāngdiàn mǎi dōngxi.)</span>, Saya pergi ke toko membeli barang.">
 <p class="quiz-t"><strong>8.</strong> Buat satu kalimat sendiri yang memakai satu kata kerja dan satu nama tempat dari daftar di bab ini.</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>
@@ -267,7 +267,7 @@ Cara memakai kata posisi dalam kalimat dibahas tuntas di [Bab 5 poin 19](/bab-5-
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="Bebas, selama memakai 天气 + kata sifat. Contoh: 今天天气很热。 <span class='quiz-py'>(jīntiān tiānqì hěn rè.)</span> — Cuaca hari ini panas.">
+<div class="quiz-q" data-type="reveal" data-explain="Bebas, selama memakai 天气 + kata sifat. Contoh: 今天天气很热。 <span class='quiz-py'>(jīntiān tiānqì hěn rè.)</span>, Cuaca hari ini panas.">
 <p class="quiz-t"><strong>12.</strong> Buat satu kalimat memakai kata 天气 dan kata sifat dari bab ini.</p>
 <button type="button" class="quiz-show">Lihat jawaban</button>
 <p class="quiz-fb" hidden></p>
@@ -279,7 +279,7 @@ Cara memakai kata posisi dalam kalimat dibahas tuntas di [Bab 5 poin 19](/bab-5-
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Timur laut <span class='quiz-py'>(dōngběi)</span> — 东 (timur) + 北 (utara).">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Timur laut <span class='quiz-py'>(dōngběi)</span>, 东 (timur) + 北 (utara).">
 <p class="quiz-t"><strong>14.</strong> Apa arti 东北?</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. Tenggara</button>

@@ -1,6 +1,6 @@
 # Bab 4 · 4.1–4.3: Keluarga, Makanan & Tempat
 
-HSK 1 punya 150 kata. Di bab ini semuanya dikelompokkan per tema supaya gampang dipakai langsung: keluarga, makanan, tempat, benda, kata kerja, kata sifat, plus satu tema mini waktu & cuaca. Sapaan, angka, dan waktu sudah dibahas di Bab 1–2 — tapi tetap dipakai di contoh kalimat di sini, karena kalimat nyata selalu mencampur semuanya.
+HSK 1 punya 150 kata. Di bab ini semuanya dikelompokkan per tema supaya gampang dipakai langsung: keluarga, makanan, tempat, benda, kata kerja, kata sifat, plus satu tema mini waktu & cuaca. Sapaan, angka, dan waktu sudah dibahas di Bab 1–2, tapi tetap dipakai di contoh kalimat di sini, karena kalimat nyata selalu mencampur semuanya.
 
 Tiap tema dilengkapi **Frasa berguna**: frasa siap pakai yang bisa langsung dihafal dan dipakai ngobrol.
 
@@ -49,8 +49,8 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 <!-- KENAPA:mingzi -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 名字 (nama) = 名 + 字?</div>
-<p><strong>名</strong> (míng) = 夕 (senja/malam) + 口 (mulut) — konon, nama adalah sesuatu yang "disebut dengan mulut" (diidentifikasi lewat ucapan). <strong>字</strong> (zì) = 宀 (atap) + 子 (anak) — karakter yang "dilahirkan"/diajarkan di rumah. Jadi 名字 = "sebutan" + "tulisan".</p>
-<p><strong>Pola yang sama:</strong> Pola gabungan dua hanzi untuk satu konsep abstrak — mirip <strong>学校</strong> (学 + 校) dan <strong>电话</strong> (电 + 话, di 打电话).</p>
+<p><strong>名</strong> (míng) = 夕 (senja/malam) + 口 (mulut), konon, nama adalah sesuatu yang "disebut dengan mulut" (diidentifikasi lewat ucapan). <strong>字</strong> (zì) = 宀 (atap) + 子 (anak), karakter yang "dilahirkan"/diajarkan di rumah. Jadi 名字 = "sebutan" + "tulisan".</p>
+<p><strong>Pola yang sama:</strong> Pola gabungan dua hanzi untuk satu konsep abstrak, mirip <strong>学校</strong> (学 + 校) dan <strong>电话</strong> (电 + 话, di 打电话).</p>
 <p><strong>Awas jebakan:</strong> Bedah 夕 + 口 untuk 名 adalah teori umum; yang penting diingat adalah polanya, bukan kepastian sejarahnya.</p>
 </div>
 <div class="py">nǐ jiào shénme míngzi?</div>
@@ -75,8 +75,8 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 <!-- KENAPA:doubling -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa Kenapa 爸爸/妈妈 digandakan, bukan 爸/妈 saja?</div>
-<p>Dalam Mandarin modern, <strong>panggilan kekerabatan lazim digandakan</strong>: 爸爸 (bàba), 妈妈 (māma). Konon ini soal bunyi — suku kata tunggal terasa terlalu pendek dan kaku untuk panggilan akrab, jadi digandakan supaya hangat dan jelas saat dipanggil.</p>
-<p><strong>Pola yang sama:</strong> Pola pengulangan yang sama (dengan alasan berbeda): <strong>谢谢</strong> (xièxie, terima kasih) — pengulangan untuk penekanan kesopanan.</p>
+<p>Dalam Mandarin modern, <strong>panggilan kekerabatan lazim digandakan</strong>: 爸爸 (bàba), 妈妈 (māma). Konon ini soal bunyi, suku kata tunggal terasa terlalu pendek dan kaku untuk panggilan akrab, jadi digandakan supaya hangat dan jelas saat dipanggil.</p>
+<p><strong>Pola yang sama:</strong> Pola pengulangan yang sama (dengan alasan berbeda): <strong>谢谢</strong> (xièxie, terima kasih), pengulangan untuk penekanan kesopanan.</p>
 <p><strong>Awas jebakan:</strong> Tidak semua kata boleh digandakan: 老师, 朋友, 医生 tidak pernah digandakan. Penggandaan hanya untuk panggilan akrab dan beberapa kata seru.</p>
 </div>
 <div class="py">nǐ jiā yǒu jǐ ge rén?</div>
@@ -146,9 +146,9 @@ Catatan: kata keterangan (不, 没, 很, 太, 都, 和), kata satuan (个, 本, 
 <!-- KENAPA:shuiguo -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Kenapa 水果 (buah) = 水 (air) + 果 (buah)?</div>
-<p>Bukankah 果 sendiri sudah berarti buah? Konon, <strong>水</strong> di sini menekankan sifat buah: <em>berair dan segar</em> — bedakan dari buah kering atau biji-bijian. Jadi 水果 = "buah yang berair", istilah umum untuk buah-buahan segar.</p>
+<p>Bukankah 果 sendiri sudah berarti buah? Konon, <strong>水</strong> di sini menekankan sifat buah: <em>berair dan segar</em>, bedakan dari buah kering atau biji-bijian. Jadi 水果 = "buah yang berair", istilah umum untuk buah-buahan segar.</p>
 <p><strong>Pola yang sama:</strong> Pola "果 = buah" berulang: <strong>苹果</strong> (píngguǒ, apel) = 苹 + 果. Hafal 果, dua kata buah HSK 1 langsung berpasangan.</p>
-<p><strong>Awas jebakan:</strong> Di luar konteks makanan, 果 lebih sering berarti "hasil/akibat" — tapi di HSK 1, ketemu 果 langsung pikirkan buah dulu.</p>
+<p><strong>Awas jebakan:</strong> Di luar konteks makanan, 果 lebih sering berarti "hasil/akibat", tapi di HSK 1, ketemu 果 langsung pikirkan buah dulu.</p>
 </div>
 <div class="py">píngguǒ hěn hǎochī.</div>
 <div>Apel enak.</div>
