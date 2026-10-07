@@ -19,7 +19,7 @@ Fakta singkatnya:
 | 言 yán (ucapan) | 讠 | kiri | 说 |
 | 食 shí (makanan) | 饣 | kiri | 饭 |
 
-Radikal biasanya memberi **petunjuk makna** (bukan makna pasti). Contoh: hanzi beradikal 口 (mulut) hampir selalu berkaitan dengan mulut, suara, atau ucapan, 叫 (memanggil), 吃 (makan), 喝 (minum).
+Radikal biasanya memberi **petunjuk makna** (bukan makna pasti). Contoh: hanzi beradikal 口 (mulut) hampir selalu berkaitan dengan mulut, suara, atau ucapan — misalnya 叫 (memanggil), 吃 (makan), 喝 (minum).
 
 ## 3.2 Teknik "tebak arti dari komponen"
 
@@ -63,11 +63,11 @@ Radikal paling manusiawi: hanzi beradikal ini berkaitan dengan orang atau aktivi
 
 <div class="bedah"><strong>你</strong> (nǐ, kamu) = 亻 (orang) + 尔 (petunjuk bunyi) → kata ganti untuk orang kedua.</div>
 <div class="bedah"><strong>他</strong> (tā, dia) = 亻 (orang) + 也 (petunjuk bunyi) → kata ganti orang ketiga.</div>
-<div class="bedah"><strong>们</strong> (men, di <strong>我们</strong> wǒmen, kami) = 亻 (orang) + 门 → penanda jamak khusus untuk manusia.</div>
-<div class="bedah"><strong>什</strong> (shén, di <strong>什么</strong> shénme, apa) = 亻 (orang) + 十 → kata tanya.</div>
-<div class="bedah"><strong>住</strong> (zhù, tinggal) = 亻 (orang) + 主 → "orang yang menetap".</div>
-<div class="bedah"><strong>做</strong> (zuò, melakukan/membuat) = 亻 (orang) + 故 → "orang berbuat" = melakukan.</div>
-<div class="bedah"><strong>候</strong> (hòu, di <strong>时候</strong> shíhou, waktu) = 亻 (orang) + 侯 → "saat". 时候 = waktu/saat.</div>
+<div class="bedah"><strong>们</strong> (men, di <strong>我们</strong> wǒmen, kami) = 亻 (orang) + 门 (mén, petunjuk bunyi) → penanda jamak khusus untuk manusia.</div>
+<div class="bedah"><strong>什</strong> (shén, di <strong>什么</strong> shénme, apa) = 亻 (orang) + 十 (sepuluh). Komponennya tidak memberi petunjuk makna yang jelas — 什么 adalah kata tanya yang dihafal utuh, jangan dipaksa jadi "orang + sepuluh = apa".</div>
+<div class="bedah"><strong>住</strong> (zhù, tinggal) = 亻 (orang) + 主 (zhǔ, petunjuk bunyi) → tinggal/menetap.</div>
+<div class="bedah"><strong>做</strong> (zuò, melakukan/membuat) = 亻 (orang) + 故 (gù, petunjuk bunyi) → melakukan/membuat.</div>
+<div class="bedah"><strong>候</strong> (hòu, di <strong>时候</strong> shíhou, waktu) = 亻 (orang) + 侯 (hóu, petunjuk bunyi). Arti "saat" datang dari pemakaian kata 时候, bukan dari komponennya.</div>
 
 ### 2. 口, kǒu, "mulut"
 
@@ -85,7 +85,7 @@ Berkaitan dengan mulut, suara, dan ucapan.
 <div class="bedah"><strong>吃</strong> (chī, makan) = 口 (mulut) + 乞 → sesuatu yang masuk lewat mulut.</div>
 <div class="bedah"><strong>喝</strong> (hē, minum) = 口 (mulut) + 曷 → sesuatu yang masuk lewat mulut.</div>
 <div class="bedah"><strong>吗</strong> (ma, partikel tanya) = 口 (mulut/ucapan) + 马 (mǎ, petunjuk bunyi) → partikel yang diucapkan di akhir kalimat tanya.</div>
-<div class="bedah"><strong>哪</strong> (nǎ, yang mana) = 口 + 那 → kata tanya.</div>
+<div class="bedah"><strong>哪</strong> (nǎ, yang mana) = 口 + 那 (nà, petunjuk bunyi). Kata tanya yang dihafal utuh; komponennya hanya memberi petunjuk bunyi.</div>
 
 <!-- KENAPA:ma-pattern -->
 <div class="kenapa">
@@ -109,8 +109,8 @@ Berkaitan dengan perempuan, keluarga, dan sifat.
 
 <div class="bedah"><strong>好</strong> (hǎo, baik) = 女 (perempuan) + 子 (anak) → "perempuan + anak = baik". Contoh batasan teknik bedah: logikanya budaya, bukan universal.</div>
 <div class="bedah"><strong>妈</strong> (mā, di <strong>妈妈</strong> māma, ibu) = 女 (perempuan) + 马 (mǎ, petunjuk bunyi) → ibu.</div>
-<div class="bedah"><strong>姐</strong> (jiě, di <strong>小姐</strong> xiǎojiě, nona) = 女 (perempuan) + 且 → "saudara perempuan" → nona.</div>
-<div class="bedah"><strong>女</strong> di <strong>女儿</strong> (nǚ'ér, anak perempuan) = 女 (perempuan) + 儿 (anak) → anak perempuan.</div>
+<div class="bedah"><strong>姐</strong> (jiě, di <strong>小姐</strong> xiǎojiě, nona) = 女 (perempuan) + 且 (petunjuk bunyi) → kakak perempuan → "nona" (panggilan sopan).</div>
+<div class="bedah"><strong>女儿</strong> (nǚ'ér, anak perempuan) = 女 (perempuan) + 儿 (anak) → anak perempuan. (Di sini 儿 dibaca ér; jangan tertukar dengan akhiran 子 di 桌子.)</div>
 <div class="bedah"><strong>她</strong> (tā, dia perempuan) = 女 (perempuan) + 也 (petunjuk bunyi, sama seperti 他) → pasangan perempuan dari 他. Bedakan: 他 dia (laki-laki), 她 dia (perempuan), dibaca sama persis.</div>
 
 <!-- KENAPA:hao -->
@@ -129,7 +129,7 @@ Berkaitan dengan perasaan, pikiran, dan keinginan. Bentuk 忄 dipakai di kiri, �
 - 怎么 zěnme, bagaimana
 
 <div class="bedah"><strong>想</strong> (xiǎng, ingin/berpikir) = 相 + 心 (hati) → sesuatu yang "ada di hati" = memikirkan / menginginkan.</div>
-<div class="bedah"><strong>怎</strong> (zěn, di <strong>怎么</strong> zěnme, bagaimana) = 乍 + 心 → kata tanya tentang cara.</div>
+<div class="bedah"><strong>怎</strong> (zěn, di <strong>怎么</strong> zěnme, bagaimana) = 乍 + 心. Kata tanya "bagaimana" yang dihafal utuh; komponennya tidak memberi petunjuk makna yang jelas.</div>
 
 <!-- KENAPA:xiang -->
 <div class="kenapa">
@@ -179,7 +179,7 @@ Berkaitan dengan kayu, pohon, dan benda dari kayu.
 <div class="bedah"><strong>茶</strong> (chá, teh) = 艹 (rumput/tumbuhan) + 人 + 木 → tanaman berkayu yang daunnya diseduh.</div>
 <div class="bedah"><strong>椅</strong> (yǐ, di <strong>椅子</strong> yǐzi, kursi) = 木 (kayu) + 奇 → kursi, yang dulu selalu dari kayu.</div>
 <div class="bedah"><strong>机</strong> (jī, di <strong>飞机</strong> fēijī, pesawat) = 木 (kayu) + 几 → arti aslinya "mesin/alat" (mesin kuno dari kayu) → pesawat terbang.</div>
-<div class="bedah"><strong>校</strong> (xiào, di <strong>学校</strong> xuéxiào, sekolah) = 木 (kayu) + 交 → sekolah (bangunan sekolah zaman dulu dari kayu).</div>
+<div class="bedah"><strong>校</strong> (xiào, di <strong>学校</strong> xuéxiào, sekolah) = 木 (kayu) + 交 (jiāo, petunjuk bunyi). Arti "sekolah" datang dari pemakaian kata 学校, bukan dari komponennya.</div>
 <div class="bedah"><strong>桌</strong> (zhuō, di <strong>桌子</strong> zhuōzi, meja) = 卓 + 木 (kayu) → meja (dulu selalu dari kayu).</div>
 
 ### 8. 日, rì, "matahari"
@@ -209,7 +209,7 @@ Radikal ganda: bisa berarti bulan, tapi lebih sering adalah bentuk varian dari *
 <div class="bedah"><strong>有</strong> (yǒu, punya) = 𠂇 (tangan) + 月 (daging) → "tangan memegang daging" = memiliki.</div>
 <div class="bedah"><strong>朋</strong> (péng, di <strong>朋友</strong> péngyou, teman) = 月 + 月 → "dua potong daging berdampingan" = kawan.</div>
 <div class="bedah"><strong>服</strong> (fú, di <strong>衣服</strong> yīfu, pakaian) memakai 月 (daging/tubuh) → sesuatu yang menutup tubuh.</div>
-<div class="bedah"><strong>前</strong> (qián, di <strong>前面</strong> qiánmian, depan) memakai 月 sebagai komponen bawah.</div>
+<div class="bedah"><strong>前</strong> (qián, di <strong>前面</strong> qiánmian, depan): komponen 月 di sini tidak memberi petunjuk makna yang jelas — arti "depan" dihafal utuh.</div>
 <div class="bedah"><strong>期</strong> (qī, di <strong>星期</strong> xīngqī, minggu) = 其 + 月 → "periode waktu". 星期 = "periode (hitungan) bintang" = minggu (tujuh hari).</div>
 
 ### 10. 讠 / 言, yán, "ucapan"
@@ -228,7 +228,7 @@ Bentuk varian 言 di kiri. Berkaitan dengan berbicara dan bahasa.
 <div class="bedah"><strong>认</strong> (rèn, di <strong>认识</strong> rènshi, mengenal) = 讠 (ucapan) + 人 → mengenali (seseorang lewat perkenalan/kata).</div>
 <div class="bedah"><strong>识</strong> (shi, di <strong>认识</strong> rènshi, mengenal) = 讠 (ucapan) + 只 → "menandai lewat kata" = mengenali. Jadi 认识 = 认 + 识, dua-duanya beradikal ucapan, mengenali seseorang memang lewat perkenalan dan percakapan.</div>
 <div class="bedah"><strong>语</strong> (yǔ, di <strong>汉语</strong> Hànyǔ, bahasa Mandarin) = 讠 (ucapan) + 吾 → bahasa.</div>
-<div class="bedah"><strong>谁</strong> (shéi, siapa) = 讠 + 隹 → kata tanya untuk orang.</div>
+<div class="bedah"><strong>谁</strong> (shéi, siapa) = 讠 (ucapan) + 隹 (petunjuk bunyi). Kata tanya untuk orang, dihafal utuh.</div>
 <div class="bedah"><strong>读</strong> (dú, membaca) = 讠 (ucapan) + 卖 → membaca (zaman dulu membaca = membaca nyaring, makanya beradikal ucapan).</div>
 
 ### 11. 大, dà, "besar"
@@ -254,7 +254,7 @@ Di HSK 1, 子 paling sering muncul sebagai **akhiran penanda benda kecil/konkret
 
 <div class="bedah"><strong>桌子</strong> (zhuōzi, meja) = 桌 + 子 (akhiran benda) → bendanya meja.</div>
 <div class="bedah"><strong>杯子</strong> (bēizi, gelas) = 杯 (木 + 不) + 子 (akhiran benda) → bendanya gelas.</div>
-<div class="bedah"><strong>字</strong> (zì, di <strong>名字</strong> míngzi, nama) = 宀 (atap) + 子 (anak) → karakter. Dan <strong>名</strong> (míng) = 夕 + 口.</div>
+<div class="bedah"><strong>字</strong> (zì, di <strong>名字</strong> míngzi, nama) = 宀 (atap) + 子 (anak) → karakter/huruf. Sedangkan <strong>名</strong> (míng, nama) = 夕 (senja) + 口 (mulut): konon, di waktu gelap orang dikenali lewat suara, bukan wajah — jadi "nama" adalah yang disebut mulut. Asal-usul pastinya diperdebatkan; cukup hafalkan 名字 = nama.</div>
 <div class="bedah"><strong>儿子</strong> (érzi, anak laki-laki) = 儿 (anak) + 子 → anak.</div>
 <div class="bedah"><strong>椅子</strong> (yǐzi, kursi) = 椅 (木 + 奇) + 子 (akhiran benda) → bendanya kursi.</div>
 
@@ -268,7 +268,7 @@ Berkaitan dengan rumah, bangunan, dan tempat tinggal.
 - 字 zì, karakter/huruf
 
 <div class="bedah"><strong>家</strong> (jiā, rumah/keluarga) = 宀 (atap) + 豕 (babi) → "babi di bawah atap" = rumah. Masuk akal di masyarakat agraris kuno: rumah adalah tempat manusia dan ternak berlindung.</div>
-<div class="bedah"><strong>字</strong> (zì, karakter) = 宀 (atap) + 子 (anak) → karakter yang "dilahirkan" (diajarkan) di rumah.</div>
+<div class="bedah"><strong>字</strong> (zì, karakter/huruf) = 宀 (atap) + 子 (anak). Asal-usulnya diperdebatkan — yang penting diingat: 字 selalu berarti karakter/huruf, seperti di 名字 (nama) dan 汉字 (Hànzì, hanzi).</div>
 
 <!-- KENAPA:jia -->
 <div class="kenapa">
@@ -286,9 +286,9 @@ Berkaitan dengan tanah, tempat, dan posisi.
 - 坐 zuò, duduk; naik (kendaraan)
 - 块 kuài, satuan uang (yuan, lisan)
 
-<div class="bedah"><strong>在</strong> (zài, di/berada) = 土 (tanah) + 才 → "berada di (suatu tempat)".</div>
+<div class="bedah"><strong>在</strong> (zài, di/berada) = 土 (tanah) + 才. Arti "berada di" tidak bisa diturunkan dari komponennya — hafalkan sebagai satu kesatuan. (Di Bab 5, 在 jadi kata kerja super penting: 我在学校 = saya di sekolah.)</div>
 <div class="bedah"><strong>坐</strong> (zuò, duduk) = 从 (dua orang) + 土 (tanah) → "dua orang di atas tanah" = duduk → naik (kendaraan).</div>
-<div class="bedah"><strong>块</strong> (kuài, satuan uang) = 土 (tanah) + 夬 → "seonggok tanah" → satuan untuk uang.</div>
+<div class="bedah"><strong>块</strong> (kuài, satuan uang) = 土 (tanah) + 夬. Arti aslinya "gumpalan" (tanah) — karena uang dihitung per keping, 块 meluas jadi satuan uang lisan: 三块钱 (sān kuài qián) = tiga yuan.</div>
 
 ### 15. 饣 / 食, shí, "makanan"
 
