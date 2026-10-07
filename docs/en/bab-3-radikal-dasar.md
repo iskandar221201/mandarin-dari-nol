@@ -302,3 +302,96 @@ The variant form of 食 on the left. Related to food.
 <div class="bedah"><strong>饭店</strong> (fàndiàn) = 饭 (food) + 店 (shop) → "food shop" = restaurant.</div>
 <div class="bedah"><strong>饭馆</strong> (fànguǎn) = 饭 (food) + 馆 → eatery.</div>
 
+
+## Exercises
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercise <span class="quiz-score">Score: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. 马 (mǎ) is the sound hint: 妈 is read mā, close to the sound of 马 <span class='quiz-py'>(mǎ)</span>. 女 (woman) is the meaning hint.">
+<p class="quiz-t"><strong>1.</strong> Which component is the sound hint in 妈 (mā, mother)?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 女 (woman)</button>
+<button type="button" data-opt="B">B. 口 (mouth)</button>
+<button type="button" data-opt="C">C. 马 (horse)</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="马" data-explain="马 (mǎ): 吗 is read ma, close to the sound of 马 <span class='quiz-py'>(mǎ)</span>. 口 (mouth/speech) is the meaning hint.">
+<p class="quiz-t"><strong>2.</strong> Complete: 吗 (ma, question particle) = 口 (mouth/speech) + ___ (sound hint).</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. 氵 is the variant form of 水 <span class='quiz-py'>(shuǐ)</span>, water. Examples: 汉 (in 汉语) and 水 itself.">
+<p class="quiz-t"><strong>3.</strong> 氵 is a variant form of 水 (shuǐ). Characters with this radical are usually related to…</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. hand</button>
+<button type="button" data-opt="B">B. speech</button>
+<button type="button" data-opt="C">C. water</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="想 = 相 + 心. 相 (xiāng) is the sound hint, 心 (xīn, heart) is the meaning hint: something 'in the heart' = thought about/wanted <span class='quiz-py'>(xiǎng)</span>.">
+<p class="quiz-t"><strong>4.</strong> Dissect the character 想 (xiǎng, to want/to think): name its components and each one's role.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="Find the radicalGuess the meaning categoryLook at the remaining componentCheck the dictionary" data-explain="The order: 1) Find the radical, 2) Guess the meaning category, 3) Look at the remaining component (sound hint), 4) Check the dictionary.">
+<p class="quiz-t"><strong>5.</strong> Order the 4 steps of the "guess meaning from components" technique, from first to last:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="Guess the meaning category">Guess the meaning category</button>
+<button type="button" draggable="true" data-w="Check the dictionary">Check the dictionary</button>
+<button type="button" draggable="true" data-w="Find the radical">Find the radical</button>
+<button type="button" draggable="true" data-w="Look at the remaining component">Look at the remaining component</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A. 马 (mǎ) only gives the sound hint 'ma'. What decides the meaning is the left radical: 女 (woman) → 妈 = mother; 口 (mouth) → 吗 = question particle.">
+<p class="quiz-t"><strong>6.</strong> 妈 (mā, mother) and 吗 (ma, question particle) share the same right component, 马. What does that mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. Both use 马 as a sound hint; the left radical determines the meaning</button>
+<button type="button" data-opt="B">B. Both mean the same thing</button>
+<button type="button" data-opt="C">C. Both have the woman radical</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="亻" data-explain="亻: the slim variant of 人 <span class='quiz-py'>(rén)</span>, person, used on the left.">
+<p class="quiz-t"><strong>7.</strong> ___ is the slim variant of 人 (rén) used on the left, as in 你 and 他.</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="学校" data-explain="学校 (xuéxiào) = 学 + 校. 校 (xiào) uses the 木 (wood) radical.">
+<p class="quiz-t"><strong>8.</strong> Arrange these characters into the word "school" (xuéxiào):</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="校">校</button>
+<button type="button" draggable="true" data-w="学">学</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="The logic is cultural, not universal: 'woman + child = good' made sense in ancient agrarian China, but it can't be derived from pure common sense <span class='quiz-py'>(hǎo)</span>. Dissection sometimes gives an origin story, not a formula.">
+<p class="quiz-t"><strong>9.</strong> 好 (hǎo, good) = 女 (woman) + 子 (child). What's the logic trap here?</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="耳" data-explain="耳 (ear): the traditional 聽 uses 耳, which makes much more sense. The simplified form borrows 口 + 斤. This is an example of the simplification trap.">
+<p class="quiz-t"><strong>10.</strong> The traditional form of 听 (tīng, to listen), 聽, uses the radical ___ meaning "ear", which makes much more sense than 口.</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+</div>

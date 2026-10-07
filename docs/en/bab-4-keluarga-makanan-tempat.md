@@ -1,6 +1,6 @@
 # Chapter 4 · 4.1–4.3: Family, Food & Places
 
-HSK 1 has 150 words. In this chapter they're all grouped by theme so you can use them right away: family, food, places, objects, verbs, adjectives, plus a mini theme on time & weather. Greetings, numbers, and time were covered in Chapters 1–2 — but they still show up in the example sentences here, because real sentences always mix everything.
+HSK 1 has 150 words. In this chapter they're all grouped by theme so you can use them right away: family, food, places, objects, verbs, adjectives, plus a mini theme on time & weather. Greetings, numbers, and time were covered in Chapters 1–2, but they still show up in the example sentences here, because real sentences always mix everything.
 
 Each theme comes with **Useful phrases**: ready-made phrases you can memorize and use in conversation right away.
 
@@ -49,8 +49,8 @@ Note: adverbs (不, 没, 很, 太, 都, 和), measure words (个, 本, 岁, 块,
 <!-- KENAPA:mingzi -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is 名字 (name) = 名 + 字?</div>
-<p><strong>名</strong> (míng) = 夕 (dusk/night) + 口 (mouth) — legend has it a name is something "spoken by mouth" (identified through speech). <strong>字</strong> (zì) = 宀 (roof) + 子 (child) — a character "born"/taught at home. So 名字 = "spoken name" + "written character".</p>
-<p><strong>Same pattern:</strong> The two-characters-for-one-abstract-concept pattern — like <strong>学校</strong> (学 + 校) and <strong>电话</strong> (电 + 话, in 打电话).</p>
+<p><strong>名</strong> (míng) = 夕 (dusk/night) + 口 (mouth), legend has it a name is something "spoken by mouth" (identified through speech). <strong>字</strong> (zì) = 宀 (roof) + 子 (child), a character "born"/taught at home. So 名字 = "spoken name" + "written character".</p>
+<p><strong>Same pattern:</strong> The two-characters-for-one-abstract-concept pattern, like <strong>学校</strong> (学 + 校) and <strong>电话</strong> (电 + 话, in 打电话).</p>
 <p><strong>Watch out:</strong> The 夕 + 口 breakdown for 名 is a common theory; what's worth remembering is the pattern, not the historical certainty.</p>
 </div>
 <div class="py">nǐ jiào shénme míngzi?</div>
@@ -75,8 +75,8 @@ Note: adverbs (不, 没, 很, 太, 都, 和), measure words (个, 本, 岁, 块,
 <!-- KENAPA:doubling -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why are 爸爸/妈妈 doubled, instead of just 爸/妈?</div>
-<p>In modern Mandarin, <strong>kinship terms are normally doubled</strong>: 爸爸 (bàba), 妈妈 (māma). Legend has it this is about sound — a single syllable feels too short and stiff for an affectionate call, so it gets doubled to sound warm and clear when called out.</p>
-<p><strong>Same pattern:</strong> The same doubling pattern (for a different reason): <strong>谢谢</strong> (xièxie, thank you) — doubling for politeness emphasis.</p>
+<p>In modern Mandarin, <strong>kinship terms are normally doubled</strong>: 爸爸 (bàba), 妈妈 (māma). Legend has it this is about sound, a single syllable feels too short and stiff for an affectionate call, so it gets doubled to sound warm and clear when called out.</p>
+<p><strong>Same pattern:</strong> The same doubling pattern (for a different reason): <strong>谢谢</strong> (xièxie, thank you), doubling for politeness emphasis.</p>
 <p><strong>Watch out:</strong> Not every word can be doubled: 老师, 朋友, 医生 are never doubled. Doubling is only for affectionate address terms and a few exclamations.</p>
 </div>
 <div class="py">nǐ jiā yǒu jǐ ge rén?</div>
@@ -146,9 +146,9 @@ Note: adverbs (不, 没, 很, 太, 都, 和), measure words (个, 本, 岁, 块,
 <!-- KENAPA:shuiguo -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is 水果 (fruit) = 水 (water) + 果 (fruit)?</div>
-<p>Doesn't 果 already mean fruit on its own? Legend has it <strong>水</strong> here emphasizes the fruit's nature: <em>juicy and fresh</em> — as opposed to dried fruit or grains. So 水果 = "juicy fruit", the general term for fresh fruit.</p>
+<p>Doesn't 果 already mean fruit on its own? Legend has it <strong>水</strong> here emphasizes the fruit's nature: <em>juicy and fresh</em>, as opposed to dried fruit or grains. So 水果 = "juicy fruit", the general term for fresh fruit.</p>
 <p><strong>Same pattern:</strong> The "果 = fruit" pattern repeats: <strong>苹果</strong> (píngguǒ, apple) = 苹 + 果. Memorize 果 and the two HSK 1 fruit words pair up instantly.</p>
-<p><strong>Watch out:</strong> Outside food contexts, 果 more often means "result/consequence" — but in HSK 1, when you see 果, think fruit first.</p>
+<p><strong>Watch out:</strong> Outside food contexts, 果 more often means "result/consequence", but in HSK 1, when you see 果, think fruit first.</p>
 </div>
 <div class="py">píngguǒ hěn hǎochī.</div>
 <div>Apples are tasty.</div>
@@ -302,4 +302,98 @@ Note: adverbs (不, 没, 很, 太, 都, 和), measure words (个, 本, 岁, 块,
 <div class="hz">学校在哪儿？</div>
 <div class="py">xuéxiào zài nǎr?</div>
 <div>Where's the school?</div>
+</div>
+
+## Exercises
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercise <span class="quiz-score">Score: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 妈妈 <span class='quiz-py'>(māma)</span> = mother. 爸爸 (bàba) = father, 女儿 (nǚ'ér) = daughter.">
+<p class="quiz-t"><strong>1.</strong> What does 妈妈 (māma) mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. father</button>
+<button type="button" data-opt="B">B. mother</button>
+<button type="button" data-opt="C">C. daughter</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="医生" data-explain="医生 <span class='quiz-py'>(yīshēng)</span> = doctor. Full sentence: 我爸爸是医生。(wǒ bàba shì yīshēng.)">
+<p class="quiz-t"><strong>2.</strong> 我爸爸是___. (My father is a doctor.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我爸爸是医生" data-explain="我爸爸是医生 <span class='quiz-py'>(wǒ bàba shì yīshēng.)</span> = My father is a doctor.">
+<p class="quiz-t"><strong>3.</strong> Arrange these shuffled words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="是">是</button>
+<button type="button" draggable="true" data-w="医生">医生</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="爸爸">爸爸</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你喝茶吗？ <span class='quiz-py'>(nǐ hē chá ma?)</span> = Do you drink tea?">
+<p class="quiz-t"><strong>4.</strong> Translate to Mandarin: "Do you drink tea?"</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 饭店 <span class='quiz-py'>(fàndiàn)</span> = restaurant. 商店 (shāngdiàn) = store, 医院 (yīyuàn) = hospital.">
+<p class="quiz-t"><strong>5.</strong> Which one means "restaurant"?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 商店</button>
+<button type="button" data-opt="B">B. 饭店</button>
+<button type="button" data-opt="C">C. 医院</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="饭店" data-explain="饭店 <span class='quiz-py'>(fàndiàn)</span> = restaurant. Full sentence: 饭店在前面。(fàndiàn zài qiánmian.)">
+<p class="quiz-t"><strong>6.</strong> ___在前面。 (The restaurant is in front.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="猫在桌子下" data-explain="猫在桌子下 <span class='quiz-py'>(māo zài zhuōzi xià.)</span> = The cat is under the table.">
+<p class="quiz-t"><strong>7.</strong> Arrange these shuffled words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="桌子下">桌子下</button>
+<button type="button" draggable="true" data-w="猫">猫</button>
+<button type="button" draggable="true" data-w="在">在</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="水果 means fruit: 水 (water) + 果 (fruit) = 'watery fruit', the general term for fresh fruit <span class='quiz-py'>(shuǐguǒ)</span>.">
+<p class="quiz-t"><strong>8.</strong> What does 水果 (shuǐguǒ) mean? Dissect its components.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 你家有几个人？ <span class='quiz-py'>(nǐ jiā yǒu jǐ ge rén?)</span> = How many people are in your family?">
+<p class="quiz-t"><strong>9.</strong> What does 你家有几个人？ mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. What's your name?</button>
+<button type="button" data-opt="B">B. How many people are in your family?</button>
+<button type="button" data-opt="C">C. Where is your home?</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="买" data-explain="买 <span class='quiz-py'>(mǎi)</span> = to buy. Full sentence: 我买水果。(wǒ mǎi shuǐguǒ.)">
+<p class="quiz-t"><strong>10.</strong> 我___水果。 (I buy fruit.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
 </div>

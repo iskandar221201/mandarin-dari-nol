@@ -12,9 +12,9 @@
 <!-- KENAPA:dian4 -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is 电脑 (computer) = 电 (electricity) + 脑 (brain)?</div>
-<p>Yes, literally "<em>electric brain</em>" — a computer is understood as a brain powered by electricity. Same naming logic: <strong>电视</strong> (diànshì, television) = 电 + 视 (vision) → "electric vision"; <strong>电影</strong> (diànyǐng, movie) = 电 + 影 (shadow) → "shadows (moved by) electricity".</p>
+<p>Yes, literally "<em>electric brain</em>", a computer is understood as a brain powered by electricity. Same naming logic: <strong>电视</strong> (diànshì, television) = 电 + 视 (vision) → "electric vision"; <strong>电影</strong> (diànyǐng, movie) = 电 + 影 (shadow) → "shadows (moved by) electricity".</p>
 <p><strong>Same pattern:</strong> The "电 + function" pattern for modern tech: memorize 电 = electricity, then guess half the meaning from the second component (脑/视/影).</p>
-<p><strong>Watch out:</strong> Don't take it too literally — 电影 isn't "electric shadow" in a technical sense; it's how people name new technology with old vocabulary.</p>
+<p><strong>Watch out:</strong> Don't take it too literally, 电影 isn't "electric shadow" in a technical sense; it's how people name new technology with old vocabulary.</p>
 </div>
 | 电视 | diànshì | television |
 | 电影 | diànyǐng | movie |
@@ -26,9 +26,9 @@
 <!-- KENAPA:dongxi -->
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is 东西 (thing) = 东 (east) + 西 (west)?</div>
-<p>Legend has it, in the ancient capital Chang'an there was an eastern market (<strong>东市</strong>) and a western market (<strong>西市</strong>). "Going east-west" (买东西) gradually came to mean "going shopping", and <strong>东西</strong> came to mean "thing" — anything bought from the market.</p>
-<p><strong>Same pattern:</strong> The two-simple-words-combining-into-a-new-meaning pattern — like <strong>多少</strong> (duōshao, how much/many) = 多 (many) + 少 (few).</p>
-<p><strong>Watch out:</strong> This is a popular folk theory, not a confirmed historical fact. What matters: 东/西 on their own still mean east/west — only the combination means thing.</p>
+<p>Legend has it, in the ancient capital Chang'an there was an eastern market (<strong>东市</strong>) and a western market (<strong>西市</strong>). "Going east-west" (买东西) gradually came to mean "going shopping", and <strong>东西</strong> came to mean "thing", anything bought from the market.</p>
+<p><strong>Same pattern:</strong> The two-simple-words-combining-into-a-new-meaning pattern, like <strong>多少</strong> (duōshao, how much/many) = 多 (many) + 少 (few).</p>
+<p><strong>Watch out:</strong> This is a popular folk theory, not a confirmed historical fact. What matters: 东/西 on their own still mean east/west, only the combination means thing.</p>
 </div>
 | 钱 | qián | money |
 | 出租车 | chūzūchē | taxi |
@@ -139,15 +139,15 @@
 <div class="kenapa-title">🧩 Why do so many Mandarin verbs have two characters: 说话, 睡觉, 学习?</div>
 <p>Many Mandarin verbs follow a <strong>verb + object</strong> pattern: <strong>说话</strong> (shuōhuà) = 说 (speak) + 话 (words); <strong>睡觉</strong> (shuìjiào) = 睡 (sleep) + 觉 (drowsiness); <strong>学习</strong> (xuéxí) = 学 (learn) + 习 (practice); <strong>打电话</strong> (dǎ diànhuà) = 打 (hit) + 电话 (telephone). The object "completes" the meaning into a full verb.</p>
 <p><strong>Same pattern:</strong> The same pattern: <strong>看见</strong> (kànjiàn) = 看 (to look) + 见 (caught by sight) → "to catch sight of".</p>
-<p><strong>Watch out:</strong> Not all verbs work like this — 吃, 喝, 看, 去, 来 are single characters and perfectly fine. This pattern is a habit, not a hard rule.</p>
+<p><strong>Watch out:</strong> Not all verbs work like this, 吃, 喝, 看, 去, 来 are single characters and perfectly fine. This pattern is a habit, not a hard rule.</p>
 </div>
 
 <!-- KENAPA:xue4 -->
 <div class="kenapa">
-<div class="kenapa-title">🧩 Why 学校/学生/学习 — why do all three "smell of" 学?</div>
+<div class="kenapa-title">🧩 Why 学校/学生/学习, why do all three "smell of" 学?</div>
 <p>Because all three really are <strong>one family</strong> born from <strong>学</strong> (xué, to learn) = ⺍ + 冖 (roof) + 子 (child), supposedly "a child under a roof (a place of learning)". <strong>学校</strong> = the place, <strong>学生</strong> = the person (生 = emerge/be born), <strong>学习</strong> = the activity (习 = to practice). Three roles, one root.</p>
-<p><strong>Same pattern:</strong> The "one root, three roles" pattern — the memorization strategy: learn 学 once, get three words. A similar family pattern: <strong>电</strong> → 电话/电脑/电视/电影.</p>
-<p><strong>Watch out:</strong> Don't assume every word with 学 is automatically about school — in HSK 1 they happen to be, but the pattern is "one component, one meaning family", not an absolute rule.</p>
+<p><strong>Same pattern:</strong> The "one root, three roles" pattern, the memorization strategy: learn 学 once, get three words. A similar family pattern: <strong>电</strong> → 电话/电脑/电视/电影.</p>
+<p><strong>Watch out:</strong> Don't assume every word with 学 is automatically about school, in HSK 1 they happen to be, but the pattern is "one component, one meaning family", not an absolute rule.</p>
 </div>
 | 工作 | gōngzuò | to work |
 | 买 | mǎi | to buy |
@@ -249,7 +249,7 @@
 <div class="kenapa-title">🧩 Why is 漂亮 (pretty) = 漂 + 亮, 高兴 (happy) = 高 + 兴?</div>
 <p>Many Mandarin adjectives are formed from <strong>two positive-meaning morphemes</strong> joined together: <strong>漂亮</strong> (piàoliang) = 漂 + 亮 (bright/shiny), <strong>高兴</strong> (gāoxìng) = 高 (high) + 兴 (joyful) → a "high" feeling = happy. The combination intensifies rather than adding up the literal meanings.</p>
 <p><strong>Same pattern:</strong> The "two positives = one adjective" pattern: once you know it, a two-character adjective feels like one flavor packet, not two puzzles.</p>
-<p><strong>Watch out:</strong> Don't dissect literally: 漂亮 isn't "floating brightness". This is where the component-guessing technique hits its limit — and that's normal.</p>
+<p><strong>Watch out:</strong> Don't dissect literally: 漂亮 isn't "floating brightness". This is where the component-guessing technique hits its limit, and that's normal.</p>
 </div>
 
 
@@ -338,4 +338,98 @@
 <div class="hz">这个很大。</div>
 <div class="py">zhè ge hěn dà.</div>
 <div>This is big.</div>
+</div>
+
+## Exercises
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercise <span class="quiz-score">Score: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 电脑 <span class='quiz-py'>(diànnǎo)</span> = computer, literally 'electric brain'. 电视 (diànshì) = television, 电话 (diànhuà) = telephone.">
+<p class="quiz-t"><strong>1.</strong> What does 电脑 (diànnǎo) mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. television</button>
+<button type="button" data-opt="B">B. computer</button>
+<button type="button" data-opt="C">C. telephone</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="电视" data-explain="电视 <span class='quiz-py'>(diànshì)</span> = television. Full sentence: 我看电视。(wǒ kàn diànshì.)">
+<p class="quiz-t"><strong>2.</strong> 我看___. (I watch television.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我看电影" data-explain="我看电影 <span class='quiz-py'>(wǒ kàn diànyǐng.)</span> = I watch movies.">
+<p class="quiz-t"><strong>3.</strong> Arrange these shuffled words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="电影">电影</button>
+<button type="button" draggable="true" data-w="我">我</button>
+<button type="button" draggable="true" data-w="看">看</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="天气很好 <span class='quiz-py'>(tiānqì hěn hǎo.)</span> = The weather is nice.">
+<p class="quiz-t"><strong>4.</strong> Translate to Mandarin: "The weather is nice."</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="C. 会 (huì) = can (skill); 能 (néng) = can, to be able. Examples: 我会写字 (I can write), 你能来吗 (can you come).">
+<p class="quiz-t"><strong>5.</strong> Which meaning pairing is CORRECT?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 会 = can (permission); 能 = can (skill)</button>
+<button type="button" data-opt="B">B. 会 and 能 mean exactly the same thing</button>
+<button type="button" data-opt="C">C. 会 = can (skill); 能 = can, to be able</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="请" data-explain="请 <span class='quiz-py'>(qǐng)</span> = please. Full sentence: 请坐。(qǐng zuò.)">
+<p class="quiz-t"><strong>6.</strong> ___坐。 (Please sit down.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="你能来吗？" data-explain="你能来吗 <span class='quiz-py'>(nǐ néng lái ma?)</span> = Can you come?">
+<p class="quiz-t"><strong>7.</strong> Arrange these shuffled words into a correct sentence:</p>
+<p class="quiz-hint">💡 Click words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="吗">吗</button>
+<button type="button" draggable="true" data-w="你">你</button>
+<button type="button" draggable="true" data-w="来">来</button>
+<button type="button" draggable="true" data-w="能">能</button>
+</div>
+<div class="quiz-drop" data-ph="Drop answer here"><span class="quiz-ph">Drop answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="Literally 'electric brain': a computer is understood as a brain (脑) powered by electricity (电) <span class='quiz-py'>(diànnǎo)</span>. Same pattern: 电视 = 'electric vision', 电影 = 'electric shadows'.">
+<p class="quiz-t"><strong>8.</strong> Why is 电脑 = 电 + 脑? Explain the logic.</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 漂亮 <span class='quiz-py'>(piàoliang)</span> = pretty. 高兴 (gāoxìng) = happy, 好 (hǎo) = good.">
+<p class="quiz-t"><strong>9.</strong> What does 漂亮 (piàoliang) mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. happy</button>
+<button type="button" data-opt="B">B. pretty</button>
+<button type="button" data-opt="C">C. good</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="冷" data-explain="冷 <span class='quiz-py'>(lěng)</span> = cold. Full sentence: 今天很冷。(jīntiān hěn lěng.)">
+<p class="quiz-t"><strong>10.</strong> 今天很___. (It's very cold today.)</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type answer..."><button type="button" class="quiz-check">Check</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
 </div>
