@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700;900&family=Noto+Sans+SC:wght@400;500;700&display=swap');
+
+/* Identitas visual: merah Tionghoa + emas, selaras dengan seri konten belajar Mandarin */
+:root {
+  --vp-c-brand-1: #c8102e;
+  --vp-c-brand-2: #d5233f;
+  --vp-c-brand-3: #a50d26;
+  --vp-c-brand-soft: rgba(200, 16, 46, 0.1);
+
+  --vp-c-gold-1: #b8860b;
+  --vp-c-gold-soft: rgba(255, 197, 61, 0.15);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #c8102e 30%, #e8a020 70%);
+}
+
+.dark {
+  --vp-c-brand-1: #f0556e;
+  --vp-c-brand-2: #e83e5a;
+  --vp-c-brand-3: #d5233f;
+  --vp-c-brand-soft: rgba(240, 85, 110, 0.14);
+}
+
+/* Hanzi tampil besar dan tegas */
+.hanzi {
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  font-weight: 700;
+}
+
+.hanzi-big {
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  font-weight: 900;
+  font-size: 2.2em;
+  line-height: 1.4;
+}
+
+/* Kartu contoh kalimat */
+.contoh {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  padding: 0.6rem 1rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1rem 0;
+}
+
+.contoh .hz {
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.contoh .py {
+  color: var(--vp-c-brand-1);
+  font-size: 0.95em;
+}
+
+.dark .contoh .py {
+  color: var(--vp-c-brand-2);
+}
+
+/* Bedah komponen hanzi */
+.bedah {
+  border: 1px dashed var(--vp-c-gold-1);
+  background: var(--vp-c-gold-soft);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* Tabel kosakata: kolom hanzi lebih besar (semua tabel di situs ini adalah tabel kosakata) */
+.vp-doc table td:first-child {
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  font-size: 1.3em;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.vp-doc table th:first-child {
+  white-space: nowrap;
+}

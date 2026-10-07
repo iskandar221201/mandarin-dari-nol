@@ -1,0 +1,1 @@
+{"description":"Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 1 — dokumentasi terbuka berbahasa Indonesia.","devDependencies":{"vitepress":"^1.6.3"},"name":"mandarin-dari-nol","private":true,"scripts":{"docs:build":"vitepress build docs","docs:dev":"vitepress dev docs","docs:preview":"vitepress preview docs"},"type":"module","version":"0.1.0"}
