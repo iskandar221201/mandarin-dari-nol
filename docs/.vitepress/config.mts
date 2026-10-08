@@ -174,6 +174,8 @@ const idSidebar = [
     items: [
       { text: 'Bank Latihan', link: '/latihan' },
       { text: 'Roadmap', link: '/roadmap' },
+      { text: 'Peta Hanzi', link: '/hanzi-map' },
+      { text: 'Peta Hanzi', link: '/hanzi-map' },
     ],
   },
 ]
@@ -353,6 +355,8 @@ const enSidebar = [
       { text: 'Exercise Bank', link: '/en/latihan' },
       { text: 'Syllabus', link: '/en/silabus' },
       { text: 'Roadmap', link: '/en/roadmap' },
+      { text: 'Hanzi Map', link: '/en/hanzi-map' },
+      { text: 'Hanzi Map', link: '/en/hanzi-map' },
     ],
   },
 ]
