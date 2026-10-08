@@ -2,31 +2,31 @@
 
 ## Dialogue 4: Traveling
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/93ed465cd596.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 请问，从机场到宾馆怎么走？</div>
 <div class="py">Qǐng wèn, cóng jīchǎng dào bīnguǎn zěnme zǒu?</div>
 <div>Excuse me, how do I get from the airport to the hotel?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/eba13571c7b6.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 你可以坐公共汽车，很便宜。</div>
 <div class="py">Nǐ kěyǐ zuò gōnggòngqìchē, hěn piányi.</div>
 <div>You can take the bus, it's cheap.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/d8985dd823bd.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 要多长时间？</div>
 <div class="py">Yào duō cháng shíjiān?</div>
 <div>How long does it take?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/466f39c6a5ce.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 大概一个小时。宾馆离机场很远。</div>
 <div class="py">Dàgài yī gè xiǎoshí. Bīnguǎn lí jīchǎng hěn yuǎn.</div>
 <div>About an hour. The hotel is far from the airport.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/f945fb91d7e3.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 好，谢谢你！</div>
 <div class="py">Hǎo, xièxie nǐ!</div>
 <div>OK, thank you!</div>
@@ -41,31 +41,31 @@
 
 ## Dialogue 5: Shopping
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/f29db0ee1060.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 这件衣服多少钱？</div>
 <div class="py">Zhè jiàn yīfu duōshao qián?</div>
 <div>How much is this shirt?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/13ce30bedc8d.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 两百块。很便宜，真的很好。</div>
 <div class="py">Liǎng bǎi kuài. Hěn piányi, zhēn de hěn hǎo.</div>
 <div>Two hundred yuan. Cheap, really good.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/0404aec549de.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 太贵了！一百五十卖不卖？</div>
 <div class="py">Tài guì le! Yī bǎi wǔshí mài bù mài?</div>
 <div>Too expensive! Will you sell for one fifty?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/52b6b396184f.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 不行，最少一百八。</div>
 <div class="py">Bù xíng, zuì shǎo yī bǎi bā.</div>
 <div>No way, lowest one eighty.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/7b4f5c1571c5.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 好吧，我要了。</div>
 <div class="py">Hǎo ba, wǒ yào le.</div>
 <div>Fine, I'll take it.</div>
@@ -86,31 +86,31 @@
 
 ## Dialogue 6: Seeing a doctor
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/03f82f1003d9.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 医生，我生病了，头很疼。</div>
 <div class="py">Yīshēng, wǒ shēngbìng le, tóu hěn téng.</div>
 <div>Doctor, I'm sick, my head hurts.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/7508aaa8741c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 什么时候开始的？发烧吗？</div>
 <div class="py">Shénme shíhou kāishǐ de? Fāshāo ma?</div>
 <div>When did it start? Fever?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/38354de95d8a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 昨天晚上开始的，有一点儿发烧。</div>
 <div class="py">Zuótiān wǎnshang kāishǐ de, yǒu yī diǎnr fāshāo.</div>
 <div>Started last night, slight fever.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/af1b3ffbe606.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 别担心，多休息，吃点儿药就好了。</div>
 <div class="py">Bié dānxīn, duō xiūxi, chī diǎnr yào jiù hǎo le.</div>
 <div>Don't worry, rest more, take some medicine and you'll be fine.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/dcfdd12af17e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 谢谢医生！</div>
 <div class="py">Xièxie yīshēng!</div>
 <div>Thanks, doctor!</div>
