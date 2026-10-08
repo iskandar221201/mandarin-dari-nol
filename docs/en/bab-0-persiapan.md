@@ -6,5 +6,5 @@ No vocabulary to memorize in this chapter. There's only one goal: you understand
 
 This chapter is split into two pages:
 
-- [Pinyin & Tones](/en/bab-0-pinyin-nada) — §§0.1–0.5: what Mandarin is, simplified vs traditional, pinyin, the four tones, and tone sandhi.
-- [Hands-on Practice](/en/bab-0-praktik) — §§0.6–0.8: installing a pinyin keyboard, study tips, daily tone drill, plus exercises.
+- [Pinyin & Tones](/en/bab-0-pinyin-nada), §§0.1–0.5: what Mandarin is, simplified vs traditional, pinyin, the four tones, and tone sandhi.
+- [Hands-on Practice](/en/bab-0-praktik), §§0.6–0.8: installing a pinyin keyboard, study tips, daily tone drill, plus exercises.
