@@ -28,6 +28,16 @@ Perangkat bantu belajar di luar bab kurikulum. Semua gratis, langsung di browser
     <div class="ft-title">Konverter Pinyin</div>
     <div class="ft-desc"><code>ni3hao3</code> jadi <code>nǐhǎo</code> otomatis.</div>
   </a>
+  <div class="ft-card">
+    <div class="ft-emoji">🎮</div>
+    <div class="ft-title">Game Cocokkan</div>
+    <div class="ft-desc">Pasangkan hanzi dengan artinya. <a href="/fitur/cocokkan-hsk1">HSK 1</a> · <a href="/fitur/cocokkan-hsk2">HSK 2</a> · <a href="/fitur/cocokkan-hsk3">HSK 3</a></div>
+  </div>
+  <div class="ft-card">
+    <div class="ft-emoji">📚</div>
+    <div class="ft-title">Bacaan Interaktif</div>
+    <div class="ft-desc">Klik kata untuk arti + audio. <a href="/fitur/bacaan-hsk1">HSK 1</a> · <a href="/fitur/bacaan-hsk2">HSK 2</a> · <a href="/fitur/bacaan-hsk3">HSK 3</a></div>
+  </div>
 </div>
 
 <style>
