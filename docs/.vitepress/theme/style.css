@@ -495,3 +495,135 @@ html.dark .VPFooter::before {
       linear-gradient(to bottom, transparent 55%, var(--vp-c-bg) 100%);
   }
 }
+
+/* ---- Latihan Menulis Hanzi (FAB + modal) ---- */
+.hw-fab {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 5.5rem;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.65rem 1rem;
+  border: none;
+  border-radius: 999px;
+  background: #C8102E;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(200, 16, 46, 0.4);
+  transition: transform 0.15s ease;
+}
+.hw-fab:hover { transform: translateY(-2px); }
+.hw-fab[hidden] { display: none; }
+
+.hw-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.hw-overlay[hidden] { display: none; }
+.hw-modal {
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 14px;
+  width: min(440px, 100%);
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
+.hw-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.9rem 1.1rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+  font-size: 1.05rem;
+}
+.hw-close {
+  border: none;
+  background: transparent;
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: var(--vp-c-text-2);
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+}
+.hw-close:hover { background: var(--vp-c-bg-soft); }
+.hw-list { padding: 1rem 1.1rem; overflow-y: auto; }
+.hw-hint { margin: 0 0 0.7rem; color: var(--vp-c-text-2); font-size: 0.9rem; }
+.hw-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+  gap: 0.5rem;
+}
+.hw-char {
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  border-radius: 10px;
+  font-size: 1.6rem;
+  padding: 0.45rem 0;
+  cursor: pointer;
+  transition: transform 0.12s ease, border-color 0.12s ease;
+  line-height: 1.2;
+}
+.hw-char:hover {
+  transform: translateY(-2px);
+  border-color: #C8102E;
+}
+.hw-detail { padding: 1rem 1.1rem 1.2rem; overflow-y: auto; text-align: center; }
+.hw-tabs { display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 0.8rem; }
+.hw-tab {
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  border-radius: 999px;
+  padding: 0.45rem 1.1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: var(--vp-c-text-1);
+}
+.hw-tab.active { background: #C8102E; border-color: #C8102E; color: #fff; font-weight: 600; }
+.hw-canvas-wrap {
+  display: flex;
+  justify-content: center;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 0.6rem;
+  touch-action: none;
+}
+#hw-target { width: 240px; height: 240px; }
+#hw-target svg { width: 100%; height: 100%; }
+.hw-status { min-height: 1.6em; margin: 0.7rem 0; color: var(--vp-c-text-2); font-size: 0.9rem; }
+.hw-actions { display: flex; gap: 0.6rem; justify-content: center; flex-wrap: wrap; }
+.hw-primary {
+  border: none;
+  background: #C8102E;
+  color: #fff;
+  border-radius: 999px;
+  padding: 0.55rem 1.3rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.hw-back {
+  border: 1px solid var(--vp-c-divider);
+  background: transparent;
+  color: var(--vp-c-text-1);
+  border-radius: 999px;
+  padding: 0.55rem 1.1rem;
+  font-size: 0.92rem;
+  cursor: pointer;
+}
+@media (max-width: 480px) {
+  .hw-fab { right: 1rem; bottom: 5rem; padding: 0.6rem 0.85rem; }
+}

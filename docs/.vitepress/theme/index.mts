@@ -3,7 +3,7 @@ import './style.css'
 
 export default {
   extends: DefaultTheme,
-  enhanceApp() {
+  enhanceApp({ router }: any) {
     if (typeof window === 'undefined') return
     let current: HTMLAudioElement | null = null
     const stopAll = () => {
@@ -227,5 +227,215 @@ export default {
       b.title = T.ret()
       drop.appendChild(b)
     })
+
+    // ---- Latihan Menulis Hanzi (HanziWriter) ----
+    const HW_LIB_URL = 'https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.3/dist/hanzi-writer.min.js'
+    const hwDataUrl = (ch: string) => `https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/${encodeURIComponent(ch)}.json`
+    let hwLibPromise: Promise<any> | null = null
+    const loadHwLib = (): Promise<any> => {
+      if (hwLibPromise) return hwLibPromise
+      hwLibPromise = new Promise((resolve, reject) => {
+        const w = window as any
+        if (w.HanziWriter) return resolve(w.HanziWriter)
+        const s = document.createElement('script')
+        s.src = HW_LIB_URL
+        s.onload = () => resolve(w.HanziWriter)
+        s.onerror = () => reject(new Error('gagal memuat HanziWriter'))
+        document.head.appendChild(s)
+      })
+      return hwLibPromise
+    }
+    const hwIsEN = () => document.documentElement.lang.startsWith('en')
+    const hwStr = {
+      title: () => (hwIsEN() ? 'Writing Practice' : 'Latihan Menulis'),
+      fab: () => (hwIsEN() ? 'Practice' : 'Latihan'),
+      hint: () => (hwIsEN() ? 'Pick a character from this page:' : 'Pilih hanzi dari halaman ini:'),
+      tabAnim: () => (hwIsEN() ? 'Animation' : 'Animasi'),
+      tabQuiz: () => (hwIsEN() ? 'Practice' : 'Latihan'),
+      replay: () => (hwIsEN() ? 'Replay animation' : 'Ulangi animasi'),
+      requiz: () => (hwIsEN() ? 'Start over' : 'Ulangi latihan'),
+      quizHint: () => (hwIsEN() ? 'Trace the faint outline, one stroke at a time.' : 'Ikuti garis tipisnya, tulis per goresan.'),
+      animHint: () => (hwIsEN() ? 'Watch the correct stroke order:' : 'Perhatikan urutan goresan yang benar:'),
+      done: (n: number) => (hwIsEN() ? `Done! Mistakes: ${n}.` : `Selesai! Kesalahan: ${n}.`),
+      back: () => (hwIsEN() ? 'Back to list' : 'Kembali ke daftar'),
+      loading: () => (hwIsEN() ? 'Loading...' : 'Memuat...'),
+      loadFail: () => (hwIsEN() ? 'Could not load this character. Try another.' : 'Gagal memuat karakter ini. Coba yang lain.'),
+    }
+    const extractHanzi = (): string[] => {
+      const doc = document.querySelector('.vp-doc')
+      if (!doc) return []
+      const text = doc.textContent || ''
+      const seen = new Set<string>()
+      const out: string[] = []
+      for (const m of text.matchAll(/[\u3400-\u4DBF\u4E00-\u9FFF]/g)) {
+        if (!seen.has(m[0])) {
+          seen.add(m[0])
+          out.push(m[0])
+        }
+        if (out.length >= 200) break
+      }
+      return out
+    }
+
+    // bangun DOM sekali
+    const fab = document.createElement('button')
+    fab.type = 'button'
+    fab.className = 'hw-fab'
+    fab.hidden = true
+    document.body.appendChild(fab)
+
+    const overlay = document.createElement('div')
+    overlay.className = 'hw-overlay'
+    overlay.hidden = true
+    overlay.innerHTML = `
+      <div class="hw-modal" role="dialog" aria-modal="true">
+        <div class="hw-head">
+          <strong>\u270D\uFE0F <span class="hw-title"></span></strong>
+          <button type="button" class="hw-close" aria-label="Tutup">\u2715</button>
+        </div>
+        <div class="hw-list">
+          <p class="hw-hint"></p>
+          <div class="hw-grid"></div>
+        </div>
+        <div class="hw-detail" hidden>
+          <div class="hw-tabs">
+            <button type="button" class="hw-tab active" data-tab="animate"></button>
+            <button type="button" class="hw-tab" data-tab="quiz"></button>
+          </div>
+          <div class="hw-canvas-wrap"><div id="hw-target"></div></div>
+          <p class="hw-status"></p>
+          <div class="hw-actions">
+            <button type="button" class="hw-primary"></button>
+            <button type="button" class="hw-back"></button>
+          </div>
+        </div>
+      </div>`
+    document.body.appendChild(overlay)
+
+    const $ = (sel: string) => overlay.querySelector(sel) as HTMLElement
+    let hwWriter: any = null
+    let hwChar = ''
+    let hwMode: 'animate' | 'quiz' = 'animate'
+
+    const refreshTexts = () => {
+      fab.innerHTML = `\u270D\uFE0F <span>${hwStr.fab()}</span>`
+      $('.hw-title').textContent = hwStr.title()
+      $('.hw-hint').textContent = hwStr.hint()
+      const tabs = overlay.querySelectorAll('.hw-tab')
+      ;(tabs[0] as HTMLElement).textContent = `\u25B6 ${hwStr.tabAnim()}`
+      ;(tabs[1] as HTMLElement).textContent = `\u270F ${hwStr.tabQuiz()}`
+      $('.hw-back').textContent = `\u2190 ${hwStr.back()}`
+      syncPrimary()
+    }
+    const syncPrimary = () => {
+      $('.hw-primary').textContent = hwMode === 'animate' ? `\u{1F501} ${hwStr.replay()}` : `\u270F ${hwStr.requiz()}`
+      $('.hw-status').textContent = hwMode === 'animate' ? hwStr.animHint() : hwStr.quizHint()
+    }
+
+    const openModal = () => {
+      const chars = extractHanzi()
+      if (!chars.length) return
+      refreshTexts()
+      const grid = $('.hw-grid')
+      grid.innerHTML = ''
+      chars.forEach((ch) => {
+        const b = document.createElement('button')
+        b.type = 'button'
+        b.className = 'hw-char'
+        b.textContent = ch
+        b.addEventListener('click', () => openChar(ch))
+        grid.appendChild(b)
+      })
+      ;($('.hw-list') as HTMLElement).hidden = false
+      ;($('.hw-detail') as HTMLElement).hidden = true
+      overlay.hidden = false
+      document.body.style.overflow = 'hidden'
+    }
+    const closeModal = () => {
+      overlay.hidden = true
+      document.body.style.overflow = ''
+      try { hwWriter?.cancelQuiz() } catch {}
+      hwWriter = null
+    }
+
+    const openChar = async (ch: string) => {
+      hwChar = ch
+      hwMode = 'animate'
+      ;($('.hw-list') as HTMLElement).hidden = true
+      ;($('.hw-detail') as HTMLElement).hidden = false
+      overlay.querySelectorAll('.hw-tab').forEach((el, i) => el.classList.toggle('active', i === 0))
+      syncPrimary()
+      const target = $('#hw-target')
+      target.innerHTML = ''
+      $('.hw-status').textContent = hwStr.loading()
+      try {
+        const HanziWriter = await loadHwLib()
+        const dark = document.documentElement.classList.contains('dark')
+        hwWriter = HanziWriter.create(target, ch, {
+          width: 240,
+          height: 240,
+          padding: 12,
+          showOutline: true,
+          strokeColor: dark ? '#e5e7eb' : '#1f2937',
+          outlineColor: dark ? '#64748b' : '#cbd5e1',
+          radicalColor: '#C8102E',
+          leniency: 1.3,
+          showHintAfterMisses: 2,
+          charDataLoader: (c: string, onComplete: (d: any) => void) => {
+            fetch(hwDataUrl(c))
+              .then((r) => { if (!r.ok) throw new Error('404'); return r.json() })
+              .then(onComplete)
+              .catch(() => { $('.hw-status').textContent = hwStr.loadFail() })
+          },
+        })
+        startMode()
+      } catch {
+        $('.hw-status').textContent = hwStr.loadFail()
+      }
+    }
+
+    const startMode = () => {
+      if (!hwWriter) return
+      syncPrimary()
+      try { hwWriter.cancelQuiz() } catch {}
+      if (hwMode === 'animate') {
+        hwWriter.animateCharacter()
+      } else {
+        hwWriter.quiz({
+          onComplete: (s: any) => {
+            $('.hw-status').textContent = hwStr.done(s.totalMistakes)
+          },
+        })
+      }
+    }
+
+    fab.addEventListener('click', openModal)
+    overlay.querySelector('.hw-close')!.addEventListener('click', closeModal)
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) closeModal() })
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !overlay.hidden) closeModal() })
+    overlay.querySelector('.hw-back')!.addEventListener('click', () => {
+      try { hwWriter?.cancelQuiz() } catch {}
+      hwWriter = null
+      ;($('.hw-detail') as HTMLElement).hidden = true
+      ;($('.hw-list') as HTMLElement).hidden = false
+    })
+    overlay.querySelector('.hw-primary')!.addEventListener('click', startMode)
+    overlay.querySelectorAll('.hw-tab').forEach((el) => {
+      el.addEventListener('click', () => {
+        hwMode = (el as HTMLElement).dataset.tab as 'animate' | 'quiz'
+        overlay.querySelectorAll('.hw-tab').forEach((x) => x.classList.toggle('active', x === el))
+        startMode()
+      })
+    })
+
+    const updateFab = () => {
+      closeModal()
+      const chars = extractHanzi()
+      fab.hidden = chars.length === 0
+      if (chars.length) refreshTexts()
+    }
+    router.onAfterRouteChanged = () => updateFab()
+    // halaman pertama
+    setTimeout(updateFab, 300)
   },
 }
