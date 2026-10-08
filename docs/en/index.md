@@ -13,10 +13,6 @@ hero:
       text: See the HSK Roadmap
       link: /en/roadmap
 
-  image:
-    src: /hero.svg
-    alt: Ilustrasi belajar Mandarin
-
 features:
   - title: Hanzi + Pinyin + Meaning
     details: Every vocabulary item and example sentence is always presented complete, nothing half-baked.
@@ -27,15 +23,6 @@ features:
   - title: Structured by Chapter
     details: Material is sequenced step by step, from preparation, greetings, numbers, radicals, to dialogues.
 ---
-<div class="dragon-band">
-  <img src="/dragon-decor.svg" alt="Naga Tionghoa" draggable="false" />
-</div>
-
-<style>
-.dragon-band { margin: 48px calc(-50vw + 50%) 40px; }
-.dragon-band img { width: 100%; height: auto; display: block; user-select: none; -webkit-user-drag: none; }
-</style>
-
 
 ## Interactive Tools
 

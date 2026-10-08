@@ -409,3 +409,34 @@
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
+
+/* Hero homepage: naga full-bleed sebagai background, teks di atasnya */
+.VPHome .VPHero {
+  position: relative;
+  overflow: clip;
+}
+.VPHome .VPHero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('/dragon-hero-bg.jpg') no-repeat;
+  background-size: cover;
+  background-position: 68% center;
+  pointer-events: none;
+}
+.VPHome .VPHero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(100deg, var(--vp-c-bg) 10%, transparent 58%),
+    linear-gradient(to bottom, transparent 70%, var(--vp-c-bg) 100%);
+  pointer-events: none;
+}
+.VPHome .VPHero .container {
+  position: relative;
+  z-index: 1;
+}
+html.dark .VPHome .VPHero::before {
+  opacity: 0.28;
+}
