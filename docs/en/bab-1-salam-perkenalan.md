@@ -2,7 +2,7 @@
 
 The first chapter where you actually "talk". This chapter's goal is simple: you can greet people, introduce yourself (name + status), ask how someone is, say thank you, apologize, and say goodbye. That's 80% of everyday small talk.
 
-## 1.1 — Greeting: 你好
+## 1.1: Greeting: 你好
 
 
 | Hanzi | Pinyin | Meaning |
@@ -13,7 +13,7 @@ The first chapter where you actually "talk". This chapter's goal is simple: you 
 
 
 ::: info
-您 (nín, "you" formal) is technically outside HSK 1, but super important in real life — used with elders, clients, or anyone who deserves respect. Consider it a bonus.
+您 (nín, "you" formal) is technically outside HSK 1, but super important in real life, used with elders, clients, or anyone who deserves respect. Consider it a bonus.
 :::
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/0342b5aff1e1.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -26,14 +26,14 @@ The first chapter where you actually "talk". This chapter's goal is simple: you 
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why "hello" = 你 + 好?</div>
-<p>你好 literally means "you good" — a mini blessing: "(may) you be well". Mandarin greetings are often wellbeing checks or small blessings, not empty sounds like "hello". That's why the natural follow-up is 你好吗 — "are you well?" — a question pattern that connects directly.</p>
-<p><strong>Same pattern:</strong> 您好 (nín hǎo — polite "you" + good), 上午好 / 下午好 (time + 好), 你好吗 (add 吗 to make it a question).</p>
-<p><strong>Watch out:</strong> 好 here is the adjective 好 hǎo ("good") — the same hanzi will show up everywhere (很好...). One hanzi, a million uses.</p>
+<p>你好 literally means "you good", a mini blessing: "(may) you be well". Mandarin greetings are often wellbeing checks or small blessings, not empty sounds like "hello". That's why the natural follow-up is 你好吗, "are you well?", a question pattern that connects directly.</p>
+<p><strong>Same pattern:</strong> 您好 (nín hǎo, polite "you" + good), 上午好 / 下午好 (time + 好), 你好吗 (add 吗 to make it a question).</p>
+<p><strong>Watch out:</strong> 好 here is the adjective 好 hǎo ("good"), the same hanzi will show up everywhere (很好...). One hanzi, a million uses.</p>
 </div>
 
-## 1.2 — Morning, midday & evening greetings
+## 1.2: Morning, midday & evening greetings
 
-你好 works anytime, but there are time-based variations — all from HSK 1 vocabulary covered in depth in Chapter 2:
+你好 works anytime, but there are time-based variations, all from HSK 1 vocabulary covered in depth in Chapter 2:
 
 | Hanzi | Pinyin | Meaning |
 |---|---|---|
@@ -57,7 +57,7 @@ The first chapter where you actually "talk". This chapter's goal is simple: you 
 When in doubt, **你好** is always safe anytime. The variations above are bonus so your conversations don't get monotonous.
 :::
 
-## 1.3 — Essential politeness
+## 1.3: Essential politeness
 
 
 | Hanzi | Pinyin | Meaning |
@@ -81,16 +81,16 @@ When in doubt, **你好** is always safe anytime. The variations above are bonus
 <div>Sorry! It's okay.</div>
 </div>
 
-Note: 不 in 不客气 is read **bú** — remember the tone sandhi rule from Chapter 0 (不 + tone 4 → bú).
+Note: 不 in 不客气 is read **bú**, remember the tone sandhi rule from Chapter 0 (不 + tone 4 → bú).
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why does politeness always come in pairs?</div>
-<p>Mandarin politeness phrases come as <strong>action → release packages</strong>: 谢谢 (thank you) → 不客气 ("don't be formal" — literally: not + acting like a guest, i.e. releasing the other person from formality); 对不起 (sorry — literally "can't face you") → 没关系 ("it's okay" — literally: no consequence). The logic: lower yourself, free the other person. Bonus: 再见 = 再 (again) + 见 (to meet) → "meet again" = goodbye.</p>
-<p><strong>Same pattern:</strong> the pairing structure itself — every "social debt" always has its "payoff" phrase.</p>
-<p><strong>Watch out:</strong> don't swap the pairs (× 谢谢 → 没关系). And 客气 can also be a verb meaning "to act formal" — context decides.</p>
+<p>Mandarin politeness phrases come as <strong>action → release packages</strong>: 谢谢 (thank you) → 不客气 ("don't be formal", literally: not + acting like a guest, i.e. releasing the other person from formality); 对不起 (sorry, literally "can't face you") → 没关系 ("it's okay", literally: no consequence). The logic: lower yourself, free the other person. Bonus: 再见 = 再 (again) + 见 (to meet) → "meet again" = goodbye.</p>
+<p><strong>Same pattern:</strong> the pairing structure itself, every "social debt" always has its "payoff" phrase.</p>
+<p><strong>Watch out:</strong> don't swap the pairs (× 谢谢 → 没关系). And 客气 can also be a verb meaning "to act formal", context decides.</p>
 </div>
 
-## 1.4 — Personal pronouns: 我你他她
+## 1.4: Personal pronouns: 我你他她
 
 
 | Hanzi | Pinyin | Meaning |
@@ -102,16 +102,16 @@ Note: 不 in 不客气 is read **bú** — remember the tone sandhi rule from Ch
 | 我们 | wǒmen | we / us |
 
 
-他 and 她 are read **exactly the same** (tā) — the difference is only in writing. When speaking, context determines the meaning.
+他 and 她 are read **exactly the same** (tā), the difference is only in writing. When speaking, context determines the meaning.
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why 他 and 她 written differently but sound the same?</div>
-<p>There used to be only 他 for everyone. 她 (with the 女 radical) was only created in the early 20th century, during the May Fourth Movement, because European languages (like English he/she) distinguish gender — intellectuals at the time felt Mandarin was "behind". But spoken language never needed that distinction (context was always enough), which is why tā still sounds exactly the same today. Only the writing changed; the mouth didn't follow along.</p>
-<p><strong>Same pattern:</strong> 你 (you) and 我 (I) were never gendered — only the third person got split.</p>
-<p><strong>Watch out:</strong> in speech, 他/她 can't be distinguished — rely on context. And 您 (nín) is about politeness, not gender.</p>
+<p>There used to be only 他 for everyone. 她 (with the 女 radical) was only created in the early 20th century, during the May Fourth Movement, because European languages (like English he/she) distinguish gender, intellectuals at the time felt Mandarin was "behind". But spoken language never needed that distinction (context was always enough), which is why tā still sounds exactly the same today. Only the writing changed; the mouth didn't follow along.</p>
+<p><strong>Same pattern:</strong> 你 (you) and 我 (I) were never gendered, only the third person got split.</p>
+<p><strong>Watch out:</strong> in speech, 他/她 can't be distinguished, rely on context. And 您 (nín) is about politeness, not gender.</p>
 </div>
 
-## 1.5 — 是: the "to be" pattern
+## 1.5: 是: the "to be" pattern
 
 The most basic pattern in Mandarin: **A 是 B** (A is B). The negative form: **不是** (bú shì).
 
@@ -133,7 +133,7 @@ The most basic pattern in Mandarin: **A 是 B** (A is B). The negative form: **�
 <div>He is not a doctor.</div>
 </div>
 
-## 1.6 — Introducing yourself: 叫 and 名字
+## 1.6: Introducing yourself: 叫 and 名字
 
 
 | Hanzi | Pinyin | Meaning |
@@ -162,14 +162,14 @@ The most basic pattern in Mandarin: **A 是 B** (A is B). The negative form: **�
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why are there 叫 and 是 for "to be"?</div>
-<p>叫 (jiào) is the <strong>name</strong> specialist — literally "to be called": 我叫Aska = "I'm called Aska". 是 (shì) is the general "to be" for identity and status: 我是学生, 他是医生. Simply put: 叫 answers "what's your name?", 是 answers "what/who are you?". 叫 introduces the label on your name tag; 是 explains who you are.</p>
+<p>叫 (jiào) is the <strong>name</strong> specialist, literally "to be called": 我叫Aska = "I'm called Aska". 是 (shì) is the general "to be" for identity and status: 我是学生, 他是医生. Simply put: 叫 answers "what's your name?", 是 answers "what/who are you?". 叫 introduces the label on your name tag; 是 explains who you are.</p>
 <p><strong>Same pattern:</strong> 你叫什么名字？/ 他叫什么名字？(name → 叫) vs 我是老师 / 这是书吗？(identity → 是).</p>
-<p><strong>Watch out:</strong> 我是Aska is also CORRECT — 是 is an all-rounder. 叫 is the name specialist; when in doubt about general identity, 是 is always safe.</p>
+<p><strong>Watch out:</strong> 我是Aska is also CORRECT, 是 is an all-rounder. 叫 is the name specialist; when in doubt about general identity, 是 is always safe.</p>
 </div>
 
-## 1.7 — Asking: 吗 and 呢
+## 1.7: Asking: 吗 and 呢
 
-**吗 (ma)** — stick it at the end of a statement, and it instantly becomes a yes/no question:
+**吗 (ma)**, stick it at the end of a statement, and it instantly becomes a yes/no question:
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/bb0b6bc45375.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">你好吗？</div>
@@ -187,9 +187,9 @@ The answer is simple: **是** (yes) / **不是** (no), or **好** (good).
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why 你好吗 use 吗?</div>
-<p>吗 is a question particle — stick it at the end of a statement and it becomes a yes/no question. 你好 ("you good") + 吗 = "are you good?". No 是 needed because 好 is already its own predicate: in Mandarin, adjectives can directly be predicates without "to be" (你好 = "you [are] good"). That's why the answer is simple too: 好.</p>
+<p>吗 is a question particle, stick it at the end of a statement and it becomes a yes/no question. 你好 ("you good") + 吗 = "are you good?". No 是 needed because 好 is already its own predicate: in Mandarin, adjectives can directly be predicates without "to be" (你好 = "you [are] good"). That's why the answer is simple too: 好.</p>
 <p><strong>Same pattern:</strong> 你是学生吗？(uses 是 because identity needs 是), 这是书吗？, 你去北京吗？(verbs work too).</p>
-<p><strong>Watch out:</strong> 吗 is ONLY for yes/no questions — if there's already a question word (什么/谁/哪儿), 吗 is not allowed in (× 你叫什么名字吗？).</p>
+<p><strong>Watch out:</strong> 吗 is ONLY for yes/no questions, if there's already a question word (什么/谁/哪儿), 吗 is not allowed in (× 你叫什么名字吗？).</p>
 </div>
 
 Six more to make the pattern stick:
@@ -230,7 +230,7 @@ Six more to make the pattern stick:
 <div>Do you want to learn Mandarin?</div>
 </div>
 
-**呢 (ne)** — a follow-up question, meaning "what about ...?" / "and ...?":
+**呢 (ne)**, a follow-up question, meaning "what about ...?" / "and ...?":
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/7391618f2224.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我很好，你呢？</div>
@@ -278,14 +278,14 @@ Six more:
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why 呢 replace repetition?</div>
-<p>呢 is a "bounce-back" particle — it points at the previous question's topic then throws it back to the other person: "..., and you?". So 我很好，你呢？ = "I'm fine — [are] you [fine]?" without repeating 好吗. This is ellipsis powered by shared context: both sides already know what's being asked.</p>
-<p><strong>Same pattern:</strong> the pattern is always [my statement] + 你呢？ — 我叫王明，你呢？/ 我是学生，你呢？/ 我住在北京，你呢？</p>
-<p><strong>Watch out:</strong> 呢 needs something to bounce off — you can't open a conversation with a bare 你呢？. There has to be a statement/question before it.</p>
+<p>呢 is a "bounce-back" particle, it points at the previous question's topic then throws it back to the other person: "..., and you?". So 我很好，你呢？ = "I'm fine, [are] you [fine]?" without repeating 好吗. This is ellipsis powered by shared context: both sides already know what's being asked.</p>
+<p><strong>Same pattern:</strong> the pattern is always [my statement] + 你呢？, 我叫王明，你呢？/ 我是学生，你呢？/ 我住在北京，你呢？</p>
+<p><strong>Watch out:</strong> 呢 needs something to bounce off, you can't open a conversation with a bare 你呢？. There has to be a statement/question before it.</p>
 </div>
 
-## 1.8 — 很 + adjectives
+## 1.8: 很 + adjectives
 
-**很 (hěn)** means "very", BUT before adjectives it's often just a neutral connector — with no "very" feeling:
+**很 (hěn)** means "very", BUT before adjectives it's often just a neutral connector, with no "very" feeling:
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/a229d371f8e2.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我很好，谢谢。</div>
@@ -293,7 +293,7 @@ Six more:
 <div>I'm fine, thank you. (not "very good")</div>
 </div>
 
-The **很 + adjective** pattern will keep showing up — treat it as a mandatory package whenever describing something.
+The **很 + adjective** pattern will keep showing up, treat it as a mandatory package whenever describing something.
 
 Six more:
 
@@ -333,7 +333,7 @@ Six more:
 <div>The student is good.</div>
 </div>
 
-## 1.9 — Dialogue: first introduction
+## 1.9: Dialogue: first introduction
 
 **A:** 你好！你叫什么名字？
 *nǐ hǎo! nǐ jiào shénme míngzi?*
@@ -363,7 +363,7 @@ Great! Goodbye!
 *zàijiàn!*
 Goodbye!
 
-## 1.10 — Dialogue: asking name & where you live
+## 1.10: Dialogue: asking name & where you live
 
 **A:** 你好！你叫什么名字？
 *nǐ hǎo! nǐ jiào shénme míngzi?*
@@ -397,7 +397,7 @@ Thank you! Goodbye!
 *bù kèqi! zàijiàn!*
 You're welcome! Goodbye!
 
-## 1.11 — Dialogue: saying goodbye
+## 1.11: Dialogue: saying goodbye
 
 **A:** 我回家。
 *wǒ huí jiā.*
@@ -513,7 +513,7 @@ Goodbye!
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="reveal" data-explain="Example: 你喜欢喝茶吗？ <span class='quiz-py'>(nǐ xǐhuan hē chá ma?)</span> — other correct answers accepted.">
+<div class="quiz-q" data-type="reveal" data-explain="Example: 你喜欢喝茶吗？ <span class='quiz-py'>(nǐ xǐhuan hē chá ma?)</span>, other correct answers accepted.">
 <p class="quiz-t"><strong>12.</strong> Make one 吗 question using the word 喜欢.</p>
 <button type="button" class="quiz-show">Show answer</button>
 <p class="quiz-fb" hidden></p>
