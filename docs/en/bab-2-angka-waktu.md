@@ -1,8 +1,8 @@
 # Chapter 2: Numbers, Time & Money
 
-Numbers are used everywhere: age, dates, time, prices. The good news: the Mandarin number system is super logical. Memorize 1–10, the rest is just patterns. This chapter also covers time (dates, days, hours) and money — three things that'll let you survive basic conversation.
+Numbers are used everywhere: age, dates, time, prices. The good news: the Mandarin number system is super logical. Memorize 1–10, the rest is just patterns. This chapter also covers time (dates, days, hours) and money, three things that'll let you survive basic conversation.
 
-## 2.1 — Numbers 1–10
+## 2.1: Numbers 1–10
 
 
 | Hanzi | Pinyin | Meaning |
@@ -31,9 +31,9 @@ Numbers are used everywhere: age, dates, time, prices. The good news: the Mandar
 <div>I bought five apples.</div>
 </div>
 
-Note: **个 (gè)** is a general measure word — like "three *pieces of* apple". Details in Chapter 5; for now, treat it as a mandatory attachment every time you count things.
+Note: **个 (gè)** is a general measure word, like "three *pieces of* apple". Details in Chapter 5; for now, treat it as a mandatory attachment every time you count things.
 
-## 2.2 — Teens & tens: just patterns
+## 2.2: Teens & tens: just patterns
 
 The formulas:
 
@@ -52,9 +52,9 @@ The formulas:
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why 二十 = "two-ten"?</div>
-<p>Mandarin numbers are pure math — there are no special words like "twenty" or "thirty". 二十 = "two-ten" = 2×10. A digit in FRONT of 十 means multiplication; a digit BEHIND 十 means addition: 二十一 = 20+1. Once the logic clicks, 99 numbers collapse into one rule.</p>
-<p><strong>Same pattern:</strong> 三十 (3×10), 九十九 (9×10+9), 一百 (1×100 — the same logic one level up).</p>
-<p><strong>Watch out:</strong> 11 is 十一, NOT 一十一 — the 一 in front of 十 is dropped. (But 一百 keeps its 一.)</p>
+<p>Mandarin numbers are pure math, there are no special words like "twenty" or "thirty". 二十 = "two-ten" = 2×10. A digit in FRONT of 十 means multiplication; a digit BEHIND 十 means addition: 二十一 = 20+1. Once the logic clicks, 99 numbers collapse into one rule.</p>
+<p><strong>Same pattern:</strong> 三十 (3×10), 九十九 (9×10+9), 一百 (1×100, the same logic one level up).</p>
+<p><strong>Watch out:</strong> 11 is 十一, NOT 一十一, the 一 in front of 十 is dropped. (But 一百 keeps its 一.)</p>
 </div>
 
 
@@ -64,7 +64,7 @@ The formulas:
 <div>He is 35 years old.</div>
 </div>
 
-## 2.3 — Zero & one hundred
+## 2.3: Zero & one hundred
 
 
 | Hanzi | Pinyin | Meaning |
@@ -74,7 +74,7 @@ The formulas:
 
 
 ::: info
-**百 (bǎi, "hundred")** is technically outside HSK 1, but you need it to say 100 — so let's meet it now. The pattern is easy: [number] + 百.
+**百 (bǎi, "hundred")** is technically outside HSK 1, but you need it to say 100, so let's meet it now. The pattern is easy: [number] + 百.
 :::
 
 零 is used in year numbers: 2026 = **二零二六年** (èr líng èr liù nián), 1990 = **一九九零年** (yī jiǔ jiǔ líng nián).
@@ -85,20 +85,20 @@ The formulas:
 <div>100 yuan.</div>
 </div>
 
-## 2.4 — 二 vs 两: the "two" trap
+## 2.4: 二 vs 两: the "two" trap
 
 ::: info
-**两 (liǎng, "two")** is outside HSK 1 but really important: **二** is used for counting and ordering (二十 = 20, 二月 = February), while **两** goes before measure words to state the amount of things — e.g. **两个人** (liǎng gè rén, "two people"). For HSK 1, 二 is enough; 两 gets the full treatment in HSK 2 prep.
+**两 (liǎng, "two")** is outside HSK 1 but really important: **二** is used for counting and ordering (二十 = 20, 二月 = February), while **两** goes before measure words to state the amount of things, e.g. **两个人** (liǎng gè rén, "two people"). For HSK 1, 二 is enough; 两 gets the full treatment in HSK 2 prep.
 :::
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why are there two versions of "two": 二 vs 两?</div>
-<p>二 (èr) is "math two" — for counting, ordering, and digit positions: 二十 (20), 二月 (February), 二零二六 (2026). 两 (liǎng) is "things two" — for stating the amount of things before a measure word: 两个人 (two people), 两本书 (two books). Supposedly 两 originally meant "a pair" — two things that go together — which is why it only makes sense for concrete things, not abstract numbers.</p>
-<p><strong>Same pattern:</strong> only the number 2 has two versions — 三个人, 一本书 still use regular numbers.</p>
-<p><strong>Watch out:</strong> 20 is 二十, not 两十; but 2000 can be 两千. And 两 is outside HSK 1 — for now, 二 everywhere is safe.</p>
+<p>二 (èr) is "math two", for counting, ordering, and digit positions: 二十 (20), 二月 (February), 二零二六 (2026). 两 (liǎng) is "things two", for stating the amount of things before a measure word: 两个人 (two people), 两本书 (two books). Supposedly 两 originally meant "a pair", two things that go together, which is why it only makes sense for concrete things, not abstract numbers.</p>
+<p><strong>Same pattern:</strong> only the number 2 has two versions, 三个人, 一本书 still use regular numbers.</p>
+<p><strong>Watch out:</strong> 20 is 二十, not 两十; but 2000 can be 两千. And 两 is outside HSK 1, for now, 二 everywhere is safe.</p>
 </div>
 
-## 2.5 — Age: 岁
+## 2.5: Age: 岁
 
 Pattern: **[number] + 岁 (suì)**. Asking age (casual): **你几岁？**
 
@@ -110,9 +110,9 @@ Pattern: **[number] + 岁 (suì)**. Asking age (casual): **你几岁？**
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is age 岁, not 年?</div>
-<p>年 is a calendar year (2026年); 岁 (suì) is a special measure word for age — parallel to 个 for things and 本 for books. Supposedly 岁 relates to ancient harvest cycles: one 岁 = one full round of seasons. Its simplified form (山 + 夕) is just shorthand; the traditional form 歲 keeps the old meaning.</p>
-<p><strong>Same pattern:</strong> [number] + 岁 is always for age — 三岁, 二十岁, 四十五岁; ask with 你几岁？(small numbers) or 你多少岁？(more polite for elders).</p>
-<p><strong>Watch out:</strong> don't use 年 for age (× 我二十年 — that sounds like "a duration of twenty years", weird). 年 is only for calendar years.</p>
+<p>年 is a calendar year (2026年); 岁 (suì) is a special measure word for age, parallel to 个 for things and 本 for books. Supposedly 岁 relates to ancient harvest cycles: one 岁 = one full round of seasons. Its simplified form (山 + 夕) is just shorthand; the traditional form 歲 keeps the old meaning.</p>
+<p><strong>Same pattern:</strong> [number] + 岁 is always for age, 三岁, 二十岁, 四十五岁; ask with 你几岁？(small numbers) or 你多少岁？(more polite for elders).</p>
+<p><strong>Watch out:</strong> don't use 年 for age (× 我二十年, that sounds like "a duration of twenty years", weird). 年 is only for calendar years.</p>
 </div>
 
 
@@ -128,7 +128,7 @@ Pattern: **[number] + 岁 (suì)**. Asking age (casual): **你几岁？**
 <div>How old are you?</div>
 </div>
 
-**Family ages** — same pattern, just swap the subject:
+**Family ages**, same pattern, just swap the subject:
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/c2efa4cadf4d.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我爸爸四十岁。</div>
@@ -160,7 +160,7 @@ Pattern: **[number] + 岁 (suì)**. Asking age (casual): **你几岁？**
 <div>He is 45.</div>
 </div>
 
-## 2.6 — Dates: 年 月 号
+## 2.6: Dates: 年 月 号
 
 Mandarin order: **year → month → date** (big to small). Month = number + 月, date = number + 号.
 
@@ -188,12 +188,12 @@ January = 一月 (yīyuè), February = 二月 (èryuè), December = 十二月 (s
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why is the order 年→月→号 (big→small)?</div>
-<p>Mandarin always starts from the biggest frame then zooms in: 年→月→号 (year→month→date). The same logic everywhere: addresses go country→city→street, names go family name→given name (王明 = "Wang Ming", family name first). Indonesian/Western does the opposite: small→big (October 7, 2026). Neither is more correct — just different zoom directions.</p>
+<p>Mandarin always starts from the biggest frame then zooms in: 年→月→号 (year→month→date). The same logic everywhere: addresses go country→city→street, names go family name→given name (王明 = "Wang Ming", family name first). Indonesian/Western does the opposite: small→big (October 7, 2026). Neither is more correct, just different zoom directions.</p>
 <p><strong>Same pattern:</strong> 中国北京 (country→city), 王明 (family name→given name).</p>
-<p><strong>Watch out:</strong> in casual speech, 年 is often dropped (十月七号 alone is fine) — but the big→small order is never reversed.</p>
+<p><strong>Watch out:</strong> in casual speech, 年 is often dropped (十月七号 alone is fine), but the big→small order is never reversed.</p>
 </div>
 
-## 2.7 — Days: 星期, 今天, 昨天, 明天
+## 2.7: Days: 星期, 今天, 昨天, 明天
 
 
 | Hanzi | Pinyin | Meaning |
@@ -207,14 +207,14 @@ January = 一月 (yīyuè), February = 二月 (èryuè), December = 十二月 (s
 Day names = 星期 + numbers 1–6: 星期一 (Monday) … 星期六 (Saturday).
 
 ::: info
-Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: a week has 7 days, not 6.
+Sunday = **星期天** (xīngqītiān), outside HSK 1, but for completeness: a week has 7 days, not 6.
 :::
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why "week" = 星期 (star + period)?</div>
-<p>星期 = 星 (star) + 期 (period/cycle) — literally "star period". Supposedly the days are named after the seven classical celestial bodies: the sun, the moon, plus the five planets visible to the naked eye. 期 itself just means a repeating cycle. So 星期一 = "star-period number one" = Monday.</p>
-<p><strong>Same pattern:</strong> 星期一 through 星期六 are all numbered with the same logic — like the tens pattern: base word + digit.</p>
-<p><strong>Watch out:</strong> Sunday breaks the pattern — 星期天 (or 星期日), not *星期七. A week has 7 days, but only 6 get numbers.</p>
+<p>星期 = 星 (star) + 期 (period/cycle), literally "star period". Supposedly the days are named after the seven classical celestial bodies: the sun, the moon, plus the five planets visible to the naked eye. 期 itself just means a repeating cycle. So 星期一 = "star-period number one" = Monday.</p>
+<p><strong>Same pattern:</strong> 星期一 through 星期六 are all numbered with the same logic, like the tens pattern: base word + digit.</p>
+<p><strong>Watch out:</strong> Sunday breaks the pattern, 星期天 (or 星期日), not *星期七. A week has 7 days, but only 6 get numbers.</p>
 </div>
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/cfbf013501fe.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
@@ -229,7 +229,7 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 <div>Yesterday was Wednesday.</div>
 </div>
 
-## 2.8 — Time: 点, 分钟, 现在
+## 2.8: Time: 点, 分钟, 现在
 
 
 | Hanzi | Pinyin | Meaning |
@@ -243,9 +243,9 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why "o'clock" = 点 (dot)?</div>
-<p>点 literally means "dot" — an o'clock time is "a dot on the clock face". 三点 = "three dots" = 3 o'clock. Super visual logic: time read as dots on a dial. Its partner: 分钟 = 分 (to divide/minute) + 钟 (bell/clock) → "divisions of the clock" = minute.</p>
-<p><strong>Same pattern:</strong> [number] + 点 for hours (五点, 八点, 三点十分), [number] + 分钟 for minutes — the structure is always number first.</p>
-<p><strong>Watch out:</strong> 点 needs a number in front (× bare 点 for "what time" — it must be 几点？). And 现在 (now) is a time word, not a number.</p>
+<p>点 literally means "dot", an o'clock time is "a dot on the clock face". 三点 = "three dots" = 3 o'clock. Super visual logic: time read as dots on a dial. Its partner: 分钟 = 分 (to divide/minute) + 钟 (bell/clock) → "divisions of the clock" = minute.</p>
+<p><strong>Same pattern:</strong> [number] + 点 for hours (五点, 八点, 三点十分), [number] + 分钟 for minutes, the structure is always number first.</p>
+<p><strong>Watch out:</strong> 点 needs a number in front (× bare 点 for "what time", it must be 几点？). And 现在 (now) is a time word, not a number.</p>
 </div>
 
 
@@ -279,7 +279,7 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 <div>At midday we eat rice.</div>
 </div>
 
-**Daily schedule** — time + activity. The question word for "when": **什么时候** (shénme shíhou):
+**Daily schedule**, time + activity. The question word for "when": **什么时候** (shénme shíhou):
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/c42348d16a6b.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">你什么时候去学校？</div>
@@ -317,7 +317,7 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 <div>I work at 9.</div>
 </div>
 
-**Duration: ...分钟** — the [number] + 分钟 pattern for stating how long:
+**Duration: ...分钟**, the [number] + 分钟 pattern for stating how long:
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/f38c812ba22a.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">我看电视三十分钟。</div>
@@ -337,7 +337,7 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 <div>The movie is 90 minutes.</div>
 </div>
 
-## 2.9 — Money: 钱 & 块
+## 2.9: Money: 钱 & 块
 
 
 | Hanzi | Pinyin | Meaning |
@@ -348,13 +348,13 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 
 <div class="kenapa">
 <div class="kenapa-title">🧩 Why does 钱 carry the "metal" radical?</div>
-<p>钱 (qián, money) carries the metal radical 钅 — because money in ancient times really WAS metal (coins). Its traditional form 錢 = 金 (metal) + 戔, and supposedly 戔 is two 戈 (spears) stacked — yes, the same 戈 that makes 我 and 钱 look alike! Metal + weapons = wartime currency. Then 块 (kuài) literally means "lump/chunk" — used as the spoken measure word for yuan, like saying "bucks" for dollars: 三块钱 = "three bucks".</p>
-<p><strong>Same pattern:</strong> 块 is used like other measure words: 一块钱, 十块钱, 三十块钱 — [number] + 块 (+ 钱).</p>
-<p><strong>Watch out:</strong> 块 is the spoken/casual version — the formal version is different, but for everyday speech (and HSK 1), 块 is what you'll hear.</p>
+<p>钱 (qián, money) carries the metal radical 钅, because money in ancient times really WAS metal (coins). Its traditional form 錢 = 金 (metal) + 戔, and supposedly 戔 is two 戈 (spears) stacked, yes, the same 戈 that makes 我 and 钱 look alike! Metal + weapons = wartime currency. Then 块 (kuài) literally means "lump/chunk", used as the spoken measure word for yuan, like saying "bucks" for dollars: 三块钱 = "three bucks".</p>
+<p><strong>Same pattern:</strong> 块 is used like other measure words: 一块钱, 十块钱, 三十块钱, [number] + 块 (+ 钱).</p>
+<p><strong>Watch out:</strong> 块 is the spoken/casual version, the formal version is different, but for everyday speech (and HSK 1), 块 is what you'll hear.</p>
 </div>
 
 
-**块 (kuài)** is the spoken way to say yuan — like saying "bucks" for dollars. Price pattern: [number] + 块 + 钱.
+**块 (kuài)** is the spoken way to say yuan, like saying "bucks" for dollars. Price pattern: [number] + 块 + 钱.
 
 <div class="contoh"><button class="audio-btn" data-audio="../audio/dacb7e1eb12e.mp3" aria-label="Play pronunciation" title="Listen"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">这是多少钱？</div>
@@ -387,10 +387,10 @@ Sunday = **星期天** (xīngqītiān) — outside HSK 1, but for completeness: 
 </div>
 
 ::: info
-Bargaining vocabulary (expensive/cheap) and change aren't in HSK 1 — that's HSK 2 prep material. For now, the "___多少钱？" + "[number]块钱" pattern is enough for basic shopping.
+Bargaining vocabulary (expensive/cheap) and change aren't in HSK 1, that's HSK 2 prep material. For now, the "___多少钱？" + "[number]块钱" pattern is enough for basic shopping.
 :::
 
-**Dialogue — at the shop (fuller):**
+**Dialogue, at the shop (fuller):**
 
 **A:** 你好！这个多少钱？
 *zhège duōshao qián?*
@@ -420,9 +420,9 @@ You're welcome! Goodbye!
 *zàijiàn!*
 Goodbye!
 
-## 2.10 — Number drill: teens & tens
+## 2.10: Number drill: teens & tens
 
-Memorizing 1–10 isn't enough — your mouth and ears need to go automatic. Read each row 3x, faster each time:
+Memorizing 1–10 isn't enough, your mouth and ears need to go automatic. Read each row 3x, faster each time:
 
 | Hanzi | Pinyin | | Hanzi | Pinyin |
 |---|---|---|---|---|
@@ -436,7 +436,7 @@ Memorizing 1–10 isn't enough — your mouth and ears need to go automatic. Rea
 | 四十四 | sìshísì | | 八十八 | bāshíbā |
 
 ::: tip
-Watch the difference between **十四 (shísì, 14)** vs **四十 (sìshí, 40)** — just reversed order! This is the most classic beginner trap. Say them slowly until the difference is clear.
+Watch the difference between **十四 (shísì, 14)** vs **四十 (sìshí, 40)**, just reversed order! This is the most classic beginner trap. Say them slowly until the difference is clear.
 :::
 
 ## Exercises
@@ -485,7 +485,7 @@ Watch the difference between **十四 (shísì, 14)** vs **四十 (sìshí, 40)*
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 两个人 <span class='quiz-py'>(liǎng gè rén)</span> — because before a measure word (个) to state the amount of things, use 两, not 二.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="B. 两个人 <span class='quiz-py'>(liǎng gè rén)</span>, because before a measure word (个) to state the amount of things, use 两, not 二.">
 <p class="quiz-t"><strong>6.</strong> Choose the correct one ("two people")? Why?</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 二个人</button>
