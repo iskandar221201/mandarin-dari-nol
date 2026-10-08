@@ -11,16 +11,16 @@
 
 > 💡 **Bonus city name**: 上海 (Shànghǎi) = Shanghai. 北京 (Běijīng) = Beijing, already known from HSK 1.
 
-<div class="contoh"><div class="hz">北京比上海大。</div><div class="py">Běijīng bǐ Shànghǎi dà.</div><div class="id">Beijing is bigger than Shanghai.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/1ea58c3b7c2f.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">北京比上海大。</div><div class="py">Běijīng bǐ Shànghǎi dà.</div><div class="id">Beijing is bigger than Shanghai.</div></div>
 
-<div class="contoh"><div class="hz">我比他忙得多。</div><div class="py">Wǒ bǐ tā máng de duō.</div><div class="id">I'm much busier than him.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/5baab7d946e4.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我比他忙得多。</div><div class="py">Wǒ bǐ tā máng de duō.</div><div class="id">I'm much busier than him.</div></div>
 
 Common trap: don't put 很 in a 比 sentence. ✗ 他比我很高 (wrong). 比 already means "more", so the adjective stays bare.
 
 Variation: **A + 没有 + B + 这么/那么 + adjective** = A is not as [adjective] as B.
 > 💡 **Bonus words**: 那么 (nàme) = that (far), 这么 (zhème) = this (near). Used for equal comparisons.
 
-<div class="contoh"><div class="hz">我没有他那么高。</div><div class="py">Wǒ méiyǒu tā nàme gāo.</div><div class="id">I'm not as tall as him.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/fb84a0e58fc9.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我没有他那么高。</div><div class="py">Wǒ méiyǒu tā nàme gāo.</div><div class="id">I'm not as tall as him.</div></div>
 
 ## 8.6 最 (zuì), 非常 (fēicháng), 真 (zhēn)
 
@@ -32,7 +32,7 @@ Three degree boosters:
 | 非常 | very | 我非常喜欢。I like it very much. |
 | 真 | really | 真好吃！Really delicious! |
 
-<div class="contoh"><div class="hz">这是最便宜的。</div><div class="py">Zhè shì zuì piányi de.</div><div class="id">This is the cheapest one.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d8a862e87467.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这是最便宜的。</div><div class="py">Zhè shì zuì piányi de.</div><div class="id">This is the cheapest one.</div></div>
 
 Strength order: 很 (quite) < 非常 (very) < 最 (most). 真 leans toward amazed exclamation.
 
@@ -42,13 +42,13 @@ Two de particles most often confused:
 
 **Verb + 得 + complement** = to what degree/with what result.
 
-<div class="contoh"><div class="hz">他跑得很快。</div><div class="py">Tā pǎo de hěn kuài.</div><div class="id">He runs fast.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e3a9d4e18836.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他跑得很快。</div><div class="py">Tā pǎo de hěn kuài.</div><div class="id">He runs fast.</div></div>
 
-<div class="contoh"><div class="hz">你说得对。</div><div class="py">Nǐ shuō de duì.</div><div class="id">You're right (what you say is correct).</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/f334ed2a10ed.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你说得对。</div><div class="py">Nǐ shuō de duì.</div><div class="id">You're right (what you say is correct).</div></div>
 
 **Adjective + 地 + verb** = in a [adjective] manner.
 
-<div class="contoh"><div class="hz">他高兴地说。</div><div class="py">Tā gāoxìng de shuō.</div><div class="id">He said happily.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/67793c93eedb.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他高兴地说。</div><div class="py">Tā gāoxìng de shuō.</div><div class="id">He said happily.</div></div>
 
 Memory rule: **得 sticks to the verb** (how did it turn out?), **地 sticks to the adjective** (in what manner?). Plus 的 (possessive/modifier), the de trio is complete: 的得地.
 

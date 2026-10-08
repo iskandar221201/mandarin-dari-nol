@@ -9,9 +9,9 @@
 | V + 过 | 我去过中国。 | I have been to China (before). |
 | V + 过 | 你吃过面条吗？ | Have you eaten noodles before? |
 
-<div class="contoh"><div class="hz">我去过北京。</div><div class="py">Wǒ qù guò Běijīng.</div><div class="id">I have been to Beijing.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/969bca967895.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我去过北京。</div><div class="py">Wǒ qù guò Běijīng.</div><div class="id">I have been to Beijing.</div></div>
 
-<div class="contoh"><div class="hz">他没去过中国。</div><div class="py">Tā méi qù guò Zhōngguó.</div><div class="id">He has never been to China.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/856689b557a0.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他没去过中国。</div><div class="py">Tā méi qù guò Zhōngguó.</div><div class="id">He has never been to China.</div></div>
 
 Contrast with 了:
 - 我**吃**了面条。= I ate noodles. (completed event)
@@ -28,9 +28,9 @@ Trap: 过 is for experiences *not* tied to a specific time. With a specific time
 | V + 着 | 门开着。 | The door is open. |
 | V + 着 | 他穿着红衣服。 | He's wearing red clothes. |
 
-<div class="contoh"><div class="hz">门开着，进来吧。</div><div class="py">Mén kāi zhe, jìnlái ba.</div><div class="id">The door is open, come in.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/cded8119679e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">门开着，进来吧。</div><div class="py">Mén kāi zhe, jìnlái ba.</div><div class="id">The door is open, come in.</div></div>
 
-<div class="contoh"><div class="hz">她笑着说。</div><div class="py">Tā xiào zhe shuō.</div><div class="id">She spoke smiling.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d75712e2ac9a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">她笑着说。</div><div class="py">Tā xiào zhe shuō.</div><div class="id">She spoke smiling.</div></div>
 
 Contrast with 正在:
 - 正在 + V = action *in progress*: 他正在吃饭 (he is eating; 饭 = rice/meal, short for 米饭).
@@ -43,9 +43,9 @@ Contrast with 正在:
 | 正在 | in the middle of | 正在 + V | 他正在开会。He is in a meeting. |
 | 已经 | already | 已经 + V + 了 | 我已经吃饭了。I've already eaten. |
 
-<div class="contoh"><div class="hz">别打电话，他正在睡觉。</div><div class="py">Bié dǎ diànhuà, tā zhèngzài shuìjiào.</div><div class="id">Don't call, he's sleeping.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/7b603651e3f8.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">别打电话，他正在睡觉。</div><div class="py">Bié dǎ diànhuà, tā zhèngzài shuìjiào.</div><div class="id">Don't call, he's sleeping.</div></div>
 
-<div class="contoh"><div class="hz">我已经准备好了。</div><div class="py">Wǒ yǐjīng zhǔnbèi hǎo le.</div><div class="id">I'm already ready.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e226e7e4851c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我已经准备好了。</div><div class="py">Wǒ yǐjīng zhǔnbèi hǎo le.</div><div class="id">I'm already ready.</div></div>
 
 > 💡 好 here doesn't mean "good" but is a result complement = "done/complete". 准备好 = preparations complete.
 
@@ -59,7 +59,7 @@ Contrast with 正在:
 
 > 💡 **Bonus word**: 先 (xiān) = first / go ahead. Its opposite is 后 (hòu) = after.
 
-<div class="contoh"><div class="hz">你先走，我就回家。</div><div class="py">Nǐ xiān zǒu, wǒ jiù huí jiā.</div><div class="id">You go first, I'll head home right away.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/6cc6a3f41cf7.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你先走，我就回家。</div><div class="py">Nǐ xiān zǒu, wǒ jiù huí jiā.</div><div class="id">You go first, I'll head home right away.</div></div>
 
 > 💡 **Bonus word**: 又 (yòu) = again (for things that already happened).
 
@@ -92,7 +92,7 @@ Contrast 再 vs 又 (both "again"):
 | 千 | qiān | thousand |
 | 第一 | dìyī | first |
 
-<div class="contoh"><div class="hz">这个多少钱？两百块。</div><div class="py">Zhège duōshao qián? Liǎng bǎi kuài.</div><div class="id">How much is this? Two hundred yuan.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/2ceffefd85da.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这个多少钱？两百块。</div><div class="py">Zhège duōshao qián? Liǎng bǎi kuài.</div><div class="id">How much is this? Two hundred yuan.</div></div>
 
 Rule for 两 vs 二: count objects with 两 (两个人, 两本书), count pure numbers with 二 (一二三).
 
@@ -107,9 +107,9 @@ Rule for 两 vs 二: count objects with 两 (两个人, 两本书), count pure n
 | 可以 | kěyǐ | may/can |
 | 可能 | kěnéng | maybe |
 
-<div class="contoh"><div class="hz">我觉得这个菜很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">I think this is delicious.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/5a1f40fc185c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我觉得这个菜很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">I think this is delicious.</div></div>
 
-<div class="contoh"><div class="hz">明天可能下雨。</div><div class="py">Míngtiān kěnéng xià yǔ.</div><div class="id">It might rain tomorrow.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/7be2f09f22d8.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">明天可能下雨。</div><div class="py">Míngtiān kěnéng xià yǔ.</div><div class="id">It might rain tomorrow.</div></div>
 
 ## Exercises
 

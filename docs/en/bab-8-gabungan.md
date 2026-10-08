@@ -9,14 +9,14 @@ Two mandatory HSK 2 conjunction pairs:
 | 因为 A, 所以 B | 因为下雨，所以我没去。 | Because it rained, I didn't go. |
 | 虽然 A, 但是 B | 虽然很贵，但是很好吃。 | Although expensive, it's delicious. |
 
-<div class="contoh"><div class="hz">因为他生病了，所以没上班。</div><div class="py">Yīnwèi tā shēngbìng le, suǒyǐ méi shàngbān.</div><div class="id">Because he's sick, he didn't go to work.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d53c155c0dd1.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">因为他生病了，所以没上班。</div><div class="py">Yīnwèi tā shēngbìng le, suǒyǐ méi shàngbān.</div><div class="id">Because he's sick, he didn't go to work.</div></div>
 
-<div class="contoh"><div class="hz">虽然很远，但是我很想去。</div><div class="py">Suīrán hěn yuǎn, dànshì wǒ hěn xiǎng qù.</div><div class="id">Although it's far, I really want to go.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/f62b81b6d4a9.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">虽然很远，但是我很想去。</div><div class="py">Suīrán hěn yuǎn, dànshì wǒ hěn xiǎng qù.</div><div class="id">Although it's far, I really want to go.</div></div>
 
 Note: 所以 and 但是 can be dropped in casual speech, but keep them complete for written exams.
 
 Its question partner: **为什么** (wèishénme, why).
-<div class="contoh"><div class="hz">你为什么没来？因为我生病了。</div><div class="py">Nǐ wèishénme méi lái? Yīnwèi wǒ shēngbìng le.</div><div class="id">Why didn't you come? Because I was sick.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/11a80fdff9ea.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你为什么没来？因为我生病了。</div><div class="py">Nǐ wèishénme méi lái? Yīnwèi wǒ shēngbìng le.</div><div class="id">Why didn't you come? Because I was sick.</div></div>
 
 ## 8.9 从, 往, 离: direction & distance
 
@@ -26,9 +26,9 @@ Its question partner: **为什么** (wèishénme, why).
 | 往 | toward | 往 + direction + V | 往左走。Go left. (左 = left, short for 左边) |
 | 离 | away from | A 离 B + distance | 机场离这里很远。The airport is far from here. |
 
-<div class="contoh"><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yī gè xiǎoshí.</div><div class="id">Airport to hotel takes one hour.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/ddcf3d65ceec.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yī gè xiǎoshí.</div><div class="id">Airport to hotel takes one hour.</div></div>
 
-<div class="contoh"><div class="hz">往前走，医院在右边。</div><div class="py">Wǎng qián zǒu, yīyuàn zài yòubian.</div><div class="id">Go straight, the hospital is on the right.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e1e609734686.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">往前走，医院在右边。</div><div class="py">Wǎng qián zǒu, yīyuàn zài yòubian.</div><div class="id">Go straight, the hospital is on the right.</div></div>
 
 ## 8.10 吧 (ba) & 别 (bié): suggestion & prohibition
 
@@ -37,11 +37,11 @@ Its question partner: **为什么** (wèishénme, why).
 | 吧 | soft suggestion | 我们走吧！Let's go! |
 | 别 | don't (prohibition) | 别说话！Don't talk! |
 
-<div class="contoh"><div class="hz">进来坐吧！</div><div class="py">Jìnlái zuò ba!</div><div class="id">Come in and sit!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e251bf9ad536.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">进来坐吧！</div><div class="py">Jìnlái zuò ba!</div><div class="id">Come in and sit!</div></div>
 
 > 💡 **Bonus words**: 担心 (dānxīn) = to worry, 没事 (méi shì) = it's nothing / I'm fine.
 
-<div class="contoh"><div class="hz">别担心，我没事。</div><div class="py">Bié dānxīn, wǒ méi shì.</div><div class="id">Don't worry, I'm fine.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/c239b9d9a490.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">别担心，我没事。</div><div class="py">Bié dānxīn, wǒ méi shì.</div><div class="id">Don't worry, I'm fine.</div></div>
 
 Contrast 别 vs 不/没:
 - 别 = "don't" (command): 别走！(don't go!)
@@ -56,11 +56,11 @@ Mandarin's most iconic pattern. HSK 2 only needs the idea; HSK 3 dissects it ful
 
 > 💡 **Bonus word**: 关 (guān) = to close (opposite of 开 = to open). 上 here is a directional complement = "shut tight".
 
-<div class="contoh"><div class="hz">把门关上。</div><div class="py">Bǎ mén guān shang.</div><div class="id">Close the door.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a9b5f0b27bbd.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">把门关上。</div><div class="py">Bǎ mén guān shang.</div><div class="id">Close the door.</div></div>
 
 > 💡 **Bonus word**: 作业 (zuòyè) = homework/school assignment.
 
-<div class="contoh"><div class="hz">把作业写完。</div><div class="py">Bǎ zuòyè xiě wán.</div><div class="id">Finish the homework.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/0131fac56bbd.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">把作业写完。</div><div class="py">Bǎ zuòyè xiě wán.</div><div class="id">Finish the homework.</div></div>
 
 The point: 把 moves the object before the verb so the result (关上, 写完) becomes the spotlight. If it hasn't clicked yet, that's fine; HSK 3 covers it thoroughly.
 
@@ -75,7 +75,7 @@ The point: 把 moves the object before the verb so the result (关上, 写完) b
 | 还 | hái | still |
 | 也 | yě | also |
 
-<div class="contoh"><div class="hz">这是什么意思？</div><div class="py">Zhè shì shénme yìsi?</div><div class="id">What does this mean?</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/b405d3629400.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这是什么意思？</div><div class="py">Zhè shì shénme yìsi?</div><div class="id">What does this mean?</div></div>
 
 ## Exercises
 

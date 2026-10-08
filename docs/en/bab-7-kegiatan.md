@@ -11,9 +11,9 @@
 | 休息 | xiūxi | to rest |
 | 生病 | shēngbìng | to get sick |
 
-<div class="contoh"><div class="hz">我每天六点起床。</div><div class="py">Wǒ měi tiān liù diǎn qǐchuáng.</div><div class="id">I get up at 6 every day.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a9f6ba428663.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我每天六点起床。</div><div class="py">Wǒ měi tiān liù diǎn qǐchuáng.</div><div class="id">I get up at 6 every day.</div></div>
 
-<div class="contoh"><div class="hz">他生病了，今天不上班。</div><div class="py">Tā shēngbìng le, jīntiān bù shàngbān.</div><div class="id">He's sick; he's not going to work today.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/b5dc176123dc.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他生病了，今天不上班。</div><div class="py">Tā shēngbìng le, jīntiān bù shàngbān.</div><div class="id">He's sick; he's not going to work today.</div></div>
 
 <div class="bedah"><strong>起床</strong> (qǐchuáng) = 起 (to rise) + 床 (bed) → "rise from bed". <strong>上班</strong> (shàngbān) = 上 (to start) + 班 (work shift).</div>
 
@@ -33,9 +33,9 @@
 | 考试 | kǎoshì | exam |
 | 课 | kè | lesson |
 
-<div class="contoh"><div class="hz">我喜欢游泳，不喜欢跑步。</div><div class="py">Wǒ xǐhuan yóuyǒng, bù xǐhuan pǎobù.</div><div class="id">I like swimming, I don't like running.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/2e0bbf7b66d1.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我喜欢游泳，不喜欢跑步。</div><div class="py">Wǒ xǐhuan yóuyǒng, bù xǐhuan pǎobù.</div><div class="id">I like swimming, I don't like running.</div></div>
 
-<div class="contoh"><div class="hz">明天我们去旅游。</div><div class="py">Míngtiān wǒmen qù lǚyóu.</div><div class="id">Tomorrow we're going traveling.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d59d5a6f12ad.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">明天我们去旅游。</div><div class="py">Míngtiān wǒmen qù lǚyóu.</div><div class="id">Tomorrow we're going traveling.</div></div>
 
 <div class="bedah"><strong>游泳</strong> (yóuyǒng) = 游 (to swim) + 泳 (to swim) → two characters both meaning swim. <strong>跑步</strong> (pǎobù) = 跑 (to run) + 步 (step).</div>
 
@@ -68,11 +68,11 @@ Verbs for interacting with people:
 | 完 | wán | to finish |
 | 一起 | yìqǐ | together |
 
-<div class="contoh"><div class="hz">请问，机场怎么走？</div><div class="py">Qǐng wèn, jīchǎng zěnme zǒu?</div><div class="id">Excuse me, how do I get to the airport?</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/297d73d59bd3.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">请问，机场怎么走？</div><div class="py">Qǐng wèn, jīchǎng zěnme zǒu?</div><div class="id">Excuse me, how do I get to the airport?</div></div>
 
-<div class="contoh"><div class="hz">我介绍一下，这是我哥哥。</div><div class="py">Wǒ jièshào yíxià, zhè shì wǒ gēge.</div><div class="id">Let me introduce: this is my older brother.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/28ede772ae75.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我介绍一下，这是我哥哥。</div><div class="py">Wǒ jièshào yíxià, zhè shì wǒ gēge.</div><div class="id">Let me introduce: this is my older brother.</div></div>
 
-<div class="contoh"><div class="hz">谢谢你的帮助！</div><div class="py">Xièxie nǐ de bāngzhù!</div><div class="id">Thanks for your help!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/f3d6f3c2810e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">谢谢你的帮助！</div><div class="py">Xièxie nǐ de bāngzhù!</div><div class="id">Thanks for your help!</div></div>
 
 <div class="bedah"><strong>回答</strong> (huídá) = 回 (to return) + 答 (to answer) → "returned answer" = to answer. <strong>介绍</strong> (jièshào) = 介 (go-between) + 绍 (to connect).</div>
 

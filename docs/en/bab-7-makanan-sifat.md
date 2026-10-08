@@ -13,9 +13,9 @@
 | 咖啡 | kāfēi | coffee |
 | 好吃 | hǎochī | delicious (food) |
 
-<div class="contoh"><div class="hz">我喜欢吃面条。</div><div class="py">Wǒ xǐhuan chī miàntiáo.</div><div class="id">I like eating noodles.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/603290556c0f.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我喜欢吃面条。</div><div class="py">Wǒ xǐhuan chī miàntiáo.</div><div class="id">I like eating noodles.</div></div>
 
-<div class="contoh"><div class="hz">这个咖啡很好喝。</div><div class="py">Zhè ge kāfēi hěn hǎohē.</div><div class="id">This coffee tastes good (to drink).</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/1645bdef6e52.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这个咖啡很好喝。</div><div class="py">Zhè ge kāfēi hěn hǎohē.</div><div class="id">This coffee tastes good (to drink).</div></div>
 
 <div class="bedah"><strong>鸡蛋</strong> (jīdàn, egg) = 鸡 (chicken) + 蛋 (egg) → "chicken egg". <strong>牛奶</strong> (niúnǎi) = 牛 (cow) + 奶 (milk) → "cow milk". Pattern: animal + its product.</div>
 
@@ -76,11 +76,11 @@ A dozen new adjectives. Group them for easy memorizing:
 |---|---|---|
 | 药 | yào | medicine |
 
-<div class="contoh"><div class="hz">今天很忙。</div><div class="py">Jīntiān hěn máng.</div><div class="id">Today is busy.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a8524529e181.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">今天很忙。</div><div class="py">Jīntiān hěn máng.</div><div class="id">Today is busy.</div></div>
 
-<div class="contoh"><div class="hz">这件衣服很便宜。</div><div class="py">Zhè jiàn yīfu hěn piányi.</div><div class="id">This shirt is cheap.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/3a13dee5b3e3.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这件衣服很便宜。</div><div class="py">Zhè jiàn yīfu hěn piányi.</div><div class="id">This shirt is cheap.</div></div>
 
-<div class="contoh"><div class="hz">你答对了！</div><div class="py">Nǐ dá duì le!</div><div class="id">You're right!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/3c0be7bd622c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你答对了！</div><div class="py">Nǐ dá duì le!</div><div class="id">You're right!</div></div>
 
 <div class="bedah"><strong>晴</strong> (qíng, clear) = 日 (sun) + 青 (qīng, sound hint). The 青 sound family again: 请/清/情/晴, all "qing".</div>
 
