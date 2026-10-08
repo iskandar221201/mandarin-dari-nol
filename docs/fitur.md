@@ -1,0 +1,40 @@
+# Fitur Interaktif
+
+Perangkat bantu belajar di luar bab kurikulum. Semua gratis, langsung di browser.
+
+<div class="ft-grid">
+  <a class="ft-card" href="/hanzi-map">
+    <div class="ft-emoji">🗺️</div>
+    <div class="ft-title">Peta Hanzi</div>
+    <div class="ft-desc">Jelajahi kata HSK dari satu karakter. Klik-klik kayak wiki.</div>
+  </a>
+  <a class="ft-card" href="/fitur/kamus">
+    <div class="ft-emoji">📖</div>
+    <div class="ft-title">Kamus Mini</div>
+    <div class="ft-desc">Cari 608 kata HSK 1–3 by hanzi, pinyin, atau arti.</div>
+  </a>
+  <a class="ft-card" href="/fitur/cek-hsk">
+    <div class="ft-emoji">🎯</div>
+    <div class="ft-title">Cek Level HSK</div>
+    <div class="ft-desc">Tempel teks Mandarin, lihat level tiap katanya.</div>
+  </a>
+  <a class="ft-card" href="/fitur/flashcard">
+    <div class="ft-emoji">🃏</div>
+    <div class="ft-title">Flashcard</div>
+    <div class="ft-desc">Latihan kilat bolak-balik kartu kosakata.</div>
+  </a>
+  <a class="ft-card" href="/fitur/pinyin">
+    <div class="ft-emoji">🔤</div>
+    <div class="ft-title">Konverter Pinyin</div>
+    <div class="ft-desc"><code>ni3hao3</code> jadi <code>nǐhǎo</code> otomatis.</div>
+  </a>
+</div>
+
+<style>
+.ft-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; margin: 20px 0; }
+.ft-card { background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); border-radius: 16px; padding: 20px; text-decoration: none !important; transition: transform .15s, box-shadow .15s; display: block; }
+.ft-card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(200,16,46,.12); }
+.ft-emoji { font-size: 2.2rem; }
+.ft-title { font-size: 1.15rem; font-weight: 800; color: var(--vp-c-text-1); margin: 8px 0 4px; }
+.ft-desc { color: var(--vp-c-text-2); font-size: .92rem; }
+</style>
