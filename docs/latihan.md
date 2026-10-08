@@ -1190,3 +1190,306 @@ Cara main:
 </div>
 
 </div>
+
+## Bab 11, Kosakata HSK 3
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/10</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="担心 <span class='quiz-py'>(dānxīn)</span> = &quot;khawatir&quot;.">
+<p class="quiz-t"><strong>1.</strong> 担心 artinya...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. senang</button><button type="button" data-opt="B">B. khawatir</button><button type="button" data-opt="C">C. marah</button><button type="button" data-opt="D">D. takut</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="自行车 <span class='quiz-py'>(zìxíngchē)</span> = &quot;sepeda&quot;.">
+<p class="quiz-t"><strong>2.</strong> "sepeda" dalam Mandarin...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 自行车</button><button type="button" data-opt="B">B. 汽车</button><button type="button" data-opt="C">C. 地铁</button><button type="button" data-opt="D">D. 船</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="胖 <span class='quiz-py'>(pàng)</span> = &quot;gemuk&quot;. Lawannya 瘦 <span class='quiz-py'>(shòu)</span> = &quot;kurus&quot;.">
+<p class="quiz-t"><strong>3.</strong> 胖 artinya...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. kurus</button><button type="button" data-opt="B">B. gemuk</button><button type="button" data-opt="C">C. tinggi</button><button type="button" data-opt="D">D. pendek</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="行李箱 <span class='quiz-py'>(xínglixiāng)</span> = &quot;koper&quot;.">
+<p class="quiz-t"><strong>4.</strong> "koper" dalam Mandarin...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 包</button><button type="button" data-opt="B">B. 行李箱</button><button type="button" data-opt="C">C. 瓶子</button><button type="button" data-opt="D">D. 盘子</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="结婚 <span class='quiz-py'>(jiéhūn)</span> = &quot;menikah&quot;.">
+<p class="quiz-t"><strong>5.</strong> 结婚 artinya...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. bercerai</button><button type="button" data-opt="B">B. menikah</button><button type="button" data-opt="C">C. bertemu</button><button type="button" data-opt="D">D. berpisah</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="忘记 <span class='quiz-py'>(wàngjì)</span> = &quot;lupa&quot;. Lawannya 记得 <span class='quiz-py'>(jìde)</span> = &quot;ingat&quot;.">
+<p class="quiz-t"><strong>6.</strong> "lupa" dalam Mandarin...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 记得</button><button type="button" data-opt="B">B. 忘记</button><button type="button" data-opt="C">C. 明白</button><button type="button" data-opt="D">D. 了解</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="方便 <span class='quiz-py'>(fāngbiàn)</span> = &quot;praktis; nyaman&quot;.">
+<p class="quiz-t"><strong>7.</strong> 方便 artinya...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. sulit</button><button type="button" data-opt="B">B. praktis</button><button type="button" data-opt="C">C. bersih</button><button type="button" data-opt="D">D. kotor</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="pàng" data-explain="胖 <span class='quiz-py'>(pàng)</span>, nada 4.">
+<p class="quiz-t"><strong>8.</strong> Tulis pinyin (dengan tanda nada) dari 胖: ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="pàng">pàng</button><button type="button" data-chip="páng">páng</button><button type="button" data-chip="pāng">pāng</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="jìde" data-explain="记得 <span class='quiz-py'>(jìde)</span> = &quot;ingat&quot;.">
+<p class="quiz-t"><strong>9.</strong> Tulis pinyin (dengan tanda nada) dari 记得: ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="jìde">jìde</button><button type="button" data-chip="jǐde">jǐde</button><button type="button" data-chip="jīděi">jīděi</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我的自行车" data-explain="我的自行车 <span class='quiz-py'>(wǒ de zìxíngchē)</span> = &quot;sepeda saya&quot;.">
+<p class="quiz-t"><strong>10.</strong> Susun jadi frasa:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="自行车">自行车</button>
+<button type="button" draggable="true" data-w="我的">我的</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我需要买新的行李箱。 <span class='quiz-py'>(Wǒ xūyào mǎi xīn de xínglixiāng.)</span>">
+<p class="quiz-t"><strong>11.</strong> "Saya perlu membeli koper baru." → ...</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="他发烧了。 <span class='quiz-py'>(Tā fāshāo le.)</span>">
+<p class="quiz-t"><strong>12.</strong> "Dia sedang demam." → ...</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+</div>
+
+## Bab 12, Tata Bahasa HSK 3
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="走进来 <span class='quiz-py'>(zǒu jìnlái)</span> = &quot;masuk (berjalan)&quot;. 来 = mendekati pembicara.">
+<p class="quiz-t"><strong>1.</strong> Lengkapi: 他走___来了。(Dia masuk.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 出</button><button type="button" data-opt="B">B. 下</button><button type="button" data-opt="C">C. 进</button><button type="button" data-opt="D">D. 回</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="看得完 <span class='quiz-py'>(kàn de wán)</span> = komplemen potensial &quot;bisa&quot;.">
+<p class="quiz-t"><strong>2.</strong> Lengkapi: 这本书我看___完。(Saya bisa selesai membacanya.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 了</button><button type="button" data-opt="B">B. 得</button><button type="button" data-opt="C">C. 过</button><button type="button" data-opt="D">D. 着</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="D" data-explain="做完 <span class='quiz-py'>(zuò wán)</span> = komplemen hasil &quot;selesai&quot;.">
+<p class="quiz-t"><strong>3.</strong> Lengkapi: 我___作业了。(PR saya sudah selesai.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 做着</button><button type="button" data-opt="B">B. 做得</button><button type="button" data-opt="C">C. 做过</button><button type="button" data-opt="D">D. 做完</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="跑得很快 <span class='quiz-py'>(pǎo de hěn kuài)</span> = komplemen keadaan pakai 得.">
+<p class="quiz-t"><strong>4.</strong> Lengkapi: 他跑得___.(Larinya cepat.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 很快</button><button type="button" data-opt="B">B. 很快的</button><button type="button" data-opt="C">C. 快</button><button type="button" data-opt="D">D. 很快地</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="把门关上 <span class='quiz-py'>(bǎ mén guān shang)</span> = pola 把.">
+<p class="quiz-t"><strong>5.</strong> Lengkapi: ___门关上!(Tutup pintunya!)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 被</button><button type="button" data-opt="B">B. 把</button><button type="button" data-opt="C">C. 让</button><button type="button" data-opt="D">D. 跟</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="被偷了 <span class='quiz-py'>(bèi tōu le)</span> = pasif dengan 被.">
+<p class="quiz-t"><strong>6.</strong> Lengkapi: 我的手机___偷了。(HP saya dicuri.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 被</button><button type="button" data-opt="B">B. 把</button><button type="button" data-opt="C">C. 让</button><button type="button" data-opt="D">D. 跟</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="我被他看见了 <span class='quiz-py'>(Wǒ bèi tā kànjiàn le.)</span> = &quot;Saya terlihat olehnya.&quot; Pola: A + 被 + pelaku + V.">
+<p class="quiz-t"><strong>7.</strong> Mana kalimat 被 yang benar?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我把他被看见了。</button><button type="button" data-opt="B">B. 被我他看见了。</button><button type="button" data-opt="C">C. 我被他看见了。</button><button type="button" data-opt="D">D. 我看见被他了。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="不管…都 <span class='quiz-py'>(bùguǎn…dōu)</span> = &quot;tidak peduli…tetap…&quot;.">
+<p class="quiz-t"><strong>8.</strong> Lengkapi: ___下雨，我们___去。(Meski hujan, kita tetap pergi.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 不管...都</button><button type="button" data-opt="B">B. 如果...就</button><button type="button" data-opt="C">C. 因为...所以</button><button type="button" data-opt="D">D. 只有...才</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="只要…就 <span class='quiz-py'>(zhǐyào…jiù)</span> = &quot;asal…pasti…&quot;.">
+<p class="quiz-t"><strong>9.</strong> Lengkapi: ___你努力，就一定成功。(Asal berusaha, pasti sukses.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 如果</button><button type="button" data-opt="B">B. 只要</button><button type="button" data-opt="C">C. 虽然</button><button type="button" data-opt="D">D. 因为</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="不但…而且… <span class='quiz-py'>(búdàn…érqiě…)</span> = &quot;tidak hanya…tapi juga…&quot;.">
+<p class="quiz-t"><strong>10.</strong> Lengkapi: 我喜欢___茶___咖啡。(Teh maupun kopi saya suka.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 一边...一边</button><button type="button" data-opt="B">B. 不但...而且...</button><button type="button" data-opt="C">C. 越...越</button><button type="button" data-opt="D">D. 还是</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="把门关上" data-explain="把门关上 <span class='quiz-py'>(Bǎ mén guān shang.)</span> = &quot;Tutup pintunya!&quot;">
+<p class="quiz-t"><strong>11.</strong> Susun jadi perintah:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="关上">关上</button>
+<button type="button" draggable="true" data-w="把门">把门</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我把作业做完了" data-explain="我把作业做完了 <span class='quiz-py'>(Wǒ bǎ zuòyè zuò wán le.)</span> = &quot;PR saya sudah selesai.&quot;">
+<p class="quiz-t"><strong>12.</strong> Susun jadi kalimat:</p>
+<p class="quiz-hint">💡 Klik kata berurutan, atau seret ke kotak jawaban. Klik kata di kotak untuk mengembalikannya.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="做完了">做完了</button>
+<button type="button" draggable="true" data-w="我把">我把</button>
+<button type="button" draggable="true" data-w="作业">作业</button>
+</div>
+<div class="quiz-drop" data-ph="Taruh jawaban di sini"><span class="quiz-ph">Taruh jawaban di sini</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Cek jawaban</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="他一边看书，一边听音乐。 <span class='quiz-py'>(Tā yìbiān kànshū, yìbiān tīng yīnyuè.)</span>">
+<p class="quiz-t"><strong>13.</strong> "Dia membaca sambil mendengarkan musik." → ...</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="别担心，我马上就好了。 <span class='quiz-py'>(Bié dānxīn, wǒ mǎshàng jiù hǎo le.)</span>">
+<p class="quiz-t"><strong>14.</strong> "Jangan khawatir, saya akan segera sembuh." → ...</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+</div>
+
+## Bab 13, Dialog HSK 3
+
+<div class="quiz">
+<div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="办公室 <span class='quiz-py'>(bàngōngshì)</span> = &quot;kantor&quot;.">
+<p class="quiz-t"><strong>1.</strong> Lengkapi (wawancara):<br>A: 你在哪儿工作?<br>B: 我在___工作。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 公园</button><button type="button" data-opt="B">B. 办公室</button><button type="button" data-opt="C">C. 超市</button><button type="button" data-opt="D">D. 银行</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="早上九点 <span class='quiz-py'>(zǎoshang jiǔ diǎn)</span> = &quot;jam 9 pagi&quot;.">
+<p class="quiz-t"><strong>2.</strong> Lengkapi (rapat):<br>A: 明天的会议几点开始?<br>B: ___九点。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 晚上</button><button type="button" data-opt="B">B. 早上</button><button type="button" data-opt="C">C. 中午</button><button type="button" data-opt="D">D. 下午</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="一直走 <span class='quiz-py'>(yìzhí zǒu)</span> = &quot;jalan terus&quot;.">
+<p class="quiz-t"><strong>3.</strong> Lengkapi (tanya arah):<br>A: 请问，银行在哪儿?<br>B: ___走，就到了。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 一直</button><button type="button" data-opt="B">B. 马上</button><button type="button" data-opt="C">C. 突然</button><button type="button" data-opt="D">D. 终于</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="换一件 <span class='quiz-py'>(huàn yí jiàn)</span> = &quot;tukar satu (helai)&quot;. 件 kata satuan baju.">
+<p class="quiz-t"><strong>4.</strong> Lengkapi (belanja):<br>A: 这件衬衫太小了，我想换___件。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 两</button><button type="button" data-opt="B">B. 一</button><button type="button" data-opt="C">C. 三</button><button type="button" data-opt="D">D. 半</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="正在开会 <span class='quiz-py'>(zhèngzài kāihuì)</span> = &quot;sedang rapat&quot;.">
+<p class="quiz-t"><strong>5.</strong> Lengkapi (telepon):<br>A: 喂，请问王经理在吗?<br>B: 他___开会。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 正在</button><button type="button" data-opt="B">B. 已经</button><button type="button" data-opt="C">C. 刚才</button><button type="button" data-opt="D">D. 马上</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="应该 <span class='quiz-py'>(yīnggāi)</span> = &quot;seharusnya&quot; (saran).">
+<p class="quiz-t"><strong>6.</strong> Lengkapi (curhat):<br>A: 我感冒了，很难受。<br>B: 你___多休息。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 必须</button><button type="button" data-opt="B">B. 应该</button><button type="button" data-opt="C">C. 愿意</button><button type="button" data-opt="D">D. 需要</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="怎么" data-explain="你怎么了? <span class='quiz-py'>(Nǐ zěnme le?)</span> = &quot;Kamu kenapa?&quot;">
+<p class="quiz-t"><strong>7.</strong> Lengkapi:<br>A: 你___不舒服?<br>B: 我头疼。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="怎么">怎么</button><button type="button" data-chip="什么">什么</button><button type="button" data-chip="哪儿">哪儿</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="如果" data-explain="如果明天下雨… <span class='quiz-py'>(Rúguǒ míngtiān xià yǔ…)</span> = &quot;Jika besok hujan…&quot;">
+<p class="quiz-t"><strong>8.</strong> Lengkapi: 明天___下雨，我们去爬山吧。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="如果">如果</button><button type="button" data-chip="因为">因为</button><button type="button" data-chip="虽然">虽然</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你什么时候开始学汉语的? <span class='quiz-py'>(Nǐ shénme shíhou kāishǐ xué Hànyǔ de?)</span>">
+<p class="quiz-t"><strong>9.</strong> "Kapan kamu mulai belajar bahasa Mandarin?" → ...</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="天气很好，我们去公园吧。 <span class='quiz-py'>(Tiānqì hěn hǎo, wǒmen qù gōngyuán ba.)</span>">
+<p class="quiz-t"><strong>10.</strong> "Cuacanya bagus, ayo ke taman." → ...</p>
+<button type="button" class="quiz-show">Lihat jawaban</button>
+<p class="quiz-fb" hidden></p>
+</div>
+</div>
