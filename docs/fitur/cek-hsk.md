@@ -15,8 +15,9 @@ Tempel teks Mandarin di bawah. Tiap kata bakal diwarnai sesuai level HSK-nya, ja
 <div id="ch-output"></div>
 <div id="ch-stats"></div>
 
-<script>
-if (typeof window !== "undefined") (function() {
+<script setup>
+import { onMounted } from 'vue'
+onMounted(() => {
   var WORDS = [];
   var byWord = {};
 
@@ -80,7 +81,7 @@ if (typeof window !== "undefined") (function() {
     WORDS = j;
     j.forEach(function(w) { if (!byWord[w.w]) byWord[w.w] = w; });
   });
-})();
+})
 </script>
 
 <style>

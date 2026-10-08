@@ -27,8 +27,9 @@ Latihan kilat: lihat hanzi, tebak artinya, balik kartunya. Tandai yang sudah haf
   <div class="fc-score" id="fc-score"></div>
 </div>
 
-<script>
-if (typeof window !== "undefined") (function() {
+<script setup>
+import { onMounted } from 'vue'
+onMounted(() => {
   var DATA = [], deck = [], idx = 0, yes = 0, no = 0, flipped = false;
   var area = document.getElementById('fc-area');
 
@@ -82,7 +83,7 @@ if (typeof window !== "undefined") (function() {
   });
 
   fetch('/vocab-data.json').then(function(r) { return r.json(); }).then(function(j) { DATA = j; });
-})();
+})
 </script>
 
 <style>

@@ -14,8 +14,9 @@ Search 608 words from this course. Use hanzi, pinyin (toneless works: `ni` finds
 <div class="km-count" id="km-count"></div>
 <div class="km-results" id="km-results"></div>
 
-<script>
-if (typeof window !== "undefined") (function() {
+<script setup>
+import { onMounted } from 'vue'
+onMounted(() => {
   var DATA = [];
   var input = document.getElementById('km-input');
   var results = document.getElementById('km-results');
@@ -63,7 +64,7 @@ if (typeof window !== "undefined") (function() {
   fetch('/vocab-data.json').then(function(r) { return r.json(); }).then(function(j) {
     DATA = j; search();
   });
-})();
+})
 </script>
 
 <style>

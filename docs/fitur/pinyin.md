@@ -7,8 +7,9 @@ Ketik pinyin pakai angka nada (`ni3 hao3`, `lv4`), otomatis jadi tanda nada (`n�
 <button id="py-copy" type="button">Salin hasil</button></div>
 <div class="py-output" id="py-output"></div>
 
-<script>
-if (typeof window !== "undefined") (function() {
+<script setup>
+import { onMounted } from 'vue'
+onMounted(() => {
   var MARKS = {
     a: ['ā','á','ǎ','à'], e: ['ē','é','ě','è'], i: ['ī','í','ǐ','ì'],
     o: ['ō','ó','ǒ','ò'], u: ['ū','ú','ǔ','ù'], 'v': ['ǖ','ǘ','ǚ','ǜ']
@@ -57,7 +58,7 @@ if (typeof window !== "undefined") (function() {
     var t = document.getElementById('py-output').textContent;
     if (t && navigator.clipboard) navigator.clipboard.writeText(t);
   });
-})();
+})
 </script>
 
 <style>

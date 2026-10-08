@@ -14,8 +14,9 @@ Type **one character** to see every HSK 1–3 word that uses it, grouped by leve
 
 <div id="hm-result"></div>
 
-<script>
-if (typeof window !== "undefined") (function() {
+<script setup>
+import { onMounted, onUnmounted } from 'vue'
+onMounted(() => {
   var DATA = null;
   var result = document.getElementById('hm-result');
   var input = document.getElementById('hm-input');
@@ -122,9 +123,11 @@ if (typeof window !== "undefined") (function() {
   document.getElementById('hm-go').addEventListener('click', go);
   document.getElementById('hm-random').addEventListener('click', random);
   input.addEventListener('keydown', function(e) { if (e.key === 'Enter') go(); });
-  window.addEventListener('hashchange', function() {
+  var onHash = function() {
     render(decodeURIComponent(location.hash.slice(1)));
-  });
+  };
+  window.addEventListener('hashchange', onHash);
+  onUnmounted(function() { window.removeEventListener('hashchange', onHash); });
 
   fetch('/hanzi-map-data.json').then(function(r) { return r.json(); }).then(function(j) {
     DATA = j;
@@ -144,7 +147,7 @@ if (typeof window !== "undefined") (function() {
   }).catch(function() {
     result.innerHTML = '<p class="hm-empty">Failed to load map data.</p>';
   });
-})();
+})
 </script>
 
 <style>

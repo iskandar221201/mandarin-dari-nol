@@ -15,8 +15,9 @@ Paste Chinese text below. Each word gets colored by its HSK level, so you instan
 <div id="ch-output"></div>
 <div id="ch-stats"></div>
 
-<script>
-if (typeof window !== "undefined") (function() {
+<script setup>
+import { onMounted } from 'vue'
+onMounted(() => {
   var WORDS = [];
   var byWord = {};
 
@@ -80,7 +81,7 @@ if (typeof window !== "undefined") (function() {
     WORDS = j;
     j.forEach(function(w) { if (!byWord[w.w]) byWord[w.w] = w; });
   });
-})();
+})
 </script>
 
 <style>
