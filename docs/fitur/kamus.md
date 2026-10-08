@@ -9,6 +9,7 @@ Cari 608 kata dari kurikulum ini. Bisa pakai hanzi, pinyin (boleh tanpa nada: `n
   <button class="km-filter on" data-h="0">Semua</button>
   <button class="km-filter" data-h="1">HSK 1</button>
   <button class="km-filter" data-h="2">HSK 2</button>
+  <button class="km-filter" data-bm="1">★ Bookmark</button>
   <button class="km-filter" data-h="3">HSK 3</button>
 </div>
 <div class="km-count" id="km-count"></div>
@@ -21,7 +22,16 @@ onMounted(() => {
   var input = document.getElementById('km-input');
   var results = document.getElementById('km-results');
   var count = document.getElementById('km-count');
-  var level = 0;
+  var level = 0, bmOnly = false;
+  var BM_KEY = 'km-bookmarks';
+  function getBm() { try { return JSON.parse(localStorage.getItem(BM_KEY) || '[]'); } catch (e) { return []; } }
+  function setBm(a) { try { localStorage.setItem(BM_KEY, JSON.stringify(a)); } catch (e) {} }
+  function isBm(w) { return getBm().indexOf(w) >= 0; }
+  function toggleBm(w) {
+    var a = getBm(), i = a.indexOf(w);
+    if (i >= 0) a.splice(i, 1); else a.push(w);
+    setBm(a); search();
+  }
 
   var TONE_MAP = {'ā':'a','á':'a','ǎ':'a','à':'a','ē':'e','é':'e','ě':'e','è':'e',
     'ī':'i','í':'i','ǐ':'i','ì':'i','ō':'o','ó':'o','ǒ':'o','ò':'o',
@@ -39,6 +49,7 @@ onMounted(() => {
     var q = norm(input.value.trim());
     var out = DATA.filter(function(w) {
       if (level && w.h !== level) return false;
+      if (bmOnly && !isBm(w.w)) return false;
       if (!q) return true;
       return norm(w.w).indexOf(q) >= 0 || norm(w.p).indexOf(q) >= 0 || norm(w.m).toLowerCase().indexOf(q.toLowerCase()) >= 0;
     }).slice(0, 60);
@@ -56,10 +67,21 @@ onMounted(() => {
       document.querySelectorAll('.km-filter').forEach(function(x) { x.classList.remove('on'); });
       b.classList.add('on');
       level = parseInt(b.dataset.h, 10);
+      bmOnly = false;
       search();
     });
   });
   input.addEventListener('input', search);
+  results.addEventListener('click', function(e) {
+    var b = e.target.closest('.km-bm');
+    if (b) { e.stopPropagation(); toggleBm(b.dataset.w); }
+  });
+  var bmBtn = document.querySelector('.km-filter[data-bm]');
+  if (bmBtn) bmBtn.addEventListener('click', function() {
+    document.querySelectorAll('.km-filter').forEach(function(x) { x.classList.remove('on'); });
+    bmBtn.classList.add('on');
+    bmOnly = true; level = 0; search();
+  });
 
   fetch('/vocab-data.json').then(function(r) { return r.json(); }).then(function(j) {
     DATA = j; search();
@@ -74,6 +96,8 @@ onMounted(() => {
 .km-filter.on { background: #C8102E; color: #fff; border-color: #C8102E; }
 .km-count { color: var(--vp-c-text-2); font-size: .9rem; margin-bottom: 12px; }
 .km-results { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
+.km-bm { float: right; border: none; background: none; font-size: 1.15rem; cursor: pointer; color: var(--vp-c-text-2); padding: 0 0 4px 4px; }
+.km-bm.on { color: #C8102E; }
 .km-card { background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 12px; }
 .km-hz { font-size: 1.6rem; font-weight: 700; }
 .km-py { color: #C8102E; }

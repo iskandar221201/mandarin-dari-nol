@@ -437,5 +437,143 @@ export default {
     router.onAfterRouteChanged = () => updateFab()
     // halaman pertama
     setTimeout(updateFab, 300)
+
+    // ---- Zen Focus Timer (persisten antar halaman) ----
+    const ZEN_KEY = 'zen-focus-end'
+    const zenFab = document.createElement('button')
+    zenFab.type = 'button'
+    zenFab.className = 'zen-fab'
+    zenFab.title = 'Zen Focus Timer'
+    zenFab.textContent = '\u{1F3AF}'
+    document.body.appendChild(zenFab)
+
+    const zenOverlay = document.createElement('div')
+    zenOverlay.className = 'zen-overlay'
+    zenOverlay.hidden = true
+    zenOverlay.innerHTML = `
+      <div class="zen-modal">
+        <button type="button" class="zen-close" aria-label="Tutup">\u2715</button>
+        <div class="zen-emoji">\u{1F9D8}</div>
+        <h2 class="zen-title"></h2>
+        <p class="zen-sub"></p>
+        <div class="zen-presets">
+          <button type="button" data-min="15">15</button>
+          <button type="button" data-min="25" class="on">25</button>
+          <button type="button" data-min="50">50</button>
+        </div>
+        <div class="zen-clock">25:00</div>
+        <button type="button" class="zen-start"></button>
+      </div>`
+    document.body.appendChild(zenOverlay)
+
+    const zenPill = document.createElement('div')
+    zenPill.className = 'zen-pill'
+    zenPill.hidden = true
+    zenPill.innerHTML = `<span class="zen-dot"></span><span class="zen-time">25:00</span>
+      <button type="button" class="zen-pause" aria-label="Jeda">\u23F8</button>
+      <button type="button" class="zen-cancel" aria-label="Batal">\u2715</button>`
+    document.body.appendChild(zenPill)
+
+    let zenMin = 25, zenEnd = 0, zenPaused = false, zenLeft = 0, zenTick: any = null
+    const zenIsEN = () => document.documentElement.lang.startsWith('en')
+    const pad = (n: number) => String(n).padStart(2, '0')
+    const fmt = (ms: number) => {
+      const s = Math.max(0, Math.ceil(ms / 1000))
+      return pad(Math.floor(s / 60)) + ':' + pad(s % 60)
+    }
+    const zenTexts = () => ({
+      title: zenIsEN() ? 'Zen Focus Session' : 'Sesi Fokus Zen',
+      sub: zenIsEN() ? 'One timer, one goal. Breathe in, focus on.' : 'Satu timer, satu tujuan. Tarik napas, fokus.',
+      start: zenIsEN() ? 'Start focusing' : 'Mulai fokus',
+      done: zenIsEN() ? 'Done! Take a break.' : 'Selesai! Istirahat dulu.',
+    })
+
+    const zenRender = () => {
+      const left = zenPaused ? zenLeft : zenEnd - Date.now()
+      const txt = fmt(left)
+      zenPill.querySelector('.zen-time')!.textContent = txt
+      const clock = zenOverlay.querySelector('.zen-clock') as HTMLElement | null
+      if (clock && !zenOverlay.hidden) clock.textContent = txt
+      if (left <= 0) zenFinish()
+    }
+    const zenStopTick = () => { if (zenTick) { clearInterval(zenTick); zenTick = null } }
+    const zenFinish = () => {
+      zenStopTick()
+      localStorage.removeItem(ZEN_KEY)
+      zenPill.hidden = true
+      zenFab.style.display = ''
+      const tx = zenTexts()
+      zenOverlay.querySelector('.zen-clock')!.textContent = tx.done
+    }
+    const zenStartTimer = (ms: number) => {
+      zenEnd = Date.now() + ms
+      zenPaused = false
+      localStorage.setItem(ZEN_KEY, String(zenEnd))
+      zenOverlay.hidden = true
+      document.body.style.overflow = ''
+      zenPill.hidden = false
+      zenFab.style.display = 'none'
+      ;(zenPill.querySelector('.zen-pause') as HTMLElement).textContent = '\u23F8'
+      zenStopTick()
+      zenTick = setInterval(zenRender, 500)
+      zenRender()
+    }
+
+    zenFab.addEventListener('click', () => {
+      const tx = zenTexts()
+      ;(zenOverlay.querySelector('.zen-title') as HTMLElement).textContent = tx.title
+      ;(zenOverlay.querySelector('.zen-sub') as HTMLElement).textContent = tx.sub
+      ;(zenOverlay.querySelector('.zen-start') as HTMLElement).textContent = tx.start
+      ;(zenOverlay.querySelector('.zen-clock') as HTMLElement).textContent = zenMin + ':00'
+      zenOverlay.hidden = false
+      document.body.style.overflow = 'hidden'
+    })
+    const zenClose = () => { zenOverlay.hidden = true; document.body.style.overflow = '' }
+    zenOverlay.querySelector('.zen-close')!.addEventListener('click', zenClose)
+    zenOverlay.querySelectorAll('.zen-presets button').forEach((b) => {
+      b.addEventListener('click', () => {
+        zenOverlay.querySelectorAll('.zen-presets button').forEach((x) => x.classList.remove('on'))
+        b.classList.add('on')
+        zenMin = parseInt((b as HTMLElement).dataset.min || '25', 10)
+        ;(zenOverlay.querySelector('.zen-clock') as HTMLElement).textContent = zenMin + ':00'
+      })
+    })
+    zenOverlay.querySelector('.zen-start')!.addEventListener('click', () => zenStartTimer(zenMin * 60 * 1000))
+    zenPill.querySelector('.zen-pause')!.addEventListener('click', () => {
+      const btn = zenPill.querySelector('.zen-pause') as HTMLElement
+      if (zenPaused) {
+        zenEnd = Date.now() + zenLeft
+        localStorage.setItem(ZEN_KEY, String(zenEnd))
+        zenPaused = false
+        btn.textContent = '\u23F8'
+        zenTick = setInterval(zenRender, 500)
+      } else {
+        zenLeft = zenEnd - Date.now()
+        zenPaused = true
+        localStorage.removeItem(ZEN_KEY)
+        btn.textContent = '\u25B6'
+        zenStopTick()
+        zenRender()
+      }
+    })
+    zenPill.querySelector('.zen-cancel')!.addEventListener('click', () => {
+      zenStopTick()
+      localStorage.removeItem(ZEN_KEY)
+      zenPill.hidden = true
+      zenFab.style.display = ''
+    })
+    // lanjutkan timer yang belum selesai setelah reload
+    try {
+      const saved = parseInt(localStorage.getItem(ZEN_KEY) || '0', 10)
+      if (saved - Date.now() > 5000) {
+        zenPill.hidden = false
+        zenFab.style.display = 'none'
+        zenEnd = saved
+        zenTick = setInterval(zenRender, 500)
+        zenRender()
+      } else {
+        localStorage.removeItem(ZEN_KEY)
+      }
+    } catch {}
   },
 }
