@@ -1190,3 +1190,306 @@ How to play:
 </div>
 
 </div>
+
+## Chapter 11, HSK 3 Vocabulary
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/10</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="担心 <span class='quiz-py'>(dānxīn)</span> = &quot;to worry&quot;.">
+<p class="quiz-t"><strong>1.</strong> What does 担心 mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. happy</button><button type="button" data-opt="B">B. worried</button><button type="button" data-opt="C">C. angry</button><button type="button" data-opt="D">D. afraid</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="自行车 <span class='quiz-py'>(zìxíngchē)</span> = &quot;bicycle&quot;.">
+<p class="quiz-t"><strong>2.</strong> "bicycle" in Mandarin...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 自行车</button><button type="button" data-opt="B">B. 汽车</button><button type="button" data-opt="C">C. 地铁</button><button type="button" data-opt="D">D. 船</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="胖 <span class='quiz-py'>(pàng)</span> = &quot;fat&quot;. Opposite: 瘦 <span class='quiz-py'>(shòu)</span> = &quot;thin&quot;.">
+<p class="quiz-t"><strong>3.</strong> What does 胖 mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. thin</button><button type="button" data-opt="B">B. fat</button><button type="button" data-opt="C">C. tall</button><button type="button" data-opt="D">D. short</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="行李箱 <span class='quiz-py'>(xínglixiāng)</span> = &quot;suitcase&quot;.">
+<p class="quiz-t"><strong>4.</strong> "suitcase" in Mandarin...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 包</button><button type="button" data-opt="B">B. 行李箱</button><button type="button" data-opt="C">C. 瓶子</button><button type="button" data-opt="D">D. 盘子</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="结婚 <span class='quiz-py'>(jiéhūn)</span> = &quot;to marry&quot;.">
+<p class="quiz-t"><strong>5.</strong> What does 结婚 mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. to divorce</button><button type="button" data-opt="B">B. to marry</button><button type="button" data-opt="C">C. to meet</button><button type="button" data-opt="D">D. to part</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="忘记 <span class='quiz-py'>(wàngjì)</span> = &quot;to forget&quot;. Opposite: 记得 <span class='quiz-py'>(jìde)</span> = &quot;to remember&quot;.">
+<p class="quiz-t"><strong>6.</strong> "to forget" in Mandarin...</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 记得</button><button type="button" data-opt="B">B. 忘记</button><button type="button" data-opt="C">C. 明白</button><button type="button" data-opt="D">D. 了解</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="方便 <span class='quiz-py'>(fāngbiàn)</span> = &quot;convenient&quot;.">
+<p class="quiz-t"><strong>7.</strong> What does 方便 mean?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. difficult</button><button type="button" data-opt="B">B. convenient</button><button type="button" data-opt="C">C. clean</button><button type="button" data-opt="D">D. dirty</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="pàng" data-explain="胖 <span class='quiz-py'>(pàng)</span>, 4th tone.">
+<p class="quiz-t"><strong>8.</strong> Write the pinyin (with tone marks) of 胖: ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="pàng">pàng</button><button type="button" data-chip="páng">páng</button><button type="button" data-chip="pāng">pāng</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="jìde" data-explain="记得 <span class='quiz-py'>(jìde)</span> = &quot;to remember&quot;.">
+<p class="quiz-t"><strong>9.</strong> Write the pinyin (with tone marks) of 记得: ...</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="jìde">jìde</button><button type="button" data-chip="jǐde">jǐde</button><button type="button" data-chip="jīděi">jīděi</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我的自行车" data-explain="我的自行车 <span class='quiz-py'>(wǒ de zìxíngchē)</span> = &quot;my bicycle&quot;.">
+<p class="quiz-t"><strong>10.</strong> Arrange into a phrase:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="自行车">自行车</button>
+<button type="button" draggable="true" data-w="我的">我的</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="我需要买新的行李箱。 <span class='quiz-py'>(Wǒ xūyào mǎi xīn de xínglixiāng.)</span>">
+<p class="quiz-t"><strong>11.</strong> "I need to buy a new suitcase." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="他发烧了。 <span class='quiz-py'>(Tā fāshāo le.)</span>">
+<p class="quiz-t"><strong>12.</strong> "He has a fever." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+</div>
+
+## Chapter 12, HSK 3 Grammar
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/12</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="走进来 <span class='quiz-py'>(zǒu jìnlái)</span> = &quot;to walk in&quot;. 来 = toward the speaker.">
+<p class="quiz-t"><strong>1.</strong> Complete: 他走___来了。(He came in.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 出</button><button type="button" data-opt="B">B. 下</button><button type="button" data-opt="C">C. 进</button><button type="button" data-opt="D">D. 回</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="看得完 <span class='quiz-py'>(kàn de wán)</span> = potential complement &quot;can&quot;.">
+<p class="quiz-t"><strong>2.</strong> Complete: 这本书我看___完。(I can finish this book.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 了</button><button type="button" data-opt="B">B. 得</button><button type="button" data-opt="C">C. 过</button><button type="button" data-opt="D">D. 着</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="D" data-explain="做完 <span class='quiz-py'>(zuò wán)</span> = result complement &quot;finished&quot;.">
+<p class="quiz-t"><strong>3.</strong> Complete: 我___作业了。(My homework is done.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 做着</button><button type="button" data-opt="B">B. 做得</button><button type="button" data-opt="C">C. 做过</button><button type="button" data-opt="D">D. 做完</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="跑得很快 <span class='quiz-py'>(pǎo de hěn kuài)</span> = state complement with 得.">
+<p class="quiz-t"><strong>4.</strong> Complete: 他跑得___.(He runs fast.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 很快</button><button type="button" data-opt="B">B. 很快的</button><button type="button" data-opt="C">C. 快</button><button type="button" data-opt="D">D. 很快地</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="把门关上 <span class='quiz-py'>(bǎ mén guān shang)</span> = 把 pattern.">
+<p class="quiz-t"><strong>5.</strong> Complete: ___门关上!(Close the door!)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 被</button><button type="button" data-opt="B">B. 把</button><button type="button" data-opt="C">C. 让</button><button type="button" data-opt="D">D. 跟</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="被偷了 <span class='quiz-py'>(bèi tōu le)</span> = passive with 被.">
+<p class="quiz-t"><strong>6.</strong> Complete: 我的手机___偷了。(My phone was stolen.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 被</button><button type="button" data-opt="B">B. 把</button><button type="button" data-opt="C">C. 让</button><button type="button" data-opt="D">D. 跟</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="C" data-explain="我被他看见了 <span class='quiz-py'>(Wǒ bèi tā kànjiàn le.)</span> = &quot;I was seen by him.&quot; Pattern: A + 被 + agent + V.">
+<p class="quiz-t"><strong>7.</strong> Which 被 sentence is correct?</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 我把他被看见了。</button><button type="button" data-opt="B">B. 被我他看见了。</button><button type="button" data-opt="C">C. 我被他看见了。</button><button type="button" data-opt="D">D. 我看见被他了。</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="不管…都 <span class='quiz-py'>(bùguǎn…dōu)</span> = &quot;no matter…still…&quot;.">
+<p class="quiz-t"><strong>8.</strong> Complete: ___下雨，我们___去。(Even if it rains, we'll still go.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 不管...都</button><button type="button" data-opt="B">B. 如果...就</button><button type="button" data-opt="C">C. 因为...所以</button><button type="button" data-opt="D">D. 只有...才</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="只要…就 <span class='quiz-py'>(zhǐyào…jiù)</span> = &quot;as long as…then…&quot;.">
+<p class="quiz-t"><strong>9.</strong> Complete: ___你努力，就一定成功。(As long as you try, you'll succeed.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 如果</button><button type="button" data-opt="B">B. 只要</button><button type="button" data-opt="C">C. 虽然</button><button type="button" data-opt="D">D. 因为</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="不但…而且… <span class='quiz-py'>(búdàn…érqiě…)</span> = &quot;not only…but also…&quot;.">
+<p class="quiz-t"><strong>10.</strong> Complete: 我喜欢___茶___咖啡。(I like both tea and coffee.)</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 一边...一边</button><button type="button" data-opt="B">B. 不但...而且...</button><button type="button" data-opt="C">C. 越...越</button><button type="button" data-opt="D">D. 还是</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="把门关上" data-explain="把门关上 <span class='quiz-py'>(Bǎ mén guān shang.)</span> = &quot;Close the door!&quot;">
+<p class="quiz-t"><strong>11.</strong> Arrange into a command:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="关上">关上</button>
+<button type="button" draggable="true" data-w="把门">把门</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我把作业做完了" data-explain="我把作业做完了 <span class='quiz-py'>(Wǒ bǎ zuòyè zuò wán le.)</span> = &quot;I've finished my homework.&quot;">
+<p class="quiz-t"><strong>12.</strong> Arrange into a sentence:</p>
+<p class="quiz-hint">💡 Click the words in order, or drag them to the answer box. Click a word in the box to return it.</p>
+<div class="quiz-words">
+<button type="button" draggable="true" data-w="做完了">做完了</button>
+<button type="button" draggable="true" data-w="我把">我把</button>
+<button type="button" draggable="true" data-w="作业">作业</button>
+</div>
+<div class="quiz-drop" data-ph="Drop your answer here"><span class="quiz-ph">Drop your answer here</span></div>
+<div class="quiz-actions"><button type="button" class="quiz-check">Check answer</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="他一边看书，一边听音乐。 <span class='quiz-py'>(Tā yìbiān kànshū, yìbiān tīng yīnyuè.)</span>">
+<p class="quiz-t"><strong>13.</strong> "He reads while listening to music." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="别担心，我马上就好了。 <span class='quiz-py'>(Bié dānxīn, wǒ mǎshàng jiù hǎo le.)</span>">
+<p class="quiz-t"><strong>14.</strong> "Don't worry, I'll get well soon." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+</div>
+
+## Chapter 13, HSK 3 Dialogues
+
+<div class="quiz">
+<div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/8</span></div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="办公室 <span class='quiz-py'>(bàngōngshì)</span> = &quot;office&quot;.">
+<p class="quiz-t"><strong>1.</strong> Complete (job interview):<br>A: 你在哪儿工作?<br>B: 我在___工作。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 公园</button><button type="button" data-opt="B">B. 办公室</button><button type="button" data-opt="C">C. 超市</button><button type="button" data-opt="D">D. 银行</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="早上九点 <span class='quiz-py'>(zǎoshang jiǔ diǎn)</span> = &quot;9 in the morning&quot;.">
+<p class="quiz-t"><strong>2.</strong> Complete (meeting):<br>A: 明天的会议几点开始?<br>B: ___九点。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 晚上</button><button type="button" data-opt="B">B. 早上</button><button type="button" data-opt="C">C. 中午</button><button type="button" data-opt="D">D. 下午</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="一直走 <span class='quiz-py'>(yìzhí zǒu)</span> = &quot;go straight&quot;.">
+<p class="quiz-t"><strong>3.</strong> Complete (directions):<br>A: 请问，银行在哪儿?<br>B: ___走，就到了。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 一直</button><button type="button" data-opt="B">B. 马上</button><button type="button" data-opt="C">C. 突然</button><button type="button" data-opt="D">D. 终于</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="换一件 <span class='quiz-py'>(huàn yí jiàn)</span> = &quot;exchange for one&quot;. 件 is the measure word for clothes.">
+<p class="quiz-t"><strong>4.</strong> Complete (shopping):<br>A: 这件衬衫太小了，我想换___件。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 两</button><button type="button" data-opt="B">B. 一</button><button type="button" data-opt="C">C. 三</button><button type="button" data-opt="D">D. 半</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="正在开会 <span class='quiz-py'>(zhèngzài kāihuì)</span> = &quot;in a meeting&quot;.">
+<p class="quiz-t"><strong>5.</strong> Complete (phone):<br>A: 喂，请问王经理在吗?<br>B: 他___开会。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 正在</button><button type="button" data-opt="B">B. 已经</button><button type="button" data-opt="C">C. 刚才</button><button type="button" data-opt="D">D. 马上</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="应该 <span class='quiz-py'>(yīnggāi)</span> = &quot;should&quot; (advice).">
+<p class="quiz-t"><strong>6.</strong> Complete (venting):<br>A: 我感冒了，很难受。<br>B: 你___多休息。</p>
+<div class="quiz-opts">
+<button type="button" data-opt="A">A. 必须</button><button type="button" data-opt="B">B. 应该</button><button type="button" data-opt="C">C. 愿意</button><button type="button" data-opt="D">D. 需要</button>
+</div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="怎么" data-explain="你怎么了? <span class='quiz-py'>(Nǐ zěnme le?)</span> = &quot;What's wrong?&quot;">
+<p class="quiz-t"><strong>7.</strong> Complete:<br>A: 你___不舒服?<br>B: 我头疼。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="怎么">怎么</button><button type="button" data-chip="什么">什么</button><button type="button" data-chip="哪儿">哪儿</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="如果" data-explain="如果明天下雨… <span class='quiz-py'>(Rúguǒ míngtiān xià yǔ…)</span> = &quot;If it rains tomorrow…&quot;">
+<p class="quiz-t"><strong>8.</strong> Complete: 明天___下雨，我们去爬山吧。</p>
+<div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
+<div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="如果">如果</button><button type="button" data-chip="因为">因为</button><button type="button" data-chip="虽然">虽然</button></div>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="你什么时候开始学汉语的? <span class='quiz-py'>(Nǐ shénme shíhou kāishǐ xué Hànyǔ de?)</span>">
+<p class="quiz-t"><strong>9.</strong> "When did you start learning Mandarin?" → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+
+<div class="quiz-q" data-type="reveal" data-explain="天气很好，我们去公园吧。 <span class='quiz-py'>(Tiānqì hěn hǎo, wǒmen qù gōngyuán ba.)</span>">
+<p class="quiz-t"><strong>10.</strong> "The weather is nice, let's go to the park." → ...</p>
+<button type="button" class="quiz-show">Show answer</button>
+<p class="quiz-fb" hidden></p>
+</div>
+</div>
