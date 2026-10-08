@@ -25,6 +25,7 @@ Official HSK 2.0 vocabulary counts (new words per level and cumulative total):
 |---|---|---|---|---|
 | HSK 1 | Chapter 0: Preparation, Chapter 1: Greetings & Introductions, Chapter 2: Numbers, Time & Money, Hanzi Dissection Method, Chapter 3: Radicals & Character Breakdown, Chapter 4: Everyday Vocabulary, Chapter 5: Basic Grammar, Chapter 6: Dialogues & Conversation | 150 | 是/有/在 sentences, 吗/呢/吧 questions, 的 and measure words, time and place adverbials, basic comparison | Available |
 | HSK 2 | Chapter 7: HSK 2 Vocabulary, Chapter 8: HSK 2 Grammar, Chapter 9: HSK 2 Dialogues | +150 (300 total) | 过/着/正在/已经, 比/最, intro to 把, 因为...所以... and 虽然...但是..., 再/就/一下, 得/地 | Available |
+| HSK 3 | Chapter 11: HSK 3 Vocabulary, Chapter 12: HSK 3 Grammar, Chapter 13: HSK 3 Dialogues, Chapter 14: HSK 3 Mock Exam | +300 (600 total) | Complements, full 把/被, compound sentences, special verbs | Available |
 
 Rough CEFR equivalents (unofficial, just a general picture): HSK 1 ≈ A1, HSK 2 ≈ A2.
 

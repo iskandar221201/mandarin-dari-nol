@@ -17,7 +17,7 @@ Angka kosakata resmi HSK 2.0 (kata baru per level dan total kumulatif):
 | HSK 5 | 1.300 | 2.500 |
 | HSK 6 | 2.500 | 5.000 |
 
-**Cakupan situs ini: HSK 1 (150 kata) + HSK 2 (150 kata baru, 300 total).** Jadi kalau kamu menyelesaikan semua bab di sini, kosakatamu setara cakupan HSK 2.
+**Cakupan situs ini: HSK 1 (150 kata) + HSK 2 (150 kata baru, 300 total) + HSK 3 (300 kata baru, 600 total).** Jadi kalau kamu menyelesaikan semua bab di sini, kosakatamu setara cakupan HSK 2.
 
 ## Peta cakupan
 
@@ -25,6 +25,7 @@ Angka kosakata resmi HSK 2.0 (kata baru per level dan total kumulatif):
 |---|---|---|---|---|
 | HSK 1 | Bab 0: Persiapan, Bab 1: Salam & Perkenalan, Bab 2: Angka, Waktu & Uang, Metode Bedah Hanzi, Bab 3: Radikal & Bedah Hanzi, Bab 4: Kosakata Sehari-hari, Bab 5: Tata Bahasa Dasar, Bab 6: Dialog & Percakapan | 150 | Kalimat 是/有/在, tanya 吗/呢/吧, 的 dan kata ukur, keterangan waktu dan tempat, komparasi dasar | Tersedia |
 | HSK 2 | Bab 7: Kosakata HSK 2, Bab 8: Tata Bahasa HSK 2, Bab 9: Dialog HSK 2 | +150 (300 total) | 过/着/正在/已经, 比/最, pengenalan 把, 因为...所以... dan 虽然...但是..., 再/就/一下, 得/地 | Tersedia |
+| HSK 3 | Bab 11: Kosakata HSK 3, Bab 12: Tata Bahasa HSK 3, Bab 13: Dialog HSK 3, Bab 14: Tryout HSK 3 | +300 (600 total) | Komplemen, 把/被 penuh, kalimat majemuk, verba spesial | Tersedia |
 
 Perkiraan level CEFR (bukan resmi, hanya gambaran umum): HSK 1 ≈ A1, HSK 2 ≈ A2.
 

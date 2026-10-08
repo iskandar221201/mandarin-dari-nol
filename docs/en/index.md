@@ -26,8 +26,8 @@ features:
 
 ## How to use this book
 
-This book is structured like a curriculum: read in order starting from **Chapter 0**, do the exercises, and don't skip ahead before the previous chapter is done. The end goal: **pass HSK 2**, 300 core vocabulary words and grammar for richer everyday conversation.
+This book is structured like a curriculum: read in order starting from **Chapter 0**, do the exercises, and don't skip ahead before the previous chapter is done. The end goal: **pass HSK 3**, 600 core vocabulary words and grammar for rich everyday conversation and official exam prep.
 
 ::: info
-This book is alive and keeps growing. Current scope: **zero → HSK 2**. **HSK 3 and beyond** are coming, see the [Roadmap](/en/roadmap).
+This book is alive and keeps growing. Current scope: **zero → HSK 3**. See the [Roadmap](/en/roadmap) for plans beyond.
 :::

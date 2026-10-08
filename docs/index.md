@@ -26,8 +26,8 @@ features:
 
 ## Cara memakai buku ini
 
-Buku ini disusun seperti kurikulum: baca berurutan dari **Bab 0**, kerjakan latihannya, dan jangan melompat bab sebelum bab sebelumnya beres. Target akhirnya: **lulus HSK 2**, 300 kosakata inti dan tata bahasa untuk percakapan sehari-hari yang lebih kaya.
+Buku ini disusun seperti kurikulum: baca berurutan dari **Bab 0**, kerjakan latihannya, dan jangan melompat bab sebelum bab sebelumnya beres. Target akhirnya: **lulus HSK 3**, 600 kosakata inti dan tata bahasa untuk percakapan sehari-hari yang kaya dan persiapan ujian resmi.
 
 ::: info
-Buku ini hidup dan terus dikembangkan. Cakupan saat ini: **nol → HSK 2**. **HSK 3 dan seterusnya** menyusul, lihat [Roadmap](/roadmap).
+Buku ini hidup dan terus dikembangkan. Cakupan saat ini: **nol → HSK 3**. Lihat [Roadmap](/roadmap) untuk rencana level berikutnya.
 :::

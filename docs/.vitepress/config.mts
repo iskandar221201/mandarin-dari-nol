@@ -8,6 +8,7 @@ const idNav = [
     items: [
       { text: 'HSK 1', link: '/kosakata-hsk1' },
       { text: 'HSK 2', link: '/kosakata-hsk2' },
+      { text: 'HSK 3', link: '/kosakata-hsk3' },
     ],
   },
   {
@@ -16,6 +17,7 @@ const idNav = [
       { text: 'Bank Latihan', link: '/latihan' },
       { text: 'Tryout HSK 1', link: '/tryout-hsk1' },
       { text: 'Tryout HSK 2', link: '/bab-10-tryout-hsk2' },
+      { text: 'Tryout HSK 3', link: '/bab-14-tryout-hsk3' },
     ],
   },
   { text: 'Silabus', link: '/silabus' },
@@ -87,6 +89,7 @@ const idSidebar = [
         ],
       },
       { text: 'Daftar Kosakata HSK 1', link: '/kosakata-hsk1' },
+      { text: 'Tryout HSK 1', link: '/tryout-hsk1' },
     ],
   },
   {
@@ -123,6 +126,46 @@ const idSidebar = [
         ],
       },
       { text: 'Daftar Kosakata HSK 2', link: '/kosakata-hsk2' },
+      { text: 'Tryout HSK 2', link: '/bab-10-tryout-hsk2' },
+    ],
+  },
+  {
+    text: 'HSK 3: Makin Serius',
+    collapsed: true,
+    items: [
+      {
+        text: 'Bab 11: Kosakata HSK 3',
+        link: '/bab-11-kosakata-hsk3',
+        collapsed: true,
+        items: [
+          { text: 'Manusia & Masyarakat', link: '/bab-11-manusia-masyarakat' },
+          { text: 'Kegiatan & Kerja', link: '/bab-11-kegiatan-kerja' },
+          { text: 'Benda & Tempat', link: '/bab-11-benda-tempat' },
+          { text: 'Konsep & Kata Fungsi', link: '/bab-11-konsep-fungsi' },
+        ],
+      },
+      {
+        text: 'Bab 12: Tata Bahasa HSK 3',
+        link: '/bab-12-tata-bahasa-hsk3',
+        collapsed: true,
+        items: [
+          { text: 'Komplemen', link: '/bab-12-komplemen' },
+          { text: 'Ba & Bei', link: '/bab-12-ba-bei' },
+          { text: 'Kalimat Majemuk', link: '/bab-12-majemuk' },
+          { text: 'Verba & Keterangan', link: '/bab-12-verba-keterangan' },
+        ],
+      },
+      {
+        text: 'Bab 13: Dialog HSK 3',
+        link: '/bab-13-dialog-hsk3',
+        collapsed: true,
+        items: [
+          { text: 'Dialog 1-3', link: '/bab-13-dialog-1-3' },
+          { text: 'Dialog 4-6', link: '/bab-13-dialog-4-6' },
+        ],
+      },
+      { text: 'Daftar Kosakata HSK 3', link: '/kosakata-hsk3' },
+      { text: 'Tryout HSK 3', link: '/bab-14-tryout-hsk3' },
     ],
   },
   {
@@ -143,6 +186,7 @@ const enNav = [
     items: [
       { text: 'HSK 1', link: '/en/kosakata-hsk1' },
       { text: 'HSK 2', link: '/en/kosakata-hsk2' },
+      { text: 'HSK 3', link: '/en/kosakata-hsk3' },
     ],
   },
   {
@@ -151,6 +195,7 @@ const enNav = [
       { text: 'Exercise Bank', link: '/en/latihan' },
       { text: 'HSK 1 Mock Exam', link: '/en/tryout-hsk1' },
       { text: 'HSK 2 Mock Exam', link: '/en/bab-10-tryout-hsk2' },
+      { text: 'HSK 3 Mock Exam', link: '/en/bab-14-tryout-hsk3' },
     ],
   },
   { text: 'Syllabus', link: '/en/silabus' },
@@ -260,6 +305,45 @@ const enSidebar = [
       },
       { text: 'HSK 2 Vocabulary List', link: '/en/kosakata-hsk2' },
       { text: 'Chapter 10: HSK 2 Mock Exam', link: '/en/bab-10-tryout-hsk2' },
+    ],
+  },
+  {
+    text: 'HSK 3: Getting Serious',
+    collapsed: true,
+    items: [
+      {
+        text: 'Chapter 11: HSK 3 Vocabulary',
+        link: '/en/bab-11-kosakata-hsk3',
+        collapsed: true,
+        items: [
+          { text: 'People & Society', link: '/en/bab-11-manusia-masyarakat' },
+          { text: 'Activities & Work', link: '/en/bab-11-kegiatan-kerja' },
+          { text: 'Things & Places', link: '/en/bab-11-benda-tempat' },
+          { text: 'Concepts & Function Words', link: '/en/bab-11-konsep-fungsi' },
+        ],
+      },
+      {
+        text: 'Chapter 12: HSK 3 Grammar',
+        link: '/en/bab-12-tata-bahasa-hsk3',
+        collapsed: true,
+        items: [
+          { text: 'Complements', link: '/en/bab-12-komplemen' },
+          { text: 'Ba & Bei', link: '/en/bab-12-ba-bei' },
+          { text: 'Compound Sentences', link: '/en/bab-12-majemuk' },
+          { text: 'Verbs & Adverbials', link: '/en/bab-12-verba-keterangan' },
+        ],
+      },
+      {
+        text: 'Chapter 13: HSK 3 Dialogues',
+        link: '/en/bab-13-dialog-hsk3',
+        collapsed: true,
+        items: [
+          { text: 'Dialogues 1-3', link: '/en/bab-13-dialog-1-3' },
+          { text: 'Dialogues 4-6', link: '/en/bab-13-dialog-4-6' },
+        ],
+      },
+      { text: 'HSK 3 Vocabulary List', link: '/en/kosakata-hsk3' },
+      { text: 'Chapter 14: HSK 3 Mock Exam', link: '/en/bab-14-tryout-hsk3' },
     ],
   },
   {
