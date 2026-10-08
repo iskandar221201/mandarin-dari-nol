@@ -88,7 +88,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="再见 <span class='quiz-py'>(zàijiàn)</span>: dua-duanya nada 4.">
 <p class="quiz-t"><strong>10.</strong> Pinyin yang benar untuk 再见 adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. zàijiàn</button><button type="button" data-opt="B">B. zāijiān</button><button type="button" data-opt="C">C. zài jiǎn</button><button type="button" data-opt="D">D. zāijiàn</button>
@@ -133,7 +133,7 @@ Cara main:
 <div class="quiz">
 <div class="quiz-head">🎯 Latihan interaktif <span class="quiz-score">Skor: 0/12</span></div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="你好吗? menanyakan kabar, jadi jawab dengan kabarmu: 我很好,谢谢,你呢? <span class='quiz-py'>(wǒ hěn hǎo, xièxie, nǐ ne?)</span>">
 <p class="quiz-t"><strong>1.</strong> Jawaban yang paling tepat untuk "你好吗?" adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我很好,谢谢,你呢?</button><button type="button" data-opt="B">B. 我是学生。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 对不起。</button>
@@ -154,7 +154,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="呢 dipakai untuk pertanyaan susulan, mis. 我很好,你呢? <span class='quiz-py'>(wǒ hěn hǎo, nǐ ne?)</span> 'kalau kamu?'">
 <p class="quiz-t"><strong>4.</strong> 呢 dipakai untuk...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. pertanyaan ya/tidak</button><button type="button" data-opt="B">B. pertanyaan susulan ("kalau kamu?")</button><button type="button" data-opt="C">C. menyangkal</button><button type="button" data-opt="D">D. memberi perintah</button>
@@ -182,7 +182,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="谢谢 <span class='quiz-py'>(xièxie)</span> artinya 'terima kasih'.">
 <p class="quiz-t"><strong>7.</strong> "Terima kasih" dalam Mandarin adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 对不起</button><button type="button" data-opt="B">B. 谢谢</button><button type="button" data-opt="C">C. 再见</button><button type="button" data-opt="D">D. 没关系</button>
@@ -205,7 +205,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="呢 untuk bertanya balik 'kalau kamu?'. 吗 dipakai untuk pertanyaan ya/tidak.">
 <p class="quiz-t"><strong>10.</strong> Untuk bertanya balik "kalau kamu?" setelah menjawab kabar sendiri, partikelnya...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 吗</button><button type="button" data-opt="B">B. 呢</button><button type="button" data-opt="C">C. 的</button><button type="button" data-opt="D">D. 了</button>
@@ -241,7 +241,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Jawaban 'ya' memakai 是: 是,我是学生。 <span class='quiz-py'>(shì, wǒ shì xuéshēng.)</span>">
 <p class="quiz-t"><strong>15.</strong> Jawaban "ya" untuk "你是学生吗?" adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 是,我是学生。</button><button type="button" data-opt="B">B. 吗是。</button><button type="button" data-opt="C">C. 不吗。</button><button type="button" data-opt="D">D. 我不。</button>
@@ -319,7 +319,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="明天 <span class='quiz-py'>(míngtiān)</span> artinya 'besok'. 今天 'hari ini', 昨天 'kemarin'.">
 <p class="quiz-t"><strong>9.</strong> "Besok" dalam Mandarin adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 今天</button><button type="button" data-opt="B">B. 明天</button><button type="button" data-opt="C">C. 昨天</button><button type="button" data-opt="D">D. 现在</button>
@@ -342,7 +342,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="èr" data-explain="">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="èr" data-explain="一 + 一 = 二 <span class='quiz-py'>(èr)</span>, nada 4.">
 <p class="quiz-t"><strong>12.</strong> 一 + 一 = ... (tulis pinyin jawabannya)</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Ketik jawaban..."><button type="button" class="quiz-check">Cek</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pilih hanzi:</span><button type="button" data-chip="èr">èr</button><button type="button" data-chip="ér">ér</button><button type="button" data-chip="er">er</button></div>
@@ -402,7 +402,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="氵 adalah bentuk radikal air; karakter beradikal ini biasanya berkaitan dengan air atau cairan.">
 <p class="quiz-t"><strong>4.</strong> Kata yang beradikal 氵 (tiga titik air) kemungkinan besar berkaitan dengan...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. air/cairan</button><button type="button" data-opt="B">B. api</button><button type="button" data-opt="C">C. kayu</button><button type="button" data-opt="D">D. logam</button>
@@ -520,7 +520,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="书 <span class='quiz-py'>(shū)</span> artinya 'buku'. 杯子 'cangkir', 桌子 'meja'.">
 <p class="quiz-t"><strong>5.</strong> Pasangan Indonesia–Mandarin yang benar adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. buku – 书</button><button type="button" data-opt="B">B. buku – 杯子</button><button type="button" data-opt="C">C. buku – 桌子</button><button type="button" data-opt="D">D. buku – 椅子</button>
@@ -547,7 +547,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="医生 <span class='quiz-py'>(yīshēng)</span> artinya 'dokter'. 老师 'guru', 学生 'siswa'.">
 <p class="quiz-t"><strong>8.</strong> "Dokter" dalam Mandarin adalah...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 老师</button><button type="button" data-opt="B">B. 医生</button><button type="button" data-opt="C">C. 学生</button><button type="button" data-opt="D">D. 朋友</button>
@@ -689,7 +689,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Benar. Polanya: subjek + keterangan waktu + kata kerja, mis. 我今天去学校.">
 <p class="quiz-t"><strong>10b.</strong> Keterangan waktu diletakkan di antara subjek dan kata kerja. (B/S)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. Benar</button><button type="button" data-opt="S">S. S. Salah</button>
@@ -697,7 +697,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Benar. 吗 selalu di ujung kalimat untuk membuat pertanyaan ya/tidak.">
 <p class="quiz-t"><strong>10c.</strong> 吗 selalu berada di ujung kalimat tanya. (B/S)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. Benar</button><button type="button" data-opt="S">S. S. Salah</button>
@@ -736,7 +736,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Benar. 喜欢 boleh diikuti kata kerja, mis. 喜欢喝茶 <span class='quiz-py'>(xǐhuan hē chá)</span> 'suka minum teh'.">
 <p class="quiz-t"><strong>14b.</strong> Setelah 喜欢 boleh diikuti kata kerja (mis. 喜欢喝茶). (B/S)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. Benar</button><button type="button" data-opt="S">S. S. Salah</button>
@@ -857,7 +857,7 @@ Cara main:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Pertanyaan 'suka makan apa' dijawab dengan 我喜欢吃米饭。 <span class='quiz-py'>(wǒ xǐhuan chī mǐfàn.)</span>">
 <p class="quiz-t"><strong>13.</strong> A: 你喜欢吃什么? Jawaban B yang paling wajar...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我喜欢吃米饭。</button><button type="button" data-opt="B">B. 谢谢。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 我是老师。</button>
