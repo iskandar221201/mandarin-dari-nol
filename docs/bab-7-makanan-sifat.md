@@ -13,9 +13,9 @@
 | 咖啡 | kāfēi | kopi |
 | 好吃 | hǎochī | enak (makanan) |
 
-<div class="contoh"><div class="hz">我喜欢吃面条。</div><div class="py">Wǒ xǐhuan chī miàntiáo.</div><div class="id">Saya suka makan mi.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/603290556c0f.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我喜欢吃面条。</div><div class="py">Wǒ xǐhuan chī miàntiáo.</div><div class="id">Saya suka makan mi.</div></div>
 
-<div class="contoh"><div class="hz">这个咖啡很好喝。</div><div class="py">Zhè ge kāfēi hěn hǎohē.</div><div class="id">Kopi ini enak (diminum).</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/1645bdef6e52.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这个咖啡很好喝。</div><div class="py">Zhè ge kāfēi hěn hǎohē.</div><div class="id">Kopi ini enak (diminum).</div></div>
 
 <div class="bedah"><strong>鸡蛋</strong> (jīdàn, telur) = 鸡 (ayam) + 蛋 (telur) → "telur ayam". <strong>牛奶</strong> (niúnǎi) = 牛 (sapi) + 奶 (susu) → "susu sapi". Pola: hewan + produknya.</div>
 
@@ -76,11 +76,11 @@ Belasan kata sifat baru. Kelompokkan biar gampang ingat:
 |---|---|---|
 | 药 | yào | obat |
 
-<div class="contoh"><div class="hz">今天很忙。</div><div class="py">Jīntiān hěn máng.</div><div class="id">Hari ini sibuk.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a8524529e181.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">今天很忙。</div><div class="py">Jīntiān hěn máng.</div><div class="id">Hari ini sibuk.</div></div>
 
-<div class="contoh"><div class="hz">这件衣服很便宜。</div><div class="py">Zhè jiàn yīfu hěn piányi.</div><div class="id">Baju ini murah.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/3a13dee5b3e3.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这件衣服很便宜。</div><div class="py">Zhè jiàn yīfu hěn piányi.</div><div class="id">Baju ini murah.</div></div>
 
-<div class="contoh"><div class="hz">你答对了！</div><div class="py">Nǐ dá duì le!</div><div class="id">Kamu benar!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/3c0be7bd622c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你答对了！</div><div class="py">Nǐ dá duì le!</div><div class="id">Kamu benar!</div></div>
 
 <div class="bedah"><strong>晴</strong> (qíng, cerah) = 日 (matahari) + 青 (qīng, petunjuk bunyi). Keluarga bunyi 青 lagi: 请/清/情/晴, semuanya "qing".</div>
 

@@ -11,9 +11,9 @@
 | 休息 | xiūxi | istirahat |
 | 生病 | shēngbìng | sakit |
 
-<div class="contoh"><div class="hz">我每天六点起床。</div><div class="py">Wǒ měi tiān liù diǎn qǐchuáng.</div><div class="id">Saya bangun jam 6 setiap hari.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a9f6ba428663.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我每天六点起床。</div><div class="py">Wǒ měi tiān liù diǎn qǐchuáng.</div><div class="id">Saya bangun jam 6 setiap hari.</div></div>
 
-<div class="contoh"><div class="hz">他生病了，今天不上班。</div><div class="py">Tā shēngbìng le, jīntiān bù shàngbān.</div><div class="id">Dia sakit, hari ini tidak masuk kerja.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/b5dc176123dc.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他生病了，今天不上班。</div><div class="py">Tā shēngbìng le, jīntiān bù shàngbān.</div><div class="id">Dia sakit, hari ini tidak masuk kerja.</div></div>
 
 <div class="bedah"><strong>起床</strong> (qǐchuáng) = 起 (bangun) + 床 (tempat tidur) → "bangun dari tempat tidur". <strong>上班</strong> (shàngbān) = 上 (naik/mulai) + 班 (shift kerja).</div>
 
@@ -33,9 +33,9 @@
 | 考试 | kǎoshì | ujian |
 | 课 | kè | pelajaran |
 
-<div class="contoh"><div class="hz">我喜欢游泳，不喜欢跑步。</div><div class="py">Wǒ xǐhuan yóuyǒng, bù xǐhuan pǎobù.</div><div class="id">Saya suka berenang, tidak suka lari.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/2e0bbf7b66d1.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我喜欢游泳，不喜欢跑步。</div><div class="py">Wǒ xǐhuan yóuyǒng, bù xǐhuan pǎobù.</div><div class="id">Saya suka berenang, tidak suka lari.</div></div>
 
-<div class="contoh"><div class="hz">明天我们去旅游。</div><div class="py">Míngtiān wǒmen qù lǚyóu.</div><div class="id">Besok kami pergi wisata.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d59d5a6f12ad.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">明天我们去旅游。</div><div class="py">Míngtiān wǒmen qù lǚyóu.</div><div class="id">Besok kami pergi wisata.</div></div>
 
 <div class="bedah"><strong>游泳</strong> (yóuyǒng) = 游 (berenang) + 泳 (berenang) → dua hanzi yang sama-sama berarti berenang. <strong>跑步</strong> (pǎobù) = 跑 (lari) + 步 (langkah).</div>
 
@@ -68,11 +68,11 @@ Kata kerja untuk berinteraksi dengan orang:
 | 完 | wán | selesai |
 | 一起 | yìqǐ | bersama |
 
-<div class="contoh"><div class="hz">请问，机场怎么走？</div><div class="py">Qǐng wèn, jīchǎng zěnme zǒu?</div><div class="id">Permisi, ke bandara lewat mana?</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/297d73d59bd3.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">请问，机场怎么走？</div><div class="py">Qǐng wèn, jīchǎng zěnme zǒu?</div><div class="id">Permisi, ke bandara lewat mana?</div></div>
 
-<div class="contoh"><div class="hz">我介绍一下，这是我哥哥。</div><div class="py">Wǒ jièshào yíxià, zhè shì wǒ gēge.</div><div class="id">Saya perkenalkan, ini kakak saya.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/28ede772ae75.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我介绍一下，这是我哥哥。</div><div class="py">Wǒ jièshào yíxià, zhè shì wǒ gēge.</div><div class="id">Saya perkenalkan, ini kakak saya.</div></div>
 
-<div class="contoh"><div class="hz">谢谢你的帮助！</div><div class="py">Xièxie nǐ de bāngzhù!</div><div class="id">Terima kasih atas bantuanmu!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/f3d6f3c2810e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">谢谢你的帮助！</div><div class="py">Xièxie nǐ de bāngzhù!</div><div class="id">Terima kasih atas bantuanmu!</div></div>
 
 <div class="bedah"><strong>回答</strong> (huídá) = 回 (kembali) + 答 (jawab) → "jawaban kembali" = menjawab. <strong>介绍</strong> (jièshào) = 介 (perantara) + 绍 (menyambung).</div>
 

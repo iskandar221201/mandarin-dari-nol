@@ -11,16 +11,16 @@
 
 > 💡 **Nama kota bonus**: 上海 (Shànghǎi) = Shanghai. 北京 (Běijīng) = Beijing, sudah dikenal dari HSK 1.
 
-<div class="contoh"><div class="hz">北京比上海大。</div><div class="py">Běijīng bǐ Shànghǎi dà.</div><div class="id">Beijing lebih besar dari Shanghai.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/1ea58c3b7c2f.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">北京比上海大。</div><div class="py">Běijīng bǐ Shànghǎi dà.</div><div class="id">Beijing lebih besar dari Shanghai.</div></div>
 
-<div class="contoh"><div class="hz">我比他忙得多。</div><div class="py">Wǒ bǐ tā máng de duō.</div><div class="id">Saya jauh lebih sibuk darinya.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/5baab7d946e4.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我比他忙得多。</div><div class="py">Wǒ bǐ tā máng de duō.</div><div class="id">Saya jauh lebih sibuk darinya.</div></div>
 
 Jebakan umum: jangan taruh 很 di kalimat 比. ✗ 他比我很高 (salah). 比 sudah mengandung makna "lebih", jadi sifatnya polos.
 
 Variasi: **A + 没有 + B + 这么/那么 + sifat** = A tidak se-[sifat] B.
 > 💡 **Kata bonus**: 那么 (nàme) = begitu (jauh), 这么 (zhème) = begini (dekat). Pasangan untuk perbandingan setara.
 
-<div class="contoh"><div class="hz">我没有他那么高。</div><div class="py">Wǒ méiyǒu tā nàme gāo.</div><div class="id">Saya tidak setinggi dia.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/fb84a0e58fc9.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我没有他那么高。</div><div class="py">Wǒ méiyǒu tā nàme gāo.</div><div class="id">Saya tidak setinggi dia.</div></div>
 
 ## 8.6 最 (zuì), 非常 (fēicháng), 真 (zhēn)
 
@@ -32,7 +32,7 @@ Tiga penguat derajat:
 | 非常 | sangat | 我非常喜欢。Saya sangat suka. |
 | 真 | sungguh | 真好吃！Sungguh enak! |
 
-<div class="contoh"><div class="hz">这是最便宜的。</div><div class="py">Zhè shì zuì piányi de.</div><div class="id">Ini yang paling murah.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d8a862e87467.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这是最便宜的。</div><div class="py">Zhè shì zuì piányi de.</div><div class="id">Ini yang paling murah.</div></div>
 
 Urutan kekuatan: 很 (cukup) < 非常 (sangat) < 最 (paling). 真 lebih ke ekspresi kagum.
 
@@ -42,13 +42,13 @@ Dua partikel de yang paling sering tertukar:
 
 **Verb + 得 + komplemen** = seberapa/ke level apa.
 
-<div class="contoh"><div class="hz">他跑得很快。</div><div class="py">Tā pǎo de hěn kuài.</div><div class="id">Dia larinya cepat.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e3a9d4e18836.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他跑得很快。</div><div class="py">Tā pǎo de hěn kuài.</div><div class="id">Dia larinya cepat.</div></div>
 
-<div class="contoh"><div class="hz">你说得对。</div><div class="py">Nǐ shuō de duì.</div><div class="id">Kamu benar (omonganmu tepat).</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/f334ed2a10ed.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你说得对。</div><div class="py">Nǐ shuō de duì.</div><div class="id">Kamu benar (omonganmu tepat).</div></div>
 
 **Sifat + 地 + verb** = dengan cara [sifat].
 
-<div class="contoh"><div class="hz">他高兴地说。</div><div class="py">Tā gāoxìng de shuō.</div><div class="id">Dia berkata dengan gembira.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/67793c93eedb.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他高兴地说。</div><div class="py">Tā gāoxìng de shuō.</div><div class="id">Dia berkata dengan gembira.</div></div>
 
 Rumus ingatan: **得 nempel ke verb** (hasilnya gimana?), **地 nempel ke sifat** (caranya gimana?). Ditambah 的 (milik/penjelas benda), lengkap sudah trio de: 的得地.
 

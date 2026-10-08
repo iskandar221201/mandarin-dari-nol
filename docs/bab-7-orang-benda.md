@@ -17,11 +17,11 @@ Di HSK 1 kamu kenal 爸爸, 妈妈. HSK 2 melengkapi silsilahnya:
 | 女人 | nǚrén | wanita |
 | 姓 | xìng | nama keluarga; bermarga |
 
-<div class="contoh"><div class="hz">我有两个哥哥。</div><div class="py">Wǒ yǒu liǎng gè gēge.</div><div class="id">Saya punya dua kakak laki-laki.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/0011bad262af.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我有两个哥哥。</div><div class="py">Wǒ yǒu liǎng gè gēge.</div><div class="id">Saya punya dua kakak laki-laki.</div></div>
 
-<div class="contoh"><div class="hz">她是我的妻子。</div><div class="py">Tā shì wǒ de qīzi.</div><div class="id">Dia adalah istri saya.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/fef1daf98bb2.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">她是我的妻子。</div><div class="py">Tā shì wǒ de qīzi.</div><div class="id">Dia adalah istri saya.</div></div>
 
-<div class="contoh"><div class="hz">你贵姓？</div><div class="py">Nǐ guì xìng?</div><div class="id">Siapa nama keluarga Anda? (sopan)</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/98dc794aa0f7.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你贵姓？</div><div class="py">Nǐ guì xìng?</div><div class="id">Siapa nama keluarga Anda? (sopan)</div></div>
 
 > 💡 贵 (guì, "mahal/mulia") di sini bentuk sopan dari 姓. Detailnya dibahas di §7.7.
 
@@ -38,11 +38,11 @@ Catatan: 男人/女人 = 男/女 + 人, pola yang rapi. 丈夫/妻子 adalah pas
 | 大家 | dàjiā | semua orang |
 | 每 | měi | setiap |
 
-<div class="contoh"><div class="hz">您好！欢迎！</div><div class="py">Nín hǎo! Huānyíng!</div><div class="id">Halo (sopan)! Selamat datang!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/26fabaa8d1a6.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">您好！欢迎！</div><div class="py">Nín hǎo! Huānyíng!</div><div class="id">Halo (sopan)! Selamat datang!</div></div>
 
-<div class="contoh"><div class="hz">大家都喜欢他。</div><div class="py">Dàjiā dōu xǐhuan tā.</div><div class="id">Semua orang suka dia.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/fc1a7392570c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">大家都喜欢他。</div><div class="py">Dàjiā dōu xǐhuan tā.</div><div class="id">Semua orang suka dia.</div></div>
 
-<div class="contoh"><div class="hz">每天我都跑步。</div><div class="py">Měi tiān wǒ dōu pǎobù.</div><div class="id">Setiap hari saya lari.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/0bb86f561d9e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">每天我都跑步。</div><div class="py">Měi tiān wǒ dōu pǎobù.</div><div class="id">Setiap hari saya lari.</div></div>
 
 Pola penting: **每 + kata benda + 都**. 每 (setiap) hampir selalu berpasangan dengan 都 (semua): 每天都, 每个人都.
 
@@ -61,9 +61,9 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 | 票 | piào | tiket/karcis |
 | 颜色 | yánsè | warna |
 
-<div class="contoh"><div class="hz">我的房间很大。</div><div class="py">Wǒ de fángjiān hěn dà.</div><div class="id">Kamarku besar.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a4e06fa786c5.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我的房间很大。</div><div class="py">Wǒ de fángjiān hěn dà.</div><div class="id">Kamarku besar.</div></div>
 
-<div class="contoh"><div class="hz">这个手机很贵。</div><div class="py">Zhè ge shǒujī hěn guì.</div><div class="id">Ponsel ini mahal.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/0d2f440c98d4.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这个手机很贵。</div><div class="py">Zhè ge shǒujī hěn guì.</div><div class="id">Ponsel ini mahal.</div></div>
 
 <div class="bedah"><strong>手机</strong> (shǒujī, ponsel) = 手 (tangan) + 机 (mesin) → "mesin tangan". <strong>手表</strong> (shǒubiǎo) = 手 + 表 (tampilan) → "tampilan tangan" = jam tangan.</div>
 
@@ -84,11 +84,11 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 | 旁边 | pángbiān | samping |
 | 服务员 | fúwùyuán | pelayan |
 
-<div class="contoh"><div class="hz">机场在左边。</div><div class="py">Jīchǎng zài zuǒbian.</div><div class="id">Bandara di sebelah kiri.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/065971934754.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">机场在左边。</div><div class="py">Jīchǎng zài zuǒbian.</div><div class="id">Bandara di sebelah kiri.</div></div>
 
 > 💡 **Kata bonus** (di luar HSK 2, tapi wajib tahu di restoran): 买单 (mǎidān) = minta bon/bayar.
 
-<div class="contoh"><div class="hz">服务员，买单！</div><div class="py">Fúwùyuán, mǎidān!</div><div class="id">Pelayan, minta bon!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/19b2633e4db3.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">服务员，买单！</div><div class="py">Fúwùyuán, mǎidān!</div><div class="id">Pelayan, minta bon!</div></div>
 
 <div class="bedah"><strong>机场</strong> (jīchǎng, bandara) = 机 (mesin/pesawat) + 场 (lapangan) → "lapangan pesawat". <strong>火车站</strong> = 火车 (kereta api) + 站 (stasiun).</div>
 
@@ -99,9 +99,9 @@ Lengkap sudah trio tā: 他 (dia lk) · 她 (dia pr) · 它 (dia benda). Dibaca 
 | 眼睛 | yǎnjing | mata |
 | 身体 | shēntǐ | badan/tubuh |
 
-<div class="contoh"><div class="hz">我的眼睛很累。</div><div class="py">Wǒ de yǎnjing hěn lèi.</div><div class="id">Mataku lelah.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/65acb0836ec2.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我的眼睛很累。</div><div class="py">Wǒ de yǎnjing hěn lèi.</div><div class="id">Mataku lelah.</div></div>
 
-<div class="contoh"><div class="hz">我的身体很好。</div><div class="py">Wǒ de shēntǐ hěn hǎo.</div><div class="id">Badanku sehat-sehat saja.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/efcc19411a3c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我的身体很好。</div><div class="py">Wǒ de shēntǐ hěn hǎo.</div><div class="id">Badanku sehat-sehat saja.</div></div>
 
 ## Latihan
 

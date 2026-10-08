@@ -9,14 +9,14 @@ Dua pasang konjungsi wajib HSK 2:
 | 因为 A, 所以 B | 因为下雨，所以我没去。 | Karena hujan, jadi saya tidak pergi. |
 | 虽然 A, 但是 B | 虽然很贵，但是很好吃。 | Walaupun mahal, tapi enak. |
 
-<div class="contoh"><div class="hz">因为他生病了，所以没上班。</div><div class="py">Yīnwèi tā shēngbìng le, suǒyǐ méi shàngbān.</div><div class="id">Karena dia sakit, jadi tidak masuk kerja.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d53c155c0dd1.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">因为他生病了，所以没上班。</div><div class="py">Yīnwèi tā shēngbìng le, suǒyǐ méi shàngbān.</div><div class="id">Karena dia sakit, jadi tidak masuk kerja.</div></div>
 
-<div class="contoh"><div class="hz">虽然很远，但是我很想去。</div><div class="py">Suīrán hěn yuǎn, dànshì wǒ hěn xiǎng qù.</div><div class="id">Walaupun jauh, tapi saya sangat ingin pergi.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/f62b81b6d4a9.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">虽然很远，但是我很想去。</div><div class="py">Suīrán hěn yuǎn, dànshì wǒ hěn xiǎng qù.</div><div class="id">Walaupun jauh, tapi saya sangat ingin pergi.</div></div>
 
 Catatan: 所以 dan 但是 boleh dihilangkan dalam percakapan santai, tapi untuk ujian tulis lengkapnya.
 
 Kata tanya pasangannya: **为什么** (wèishénme, kenapa).
-<div class="contoh"><div class="hz">你为什么没来？因为我生病了。</div><div class="py">Nǐ wèishénme méi lái? Yīnwèi wǒ shēngbìng le.</div><div class="id">Kenapa kamu tidak datang? Karena saya sakit.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/11a80fdff9ea.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你为什么没来？因为我生病了。</div><div class="py">Nǐ wèishénme méi lái? Yīnwèi wǒ shēngbìng le.</div><div class="id">Kenapa kamu tidak datang? Karena saya sakit.</div></div>
 
 ## 8.9 从, 往, 离: arah & jarak
 
@@ -26,9 +26,9 @@ Kata tanya pasangannya: **为什么** (wèishénme, kenapa).
 | 往 | ke arah | 往 + arah + V | 往左走。Jalan ke kiri. (左 = kiri, bentuk pendek dari 左边) |
 | 离 | berjarak | A 离 B + jarak | 机场离这里很远。Bandara jauh dari sini. |
 
-<div class="contoh"><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yī gè xiǎoshí.</div><div class="id">Dari bandara ke hotel butuh satu jam.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/ddcf3d65ceec.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">从机场到宾馆要一个小时。</div><div class="py">Cóng jīchǎng dào bīnguǎn yào yī gè xiǎoshí.</div><div class="id">Dari bandara ke hotel butuh satu jam.</div></div>
 
-<div class="contoh"><div class="hz">往前走，医院在右边。</div><div class="py">Wǎng qián zǒu, yīyuàn zài yòubian.</div><div class="id">Jalan lurus, rumah sakit di kanan.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e1e609734686.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">往前走，医院在右边。</div><div class="py">Wǎng qián zǒu, yīyuàn zài yòubian.</div><div class="id">Jalan lurus, rumah sakit di kanan.</div></div>
 
 ## 8.10 吧 (ba) & 别 (bié): ajakan & larangan
 
@@ -37,11 +37,11 @@ Kata tanya pasangannya: **为什么** (wèishénme, kenapa).
 | 吧 | ajakan halus | 我们走吧！Ayo pergi! |
 | 别 | jangan (larangan) | 别说话！Jangan bicara! |
 
-<div class="contoh"><div class="hz">进来坐吧！</div><div class="py">Jìnlái zuò ba!</div><div class="id">Masuk dan duduklah!</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e251bf9ad536.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">进来坐吧！</div><div class="py">Jìnlái zuò ba!</div><div class="id">Masuk dan duduklah!</div></div>
 
 > 💡 **Kata bonus**: 担心 (dānxīn) = khawatir, 没事 (méi shì) = tidak apa-apa/baik-baik saja.
 
-<div class="contoh"><div class="hz">别担心，我没事。</div><div class="py">Bié dānxīn, wǒ méi shì.</div><div class="id">Jangan khawatir, aku baik-baik saja.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/c239b9d9a490.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">别担心，我没事。</div><div class="py">Bié dānxīn, wǒ méi shì.</div><div class="id">Jangan khawatir, aku baik-baik saja.</div></div>
 
 Bedakan 别 vs 不/没:
 - 别 = "jangan" (perintah larangan): 别走！(jangan pergi!)
@@ -56,11 +56,11 @@ Pola paling khas Mandarin. HSK 2 cukup kenal idenya; versi penuh di HSK 3.
 
 > 💡 **Kata bonus**: 关 (guān) = tutup (lawan kata 开 = buka). 上 di sini komplemen arah = "tertutup rapat".
 
-<div class="contoh"><div class="hz">把门关上。</div><div class="py">Bǎ mén guān shang.</div><div class="id">Tutup pintunya.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/a9b5f0b27bbd.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">把门关上。</div><div class="py">Bǎ mén guān shang.</div><div class="id">Tutup pintunya.</div></div>
 
 > 💡 **Kata bonus**: 作业 (zuòyè) = PR/tugas sekolah.
 
-<div class="contoh"><div class="hz">把作业写完。</div><div class="py">Bǎ zuòyè xiě wán.</div><div class="id">Selesaikan PR-nya.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/0131fac56bbd.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">把作业写完。</div><div class="py">Bǎ zuòyè xiě wán.</div><div class="id">Selesaikan PR-nya.</div></div>
 
 Intinya: 把 memindahkan objek ke depan verb supaya hasilnya (关上, 写完) jadi sorotan. Kalau belum klik, tidak apa-apa, di HSK 3 dibedah tuntas.
 
@@ -75,7 +75,7 @@ Intinya: 把 memindahkan objek ke depan verb supaya hasilnya (关上, 写完) ja
 | 还 | hái | masih |
 | 也 | yě | juga |
 
-<div class="contoh"><div class="hz">这是什么意思？</div><div class="py">Zhè shì shénme yìsi?</div><div class="id">Apa maksudnya ini?</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/b405d3629400.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这是什么意思？</div><div class="py">Zhè shì shénme yìsi?</div><div class="id">Apa maksudnya ini?</div></div>
 
 ## Latihan
 

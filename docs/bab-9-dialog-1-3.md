@@ -2,31 +2,31 @@
 
 ## Dialog 1: Telepon
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/c76f9304c2b5.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 喂，你好！请问是王先生吗？</div>
 <div class="py">Wéi, nǐ hǎo! Qǐng wèn shì Wáng xiānsheng ma?</div>
 <div>Halo! Apakah ini Bapak Wang?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/01f7cb82b74b.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 对，我是。你是哪位？</div>
 <div class="py">Duì, wǒ shì. Nǐ shì nǎ wèi?</div>
 <div>Betul, saya. Anda siapa?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/035af5c88640.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 我是 Aska公司的，我想找李经理。</div>
 <div class="py">Wǒ shì Aska gōngsī de, wǒ xiǎng zhǎo Lǐ jīnglǐ.</div>
 <div>Saya dari perusahaan Aska, saya ingin bicara dengan Manajer Li.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/a47772209d35.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 他正在开会，你等一下。</div>
 <div class="py">Tā zhèngzài kāi huì, nǐ děng yíxià.</div>
 <div>Dia sedang rapat, tunggu sebentar.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/c4ebe8868e3a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 好，我等。谢谢！</div>
 <div class="py">Hǎo, wǒ děng. Xièxie!</div>
 <div>Baik, saya tunggu. Terima kasih!</div>
@@ -48,31 +48,31 @@
 
 ## Dialog 2: Di kantor
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/828f0556b8bc.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 大家好！我是新来的，我叫刘明。</div>
 <div class="py">Dàjiā hǎo! Wǒ shì xīn lái de, wǒ jiào Liú Míng.</div>
 <div>Halo semuanya! Saya orang baru, nama saya Liu Ming.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/433d1fa7870e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 欢迎欢迎！你以前在哪儿工作？</div>
 <div class="py">Huānyíng huānyíng! Nǐ yǐqián zài nǎr gōngzuò?</div>
 <div>Selamat datang! Dulu kamu kerja di mana?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/b7583f5707f7.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 我以前在上海工作，因为公司搬了，所以我来了北京。</div>
 <div class="py">Wǒ yǐqián zài Shànghǎi gōngzuò, yīnwèi gōngsī bān le, suǒyǐ wǒ lái le Běijīng.</div>
 <div>Dulu saya kerja di Shanghai, karena perusahaan pindah, jadi saya ke Beijing.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/8b8144accb5a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 北京比上海大得多，你觉得怎么样？</div>
 <div class="py">Běijīng bǐ Shànghǎi dà de duō, nǐ juéde zěnmeyàng?</div>
 <div>Beijing jauh lebih besar dari Shanghai, menurutmu gimana?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/2827e8078b21.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 我觉得很好，就是太忙了。</div>
 <div class="py">Wǒ juéde hěn hǎo, jiùshì tài máng le.</div>
 <div>Menurutku bagus, cuma terlalu sibuk.</div>
@@ -88,37 +88,37 @@
 
 ## Dialog 3: Di restoran
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/88dc0d370e07.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 服务员！我们两个人。</div>
 <div class="py">Fúwùyuán! Wǒmen liǎng gè rén.</div>
 <div>Pelayan! Kami dua orang.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/05bedaeadf3b.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 好，这边请。你们想吃点儿什么？</div>
 <div class="py">Hǎo, zhèbiān qǐng. Nǐmen xiǎng chī diǎnr shénme?</div>
 <div>Baik, silakan ke sini. Mau makan apa?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/7350fc95d07a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 一碗面条，一个西瓜汁。面条好吃吗？</div>
 <div class="py">Yī wǎn miàntiáo, yī gè xīguā zhī. Miàntiáo hǎochī ma?</div>
 <div>Semangkuk mi, satu jus semangka. Minya enak?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/893519e89737.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 非常好吃！是我们这儿最受欢迎的。</div>
 <div class="py">Fēicháng hǎochī! Shì wǒmen zhèr zuì shòu huānyíng de.</div>
 <div>Sangat enak! Itu yang paling populer di sini.</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/67b22a5c10f8.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">A: 好，就要这个。多少钱？</div>
 <div class="py">Hǎo, jiù yào zhège. Duōshao qián?</div>
 <div>Oke, mau ini. Berapa harganya?</div>
 </div>
 
-<div class="contoh">
+<div class="contoh"><button class="audio-btn" data-audio="audio/3d2ba58903f0.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
 <div class="hz">B: 一共三十五块。</div>
 <div class="py">Yígòng sānshí wǔ kuài.</div>
 <div>Total tiga puluh lima yuan.</div>

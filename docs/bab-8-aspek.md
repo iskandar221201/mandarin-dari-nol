@@ -9,9 +9,9 @@
 | V + 过 | 我去过中国。 | Saya pernah ke Tiongkok. |
 | V + 过 | 你吃过面条吗？ | Kamu pernah makan mi? |
 
-<div class="contoh"><div class="hz">我去过北京。</div><div class="py">Wǒ qù guò Běijīng.</div><div class="id">Saya pernah ke Beijing.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/969bca967895.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我去过北京。</div><div class="py">Wǒ qù guò Běijīng.</div><div class="id">Saya pernah ke Beijing.</div></div>
 
-<div class="contoh"><div class="hz">他没去过中国。</div><div class="py">Tā méi qù guò Zhōngguó.</div><div class="id">Dia belum pernah ke Tiongkok.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/856689b557a0.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">他没去过中国。</div><div class="py">Tā méi qù guò Zhōngguó.</div><div class="id">Dia belum pernah ke Tiongkok.</div></div>
 
 Bedakan dengan 了:
 - 我**吃**了面条。= Saya (sudah) makan mi. (kejadian selesai)
@@ -28,9 +28,9 @@ Jebakan: 过 untuk pengalaman yang *tidak* terikat waktu spesifik. Kalau ada wak
 | V + 着 | 门开着。 | Pintunya (sedang) terbuka. |
 | V + 着 | 他穿着红衣服。 | Dia memakai baju merah. |
 
-<div class="contoh"><div class="hz">门开着，进来吧。</div><div class="py">Mén kāi zhe, jìnlái ba.</div><div class="id">Pintunya terbuka, masuklah.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/cded8119679e.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">门开着，进来吧。</div><div class="py">Mén kāi zhe, jìnlái ba.</div><div class="id">Pintunya terbuka, masuklah.</div></div>
 
-<div class="contoh"><div class="hz">她笑着说。</div><div class="py">Tā xiào zhe shuō.</div><div class="id">Dia berkata sambil tersenyum.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/d75712e2ac9a.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">她笑着说。</div><div class="py">Tā xiào zhe shuō.</div><div class="id">Dia berkata sambil tersenyum.</div></div>
 
 Bedakan dengan 正在:
 - 正在 + V = aksi *sedang dikerjakan* (progresif): 他正在吃饭 (dia sedang makan; 饭 = nasi, bentuk pendek dari 米饭).
@@ -45,9 +45,9 @@ Bedakan dengan 正在:
 | 正在 | sedang | 正在 + V | 他正在开会。Dia sedang rapat. |
 | 已经 | sudah | 已经 + V + 了 | 我已经吃饭了。Saya sudah makan. |
 
-<div class="contoh"><div class="hz">别打电话，他正在睡觉。</div><div class="py">Bié dǎ diànhuà, tā zhèngzài shuìjiào.</div><div class="id">Jangan telepon, dia sedang tidur.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/7b603651e3f8.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">别打电话，他正在睡觉。</div><div class="py">Bié dǎ diànhuà, tā zhèngzài shuìjiào.</div><div class="id">Jangan telepon, dia sedang tidur.</div></div>
 
-<div class="contoh"><div class="hz">我已经准备好了。</div><div class="py">Wǒ yǐjīng zhǔnbèi hǎo le.</div><div class="id">Saya sudah siap.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/e226e7e4851c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我已经准备好了。</div><div class="py">Wǒ yǐjīng zhǔnbèi hǎo le.</div><div class="id">Saya sudah siap.</div></div>
 
 > 💡 好 di sini bukan "bagus", tapi komplemen hasil = "tuntas/selesai". 准备好 = persiapan yang tuntas.
 
@@ -61,7 +61,7 @@ Bedakan dengan 正在:
 
 > 💡 **Kata bonus**: 先 (xiān) = dulu/pertama. Lawannya 后 (hòu) = kemudian.
 
-<div class="contoh"><div class="hz">你先走，我就回家。</div><div class="py">Nǐ xiān zǒu, wǒ jiù huí jiā.</div><div class="id">Kamu pergi dulu, saya langsung pulang.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/6cc6a3f41cf7.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">你先走，我就回家。</div><div class="py">Nǐ xiān zǒu, wǒ jiù huí jiā.</div><div class="id">Kamu pergi dulu, saya langsung pulang.</div></div>
 
 > 💡 **Kata bonus**: 又 (yòu) = lagi (untuk hal yang sudah terjadi).
 
@@ -94,7 +94,7 @@ Bedakan 再 vs 又 (keduanya "lagi"):
 | 千 | qiān | ribu |
 | 第一 | dìyī | pertama |
 
-<div class="contoh"><div class="hz">这个多少钱？两百块。</div><div class="py">Zhège duōshao qián? Liǎng bǎi kuài.</div><div class="id">Ini berapa? Dua ratus yuan.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/2ceffefd85da.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">这个多少钱？两百块。</div><div class="py">Zhège duōshao qián? Liǎng bǎi kuài.</div><div class="id">Ini berapa? Dua ratus yuan.</div></div>
 
 Aturan 两 vs 二: hitung benda pakai 两 (两个人, 两本书), hitung angka murni pakai 二 (一二三).
 
@@ -109,9 +109,9 @@ Aturan 两 vs 二: hitung benda pakai 两 (两个人, 两本书), hitung angka m
 | 可以 | kěyǐ | boleh/bisa |
 | 可能 | kěnéng | mungkin |
 
-<div class="contoh"><div class="hz">我觉得这个菜很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">Menurutku ini enak.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/5a1f40fc185c.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">我觉得这个菜很好吃。</div><div class="py">Wǒ juéde zhège hěn hǎochī.</div><div class="id">Menurutku ini enak.</div></div>
 
-<div class="contoh"><div class="hz">明天可能下雨。</div><div class="py">Míngtiān kěnéng xià yǔ.</div><div class="id">Besok mungkin hujan.</div></div>
+<div class="contoh"><button class="audio-btn" data-audio="audio/7be2f09f22d8.mp3" aria-label="Dengarkan pelafalan" title="Dengarkan"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button><div class="hz">明天可能下雨。</div><div class="py">Míngtiān kěnéng xià yǔ.</div><div class="id">Besok mungkin hujan.</div></div>
 
 ## Latihan
 
