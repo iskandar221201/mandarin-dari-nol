@@ -1,60 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Ilustrasi belajar Mandarin">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-label="Ilustrasi bedah hanzi">
   <defs>
     <linearGradient id="sealGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#C8102E"/>
+      <stop offset="0" stop-color="#d31a35"/>
       <stop offset="1" stop-color="#a00d26"/>
     </linearGradient>
     <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFC53D"/>
-      <stop offset="1" stop-color="#f0a820"/>
+      <stop offset="1" stop-color="#efa51f"/>
     </linearGradient>
+    <radialGradient id="haloGrad" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FAF3E0"/>
+      <stop offset="1" stop-color="#f5e8c8"/>
+    </radialGradient>
     <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#C8102E" flood-opacity="0.25"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#C8102E" flood-opacity="0.28"/>
+    </filter>
+    <filter id="soft2" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#161616" flood-opacity="0.18"/>
     </filter>
     <style>
       .float-a { animation: floatA 5s ease-in-out infinite; }
       .float-b { animation: floatA 6.5s ease-in-out infinite reverse; }
-      .float-c { animation: floatA 7.5s ease-in-out infinite; animation-delay: -2s; }
-      .spin-slow { animation: spin 24s linear infinite; transform-origin: 240px 240px; }
-      @keyframes floatA { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+      .float-c { animation: floatA 7.5s ease-in-out infinite; animation-delay: -2.5s; }
+      .spin-slow { animation: spin 30s linear infinite; transform-origin: 200px 240px; }
+      .dash-move { animation: dashMove 1.6s linear infinite; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .seal-hover { transition: transform .3s ease; transform-box: fill-box; transform-origin: center; cursor: default; }
+      .seal-hover:hover { transform: scale(1.05) rotate(-2deg); }
+      .seal-hover:hover ~ .comp { animation-play-state: running; }
+      @keyframes floatA { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
       @keyframes spin { to { transform: rotate(360deg); } }
-      .fade { animation: fadeIn 1.2s ease both; }
-      @keyframes fadeIn { from { opacity: 0; transform: scale(.92); } to { opacity: 1; transform: scale(1); } }
+      @keyframes dashMove { to { stroke-dashoffset: -16; } }
+      @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+      .fade1 { animation: fadeIn .9s ease both; }
+      .fade2 { animation: fadeIn .9s .25s ease both; }
+      .fade3 { animation: fadeIn .9s .5s ease both; }
+      .fade4 { animation: fadeIn .9s .75s ease both; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(14px) scale(.94); } to { opacity: 1; transform: none; } }
     </style>
   </defs>
 
-  <!-- halo -->
-  <circle cx="240" cy="240" r="205" fill="#FAF3E0"/>
-  <g class="spin-slow" opacity="0.5">
-    <circle cx="240" cy="240" r="185" fill="none" stroke="#C8102E" stroke-width="2" stroke-dasharray="4 14" stroke-linecap="round"/>
+  <!-- latar -->
+  <circle cx="200" cy="240" r="195" fill="url(#haloGrad)"/>
+  <ellipse cx="430" cy="120" rx="90" ry="60" fill="#FFC53D" opacity="0.18"/>
+  <ellipse cx="120" cy="400" rx="110" ry="55" fill="#C8102E" opacity="0.07"/>
+  <g class="spin-slow" opacity="0.45">
+    <circle cx="200" cy="240" r="172" fill="none" stroke="#C8102E" stroke-width="2" stroke-dasharray="3 16" stroke-linecap="round"/>
+  </g>
+
+  <!-- nada mengorbit -->
+  <g font-family="sans-serif" font-weight="700" fill="#C8102E">
+    <g class="float-a"><circle cx="52" cy="120" r="26" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="52" y="131" text-anchor="middle" font-size="26">ˉ</text></g>
+    <g class="float-b"><circle cx="352" cy="66" r="26" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="352" y="77" text-anchor="middle" font-size="26">ˊ</text></g>
+    <g class="float-c"><circle cx="368" cy="404" r="26" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="368" y="415" text-anchor="middle" font-size="26">ˇ</text></g>
+    <g class="float-a"><circle cx="40" cy="352" r="26" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="40" y="363" text-anchor="middle" font-size="26">ˋ</text></g>
+  </g>
+
+  <!-- garis bedah -->
+  <g class="fade3" stroke="#C8102E" stroke-width="2.5" fill="none" opacity="0.65">
+    <path class="dash-move" d="M300 170 C 350 160, 380 150, 410 140" stroke-dasharray="8 8"/>
+    <path class="dash-move" d="M308 240 C 360 240, 390 240, 415 240" stroke-dasharray="8 8"/>
+    <path class="dash-move" d="M300 310 C 350 320, 380 330, 410 340" stroke-dasharray="8 8"/>
   </g>
 
   <!-- stempel utama -->
-  <g class="fade" filter="url(#soft)">
-    <rect x="150" y="150" width="180" height="180" rx="36" fill="url(#sealGrad)"/>
-    <rect x="162" y="162" width="156" height="156" rx="28" fill="none" stroke="#FFC53D" stroke-width="3" opacity="0.85"/>
-    <text x="240" y="285" text-anchor="middle" font-size="118" font-weight="900" fill="#ffffff" font-family="'Noto Serif SC','Songti SC',serif">学</text>
+  <g class="fade1 seal-hover" filter="url(#soft)">
+    <rect x="110" y="150" width="180" height="180" rx="36" fill="url(#sealGrad)"/>
+    <rect x="122" y="162" width="156" height="156" rx="28" fill="none" stroke="#FFC53D" stroke-width="3" opacity="0.9"/>
+    <text x="200" y="285" text-anchor="middle" font-size="116" font-weight="900" fill="#ffffff" font-family="'Noto Serif SC','Songti SC',serif">学</text>
+  </g>
+  <g class="fade2 float-b">
+    <rect x="156" y="318" width="88" height="34" rx="17" fill="url(#goldGrad)" filter="url(#soft2)"/>
+    <text x="200" y="342" text-anchor="middle" font-size="20" font-weight="700" fill="#7a4d00" font-family="sans-serif">xué · belajar</text>
   </g>
 
-  <!-- pita emas -->
-  <g class="float-b">
-    <rect x="196" y="318" width="88" height="34" rx="17" fill="url(#goldGrad)" filter="url(#soft)"/>
-    <text x="240" y="342" text-anchor="middle" font-size="20" font-weight="700" fill="#7a4d00" font-family="sans-serif">xué</text>
+  <!-- komponen bedah -->
+  <g font-family="'Noto Serif SC','Songti SC',serif" text-anchor="middle">
+    <g class="fade2 float-c comp" filter="url(#soft2)">
+      <rect x="410" y="108" width="104" height="72" rx="18" fill="#161616"/>
+      <text x="462" y="152" font-size="38" font-weight="700" fill="#FFC53D">⺍</text>
+      <text x="462" y="172" font-size="13" fill="#fff" opacity="0.75" font-family="sans-serif">tangan</text>
+    </g>
+    <g class="fade3 float-a comp" filter="url(#soft2)">
+      <rect x="415" y="204" width="104" height="72" rx="18" fill="#161616"/>
+      <text x="467" y="248" font-size="38" font-weight="700" fill="#FFC53D">冖</text>
+      <text x="467" y="268" font-size="13" fill="#fff" opacity="0.75" font-family="sans-serif">atap</text>
+    </g>
+    <g class="fade4 float-b comp" filter="url(#soft2)">
+      <rect x="410" y="300" width="104" height="72" rx="18" fill="#161616"/>
+      <text x="462" y="344" font-size="38" font-weight="700" fill="#FFC53D">子</text>
+      <text x="462" y="364" font-size="13" fill="#fff" opacity="0.75" font-family="sans-serif">anak</text>
+    </g>
   </g>
 
-  <!-- nada-nada mengambang -->
-  <g font-family="sans-serif" font-weight="700" fill="#C8102E">
-    <g class="float-a"><circle cx="92" cy="120" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="92" y="132" text-anchor="middle" font-size="30">ˉ</text></g>
-    <g class="float-b"><circle cx="392" cy="108" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="392" y="120" text-anchor="middle" font-size="30">ˊ</text></g>
-    <g class="float-c"><circle cx="408" cy="352" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="408" y="364" text-anchor="middle" font-size="30">ˇ</text></g>
-    <g class="float-a"><circle cx="76" cy="348" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="76" y="360" text-anchor="middle" font-size="30">ˋ</text></g>
+  <!-- rumus -->
+  <g class="fade4" font-family="sans-serif">
+    <rect x="392" y="396" width="140" height="36" rx="18" fill="#fff" stroke="#C8102E" stroke-width="2"/>
+    <text x="462" y="420" text-anchor="middle" font-size="17" font-weight="700" fill="#C8102E">⺍ + 冖 + 子 = 学</text>
   </g>
 
-  <!-- karakter kecil -->
-  <g font-family="'Noto Serif SC','Songti SC',serif" font-weight="700">
-    <g class="float-c"><circle cx="330" cy="72" r="26" fill="#161616"/><text x="330" y="83" text-anchor="middle" font-size="28" fill="#FFC53D">汉</text></g>
-    <g class="float-a"><circle cx="140" cy="72" r="26" fill="#161616"/><text x="140" y="83" text-anchor="middle" font-size="28" fill="#FFC53D">语</text></g>
-    <g class="float-b"><circle cx="352" cy="410" r="26" fill="#fff" stroke="#C8102E" stroke-width="2"/><text x="352" y="421" text-anchor="middle" font-size="26" fill="#C8102E">你</text></g>
-    <g class="float-c"><circle cx="120" cy="412" r="26" fill="#fff" stroke="#C8102E" stroke-width="2"/><text x="120" y="423" text-anchor="middle" font-size="26" fill="#C8102E">好</text></g>
+  <!-- bubble -->
+  <g class="fade4 float-a">
+    <rect x="60" y="36" width="128" height="44" rx="22" fill="#fff" stroke="#f0d0d0" stroke-width="2" filter="url(#soft2)"/>
+    <path d="M100 80 l-8 14 l20 -6 z" fill="#fff" stroke="#f0d0d0" stroke-width="2"/>
+    <text x="124" y="64" text-anchor="middle" font-size="22" font-weight="700" fill="#161616" font-family="'Noto Serif SC','Songti SC',serif">你好吗？</text>
+  </g>
+
+  <!-- badge HSK -->
+  <g class="fade3 float-c" font-family="sans-serif">
+    <rect x="440" y="36" width="92" height="32" rx="16" fill="#C8102E"/>
+    <text x="486" y="58" text-anchor="middle" font-size="15" font-weight="800" fill="#fff">HSK 1–3</text>
   </g>
 </svg>
