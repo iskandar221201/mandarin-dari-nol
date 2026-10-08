@@ -13,6 +13,10 @@ hero:
       text: Lihat Roadmap HSK
       link: /roadmap
 
+  image:
+    src: /hero.svg
+    alt: Ilustrasi belajar Mandarin
+
 features:
   - title: Hanzi + Pinyin + Arti
     details: Setiap kosakata dan contoh kalimat selalu disajikan lengkap, tidak ada yang setengah-setengah.

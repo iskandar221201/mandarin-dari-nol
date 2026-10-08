@@ -13,6 +13,10 @@ hero:
       text: See the HSK Roadmap
       link: /en/roadmap
 
+  image:
+    src: /hero.svg
+    alt: Ilustrasi belajar Mandarin
+
 features:
   - title: Hanzi + Pinyin + Meaning
     details: Every vocabulary item and example sentence is always presented complete, nothing half-baked.

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Ilustrasi belajar Mandarin">
+  <defs>
+    <linearGradient id="sealGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C8102E"/>
+      <stop offset="1" stop-color="#a00d26"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFC53D"/>
+      <stop offset="1" stop-color="#f0a820"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#C8102E" flood-opacity="0.25"/>
+    </filter>
+    <style>
+      .float-a { animation: floatA 5s ease-in-out infinite; }
+      .float-b { animation: floatA 6.5s ease-in-out infinite reverse; }
+      .float-c { animation: floatA 7.5s ease-in-out infinite; animation-delay: -2s; }
+      .spin-slow { animation: spin 24s linear infinite; transform-origin: 240px 240px; }
+      @keyframes floatA { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .fade { animation: fadeIn 1.2s ease both; }
+      @keyframes fadeIn { from { opacity: 0; transform: scale(.92); } to { opacity: 1; transform: scale(1); } }
+    </style>
+  </defs>
+
+  <!-- halo -->
+  <circle cx="240" cy="240" r="205" fill="#FAF3E0"/>
+  <g class="spin-slow" opacity="0.5">
+    <circle cx="240" cy="240" r="185" fill="none" stroke="#C8102E" stroke-width="2" stroke-dasharray="4 14" stroke-linecap="round"/>
+  </g>
+
+  <!-- stempel utama -->
+  <g class="fade" filter="url(#soft)">
+    <rect x="150" y="150" width="180" height="180" rx="36" fill="url(#sealGrad)"/>
+    <rect x="162" y="162" width="156" height="156" rx="28" fill="none" stroke="#FFC53D" stroke-width="3" opacity="0.85"/>
+    <text x="240" y="285" text-anchor="middle" font-size="118" font-weight="900" fill="#ffffff" font-family="'Noto Serif SC','Songti SC',serif">学</text>
+  </g>
+
+  <!-- pita emas -->
+  <g class="float-b">
+    <rect x="196" y="318" width="88" height="34" rx="17" fill="url(#goldGrad)" filter="url(#soft)"/>
+    <text x="240" y="342" text-anchor="middle" font-size="20" font-weight="700" fill="#7a4d00" font-family="sans-serif">xué</text>
+  </g>
+
+  <!-- nada-nada mengambang -->
+  <g font-family="sans-serif" font-weight="700" fill="#C8102E">
+    <g class="float-a"><circle cx="92" cy="120" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="92" y="132" text-anchor="middle" font-size="30">ˉ</text></g>
+    <g class="float-b"><circle cx="392" cy="108" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="392" y="120" text-anchor="middle" font-size="30">ˊ</text></g>
+    <g class="float-c"><circle cx="408" cy="352" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="408" y="364" text-anchor="middle" font-size="30">ˇ</text></g>
+    <g class="float-a"><circle cx="76" cy="348" r="30" fill="#fff" stroke="#f0d0d0" stroke-width="2"/><text x="76" y="360" text-anchor="middle" font-size="30">ˋ</text></g>
+  </g>
+
+  <!-- karakter kecil -->
+  <g font-family="'Noto Serif SC','Songti SC',serif" font-weight="700">
+    <g class="float-c"><circle cx="330" cy="72" r="26" fill="#161616"/><text x="330" y="83" text-anchor="middle" font-size="28" fill="#FFC53D">汉</text></g>
+    <g class="float-a"><circle cx="140" cy="72" r="26" fill="#161616"/><text x="140" y="83" text-anchor="middle" font-size="28" fill="#FFC53D">语</text></g>
+    <g class="float-b"><circle cx="352" cy="410" r="26" fill="#fff" stroke="#C8102E" stroke-width="2"/><text x="352" y="421" text-anchor="middle" font-size="26" fill="#C8102E">你</text></g>
+    <g class="float-c"><circle cx="120" cy="412" r="26" fill="#fff" stroke="#C8102E" stroke-width="2"/><text x="120" y="423" text-anchor="middle" font-size="26" fill="#C8102E">好</text></g>
+  </g>
+</svg>
