@@ -53,7 +53,7 @@ Pick the correct meaning or character. Six questions, 1 point each.
 <div class="quiz">
 <div class="quiz-head">🎯 Part A: Vocabulary <span class="quiz-score">Score: 0/6</span></div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="苹果 <span class='quiz-py'>(píngguǒ)</span> = apple.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="苹果 <span class='quiz-py'>(píngguǒ)</span> = apple. Book = 书, water = 水, cat = 猫.">
 <p class="quiz-t"><strong>1.</strong> 苹果 means...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. apple</button><button type="button" data-opt="B">B. book</button><button type="button" data-opt="C">C. water</button><button type="button" data-opt="D">D. cat</button>
@@ -69,7 +69,7 @@ Pick the correct meaning or character. Six questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="哪儿 <span class='quiz-py'>(nǎr)</span> = where.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="哪儿 <span class='quiz-py'>(nǎr)</span> = where. Who = 谁, what = 什么, how many = 多少.">
 <p class="quiz-t"><strong>3.</strong> 哪儿 means...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. where</button><button type="button" data-opt="B">B. who</button><button type="button" data-opt="C">C. what</button><button type="button" data-opt="D">D. how many</button>
@@ -85,7 +85,7 @@ Pick the correct meaning or character. Six questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="漂亮 <span class='quiz-py'>(piàoliang)</span> = beautiful.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="漂亮 <span class='quiz-py'>(piàoliang)</span> = beautiful. Big = 大, cold = 冷, hot = 热.">
 <p class="quiz-t"><strong>5.</strong> 漂亮 means...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. beautiful</button><button type="button" data-opt="B">B. big</button><button type="button" data-opt="C">C. cold</button><button type="button" data-opt="D">D. hot</button>
@@ -126,14 +126,14 @@ Pick the correct sentence or fill in the right word. Six questions, 1 point each
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="他是中国人。 <span class='quiz-py'>(tā shì Zhōngguó rén.)</span> = He is Chinese.">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="是" data-explain="他是中国人。 <span class='quiz-py'>(tā shì Zhōngguó rén.)</span> 是 links two nouns (A is B). 有 = to have, 在 = at, 和 = and.">
 <p class="quiz-t"><strong>9.</strong> 他___中国人。("He is Chinese.")</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="是">是</button><button type="button" data-chip="有">有</button><button type="button" data-chip="在">在</button><button type="button" data-chip="和">和</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="The cup is on the table: 杯子在桌子上。 <span class='quiz-py'>(bēizi zài zhuōzi shàng.)</span>">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="在 marks location: 杯子在桌子上。 <span class='quiz-py'>(bēizi zài zhuōzi shàng.)</span> 有 = there is, 是 = identity, 和 = and.">
 <p class="quiz-t"><strong>10.</strong> 杯子___桌子上。("The cup is on the table.")</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 在</button><button type="button" data-opt="B">B. 有</button><button type="button" data-opt="C">C. 是</button><button type="button" data-opt="D">D. 和</button>
@@ -141,14 +141,14 @@ Pick the correct sentence or fill in the right word. Six questions, 1 point each
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="好" data-explain="你好吗? <span class='quiz-py'>(nǐ hǎo ma?)</span> = How are you?">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="好" data-explain="你好吗? <span class='quiz-py'>(nǐ hǎo ma?)</span> = How are you? 好 completes the greeting; 大, 小, 多 do not fit.">
 <p class="quiz-t"><strong>11.</strong> 你___吗? ("How are you?")</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="好">好</button><button type="button" data-chip="大">大</button><button type="button" data-chip="小">小</button><button type="button" data-chip="多">多</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="我是学生，你呢? <span class='quiz-py'>(wǒ shì xuéshēng, nǐ ne?)</span> = I am a student, how about you?">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="呢 bounces the question back: 你呢? = how about you? 吗 makes yes/no questions, 了 marks change, 的 shows possession.">
 <p class="quiz-t"><strong>12.</strong> 我是学生，你___? ("I am a student, how about you?")</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 呢</button><button type="button" data-opt="B">B. 吗</button><button type="button" data-opt="C">C. 了</button><button type="button" data-opt="D">D. 的</button>
@@ -165,7 +165,7 @@ Complete each dialogue with the best response. Four questions, 1 point each.
 <div class="quiz">
 <div class="quiz-head">🎯 Part C: Dialogues <span class="quiz-score">Score: 0/4</span></div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Greeted with 你好 <span class='quiz-py'>(nǐ hǎo)</span>, answer with 你好 too.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Answer a greeting with the same greeting: 你好! 谢谢 = thanks, 再见 = goodbye, 对不起 = sorry.">
 <p class="quiz-t"><strong>13.</strong> A: 你好！<br>B: ___</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 你好！</button><button type="button" data-opt="B">B. 谢谢！</button><button type="button" data-opt="C">C. 再见！</button><button type="button" data-opt="D">D. 对不起！</button>
@@ -173,7 +173,7 @@ Complete each dialogue with the best response. Four questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Asked for a name (你叫什么名字 <span class='quiz-py'>(nǐ jiào shénme míngzi)</span>), answer 我叫小明 <span class='quiz-py'>(wǒ jiào Xiǎomíng)</span>.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="名字 = name, so answer with your name: 我叫小明. 我是老师 (I am a teacher) and 我很好 (I am fine) do not answer it.">
 <p class="quiz-t"><strong>14.</strong> A: 你叫什么名字？<br>B: ___</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我叫小明。</button><button type="button" data-opt="B">B. 我是老师。</button><button type="button" data-opt="C">C. 我很好。</button><button type="button" data-opt="D">D. 我吃米饭。</button>
@@ -181,7 +181,7 @@ Complete each dialogue with the best response. Four questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="这是谁 <span class='quiz-py'>(zhè shì shéi)</span> = Who is this? Answer: 她是我妈妈 <span class='quiz-py'>(tā shì wǒ māma)</span> = She is my mother.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="谁 asks &quot;who&quot;, so the answer must name a person: 她是我妈妈. 这是书 names a thing, not a person.">
 <p class="quiz-t"><strong>15.</strong> A: 这是谁？<br>B: ___</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 她是我妈妈。</button><button type="button" data-opt="B">B. 他是我爸爸。</button><button type="button" data-opt="C">C. 这是书。</button><button type="button" data-opt="D">D. 我是学生。</button>
@@ -189,7 +189,7 @@ Complete each dialogue with the best response. Four questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="不，我不去 <span class='quiz-py'>(bù, wǒ bù qù)</span> = No, I am not going.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Answer &quot;no&quot; with 不, then negate the verb: 我不去. B and C wrongly agree (yes). D drops the verb.">
 <p class="quiz-t"><strong>16.</strong> A: 你去商店吗？<br>B: ___ ("No, I am not going.")</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 不，我不去。</button><button type="button" data-opt="B">B. 是，我去。</button><button type="button" data-opt="C">C. 好，我去商店。</button><button type="button" data-opt="D">D. 我不。</button>
@@ -206,7 +206,7 @@ Arrange the characters into a correct sentence. Four questions, 1 point each.
 <div class="quiz">
 <div class="quiz-head">🎯 Part D: Arrange Words <span class="quiz-score">Score: 0/4</span></div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我是学生" data-explain="我是学生。 <span class='quiz-py'>(wǒ shì xuéshēng.)</span> = I am a student.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我是学生" data-explain="Chinese word order: subject + 是 + noun. 我是学生。 <span class='quiz-py'>(wǒ shì xuéshēng.)</span>">
 <p class="quiz-t"><strong>17.</strong> Arrange into a sentence ("I am a student."):</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">
@@ -219,7 +219,7 @@ Arrange the characters into a correct sentence. Four questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="他喜欢喝茶" data-explain="他喜欢喝茶。 <span class='quiz-py'>(tā xǐhuan hē chá.)</span> = He likes drinking tea.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="他喜欢喝茶" data-explain="Order: subject + 喜欢 + verb phrase. 他喜欢喝茶。 <span class='quiz-py'>(tā xǐhuan hē chá.)</span> = He likes drinking tea.">
 <p class="quiz-t"><strong>18.</strong> Arrange into a sentence ("He likes drinking tea."):</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">
@@ -233,7 +233,7 @@ Arrange the characters into a correct sentence. Four questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="你好吗" data-explain="你好吗? <span class='quiz-py'>(nǐ hǎo ma?)</span> = How are you?">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="你好吗" data-explain="吗 always goes last. 你好吗? <span class='quiz-py'>(nǐ hǎo ma?)</span> = How are you?">
 <p class="quiz-t"><strong>19.</strong> Arrange into a sentence ("How are you?"):</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">
@@ -246,7 +246,7 @@ Arrange the characters into a correct sentence. Four questions, 1 point each.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我爱妈妈" data-explain="我爱妈妈。 <span class='quiz-py'>(wǒ ài māma.)</span> = I love my mother.">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我爱妈妈" data-explain="Subject + verb + object, same as English. 我爱妈妈。 <span class='quiz-py'>(wǒ ài māma.)</span>">
 <p class="quiz-t"><strong>20.</strong> Arrange into a sentence ("I love my mother."):</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">

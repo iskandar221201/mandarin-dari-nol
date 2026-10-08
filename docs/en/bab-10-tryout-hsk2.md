@@ -68,7 +68,7 @@ Pick the right meaning or word. All words come from the HSK 1 and HSK 2 lists yo
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="服务员 <span class='quiz-py'>(fúwùyuán)</span> = waiter / waitress.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="服务员 <span class='quiz-py'>(fúwùyuán)</span> = waiter/waitress. 医生 = doctor, 老师 = teacher, 同学 = classmate.">
 <p class="quiz-t"><strong>2.</strong> "waiter" in Mandarin is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 服务员 (fúwùyuán)</button><button type="button" data-opt="B">B. 医生 (yīshēng)</button><button type="button" data-opt="C">C. 老师 (lǎoshī)</button><button type="button" data-opt="D">D. 同学 (tóngxué)</button>
@@ -100,7 +100,7 @@ Pick the right meaning or word. All words come from the HSK 1 and HSK 2 lists yo
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="去年 <span class='quiz-py'>(qùnián)</span> = last year.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="去年 <span class='quiz-py'>(qùnián)</span> = last year. 昨天 = yesterday, 今天 = today, 明天 = tomorrow.">
 <p class="quiz-t"><strong>6.</strong> "last year" in Mandarin is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 去年 (qùnián)</button><button type="button" data-opt="B">B. 昨天 (zuótiān)</button><button type="button" data-opt="C">C. 今天 (jīntiān)</button><button type="button" data-opt="D">D. 明天 (míngtiān)</button>
@@ -117,7 +117,7 @@ The core of Chapter 8: aspects, comparison, 得/地, and function words. Pick or
 <div class="quiz">
 <div class="quiz-head">🎯 Part B <span class="quiz-score">Score: 0/8</span></div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="已经 <span class='quiz-py'>(yǐjīng)</span> = already. 已经 + 过 = have already (done before).">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="已经 + 过 = have already done before. 正在 = right now (ongoing), 着 = continuing state, 把 needs an object + result.">
 <p class="quiz-t"><strong>7.</strong> 我___吃过中国菜。(Wǒ ___ chīguo Zhōngguó cài. = I have eaten Chinese food before.)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 已经</button><button type="button" data-opt="B">B. 正在</button><button type="button" data-opt="C">C. 着</button><button type="button" data-opt="D">D. 把</button>
@@ -125,14 +125,14 @@ The core of Chapter 8: aspects, comparison, 得/地, and function words. Pick or
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="正在" data-explain="正在 <span class='quiz-py'>(zhèngzài)</span> = in the middle of (an ongoing action).">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="正在" data-explain="正在 = right now, action in progress. 已经 = already done, 过 = done before. The call is happening now.">
 <p class="quiz-t"><strong>8.</strong> Fill in the right word: 他___打电话。(Tā ___ dǎ diànhuà. = He is making a phone call.)</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check answer</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="正在">正在</button><button type="button" data-chip="已经">已经</button><button type="button" data-chip="过">过</button></div>
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="比 <span class='quiz-py'>(bǐ)</span> = than, used for comparisons.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A 比 B + adjective = A is more ... than B. 最 = most (superlative), 和 = and, 把 = disposal marker.">
 <p class="quiz-t"><strong>9.</strong> 这本书___那本书贵。(Zhè běn shū ___ nà běn shū guì. = This book is more expensive than that book.)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 比</button><button type="button" data-opt="B">B. 最</button><button type="button" data-opt="C">C. 和</button><button type="button" data-opt="D">D. 把</button>
@@ -140,7 +140,7 @@ The core of Chapter 8: aspects, comparison, 得/地, and function words. Pick or
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="最 <span class='quiz-py'>(zuì)</span> = most. The pattern is: verb + 得 + 最 + adjective.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="最 = most: 他跑得最快 = he runs the fastest. 比 compares two things, 把 moves an object, 过 = done before.">
 <p class="quiz-t"><strong>10.</strong> 他跑得___快。(Tā pǎo de ___ kuài. = He runs the fastest.)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 最</button><button type="button" data-opt="B">B. 比</button><button type="button" data-opt="C">C. 把</button><button type="button" data-opt="D">D. 过</button>
@@ -163,7 +163,7 @@ The core of Chapter 8: aspects, comparison, 得/地, and function words. Pick or
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="别 <span class='quiz-py'>(bié)</span> = don't (prohibition). 吧 <span class='quiz-py'>(ba)</span> = suggestion, the opposite.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="别 + verb = don't do it (order). 吧 softens into a suggestion, 把 needs an object, 再 = again.">
 <p class="quiz-t"><strong>13.</strong> ___说话，老师来了!(___ shuōhuà, lǎoshī lái le! = Don't talk, the teacher is here!)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 别</button><button type="button" data-opt="B">B. 吧</button><button type="button" data-opt="C">C. 把</button><button type="button" data-opt="D">D. 再</button>
@@ -171,7 +171,7 @@ The core of Chapter 8: aspects, comparison, 得/地, and function words. Pick or
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="所以" data-explain="因为...所以... <span class='quiz-py'>(yīnwèi... suǒyǐ...)</span> = because... so...">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="所以" data-explain="因为 already opened the sentence, so the second half needs 所以 = so. 但是 = but would break the logic.">
 <p class="quiz-t"><strong>14.</strong> Fill in the right word: 因为生病，___我没去上班。(Yīnwèi shēngbìng, ___ wǒ méi qù shàngbān. = Because I was sick, I didn't go to work.)</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check answer</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="所以">所以</button><button type="button" data-chip="因为">因为</button><button type="button" data-chip="但是">但是</button></div>
@@ -187,7 +187,7 @@ Complete real-life dialogues: a restaurant, shopping, and the doctor.
 <div class="quiz">
 <div class="quiz-head">🎯 Part C <span class="quiz-score">Score: 0/3</span></div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="喝 <span class='quiz-py'>(hē)</span> = to drink, and its match is 茶 <span class='quiz-py'>(chá)</span> = tea.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="喝 = to drink, so it needs something drinkable: 茶. 米饭 (rice) and 苹果 (apple) are eaten, 衣服 is worn.">
 <p class="quiz-t"><strong>15.</strong> At a restaurant. Waiter: 你好!请坐。你喝___?(Nǐ hǎo! Qǐng zuò. Nǐ hē ___? = Hello! Please sit. What will you drink?)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 茶</button><button type="button" data-opt="B">B. 米饭</button><button type="button" data-opt="C">C. 苹果</button><button type="button" data-opt="D">D. 衣服</button>
@@ -195,7 +195,7 @@ Complete real-life dialogues: a restaurant, shopping, and the doctor.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="便宜 <span class='quiz-py'>(piányi)</span> = cheap, the opposite of 贵 <span class='quiz-py'>(guì)</span> = expensive.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="The contrast is cheap vs expensive (贵), so the blank is 便宜. 好吃, 高兴, 快乐 are about food and feelings.">
 <p class="quiz-t"><strong>16.</strong> Shopping. A: 这件衣服多少钱? B: 两百块。A: 这件___，那件贵。(Zhè jiàn ___, nà jiàn guì. = This one is ___, that one is expensive.)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 便宜</button><button type="button" data-opt="B">B. 好吃</button><button type="button" data-opt="C">C. 高兴</button><button type="button" data-opt="D">D. 快乐</button>
@@ -203,7 +203,7 @@ Complete real-life dialogues: a restaurant, shopping, and the doctor.
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="要 <span class='quiz-py'>(yào)</span> here = must. 多休息 <span class='quiz-py'>(duō xiūxi)</span> = rest more.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="A doctor's order = must: 你要多休息. 把, 比, 过 are grammar markers, not modals, so they cannot fit here.">
 <p class="quiz-t"><strong>17.</strong> At the clinic. Doctor: 你怎么了? Patient: 我生病了。Doctor: 生病了，你___多休息。(Shēngbìng le, nǐ ___ duō xiūxi. = Since you're sick, you ___ rest more.)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 要</button><button type="button" data-opt="B">B. 把</button><button type="button" data-opt="C">C. 比</button><button type="button" data-opt="D">D. 过</button>
@@ -220,7 +220,7 @@ Arrange the words into correct sentences. This is the writing part, closest to t
 <div class="quiz">
 <div class="quiz-head">🎯 Part D <span class="quiz-score">Score: 0/3</span></div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="请把书给我" data-explain="请把书给我。 <span class='quiz-py'>(Qǐng bǎ shū gěi wǒ.)</span>">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="请把书给我" data-explain="把 pattern: 把 + object + verb. 请把书给我。 <span class='quiz-py'>(Qǐng bǎ shū gěi wǒ.)</span>">
 <p class="quiz-t"><strong>18.</strong> Arrange into a sentence (using 把): "Please give me the book."</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">
@@ -235,7 +235,7 @@ Arrange the words into correct sentences. This is the writing part, closest to t
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="这件比那件贵" data-explain="这件比那件贵。 <span class='quiz-py'>(Zhè jiàn bǐ nà jiàn guì.)</span>">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="这件比那件贵" data-explain="Comparison: A 比 B + adjective. 这件比那件贵。 <span class='quiz-py'>(Zhè jiàn bǐ nà jiàn guì.)</span>">
 <p class="quiz-t"><strong>19.</strong> Arrange into a sentence (using 比): "This one is more expensive than that one."</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">
@@ -249,7 +249,7 @@ Arrange the words into correct sentences. This is the writing part, closest to t
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="order" data-scored="1" data-answer="我去过北京" data-explain="我去过北京。 <span class='quiz-py'>(Wǒ qùguo Běijīng.)</span>">
+<div class="quiz-q" data-type="order" data-scored="1" data-answer="我去过北京" data-explain="过 after a verb = have done before. 我去过北京。 <span class='quiz-py'>(Wǒ qùguo Běijīng.)</span>">
 <p class="quiz-t"><strong>20.</strong> Arrange into a sentence (using 过): "I have been to Beijing before."</p>
 <p class="quiz-hint">💡 Click the words in order, or drag them into the answer box. Click a word in the box to return it.</p>
 <div class="quiz-words">

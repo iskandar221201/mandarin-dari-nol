@@ -223,7 +223,7 @@ Baca dua teks pendek, jawab pertanyaannya. **Teks dan soal di bagian ini tanpa p
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="去附近的超市买饮料和面包.">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="锻炼以后去附近的超市买饮料和面包 = habis olahraga mereka ke supermarket dekat situ beli minuman dan roti, jadi jawabannya A.">
 <p class="quiz-t"><strong>19.</strong> 周末的时候，我喜欢和朋友去公园锻炼。公园里空气很好，有很多人跑步。锻炼以后，我们去附近的超市买饮料和面包。下午我们回家休息。这样的周末很舒服。<br><br>他们锻炼以后去哪儿？</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 去附近的超市</button><button type="button" data-opt="B">B. 回家休息</button><button type="button" data-opt="C">C. 去办公室</button><button type="button" data-opt="D">D. 去银行</button>
