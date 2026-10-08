@@ -88,7 +88,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="Both syllables are tone 4: 再见 <span class='quiz-py'>(zài jiàn)</span>.">
 <p class="quiz-t"><strong>10.</strong> The correct pinyin for 再见 is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. zàijiàn</button><button type="button" data-opt="B">B. zāijiān</button><button type="button" data-opt="C">C. zài jiǎn</button><button type="button" data-opt="D">D. zāijiàn</button>
@@ -133,7 +133,7 @@ How to play:
 <div class="quiz">
 <div class="quiz-head">🎯 Interactive exercises <span class="quiz-score">Score: 0/12</span></div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="你好吗? asks how you are; answer 我很好,谢谢,你呢? <span class='quiz-py'>(wǒ hěn hǎo, xièxie, nǐ ne?)</span>.">
 <p class="quiz-t"><strong>1.</strong> The best answer to "你好吗?" is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我很好,谢谢,你呢?</button><button type="button" data-opt="B">B. 我是学生。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 对不起。</button>
@@ -154,7 +154,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="呢 <span class='quiz-py'>(ne)</span> turns a pronoun into a follow-up: 你呢? = &quot;and you?&quot;.">
 <p class="quiz-t"><strong>4.</strong> 呢 is used for...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. yes/no questions</button><button type="button" data-opt="B">B. follow-up questions ("and you?")</button><button type="button" data-opt="C">C. negation</button><button type="button" data-opt="D">D. giving commands</button>
@@ -182,7 +182,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="谢谢 <span class='quiz-py'>(xièxie)</span> means &quot;thank you&quot;.">
 <p class="quiz-t"><strong>7.</strong> "Thank you" in Mandarin is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 对不起</button><button type="button" data-opt="B">B. 谢谢</button><button type="button" data-opt="C">C. 再见</button><button type="button" data-opt="D">D. 没关系</button>
@@ -205,7 +205,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="呢 <span class='quiz-py'>(ne)</span> after a pronoun asks back: 你呢? = &quot;and you?&quot;.">
 <p class="quiz-t"><strong>10.</strong> To ask back "and you?" after answering about yourself, the particle is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 吗</button><button type="button" data-opt="B">B. 呢</button><button type="button" data-opt="C">C. 的</button><button type="button" data-opt="D">D. 了</button>
@@ -241,7 +241,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="是 <span class='quiz-py'>(shì)</span> = yes; answer 吗 questions with 是/不, never with 吗.">
 <p class="quiz-t"><strong>15.</strong> The "yes" answer to "你是学生吗?" is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 是,我是学生。</button><button type="button" data-opt="B">B. 吗是。</button><button type="button" data-opt="C">C. 不吗。</button><button type="button" data-opt="D">D. 我不。</button>
@@ -319,7 +319,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="明天 <span class='quiz-py'>(míngtiān)</span> = tomorrow; 今天 = today, 昨天 = yesterday.">
 <p class="quiz-t"><strong>9.</strong> "Tomorrow" in Mandarin is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 今天</button><button type="button" data-opt="B">B. 明天</button><button type="button" data-opt="C">C. 昨天</button><button type="button" data-opt="D">D. 现在</button>
@@ -342,7 +342,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="fill" data-scored="1" data-answer="èr" data-explain="">
+<div class="quiz-q" data-type="fill" data-scored="1" data-answer="èr" data-explain="1 + 1 = 2 = 二 <span class='quiz-py'>(èr)</span>, fourth tone.">
 <p class="quiz-t"><strong>12.</strong> 一 + 一 = ... (write the pinyin of your answer)</p>
 <div class="quiz-fillrow"><input type="text" class="quiz-input" placeholder="Type your answer..."><button type="button" class="quiz-check">Check</button></div>
 <div class="quiz-chips"><span class="quiz-chips-label">⌨ Pick a character:</span><button type="button" data-chip="èr">èr</button><button type="button" data-chip="ér">ér</button><button type="button" data-chip="er">er</button></div>
@@ -402,7 +402,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="氵 is the water radical, so these characters relate to water or liquids.">
 <p class="quiz-t"><strong>4.</strong> A character with the 氵 (three-dot water) radical is most likely related to...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. water/liquids</button><button type="button" data-opt="B">B. fire</button><button type="button" data-opt="C">C. wood</button><button type="button" data-opt="D">D. metal</button>
@@ -520,7 +520,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="书 <span class='quiz-py'>(shū)</span> = book; 杯子 = cup, 桌子 = table, 椅子 = chair.">
 <p class="quiz-t"><strong>5.</strong> The correct English–Mandarin pair is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. book – 书</button><button type="button" data-opt="B">B. book – 杯子</button><button type="button" data-opt="C">C. book – 桌子</button><button type="button" data-opt="D">D. book – 椅子</button>
@@ -547,7 +547,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="医生 <span class='quiz-py'>(yīshēng)</span> = doctor; 老师 = teacher, 学生 = student.">
 <p class="quiz-t"><strong>8.</strong> "Doctor" in Mandarin is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 老师</button><button type="button" data-opt="B">B. 医生</button><button type="button" data-opt="C">C. 学生</button><button type="button" data-opt="D">D. 朋友</button>
@@ -689,7 +689,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="Time words sit between subject and verb: 我明天去学校 <span class='quiz-py'>(wǒ míngtiān qù xuéxiào)</span>.">
 <p class="quiz-t"><strong>10b.</strong> Time expressions are placed between the subject and the verb. (True/False)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
@@ -697,7 +697,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="吗 <span class='quiz-py'>(ma)</span> is a sentence-final particle; it only goes at the very end.">
 <p class="quiz-t"><strong>10c.</strong> 吗 always comes at the end of a question. (True/False)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
@@ -736,7 +736,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="B" data-explain="喜欢 can take a verb: 喜欢喝茶 <span class='quiz-py'>(xǐhuan hē chá)</span> = like drinking tea.">
 <p class="quiz-t"><strong>14b.</strong> After 喜欢 a verb may follow (e.g. 喜欢喝茶). (True/False)</p>
 <div class="quiz-opts">
 <button type="button" data-opt="B">B. B. True</button><button type="button" data-opt="S">S. S. False</button>
@@ -857,7 +857,7 @@ How to play:
 <p class="quiz-fb" hidden></p>
 </div>
 
-<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="">
+<div class="quiz-q" data-type="mc" data-scored="1" data-answer="A" data-explain="The question asks what you like to eat; 我喜欢吃米饭 <span class='quiz-py'>(wǒ xǐhuan chī mǐfàn)</span> answers it.">
 <p class="quiz-t"><strong>13.</strong> A: 你喜欢吃什么? The most natural B answer is...</p>
 <div class="quiz-opts">
 <button type="button" data-opt="A">A. 我喜欢吃米饭。</button><button type="button" data-opt="B">B. 谢谢。</button><button type="button" data-opt="C">C. 再见。</button><button type="button" data-opt="D">D. 我是老师。</button>
