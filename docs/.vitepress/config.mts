@@ -438,6 +438,7 @@ export default defineConfig({
       description:
         'Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 3, dokumentasi terbuka berbahasa Indonesia.',
       head: [
+        ['script', {}, `(function(){var p=location.pathname;if(p.length>1&&p.slice(-1)==='/'&&document.title.indexOf('404')===0){location.replace(p.slice(0,-1)+location.search+location.hash);}})();`],
         ['meta', { property: 'og:type', content: 'website' }],
         ['meta', { property: 'og:site_name', content: 'Mandarin dari Nol' }],
         ['meta', { property: 'og:title', content: 'Mandarin dari Nol — Kurikulum HSK 1–3 untuk orang Indonesia' }],
@@ -492,6 +493,7 @@ export default defineConfig({
       description:
         'A zero-to-HSK 3 Mandarin curriculum, open documentation for English speakers.',
       head: [
+        ['script', {}, `(function(){var p=location.pathname;if(p.length>1&&p.slice(-1)==='/'&&document.title.indexOf('404')===0){location.replace(p.slice(0,-1)+location.search+location.hash);}})();`],
         ['meta', { property: 'og:type', content: 'website' }],
         ['meta', { property: 'og:site_name', content: 'Mandarin from Zero' }],
         ['meta', { property: 'og:title', content: 'Mandarin from Zero — HSK 1–3 Curriculum' }],

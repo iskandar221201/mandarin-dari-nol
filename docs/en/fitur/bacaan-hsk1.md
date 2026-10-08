@@ -41,6 +41,7 @@ Tap any word you don't know to see its meaning. Turn off translations for a chal
 import { onMounted } from 'vue'
 onMounted(() => {
   var sheet = document.getElementById('dk-sheet');
+  if (!sheet) return;
   var trOn = true, pyOn = true;
   var T = { tr: "Translation", py: "Pinyin" };
 

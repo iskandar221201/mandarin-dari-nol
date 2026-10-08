@@ -39,6 +39,7 @@ Klik kata yang belum kamu tahu untuk melihat artinya. Matikan terjemahan kalau m
 import { onMounted } from 'vue'
 onMounted(() => {
   var sheet = document.getElementById('dk-sheet');
+  if (!sheet) return;
   var trOn = true, pyOn = true;
   var T = { tr: "Terjemahan", py: "Pinyin" };
 
