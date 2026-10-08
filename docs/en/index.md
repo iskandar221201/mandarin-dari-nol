@@ -27,6 +27,15 @@ features:
   - title: Structured by Chapter
     details: Material is sequenced step by step, from preparation, greetings, numbers, radicals, to dialogues.
 ---
+<div class="dragon-band">
+  <img src="/dragon-decor.svg" alt="Naga Tionghoa" draggable="false" />
+</div>
+
+<style>
+.dragon-band { margin: 48px calc(-50vw + 50%) 40px; }
+.dragon-band img { width: 100%; height: auto; display: block; user-select: none; -webkit-user-drag: none; }
+</style>
+
 
 ## Interactive Tools
 

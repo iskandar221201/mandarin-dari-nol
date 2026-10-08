@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Naga Tionghoa raksasa">
+  <defs>
+    <linearGradient id="dbody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d31a35"/>
+      <stop offset="1" stop-color="#a00d26"/>
+    </linearGradient>
+    <linearGradient id="dgold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFC53D"/>
+      <stop offset="1" stop-color="#efa51f"/>
+    </linearGradient>
+    <linearGradient id="bandBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF9EC" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#FFF6E0"/>
+      <stop offset="0.75" stop-color="#FFF6E0"/>
+      <stop offset="1" stop-color="#FFF9EC" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dsoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#C8102E" flood-opacity="0.22"/>
+    </filter>
+    <style>
+      .dfloat { animation: dfloat 7s ease-in-out infinite; }
+      @keyframes dfloat { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+      .ddrift { animation: ddrift 10s ease-in-out infinite; }
+      .ddrift2 { animation: ddrift 13s ease-in-out infinite reverse; }
+      @keyframes ddrift { 0%,100% { transform: translateX(0); } 50% { transform: translateX(18px); } }
+      .dsway { animation: dsway 4.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes dsway { 0%,100% { transform: rotate(-8deg) scale(1); } 50% { transform: rotate(8deg) scale(1.15); } }
+      .flame-flicker { animation: flicker 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes flicker { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(1.12); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bandBg)"/>
+  <text x="600" y="350" text-anchor="middle" font-size="330" font-weight="900" fill="#C8102E" opacity="0.05" font-family="'Noto Serif SC','Songti SC',serif">龍</text>
+
+  <!-- awan -->
+  <g fill="#ffffff" opacity="0.95">
+    <g class="ddrift">
+      <ellipse cx="150" cy="105" rx="30" ry="18"/><ellipse cx="180" cy="98" rx="36" ry="21"/><ellipse cx="210" cy="106" rx="28" ry="16"/>
+    </g>
+    <g class="ddrift2">
+      <ellipse cx="540" cy="82" rx="32" ry="19"/><ellipse cx="572" cy="75" rx="38" ry="22"/><ellipse cx="604" cy="83" rx="28" ry="16"/>
+    </g>
+    <g class="ddrift">
+      <ellipse cx="905" cy="330" rx="30" ry="17"/><ellipse cx="933" cy="323" rx="36" ry="20"/><ellipse cx="961" cy="331" rx="26" ry="15"/>
+    </g>
+    <g class="ddrift2">
+      <ellipse cx="318" cy="348" rx="26" ry="15"/><ellipse cx="344" cy="342" rx="32" ry="18"/><ellipse cx="370" cy="349" rx="24" ry="14"/>
+    </g>
+  </g>
+
+  <!-- kilau -->
+  <g fill="#FFC53D">
+    <path class="dsway" d="M250,60 q2,-12 14,-14 q-2,12 -14,14 q-12,2 -14,14 q2,-12 14,-14" transform="translate(0,0)"/>
+    <path class="dsway" style="animation-delay:-1.5s" d="M700,330 q2,-10 12,-12 q-2,10 -12,12 q-10,2 -12,12 q2,-10 12,-12" transform="translate(0,0)"/>
+    <path class="dsway" style="animation-delay:-3s" d="M1050,90 q2,-10 12,-12 q-2,10 -12,12 q-10,2 -12,12 q2,-10 12,-12" transform="translate(0,0)"/>
+  </g>
+
+  <!-- NAGA -->
+  <g class="dfloat" filter="url(#dsoft)">
+    <!-- badan -->
+    <path d="M-30,300 C120,190 230,345 380,250 C530,155 640,335 790,235 C940,135 1000,285 1080,230" fill="none" stroke="url(#dbody)" stroke-width="48" stroke-linecap="round"/>
+    <path d="M-30,300 C120,190 230,345 380,250 C530,155 640,335 790,235 C940,135 1000,285 1080,230" fill="none" stroke="#f2667c" stroke-width="14" stroke-linecap="round" opacity="0.65"/>
+    <path d="M-30,300 C120,190 230,345 380,250 C530,155 640,335 790,235 C940,135 1000,285 1080,230" fill="none" stroke="#FFC53D" stroke-width="48" stroke-linecap="round" stroke-dasharray="4 44" opacity="0.5"/>
+    <!-- ekor api -->
+    <path class="flame-flicker" d="M-30,300 q-30,2 -44,26 q22,-2 38,-10 q-18,12 -22,32 q24,-10 40,-30 q-8,20 -6,36 q16,-18 22,-40 Z" fill="#C8102E"/>
+    <!-- kaki -->
+    <g stroke="#C8102E" stroke-width="15" stroke-linecap="round" fill="none">
+      <path d="M400,272 q-4,26 -20,40"/>
+      <path d="M770,258 q-4,26 -20,40"/>
+    </g>
+    <g stroke="#FFC53D" stroke-width="4" stroke-linecap="round">
+      <path d="M380,312 l-15,6 M380,312 l-8,14 M380,312 l3,15"/>
+      <path d="M750,298 l-15,6 M750,298 l-8,14 M750,298 l3,15"/>
+    </g>
+    <!-- surai -->
+    <path d="M1032,196 q-20,-16 -18,-40 q14,12 24,14 q-8,-16 -4,-34 q12,16 15,36 q10,-10 22,-12 q-8,14 -10,28 q12,-4 22,-2 q-12,10 -18,22 Z" fill="url(#dgold)"/>
+    <!-- kepala -->
+    <ellipse cx="1078" cy="218" rx="42" ry="34" fill="url(#dbody)" transform="rotate(-10 1078 218)"/>
+    <ellipse cx="1120" cy="211" rx="28" ry="22" fill="#d31a35" transform="rotate(-6 1120 211)"/>
+    <!-- rahang bawah + gigi -->
+    <path d="M1098,232 C1122,258 1152,262 1178,248 L1172,238 C1152,248 1128,246 1105,228 Z" fill="#8f0c20"/>
+    <path d="M1112,229 l10,1 l-4,12 Z M1132,232 l10,1 l-4,12 Z M1152,234 l10,0 l-4,11 Z" fill="#fff"/>
+    <!-- mata -->
+    <circle cx="1080" cy="203" r="14" fill="#fff"/>
+    <circle cx="1083" cy="203" r="6.5" fill="#161616"/>
+    <circle cx="1085" cy="201" r="2" fill="#fff"/>
+    <path d="M1060,186 L1098,193" stroke="#7d0f20" stroke-width="9" stroke-linecap="round"/>
+    <!-- hidung -->
+    <ellipse cx="1134" cy="203" rx="4" ry="5.5" fill="#7d0f20" transform="rotate(15 1134 203)"/>
+    <!-- tanduk -->
+    <path d="M1060,188 C1044,164 1030,154 1012,150" fill="none" stroke="url(#dgold)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1042,166 L1034,148" fill="none" stroke="#FFC53D" stroke-width="5" stroke-linecap="round"/>
+    <path d="M1030,156 L1016,142" fill="none" stroke="#FFC53D" stroke-width="5" stroke-linecap="round"/>
+    <path d="M1074,182 C1064,160 1054,150 1042,146" fill="none" stroke="#c9922a" stroke-width="6" stroke-linecap="round"/>
+    <!-- kumis -->
+    <path d="M1142,218 C1170,224 1188,242 1192,268" fill="none" stroke="#FFC53D" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1140,228 C1162,238 1176,256 1180,282" fill="none" stroke="#FFC53D" stroke-width="3" stroke-linecap="round"/>
+    <!-- janggut -->
+    <path d="M1102,258 q6,14 2,26 q8,-10 8,-24 q8,2 14,-2 q-12,-8 -24,0" fill="url(#dgold)"/>
+  </g>
+</svg>
