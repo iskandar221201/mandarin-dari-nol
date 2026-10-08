@@ -412,7 +412,20 @@ export default defineConfig({
       lang: 'id-ID',
       title: 'Mandarin dari Nol',
       description:
-        'Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 1, dokumentasi terbuka berbahasa Indonesia.',
+        'Kurikulum belajar Bahasa Mandarin dari nol sampai HSK 3, dokumentasi terbuka berbahasa Indonesia.',
+      head: [
+        ['meta', { property: 'og:type', content: 'website' }],
+        ['meta', { property: 'og:site_name', content: 'Mandarin dari Nol' }],
+        ['meta', { property: 'og:title', content: 'Mandarin dari Nol — Kurikulum HSK 1–3 untuk orang Indonesia' }],
+        ['meta', { property: 'og:description', content: 'Kurikulum Mandarin dari nol sampai HSK 3: 600 kosakata, 65 pola grammar, kuis interaktif, audio, peta hanzi & tools. Gratis, bilingual ID/EN.' }],
+        ['meta', { property: 'og:image', content: 'https://ayomulai.web.id/dragon-hero-bg.jpg' }],
+        ['meta', { property: 'og:url', content: 'https://ayomulai.web.id/' }],
+        ['meta', { property: 'og:locale', content: 'id_ID' }],
+        ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+        ['meta', { name: 'twitter:title', content: 'Mandarin dari Nol — Kurikulum HSK 1–3 untuk orang Indonesia' }],
+        ['meta', { name: 'twitter:description', content: 'Kurikulum Mandarin dari nol sampai HSK 3: 600 kosakata, 65 pola grammar, kuis interaktif, audio, peta hanzi & tools. Gratis, bilingual ID/EN.' }],
+        ['meta', { name: 'twitter:image', content: 'https://ayomulai.web.id/dragon-hero-bg.jpg' }],
+      ],
       themeConfig: {
         nav: idNav,
         sidebar: idSidebar,
@@ -453,7 +466,20 @@ export default defineConfig({
       lang: 'en-US',
       title: 'Mandarin from Zero',
       description:
-        'A zero-to-HSK 1 Mandarin curriculum, open documentation for English speakers.',
+        'A zero-to-HSK 3 Mandarin curriculum, open documentation for English speakers.',
+      head: [
+        ['meta', { property: 'og:type', content: 'website' }],
+        ['meta', { property: 'og:site_name', content: 'Mandarin from Zero' }],
+        ['meta', { property: 'og:title', content: 'Mandarin from Zero — HSK 1–3 Curriculum' }],
+        ['meta', { property: 'og:description', content: 'Zero-to-HSK 3 Mandarin curriculum: 600 vocabulary, 65 grammar patterns, interactive quizzes, audio, hanzi map & tools. Free, bilingual ID/EN.' }],
+        ['meta', { property: 'og:image', content: 'https://ayomulai.web.id/dragon-hero-bg.jpg' }],
+        ['meta', { property: 'og:url', content: 'https://ayomulai.web.id/en/' }],
+        ['meta', { property: 'og:locale', content: 'en_US' }],
+        ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+        ['meta', { name: 'twitter:title', content: 'Mandarin from Zero — HSK 1–3 Curriculum' }],
+        ['meta', { name: 'twitter:description', content: 'Zero-to-HSK 3 Mandarin curriculum: 600 vocabulary, 65 grammar patterns, interactive quizzes, audio, hanzi map & tools. Free, bilingual ID/EN.' }],
+        ['meta', { name: 'twitter:image', content: 'https://ayomulai.web.id/dragon-hero-bg.jpg' }],
+      ],
       link: '/en/',
       themeConfig: {
         nav: enNav,
