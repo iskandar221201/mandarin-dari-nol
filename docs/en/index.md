@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Mandarin from Zero"
-  text: "An HSK 1–2 curriculum for English speakers"
+  text: "An HSK 1–3 curriculum for English speakers"
   tagline: Learning notes for Mandarin Chinese from zero, hanzi, pinyin, meanings, example sentences, and exercises in every chapter. Written while learning, for those starting from zero too.
   actions:
     - theme: brand
@@ -23,6 +23,47 @@ features:
   - title: Structured by Chapter
     details: Material is sequenced step by step, from preparation, greetings, numbers, radicals, to dialogues.
 ---
+
+## Interactive Tools
+
+Beyond the curriculum chapters, these helpers are ready to use:
+
+<div class="home-ft-grid">
+  <a class="home-ft-card" href="/en/hanzi-map">
+    <div class="home-ft-emoji">🗺️</div>
+    <div class="home-ft-title">Hanzi Map</div>
+    <div class="home-ft-desc">Explore HSK words from one character</div>
+  </a>
+  <a class="home-ft-card" href="/en/fitur/kamus">
+    <div class="home-ft-emoji">📖</div>
+    <div class="home-ft-title">Mini Dictionary</div>
+    <div class="home-ft-desc">Search 608 HSK 1–3 words</div>
+  </a>
+  <a class="home-ft-card" href="/en/fitur/cek-hsk">
+    <div class="home-ft-emoji">🎯</div>
+    <div class="home-ft-title">HSK Level Checker</div>
+    <div class="home-ft-desc">Paste text, see each word's level</div>
+  </a>
+  <a class="home-ft-card" href="/en/fitur/flashcard">
+    <div class="home-ft-emoji">🃏</div>
+    <div class="home-ft-title">Flashcards</div>
+    <div class="home-ft-desc">Quick vocabulary drills</div>
+  </a>
+  <a class="home-ft-card" href="/en/fitur/pinyin">
+    <div class="home-ft-emoji">🔤</div>
+    <div class="home-ft-title">Pinyin Converter</div>
+    <div class="home-ft-desc"><code>ni3hao3</code> → <code>nǐhǎo</code></div>
+  </a>
+</div>
+
+<style>
+.home-ft-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin: 16px 0 24px; }
+.home-ft-card { background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); border-radius: 14px; padding: 16px; text-decoration: none !important; transition: transform .15s, box-shadow .15s; display: block; }
+.home-ft-card:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(200,16,46,.12); }
+.home-ft-emoji { font-size: 1.8rem; }
+.home-ft-title { font-weight: 800; color: var(--vp-c-text-1); margin: 6px 0 2px; }
+.home-ft-desc { color: var(--vp-c-text-2); font-size: .88rem; }
+</style>
 
 ## How to use this book
 

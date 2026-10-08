@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Mandarin dari Nol"
-  text: "Kurikulum HSK 1–2 untuk orang Indonesia"
+  text: "Kurikulum HSK 1–3 untuk orang Indonesia"
   tagline: Dokumentasi belajar Bahasa Mandarin dari nol, hanzi, pinyin, arti, contoh kalimat, dan latihan di tiap bab. Ditulis sambil belajar, untuk yang mulai dari nol juga.
   actions:
     - theme: brand
@@ -23,6 +23,47 @@ features:
   - title: Terstruktur per Bab
     details: Urutan materi dirancang berjenjang, dari persiapan, salam, angka, radikal, sampai dialog.
 ---
+
+## Fitur Interaktif
+
+Selain bab kurikulum, ada perangkat bantu yang bisa langsung dipakai:
+
+<div class="home-ft-grid">
+  <a class="home-ft-card" href="/hanzi-map">
+    <div class="home-ft-emoji">🗺️</div>
+    <div class="home-ft-title">Peta Hanzi</div>
+    <div class="home-ft-desc">Jelajahi kata HSK dari satu karakter</div>
+  </a>
+  <a class="home-ft-card" href="/fitur/kamus">
+    <div class="home-ft-emoji">📖</div>
+    <div class="home-ft-title">Kamus Mini</div>
+    <div class="home-ft-desc">Cari 608 kata HSK 1–3</div>
+  </a>
+  <a class="home-ft-card" href="/fitur/cek-hsk">
+    <div class="home-ft-emoji">🎯</div>
+    <div class="home-ft-title">Cek Level HSK</div>
+    <div class="home-ft-desc">Tempel teks, lihat level tiap kata</div>
+  </a>
+  <a class="home-ft-card" href="/fitur/flashcard">
+    <div class="home-ft-emoji">🃏</div>
+    <div class="home-ft-title">Flashcard</div>
+    <div class="home-ft-desc">Latihan kilat kosakata</div>
+  </a>
+  <a class="home-ft-card" href="/fitur/pinyin">
+    <div class="home-ft-emoji">🔤</div>
+    <div class="home-ft-title">Konverter Pinyin</div>
+    <div class="home-ft-desc"><code>ni3hao3</code> → <code>nǐhǎo</code></div>
+  </a>
+</div>
+
+<style>
+.home-ft-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin: 16px 0 24px; }
+.home-ft-card { background: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); border-radius: 14px; padding: 16px; text-decoration: none !important; transition: transform .15s, box-shadow .15s; display: block; }
+.home-ft-card:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(200,16,46,.12); }
+.home-ft-emoji { font-size: 1.8rem; }
+.home-ft-title { font-weight: 800; color: var(--vp-c-text-1); margin: 6px 0 2px; }
+.home-ft-desc { color: var(--vp-c-text-2); font-size: .88rem; }
+</style>
 
 ## Cara memakai buku ini
 

@@ -20,6 +20,16 @@ const idNav = [
       { text: 'Tryout HSK 3', link: '/bab-14-tryout-hsk3' },
     ],
   },
+  {
+    text: 'Fitur',
+    items: [
+      { text: 'Peta Hanzi', link: '/hanzi-map' },
+      { text: 'Kamus Mini', link: '/fitur/kamus' },
+      { text: 'Cek Level HSK', link: '/fitur/cek-hsk' },
+      { text: 'Flashcard', link: '/fitur/flashcard' },
+      { text: 'Konverter Pinyin', link: '/fitur/pinyin' },
+    ],
+  },
   { text: 'Silabus', link: '/silabus' },
   { text: 'Roadmap', link: '/roadmap' },
 ]
@@ -186,8 +196,6 @@ const idSidebar = [
           { text: 'Konverter Pinyin', link: '/fitur/pinyin' },
         ],
       },
-      { text: 'Fitur', link: '/fitur' },
-      { text: 'Peta Hanzi', link: '/hanzi-map' },
     ],
   },
 ]
@@ -210,6 +218,16 @@ const enNav = [
       { text: 'HSK 1 Mock Exam', link: '/en/tryout-hsk1' },
       { text: 'HSK 2 Mock Exam', link: '/en/bab-10-tryout-hsk2' },
       { text: 'HSK 3 Mock Exam', link: '/en/bab-14-tryout-hsk3' },
+    ],
+  },
+  {
+    text: 'Tools',
+    items: [
+      { text: 'Hanzi Map', link: '/en/hanzi-map' },
+      { text: 'Mini Dictionary', link: '/en/fitur/kamus' },
+      { text: 'HSK Level Checker', link: '/en/fitur/cek-hsk' },
+      { text: 'Flashcards', link: '/en/fitur/flashcard' },
+      { text: 'Pinyin Converter', link: '/en/fitur/pinyin' },
     ],
   },
   { text: 'Syllabus', link: '/en/silabus' },
@@ -379,8 +397,6 @@ const enSidebar = [
           { text: 'Pinyin Converter', link: '/en/fitur/pinyin' },
         ],
       },
-      { text: 'Tools', link: '/en/fitur' },
-      { text: 'Hanzi Map', link: '/en/hanzi-map' },
     ],
   },
 ]
