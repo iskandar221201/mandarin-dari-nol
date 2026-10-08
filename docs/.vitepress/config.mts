@@ -3,7 +3,22 @@ import { defineConfig } from 'vitepress'
 const idNav = [
   { text: 'Beranda', link: '/' },
   { text: 'Mulai Belajar', link: '/bab-0-persiapan' },
-  { text: 'Kosakata HSK 1', link: '/kosakata-hsk1' },
+  {
+    text: 'Kosakata',
+    items: [
+      { text: 'HSK 1', link: '/kosakata-hsk1' },
+      { text: 'HSK 2', link: '/kosakata-hsk2' },
+    ],
+  },
+  {
+    text: 'Latihan',
+    items: [
+      { text: 'Bank Latihan', link: '/latihan' },
+      { text: 'Tryout HSK 1', link: '/tryout-hsk1' },
+      { text: 'Tryout HSK 2', link: '/bab-10-tryout-hsk2' },
+    ],
+  },
+  { text: 'Silabus', link: '/silabus' },
   { text: 'Roadmap', link: '/roadmap' },
 ]
 
@@ -123,7 +138,22 @@ const idSidebar = [
 const enNav = [
   { text: 'Home', link: '/en/' },
   { text: 'Start Learning', link: '/en/bab-0-persiapan' },
-  { text: 'HSK 1 Vocabulary', link: '/en/kosakata-hsk1' },
+  {
+    text: 'Vocabulary',
+    items: [
+      { text: 'HSK 1', link: '/en/kosakata-hsk1' },
+      { text: 'HSK 2', link: '/en/kosakata-hsk2' },
+    ],
+  },
+  {
+    text: 'Practice',
+    items: [
+      { text: 'Exercise Bank', link: '/en/latihan' },
+      { text: 'HSK 1 Mock Exam', link: '/en/tryout-hsk1' },
+      { text: 'HSK 2 Mock Exam', link: '/en/bab-10-tryout-hsk2' },
+    ],
+  },
+  { text: 'Syllabus', link: '/en/silabus' },
   { text: 'Roadmap', link: '/en/roadmap' },
 ]
 
