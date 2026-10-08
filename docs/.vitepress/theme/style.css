@@ -440,3 +440,37 @@
 html.dark .VPHome .VPHero::before {
   opacity: 0.28;
 }
+
+/* Footer: landscape malam Tionghoa full-bleed */
+.VPFooter {
+  position: relative;
+  overflow: clip;
+  border-top: none !important;
+  padding: 64px 0 48px !important;
+}
+.VPFooter::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('/footer-bg.jpg') no-repeat center / cover;
+  pointer-events: none;
+}
+.VPFooter::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, var(--vp-c-bg) 0%, transparent 38%);
+  pointer-events: none;
+}
+.VPFooter .container {
+  position: relative;
+  z-index: 1;
+}
+.VPFooter .message,
+.VPFooter .copyright {
+  color: rgba(255, 255, 255, 0.72);
+}
+.VPFooter .message a,
+.VPFooter .copyright a {
+  color: #FFC53D;
+}
