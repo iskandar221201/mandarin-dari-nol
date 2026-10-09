@@ -437,6 +437,11 @@
   position: relative;
   z-index: 1;
 }
+
+/* Hero dark mode: swap ke versi malam */
+.dark .VPHome .VPHero::before {
+  background-image: url('/dragon-hero-bg-dark.jpg');
+}
 html.dark .VPHome .VPHero::before {
   opacity: 0.28;
 }
