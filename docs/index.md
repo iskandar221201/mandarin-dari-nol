@@ -54,6 +54,16 @@ Selain bab kurikulum, ada perangkat bantu yang bisa langsung dipakai:
     <div class="home-ft-title">Konverter Pinyin</div>
     <div class="home-ft-desc"><code>ni3hao3</code> → <code>nǐhǎo</code></div>
   </a>
+  <div class="home-ft-card">
+    <div class="home-ft-emoji">🎮</div>
+    <div class="home-ft-title">Game Cocokkan</div>
+    <div class="home-ft-desc">Pasangkan hanzi-artinya. <a href="/fitur/cocokkan-hsk1">HSK 1</a> · <a href="/fitur/cocokkan-hsk2">HSK 2</a> · <a href="/fitur/cocokkan-hsk3">HSK 3</a></div>
+  </div>
+  <div class="home-ft-card">
+    <div class="home-ft-emoji">📚</div>
+    <div class="home-ft-title">Bacaan Interaktif</div>
+    <div class="home-ft-desc">Klik kata untuk arti + audio. <a href="/fitur/bacaan-hsk1">HSK 1</a> · <a href="/fitur/bacaan-hsk2">HSK 2</a> · <a href="/fitur/bacaan-hsk3">HSK 3</a></div>
+  </div>
 </div>
 
 <style>

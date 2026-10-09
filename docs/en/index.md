@@ -50,7 +50,17 @@ Beyond the curriculum chapters, these helpers are ready to use:
     <div class="home-ft-desc">Quick vocabulary drills</div>
   </a>
   <a class="home-ft-card" href="/en/fitur/pinyin">
-    <div class="home-ft-emoji">🔤</div>
+    <div class="home-ft-emoji">🔤  <div class="home-ft-card">
+    <div class="home-ft-emoji">🎮</div>
+    <div class="home-ft-title">Matching Game</div>
+    <div class="home-ft-desc">Match hanzi with meanings. <a href="/en/fitur/cocokkan-hsk1">HSK 1</a> · <a href="/en/fitur/cocokkan-hsk2">HSK 2</a> · <a href="/en/fitur/cocokkan-hsk3">HSK 3</a></div>
+  </div>
+  <div class="home-ft-card">
+    <div class="home-ft-emoji">📚</div>
+    <div class="home-ft-title">Interactive Reading</div>
+    <div class="home-ft-desc">Tap words for meaning + audio. <a href="/en/fitur/bacaan-hsk1">HSK 1</a> · <a href="/en/fitur/bacaan-hsk2">HSK 2</a> · <a href="/en/fitur/bacaan-hsk3">HSK 3</a></div>
+  </div>
+</div>
     <div class="home-ft-title">Pinyin Converter</div>
     <div class="home-ft-desc"><code>ni3hao3</code> → <code>nǐhǎo</code></div>
   </a>
